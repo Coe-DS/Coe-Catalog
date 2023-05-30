@@ -175,7 +175,7 @@
 \frontmatter
 \maketitle
 
-\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[boxrule=0pt, sharp corners, enhanced, frame hidden, breakable, borderline west={3pt}{0pt}{shadecolor}, interior hidden]}{\end{tcolorbox}}\fi
+\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[breakable, interior hidden, sharp corners, frame hidden, borderline west={3pt}{0pt}{shadecolor}, boxrule=0pt, enhanced]}{\end{tcolorbox}}\fi
 
 \renewcommand*\contentsname{Table of contents}
 {
@@ -425,6 +425,8 @@ the 2021--2022 academic year is \$59,324.
 \addcontentsline{toc}{chapter}{HISTORY OF COE COLLEGE}
 
 \markboth{HISTORY OF COE COLLEGE}{HISTORY OF COE COLLEGE}
+
+This is a small change to detect output change.
 
 Coe College claims the shortest name of any American institution of
 higher education, but the school has actually carried five titles
@@ -1426,7 +1428,6 @@ calendar to students at the time of application.
   \textbf{DS-230 Introduction to Data Science}
 
   \begin{itemize}
-  \tightlist
   \item
     Provides a programming experience with applications that focus on
     data handling tasks. Students examine programming techniques to
@@ -1440,7 +1441,6 @@ calendar to students at the time of application.
   \textbf{DS-260}
 
   \begin{itemize}
-  \tightlist
   \item
     Studies intermediate data analytic techniques and concepts to
     visualize quantitative data. This course expands the mathematical
