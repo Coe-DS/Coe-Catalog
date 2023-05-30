@@ -36,3 +36,10 @@ jobs:
         uses: quarto-dev/quarto-actions/render@v2
         with:
           to: all
+          
+      # Push changes back to the repo
+      - name: Push changes
+        if: steps.commit.outputs.push == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
