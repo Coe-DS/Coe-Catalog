@@ -1,0 +1,55 @@
+project:
+  type: book
+
+book:
+  title: "Course Catalog 2022-2023"
+  date: "8/1/2022"
+  cover-image: cover.png
+  page-footer: "*Coe College Catalog (2022-2023)*"
+  chapters:
+    - index.qmd
+    - catalog_sections/mission.qmd
+    - catalog_sections/fast_facts.qmd
+    - catalog_sections/coe_history.qmd
+    - part: catalog_sections/education_program_part.qmd
+      chapters:
+        - catalog_sections/academic_calendar.qmd
+        - catalog_sections/education_program.qmd
+        - catalog_sections/areas_of_study.qmd
+        - catalog_sections/practicum.qmd
+    - part: catalog_sections/education_program_part.qmd
+      chapters:
+        - catalog_sections/academic_calendar.qmd
+        - catalog_sections/courses.qmd
+        - catalog_sections/departmental_programs/DS_courses.qmd
+    - catalog_sections/references.qmd
+
+bibliography: references.bib
+suppress-bibliography: true
+
+toc: true
+toc-depth: 2
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrbook
+    keep-tex: true
+    template: custom.latex
+    include-in-header:
+      text: |
+              \RedeclareSectionCommand[beforeskip=-2.5ex plus -1ex minus -.2ex,afterskip=0.3ex plus -.2ex]{section}
+              \usepackage[top=0.5in, left=0.5in, right=0.5in, bottom=1in]{geometry}
+              \bibliographystyle{catalog}
+              \usepackage{makeidx}
+              \makeindex
+              \renewcommand\toprule[2]\relax
+              \renewcommand\bottomrule[2]\relax
+              \usepackage{fancyhdr}
+              \lfoot{\textit{Coe College (2022-2023)}}
+    include-after-body: 
+      text: |
+          \printindex
+          
+          

@@ -1,0 +1,1448 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+  letterpaper,
+]{scrbook}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+% Make \paragraph and \subparagraph free-standing
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newlength{\cslentryspacingunit} % times entry-spacing
+\setlength{\cslentryspacingunit}{\parskip}
+\newenvironment{CSLReferences}[2] % #1 hanging-ident, #2 entry spacing
+ {% don't indent paragraphs
+  \setlength{\parindent}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1
+  \let\oldpar\par
+  \def\par{\hangindent=\cslhangindent\oldpar}
+  \fi
+  % set entry spacing
+  \setlength{\parskip}{#2\cslentryspacingunit}
+ }%
+ {}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{#1\hfill\break}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{#1}\break}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+\RedeclareSectionCommand[beforeskip=-2.5ex plus -1ex minus -.2ex,afterskip=0.3ex plus -.2ex]{section}
+\usepackage[top=0.5in, left=0.5in, right=0.5in, bottom=1in]{geometry}
+\bibliographystyle{catalog}
+\usepackage{makeidx}
+\makeindex
+\renewcommand\toprule[2]\relax
+\renewcommand\bottomrule[2]\relax
+\usepackage{fancyhdr}
+\lfoot{\textit{Coe College (2022-2023)}}
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{bookmark}{}{\usepackage{bookmark}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Table of contents}
+\else
+  \newcommand\contentsname{Table of contents}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{List of Figures}
+\else
+  \newcommand\listfigurename{List of Figures}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{List of Tables}
+\else
+  \newcommand\listtablename{List of Tables}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figure}
+\else
+  \newcommand\figurename{Figure}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Table}
+\else
+  \newcommand\tablename{Table}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+\makeatletter
+\@ifpackageloaded{tcolorbox}{}{\usepackage[many]{tcolorbox}}
+\makeatother
+\makeatletter
+\@ifundefined{shadecolor}{\definecolor{shadecolor}{rgb}{.97, .97, .97}}
+\makeatother
+\makeatletter
+\makeatother
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Course Catalog 2022-2023},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Course Catalog 2022-2023}
+\author{}
+\date{8/1/2022}
+
+\begin{document}
+\frontmatter
+\maketitle
+
+\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[boxrule=0pt, breakable, enhanced, frame hidden, sharp corners, borderline west={3pt}{0pt}{shadecolor}, interior hidden]}{\end{tcolorbox}}\fi
+
+\renewcommand*\contentsname{Table of contents}
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\mainmatter
+\bookmarksetup{startatroot}
+
+\hypertarget{preface}{%
+\chapter*{PREFACE}\label{preface}}
+
+\hypertarget{non-discrimination}{%
+\section*{Non-Discrimination}\label{non-discrimination}}
+
+Coe College does not discriminate on the basis of race, color,
+ethnicity, age, religion, national origin, sexual orientation, gender
+identity, sex, marital status, disability, or status as a U.S. Veteran.
+All students have equal access to the facilities, financial aid, and
+programs of the College.
+
+\hypertarget{higher-education-opportunity-act-heoa}{%
+\section*{Higher Education Opportunity Act
+(HEOA)}\label{higher-education-opportunity-act-heoa}}
+
+The College complies with Readmission Requirements for Service Members
+as outlined in the Higher Education Opportunity Act section 487. This
+applies to active duty in the Armed Forces, whether voluntary or
+involuntary, including service as a member of the National Guard or
+Reserve, for a period of more than 30 days under a call or order to
+active duty.
+
+The HEOA provides that a prompt readmission of a previously enrolled or
+admitted student may not be denied to a service member of the uniformed
+services for reasons relating to that service.~ In addition, a student
+who is readmitted under this section must be readmitted with the same
+academic status as the student had when they attended the college.
+
+\hypertarget{equal-opportunity-in-employment}{%
+\section*{Equal Opportunity in
+Employment}\label{equal-opportunity-in-employment}}
+
+Coe College is an equal opportunity employer in the recruitment and
+hiring of faculty and staff.
+
+\hypertarget{family-educational-rights-and-privacy-act-ferpa}{%
+\section*{Family Educational Rights and Privacy Act
+(FERPA)}\label{family-educational-rights-and-privacy-act-ferpa}}
+
+The provisions of the Family Educational Rights and Privacy Act (FERPA)
+prohibit the College from releasing grades or other information about
+academic standing to parents unless the student has released such
+information in writing. Further information concerning Coe College
+procedures in compliance with FERPA is available in the Office of the
+Registrar and included on p.~68 of this catalog.
+
+\hypertarget{solomon-amendment-of-1997}{%
+\section*{Solomon Amendment of 1997}\label{solomon-amendment-of-1997}}
+
+Pursuant to the regulations of the Solomon Amendment of 1997, Coe
+College is required to make student recruiting information available to
+military recruiters who request it.
+
+\hypertarget{reservation-of-the-right-to-modify}{%
+\section*{Reservation of the Right to
+Modify}\label{reservation-of-the-right-to-modify}}
+
+The provisions of this catalog are to be considered directive in
+character and not as an irrevocable contract between the student and the
+College. The College reserves the right to make changes that seem
+necessary or desirable, including course and program cancellations.
+Responsibility for understanding and meeting graduation requirements as
+stated in the Coe College Catalog rests entirely with the student.
+Faculty advisors and the Registrar will assist in every way possible.
+
+\bookmarksetup{startatroot}
+
+\hypertarget{mission-statement-of-the-college}{%
+\chapter*{MISSION STATEMENT OF THE
+COLLEGE}\label{mission-statement-of-the-college}}
+\addcontentsline{toc}{chapter}{MISSION STATEMENT OF THE COLLEGE}
+
+\begin{figure}
+
+{\centering \includegraphics{catalog_sections/graphics/coe_bell.png}
+
+}
+
+\end{figure}
+
+\index{Mission Statement}
+
+Coe College is a national, residential liberal arts college offering a
+broad array of programs in the arts, sciences and professions. Our
+mission is to prepare students for meaningful lives and fulfilling
+careers in a diverse, interconnected world. Coe's success will be judged
+by the success of our graduates.
+
+\emph{Coe College admits students without regard to sex, race, creed,
+color, handicap, sexual orientation, national, or ethnic origin. All
+students have equal access to the facilities, financial aid, and
+programs of the College.}
+
+\bookmarksetup{startatroot}
+
+\hypertarget{fast-facts}{%
+\chapter*{FAST FACTS}\label{fast-facts}}
+\addcontentsline{toc}{chapter}{FAST FACTS}
+
+\textbf{COE COLLEGE} is a private, four-year co-educational liberal arts
+college that was founded in 1851 and is historically affiliated with the
+Presbyterian Church (U.S.A.), yet is ecumenical in practice and outlook.
+
+\hypertarget{location}{%
+\subsection*{LOCATION}\label{location}}
+\addcontentsline{toc}{subsection}{LOCATION}
+
+Coe is located just 225 miles west of Chicago in Iowa's second largest
+city, Cedar Rapids (metropolitan population 175,000). The city is easily
+accessible by the interstate highway system, bus services and several
+airlines.
+
+\hypertarget{campus}{%
+\subsection*{CAMPUS}\label{campus}}
+\addcontentsline{toc}{subsection}{CAMPUS}
+
+Situated on 65 acres in the center of the metropolitan area, the campus
+is urban but enclosed, with 30 buildings occupying an attractive
+landscape.
+
+\hypertarget{enrollment}{%
+\subsection*{ENROLLMENT}\label{enrollment}}
+\addcontentsline{toc}{subsection}{ENROLLMENT}
+
+The student body of approximately 1,400 students represents most states
+and around 15 foreign countries. All students are required to live on
+campus unless they are residents of Cedar Rapids.
+
+\hypertarget{library}{%
+\subsection*{LIBRARY}\label{library}}
+\addcontentsline{toc}{subsection}{LIBRARY}
+
+Stewart Memorial Library is in the very center of the main campus. It
+contains over 500,000 volumes and 16,000 pieces of media, and subscribes
+to 3,500 print and online periodical subscriptions providing access to
+over 100 databases. Coe's library offers students a variety of research
+assistance, study areas, a small theater, preview room, a media editing
+room, and a 3D printer and laser cutter. The Library houses the Learning
+Commons and the College's permanent art collection.
+
+\hypertarget{accreditation}{%
+\subsection*{ACCREDITATION}\label{accreditation}}
+\addcontentsline{toc}{subsection}{ACCREDITATION}
+
+Coe College is accredited by the Higher Learning Commission
+(hlcomission.org), an institutional accreditation agency recognized by
+the U.S. Department of Education. Coe College's Bachelor of Music
+program is accredited by the National Association of Schools of Music;
+its education program is accredited by the Iowa Department of Education,
+and its Bachelor of Science in Nursing is accredited by the Commission
+on Collegiate Nursing Education
+(http://aacn.nche.edu/ccne-accreditation).~ Coe College's chemistry
+program is certified by the American Chemical Society.~ Copies of
+accrediting and approval statements are available online at
+https://www.coe.edu/why-coe/consumer-information.
+
+\hypertarget{memberships}{%
+\subsection*{MEMBERSHIPS}\label{memberships}}
+\addcontentsline{toc}{subsection}{MEMBERSHIPS}
+
+Coe is a charter member of the Associated Colleges of the Midwest, whose
+other members are: Beloit, Carleton, Colorado, Cornell, Grinnell, Knox,
+Lake Forest, Lawrence, Luther, Macalester, Monmouth, Ripon, and
+St.~Olaf. Other memberships include: Phi Beta Kappa, Phi Kappa Phi, the
+National Association of Independent Colleges and Universities, the
+American Association of Colleges and Universities, Council on
+Undergraduate Research, the Association of Presbyterian Colleges and
+Universities, the American Rivers Conference, and the National
+Collegiate Athletic Association.
+
+\hypertarget{academic-program}{%
+\subsection*{ACADEMIC PROGRAM}\label{academic-program}}
+\addcontentsline{toc}{subsection}{ACADEMIC PROGRAM}
+
+Academic areas of study are offered in managerial or public accounting,
+African American studies, art, art history, Asian studies, biology,
+business administration, chemistry, communication studies, computer
+science, creative writing, data science, economics, elementary
+education, English, film studies, French \& francophone studies,
+interdisciplinary French \& francophone studies, general science,
+history, international business, international economics, international
+studies, kinesiology, literature, mathematics, music (B.A. or B.M.),
+nursing (B.S.N.), philosophy, physics, political science, psychology,
+religion, social \& criminal justice, sociology, Spanish, Spanish
+studies, theatre arts, and writing. Interdisciplinary and/or collateral
+majors are also available in biochemistry, environmental science,
+environmental studies, molecular biology, neuroscience, organizational
+science, and public relations. Coe also offers certificate programs in
+primary and secondary education.
+
+\hypertarget{extra-curricular-activities}{%
+\subsection*{EXTRA-CURRICULAR
+ACTIVITIES}\label{extra-curricular-activities}}
+\addcontentsline{toc}{subsection}{EXTRA-CURRICULAR ACTIVITIES}
+
+Students can participate in 11 men's and 11 women's NCAA Division III
+varsity athletic teams, 5 coed varsity athletic teams, 8 club sports, 10
+nationally affiliated men's and women's social fraternities, and 65
+student organizations including but not limited to student government,
+newspaper, intramural sports, departmental clubs, and residence hall
+activities. Various vocal and instrumental ensembles are available for
+course credit.
+
+\hypertarget{financial-assistance}{%
+\subsection*{FINANCIAL ASSISTANCE}\label{financial-assistance}}
+\addcontentsline{toc}{subsection}{FINANCIAL ASSISTANCE}
+
+Coe College is committed to assisting those families in need of
+financial assistance. The average aid package for incoming students
+enrolled during the 2021--2022 academic year totaled more than \$48,000.
+The total cost of full-time tuition, room, board, and activity fee for
+the 2021--2022 academic year is \$59,324.
+
+\bookmarksetup{startatroot}
+
+\hypertarget{history-of-coe-college}{%
+\chapter*{HISTORY OF COE COLLEGE}\label{history-of-coe-college}}
+\addcontentsline{toc}{chapter}{HISTORY OF COE COLLEGE}
+
+Coe College claims the shortest name of any American institution of
+higher education, but the school has actually carried five titles
+through its history. When the Rev.~Williston Jones founded the college
+in 1851, he called it The School for the Prophets. Cedar Rapids' first
+resident minister opened the parlor of his home to a group of young men
+with the goal of educating them for the ministry to serve churches in
+the Midwest. Two years later, while Jones was canvassing churches in the
+East for money to send three of his students to Eastern seminaries, a
+Catskills farmer named Daniel Coe stepped forward with a pledge of
+\$1,500 and urged Jones to start his own college in the frontier town of
+Cedar Rapids. Legend has it that the \$1,500 raised by Coe was brought
+west from New York, sewn into the petticoat of a lady visitor traveling
+by stagecoach to Iowa. Coe gave this generous gift with the stipulation
+that the proposed institute should be ``made available for the education
+of females as well as males.'' Accordingly, Coe was coeducational from
+its founding.
+
+With Jones' blessing, the Cedar Rapids Collegiate Institute was
+incorporated in 1853 by a group of Cedar Rapids leaders chaired by Judge
+George Greene. They used Daniel Coe's money to purchase two downtown
+lots for the school and 80 acres of farmland on what was then the edge
+of town. The farm evolved into today's campus. In 1868, in a failed
+attempt to secure the Lewis Parsons estate, the trustees renamed the
+school Parsons Seminary. After a period of severe financial
+difficulties, the institution was reestablished in honor of its original
+benefactor as the Coe Collegiate Institute in 1875.
+
+T.M Sinclair, founder of the Sinclair Meat Packing Company, played the
+key financial role in the final step toward the firm establishment of
+Coe College. Sinclair liquidated all the debt from Parsons Seminary and
+the Cedar Rapids Collegiate Institute. The Sinclair gift made it
+practical for the property of the Coe Collegiate Institute---including
+the original land paid for by Daniel Coe---to be transferred to Coe
+College with the Iowa Presbyterian Synod to assume major responsibility
+for the institution. Coe College has operated continuously since its
+incorporation under that name on Feb.~2, 1881. From the first, the
+College was committed to intellectual excellence. It has continued in
+this tradition ever since.
+
+The compact campus on the east edge of Cedar Rapids grew with many
+building projects in its early years, including Old Main (1868),
+Williston Hall (1881), Marshall Hall (1900), the first gymnasium (1904),
+and the first T.M. Sinclair Memorial Chapel (1911). In 1907, Coe earned
+accreditation from the North Central Association of Colleges and
+Universities. Over the decades, Coe's reputation as a superior liberal
+arts college has continued to grow. One recognition of this came in
+1949, when Coe was granted a Phi Beta Kappa chapter, a distinction
+reserved for about 10\% of American colleges and universities.
+
+Central to the educational philosophy of Coe College is the belief that
+a liberal arts education is the best preparation for life. Students have
+the opportunity to experience a variety of subjects outside their
+respective programs of study. Coe offers more than 40 areas of study
+that cover a range of fields. The College awards the following
+undergraduate degrees: Bachelor of Arts (B.A.), Bachelor of Music
+(B.M.), and Bachelor of Science in Nursing (B.S.N.).
+
+There are a number of factors that contribute to Coe College's strong
+academic quality. The key to Coe's tradition of excellence in academic
+quality relates directly to small class sizes and the interest shown by
+professors to make learning a personalized experience. At Coe, the
+average class size is 16, and the student-faculty ratio is 11:1. Classes
+are taught by our involved and committed faculty, 91\% of whom hold the
+highest degree in their field. This means classes are taught by
+experienced professionals who have in-depth knowledge of their subjects.
+To provide students with a well-rounded experience and solid preparation
+for the future, Coe offers, along with quality instruction from superb
+faculty, an abundance of out-of-class opportunities which include
+student-faculty collaborative research, honors projects, service
+learning, and internships. Within one year of graduation, according to
+the annual survey results from the Center for Creativity and Careers,
+98\% of Coe graduates are engaged in post-graduate activity such as
+employment, graduate school, military, or travel/adventure.
+
+With the addition of the east campus, Coe has nearly doubled in size
+since 1989. New facilities on the east side of College Drive include
+Athletic Recreation Center (2017), Clark Racquet Center and athletic
+fields (1989), Clark Alumni House (1993), Nassif House (1999), and four
+student apartment buildings (Morris House and Schlarbaum House in 2000,
+Brandt House and Spivey House in 2002). McCabe Hall (2005), named in
+honor of former Coe President Joseph E. McCabe, houses the offices of
+the president, provost, advancement and alumni relations, and The Center
+for Creativity, Careers and Community (C3) making way for the remodeling
+of Coe's oldest building, Stuart Hall, and the first significant
+addition of classroom space since Peterson Hall was built in the 1960s.
+In 2012 and 2013, Peterson Hall of Science was completely renovated to
+support Coe's science programs. To further enhance the campus
+environment, Coe completed the largest capital project in its history in
+2017. Make Your Move -- the Campaign for Eby and Hickok -- included \$24
+million in essential enhancements, including an Athletic and Recreation
+Complex project as well as the renovation and expansion of Hickok Hall,
+one of the College's main academic buildings. The result is vastly
+improved academic, recreational, wellness and competition facilities to
+benefit future generations of students.
+
+\part{THE EDUCATIONAL PROGRAM}
+
+Coe College grants the undergraduate degrees of Bachelor of Arts (B.A.),
+Bachelor of Music (B.M.), and Bachelor of Science in Nursing (B.S.N.).
+The Bachelor of Arts degree (see p.~19) is earned upon fulfillment of
+the conditions described below, including a major chosen from over 40
+fields of study or an approved interdisciplinary major within the arts
+and sciences. Students interested in music may earn either a B.A. or a
+B.M. The B.M. degree requirements for students who wish to pursue music
+as a profession or to prepare to teach music, can be found on p.~169.
+The requirements for a B.S.N. degree can be found on p.~183.
+
+\hypertarget{academic-calendar}{%
+\chapter*{2022--2023 ACADEMIC CALENDAR}\label{academic-calendar}}
+\addcontentsline{toc}{chapter}{2022--2023 ACADEMIC CALENDAR}
+
+\hypertarget{fall-term-2022}{%
+\subsection*{FALL TERM 2022}\label{fall-term-2022}}
+\addcontentsline{toc}{subsection}{FALL TERM 2022}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.3333}}
+  >{\raggedleft\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.6667}}@{}}
+\toprule()
+\endhead
+Tues, August 23 & Open Registration \\
+Wed, August 24 & Classes Begin \\
+Tues, August 30 & Last Day to Add or Drop a Full-Term, or 1st Half-Term
+Course without a W \\
+Fri, September 2 & Census Date, Attendance Due on My.Coe \\
+Mon, September 5 & No Classes (Holiday) Labor Day \\
+Fri, September 9 & Date of Record \\
+Thurs, September 22 & Last Day to Withdraw \&/ or Change Method of
+Grading for First-Half Courses \\
+Mon--Tues, October 10--11 & Fall Term Break \\
+Thurs--Sat, October 13--15 & Homecoming \\
+Mon, October 17 & Mid-Term Progress Report Due on My.Coe (11:59 PM) \\
+Mon, October 17 & Begin Second-Half Term Courses \\
+Fri, October 21 & May Term deposit and registration due \\
+Fri, October 21 & Last Day to Add or Drop a Second-Half Term Course
+without a W \\
+Mon, October 24-Fri, November 11 & Advising Season \\
+Fri, October 28 & Last Day to Withdraw \&/or Change Method of Grading
+for Full-Term Courses \\
+Mon--Fri, November 14--18 & Registration for Spring Term 2023 \\
+Tues, November 15 & Last Day to Withdraw \&/or Change Method of Grading
+for Second-Half Courses \\
+Mon--Fri, November 21--25 & No Classes (Holiday) Thanksgiving Recess \\
+Thurs, December 1 & Open Online Registration until Last Day of Finals \\
+Fri, December 2 & Last Day of Fall Term Classes \\
+Sat, December 3 & Reading Day \\
+Mon--Thurs, December 5--8 & Final Exams \\
+Wed, December 14 & Final Grades and Attendance are Due from the Faculty
+on My.Coe (11:59 PM) \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{spring-term-2023}{%
+\subsection*{SPRING TERM 2023}\label{spring-term-2023}}
+\addcontentsline{toc}{subsection}{SPRING TERM 2023}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.3333}}
+  >{\raggedleft\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.6667}}@{}}
+\toprule()
+\endhead
+Wed, January 11 & Classes Begin \\
+Mon, January 16 & No Day Classes (Holiday) Martin Luther King Jr.~Day \\
+Wed, January 18 & Last Day to Add or Drop a Full-Term or 1st Half-Term
+Course without a W \\
+Fri, January 20 & Census Date, Attendance Due on My.Coe \\
+Thurs, January 26 & Date of Record Mon, February 6 \\
+Mon, February 6 & Last Day to Withdraw \&/or Change Method of Grading
+for First-Half Courses \\
+Mon, March 6 & Begin Second-Half Term Courses \\
+Tues, March 7 & Mid-Term Progress Report Due Online (11:59 PM) \\
+Fri, March 10 & Last Day to Add or Drop a Second-Half Term Course
+without a W \\
+Mon--Fri, March 13--17 & Spring Term Recess (Starting after Class on
+Friday, March 10) \\
+Mon--Fri, March 20--April 7 & Advising Season Thurs, March 30 \\
+Thurs, March 30 & Last Day to Withdraw \&/or Change Method of Grading
+for Full-Term Courses \\
+Mon--Fri, April 10--14 & Registration for Fall Term 2023 \\
+Mon, April 10 & Summer Registration Opens \\
+Tues, April 11 & Last Day to Withdraw \&/or Change Method of Grading for
+Second-Half Courses \\
+Wed, April 12 & Student Research Symposium ** No Day Classes ** Evening
+Classes Will Meet \\
+Fri, April 28 & Last Day of Spring Term Classes \\
+Sat, April 29 & Reading Day \\
+Mon--Thurs, May 1--4 & Final Exams \\
+Sat, May 6 & Honors Convocation / Baccalaureate \\
+Sun, May 7 & Commencement \\
+Tues, May 9 & Final Grades and Attendance are Due for Non-Graduating
+Students on My.Coe (11:59 PM) \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{may-term-2023}{%
+\subsection*{MAY TERM 2023}\label{may-term-2023}}
+\addcontentsline{toc}{subsection}{MAY TERM 2023}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.3333}}
+  >{\raggedleft\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.6667}}@{}}
+\toprule()
+\endhead
+Wed, May 10 & Classes Begin \\
+Fri, May 12 & Last Day to Add or Drop a Course Without a W \\
+Mon, May 15 & Attendance Due Online; Last Day to Change Method of
+Grading for May Term \\
+Wed, May 17 & Last Day to Withdraw from May Term Courses \\
+Fri--Sat, May 19--20 & Meeting of the Board of Trustees \\
+Mon, May 29 & No Classes (Holiday) Memorial Day \\
+Fri, June 2 & Last Day of May Term Classes \\
+Sat, June 3 & Residence Halls Close \\
+Sun, June 4 & Final Grades and Attendance for May Term Due on My.Coe
+(11:59 PM) \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{summer-term-2023}{%
+\subsection*{SUMMER TERM 2023*}\label{summer-term-2023}}
+\addcontentsline{toc}{subsection}{SUMMER TERM 2023*}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.3333}}
+  >{\raggedleft\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.6667}}@{}}
+\toprule()
+\endhead
+Mon, June 5 & Classes Begin \\
+Fri, June 9 & Last Day to Add or Drop a Full-Term Course Without a W \\
+Mon, June 19 & No Classes (Holiday) Juneteenth \\
+Fri, June 23 & Last Day to Change Method of Grading \&/or Withdraw from
+Block A Courses \\
+Tues, July 4 & No Classes (Holiday) Independence Day \\
+Fri, July 7 & Last Day of Block A Courses \\
+Mon, July 10 & Classes Begin: Block B Courses \\
+Tues, July 11 & Mid-Term Progress Report Due Online (11:59 PM); Block A
+Final Grades Due \\
+Fri, July 14 & Last Day to Add or Drop a Course Without a W for Block B
+Courses \\
+Mon, July 17 & Last Day to Change Method of Grading \&/or Withdraw from
+Full Term Courses \\
+Tues, July 25 & Last Day to Change Method of Grading \&/or Withdraw from
+Block B Courses \\
+Fri, August 11 & Last Day of Term Classes: Block B and Full-Term
+Courses \\
+Tues, August 15 & Final Grades and Attendance Due (Block B and
+Full-Term) on My.Coe (11:59 PM) \\
+\bottomrule()
+\end{longtable}
+
+*Courses taught at the Wilderness Field Station are subject to the broad
+dates of the summer, but will provide a specific add/drop and withdraw
+calendar to students at the time of application.
+
+\hypertarget{the-academic-calendar}{%
+\chapter*{THE ACADEMIC CALENDAR}\label{the-academic-calendar}}
+\addcontentsline{toc}{chapter}{THE ACADEMIC CALENDAR}
+
+The academic year consists of three terms (see Academic Calendar,
+p.~15). Students normally take four course credits in the Fall Term and
+four course credits in the Spring Term. Thus, eight course credits are
+completed in an academic year. During optional May Term, students may
+enroll for up to one course credit in one of the limited selection of
+courses. Summer term is limited in scope and is not considered a regular
+term. (The maximum course load is described in Course Load, p.~53).
+
+\hypertarget{may-term-optional}{%
+\section*{MAY TERM (OPTIONAL)}\label{may-term-optional}}
+\addcontentsline{toc}{section}{MAY TERM (OPTIONAL)}
+
+Students may enroll for up to one course credit during May Term in one
+of the limited selection of courses. All May Term courses require
+consent of instructor prior to registration. May Term courses are
+designed to meet at least two of the following shared learning outcomes:
+
+\begin{itemize}
+\tightlist
+\item
+  Evaluate and engage with complex interdependent systems and
+  demonstrate understanding across diverse contexts.
+\item
+  Critically describe and break apart issues or problems through
+  systematic analysis and illustrate logic for conclusions.
+\item
+  Engage with experiential learning practices such as learning by doing,
+  while utilizing abilities to think critically, problem solve and make
+  connections between knowledge gained in the classroom and experience
+  beyond.
+\end{itemize}
+
+May Term courses are expected to have the same amount of contact time
+and academic rigor per course credit as courses which meet over a Fall
+or Spring Term.~ For every 1 course credit of May term students are
+expected to complete 140 hours of work. Such contact time includes class
+meetings, lectures by the instructor, supervised course related
+activities and independent out of class activities.~ Off-campus May Term
+courses at an off-campus location provide certain educational benefits
+through site visits, guest lectures, etc., that also contribute to the
+contact time for the course.
+
+\hypertarget{coe-plan}{%
+\section*{COE PLAN}\label{coe-plan}}
+\addcontentsline{toc}{section}{COE PLAN}
+
+Coe College's requirements for graduation, commonly known as the Coe
+Plan were developed with the following outcomes in mind:
+
+\begin{itemize}
+\tightlist
+\item
+  Creation of a bridge from high school to Coe College that helps
+  students understand the importance of a liberal arts education, the
+  ways to develop the skills needed by any learner, and the
+  opportunities they will have by going to Coe College.
+\item
+  Development of required curriculum that exposes the students to ways
+  of learning in various contexts, big ideas in a myriad of disciplines,
+  ways of being and understanding of cultures around the world, and
+  processes to develop the skills needed by any learner.
+\item
+  Creation of a bridge from Coe College to life after Coe.
+\end{itemize}
+
+These outcomes are met through the College's First-Year Experience,
+General Education program, Writing Emphasis courses, and the College's
+Practicum experiences and areas of study, described in this section of
+the Catalog.
+
+\hypertarget{graduation-requirements}{%
+\section*{GRADUATION REQUIREMENTS}\label{graduation-requirements}}
+\addcontentsline{toc}{section}{GRADUATION REQUIREMENTS}
+
+All students who graduate from Coe College must complete at least one
+major and earn at least 32 course credits (cc) with grades leading to a
+cumulative grade point average (GPA) of 2.0 or higher. (The course is
+the unit of academic credit.) Courses are one credit unless otherwise
+indicated. Students are expected to complete 180 hours of work to earn
+one course credit, although class times vary from course to course.
+Other institutions may convert Coe credit to their system by considering
+one course credit to be 6 quarter hours, or 4 semester hours.) No more
+than a total of two course credits from courses which are less than 0.5
+credit can be used to meet the 32-credit graduation requirement. No more
+than eight course credits earned of Advanced Placement or International
+Baccalaureate credit can be used to satisfy this requirement.
+
+Students must meet one of the following requirements:
+
+\begin{itemize}
+\tightlist
+\item
+  Complete at least the final academic year of required courses
+  registered through Coe.
+\item
+  Earn a total of 16 course credits or the equivalent at Coe. The last
+  eight course credits needed for graduation must include at least four
+  earned at Coe. Approved off-campus study programs and internships can
+  be used to fulfill this requirement.
+\end{itemize}
+
+A student may be simultaneously awarded two degrees (B.A., B.M., B.S.N.)
+after satisfactorily completing 40 course credits and the requirements
+for both degrees. However, a simultaneous Bachelor of Music plus a
+Bachelor of Arts with a music major is not permitted.
+
+In addition, students must fulfill the requirements of the First-Year
+Experience, General Education, Writing Emphasis, and Practicum.
+
+To participate in Commencement exercises, students must submit a
+completed Intent to Graduate form to the Office of the Registrar,
+preferably three terms prior to Commencement.
+
+\hypertarget{second-baccalaureate-degree}{%
+\subsection*{Second Baccalaureate
+Degree}\label{second-baccalaureate-degree}}
+\addcontentsline{toc}{subsection}{Second Baccalaureate Degree}
+
+A student who holds a baccalaureate degree from another institution may
+earn a second baccalaureate degree at Coe, if the following criteria are
+met:
+
+\begin{itemize}
+\tightlist
+\item
+  The first degree must be from a regionally accredited institution as
+  recognized by the US Department of Education, or another appropriate
+  accrediting body.
+\item
+  The first degree must be completed (not in progress) before beginning
+  the second degree at Coe.
+\end{itemize}
+
+Students accepted at Coe to pursue a second degree are granted a maximum
+of 24 course credits in transfer credit towards the 32 course credits
+required for graduation. To graduate, at least eight course credits must
+be earned at Coe College and all requirements for the major area of
+study must be met with at least 40\% of the major course credits taken
+at Coe. Students must earn a cumulative GPA of at least 2.0 as well as
+meet any GPA or grade requirements in their area of study.
+
+Second baccalaureate students are exempt from the following
+requirements: first-year experience, general education, writing
+emphasis, and practicum. They are not eligible to graduate with Latin
+Honors or for induction in Phi Beta Kappa or Phi Kappa Phi.
+
+\hypertarget{transfer-student-information}{%
+\subsection*{Transfer Student
+Information}\label{transfer-student-information}}
+\addcontentsline{toc}{subsection}{Transfer Student Information}
+
+To honor its mission and to preserve its academic integrity as a liberal
+arts institution, the College accepts a course in transfer if that
+course meets the spirit of the College's mission and is from a
+regionally accredited institution. This section includes information, in
+addition to that included in the section, Graduation Requirements (see
+p.~16), germane to students who are transferring to Coe College from
+another college or university.
+
+Courses transferred to Coe can, as approved by the Registrar, fulfill
+some graduation requirements. From institutions on a semester hour
+system (at Coe, 1 course credit = 4 semester hours), only courses with
+three or more semester hours can be used to fulfill any major or general
+education requirements. From institutions on other than a semester hour
+system, only courses equivalent to at least 0.75 course credits can be
+used to fulfill any major or general education requirement. In some
+cases, in consultation with the Registrar, multiple courses within the
+same field may be used to fulfill one requirement.
+
+Transfer credits earned after high-school graduation and before Coe
+matriculation count towards the eight term, full-time residence
+requirement (see p.~230). Full-time enrollment may include participation
+in Coe College exchange programs, ACM off-campus study programs, and
+other approved off-campus study programs.
+
+All students must complete at Coe at least 40\% of the total course
+credits required for each declared major or minor or three course
+credits, whichever is greater. In addition to completing at least one
+major area of study, transfer students must abide with the following to
+complete the requirements for graduation:
+
+\begin{itemize}
+\tightlist
+\item
+  First-Year Experience. Transfer students are not required to fulfill
+  the requirements of the First-Year Experience, if they have completed
+  at least one full-time college term since graduation from high school.
+\item
+  Writing Emphasis. (See Writing Emphasis Courses, p.~21).
+\item
+  General Education. Requirements include Liberal Arts selections in the
+  four divisional areas (Natural and Mathematical Sciences, Social
+  Sciences, Humanities, Fine Arts) and Diverse Cultural Perspectives
+  courses. Any courses accepted in transfer for at least 0.75 course
+  credit that fit the criteria of the Liberal Arts and/or Diverse
+  Cultural Perspectives core groups can be applied towards the general
+  education requirements as determined by the Registrar. Advanced
+  Placement and International Baccalaureate courses may not be used to
+  meet any part of the General Education requirements.
+\item
+  Academic Practicum. Transfer students are required to fulfill this
+  requirement.
+\end{itemize}
+
+\hypertarget{areas-of-study}{%
+\chapter*{AREAS OF STUDY}\label{areas-of-study}}
+\addcontentsline{toc}{chapter}{AREAS OF STUDY}
+
+The three undergraduate degrees have areas of study associated with
+them. The Bachelor of Science in Nursing's area of study is nursing; the
+Bachelor of Music's areas of study are performance, composition, and
+education. The Bachelor of Arts' areas of study, commonly referred to as
+majors, are listed below.
+
+Students should declare an area of study by the end of their sophomore
+year. All students must earn at least a 2.00 GPA in courses required to
+complete their areas of study, as well as meet specific requirements set
+forth for the areaof study.
+
+\begin{itemize}
+\tightlist
+\item
+  Accounting, Managerial
+\item
+  Accounting, Public
+\item
+  African American Studies
+\item
+  Art
+\item
+  Art History
+\item
+  Asian Studies
+\item
+  Biology
+\item
+  Business Administration
+\item
+  Chemistry
+\item
+  Communication Studies
+\item
+  Computer Science
+\item
+  Creative Writing
+\item
+  Data Science
+\item
+  Economics
+\item
+  Elementary Education
+\item
+  English
+\item
+  Film Studies
+\item
+  French \& Francophone Studies
+\item
+  General Science
+\item
+  History
+\item
+  Interdisciplinary
+\end{itemize}
+
+\begin{itemize}
+\tightlist
+\item
+  French \& Francophone Studies
+\item
+  Interdisciplinary Studies*
+\item
+  International Business
+\item
+  International Economics
+\item
+  International Studies
+\item
+  Kinesiology
+\item
+  Literature
+\item
+  Mathematics
+\item
+  Music
+\item
+  Philosophy
+\item
+  Physics
+\item
+  Political Science
+\item
+  Psychology
+\item
+  Religion
+\item
+  Social \& Criminal Justice
+\item
+  Sociology
+\item
+  Spanish
+\item
+  Spanish Studies
+\item
+  Theatre Arts
+\item
+  Writing (Rhetoric)
+\end{itemize}
+
+* A coherent interdisciplinary sequence of courses devised by the
+student, in consultation with faculty, suited to the student's
+individual goals and approved by the Academic Policies Committee (see
+p.~131). In addition to the areas of study/majors listed above, the
+following \textbf{COLLATERAL MAJORS} are offered, which require a
+student to satisfy the requirements of a major from the list above in
+addition to the selected collateral major.
+
+\begin{itemize}
+\tightlist
+\item
+  Biochemistry
+\item
+  Molecular Biology
+\item
+  Public Relations
+\item
+  Environmental Science
+\item
+  Neuroscience
+\item
+  Environmental Studies
+\item
+  Organizational Science
+\end{itemize}
+
+\hypertarget{areas-of-study-minor-for-b.a.}{%
+\subsection*{AREAS OF STUDY (MINOR) FOR
+B.A.}\label{areas-of-study-minor-for-b.a.}}
+\addcontentsline{toc}{subsection}{AREAS OF STUDY (MINOR) FOR B.A.}
+
+\begin{itemize}
+\tightlist
+\item
+  African American Studies
+\item
+  Anthropology
+\item
+  Art
+\item
+  Art History
+\item
+  Asian Studies
+\item
+  Chemistry
+\item
+  Classical Studies
+\item
+  Communication Studies
+\item
+  Computer Science
+\item
+  Creative Writing
+\item
+  Data Science
+\item
+  Economics
+\item
+  English
+\item
+  Film Studies
+\item
+  French \& Francophone Studies
+\item
+  Gender and Sexuality Studies
+\item
+  Health \& Society Studies
+\item
+  History
+\item
+  Interdisciplinary French \&
+\item
+  Francophone Studies
+\item
+  International Economics
+\item
+  Mathematics
+\end{itemize}
+
+\hypertarget{areas-of-study-majors-for-b.m.}{%
+\subsection*{AREAS OF STUDY (MAJORS) FOR
+B.M.}\label{areas-of-study-majors-for-b.m.}}
+\addcontentsline{toc}{subsection}{AREAS OF STUDY (MAJORS) FOR B.M.}
+
+\begin{itemize}
+\tightlist
+\item
+  Keyboard or Instrumental Performance
+\item
+  Vocal Performance
+\item
+  Composition
+\item
+  Instrumental Music Education
+\item
+  Vocal Music Education
+\end{itemize}
+
+\hypertarget{area-of-study-major-for-b.s.n.}{%
+\subsection*{AREA OF STUDY (MAJOR) FOR
+B.S.N.}\label{area-of-study-major-for-b.s.n.}}
+\addcontentsline{toc}{subsection}{AREA OF STUDY (MAJOR) FOR B.S.N.}
+
+\begin{itemize}
+\tightlist
+\item
+  Nursing
+\end{itemize}
+
+\hypertarget{practicum}{%
+\chapter*{PRACTICUM}\label{practicum}}
+\addcontentsline{toc}{chapter}{PRACTICUM}
+
+A practicum experience is required of all students for all undergraduate
+degrees, except those earning second degrees.
+
+Typically completed in the student's junior or senior year, all practica
+are experiences that integrate academic components with career or other
+life goals and are significant educational exercises outside the
+classroom. A practicum experience can consist of an internship,
+off-campus study, community-based project, honors project, or some other
+kind of independent activity.
+
+Depending upon the type selected, some practica are graded A--F, while
+others are P/NP. Some practica are credit bearing, while others are not.
+In some instances, the practicum must be approved by the student's major
+department.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Full-Term (16-week) Off-Campus Study
+\item
+  Wilderness Field Station Summer Courses
+\item
+  Crimson Fellows Thesis or Crimson Fellows Project, etc. as stated
+\item
+  Independent Project (in list of courses that follows starred courses *
+  require department approval for practicum credit):
+\item
+  †Internship (see a complete listing of internships on p.~29)
+\item
+  †Community-Based Project (see course description on p.~70)
+\end{enumerate}
+
+†A maximum of two course credits earned through any combination of
+Internships and Community-Based Projects may be included in the 32
+course credits required for graduation.
+
+\begin{itemize}
+\tightlist
+\item
+  AAM-444 Independent Study
+\item
+  ANT-205 Archaeological Field School
+\item
+  ANT-444 Independent Study
+\item
+  ANT-474 Research Participation
+\item
+  ARH-444 Independent Study in Art History
+\item
+  ARH-474 Senior Seminar II \& Senior Project (WE)
+\item
+  ART-394 Directed Studies in Art
+\item
+  ART-444 Independent Study
+\item
+  ART-474 Senior Seminar II \& Senior Exhibition
+\item
+  AT-40\_ Clinical Athletic Training (successful completion of sequence
+  of AT-20\_/ -30\_ and-40\_ - required to receive full credit)
+\item
+  BIO-115 Marine Biology
+\item
+  BIO-444 Independent Study
+\item
+  BIO-454 Research Participation
+\item
+  BIO-462 Advanced Biology Laboratory I
+\item
+  BUS-444 Independent Study
+\item
+  BUS-454 Research in Business
+\item
+  CHM-444 Independent Study
+\item
+  CHM-454 Undergraduate Summer Research
+\item
+  COM-394 Directed Studies in Communication Studies (WE)
+\item
+  COM-444 Independent Study in Communication Studies* (WE)
+\item
+  CRW-112 Advanced Literary Magazine Editing (two terms)
+\item
+  CRW-394 Directed Studies in Creative Writing (WE)
+\item
+  CRW-492 Manuscript Workshop (WE)
+\item
+  CS-444 Independent Study
+\item
+  CS-454 Research in Computer Science
+\item
+  DS-444 Independent Study in Data Science
+\item
+  DS-454 Research in Data Science
+\item
+  ECO-444 Independent Study
+\item
+  ECO-454 Research in Economics
+\item
+  EDU-215 Practicum in Education (WE)
+\item
+  EDU-481 Student Teaching in Art at the Secondary School (WE)
+\item
+  EDU-482 Student Teaching in Physical Education at the Secondary School
+  (WE)
+\item
+  EDU-483 Student Teaching in Art at the Elementary School (WE)
+\item
+  EDU-485 Student Teaching in Physical Education at the Elementary
+  School (WE)
+\item
+  EDU-489 Student Teaching in the Senior High School (WE)
+\item
+  EDU-490 Student Teaching in Middle School or Junior High School (WE)
+\item
+  EDU-491 Student Teaching in the Upper Elementary Grades: Grades 3-6
+  (WE)
+\end{itemize}
+
+\part{THE EDUCATIONAL PROGRAM}
+
+Coe College grants the undergraduate degrees of Bachelor of Arts (B.A.),
+Bachelor of Music (B.M.), and Bachelor of Science in Nursing (B.S.N.).
+The Bachelor of Arts degree (see p.~19) is earned upon fulfillment of
+the conditions described below, including a major chosen from over 40
+fields of study or an approved interdisciplinary major within the arts
+and sciences. Students interested in music may earn either a B.A. or a
+B.M. The B.M. degree requirements for students who wish to pursue music
+as a profession or to prepare to teach music, can be found on p.~169.
+The requirements for a B.S.N. degree can be found on p.~183.
+
+\hypertarget{academic-calendar-1}{%
+\chapter*{2022--2023 ACADEMIC CALENDAR}\label{academic-calendar-1}}
+\addcontentsline{toc}{chapter}{2022--2023 ACADEMIC CALENDAR}
+
+\hypertarget{fall-term-2022-1}{%
+\subsection*{FALL TERM 2022}\label{fall-term-2022-1}}
+\addcontentsline{toc}{subsection}{FALL TERM 2022}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.3333}}
+  >{\raggedleft\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.6667}}@{}}
+\toprule()
+\endhead
+Tues, August 23 & Open Registration \\
+Wed, August 24 & Classes Begin \\
+Tues, August 30 & Last Day to Add or Drop a Full-Term, or 1st Half-Term
+Course without a W \\
+Fri, September 2 & Census Date, Attendance Due on My.Coe \\
+Mon, September 5 & No Classes (Holiday) Labor Day \\
+Fri, September 9 & Date of Record \\
+Thurs, September 22 & Last Day to Withdraw \&/ or Change Method of
+Grading for First-Half Courses \\
+Mon--Tues, October 10--11 & Fall Term Break \\
+Thurs--Sat, October 13--15 & Homecoming \\
+Mon, October 17 & Mid-Term Progress Report Due on My.Coe (11:59 PM) \\
+Mon, October 17 & Begin Second-Half Term Courses \\
+Fri, October 21 & May Term deposit and registration due \\
+Fri, October 21 & Last Day to Add or Drop a Second-Half Term Course
+without a W \\
+Mon, October 24-Fri, November 11 & Advising Season \\
+Fri, October 28 & Last Day to Withdraw \&/or Change Method of Grading
+for Full-Term Courses \\
+Mon--Fri, November 14--18 & Registration for Spring Term 2023 \\
+Tues, November 15 & Last Day to Withdraw \&/or Change Method of Grading
+for Second-Half Courses \\
+Mon--Fri, November 21--25 & No Classes (Holiday) Thanksgiving Recess \\
+Thurs, December 1 & Open Online Registration until Last Day of Finals \\
+Fri, December 2 & Last Day of Fall Term Classes \\
+Sat, December 3 & Reading Day \\
+Mon--Thurs, December 5--8 & Final Exams \\
+Wed, December 14 & Final Grades and Attendance are Due from the Faculty
+on My.Coe (11:59 PM) \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{spring-term-2023-1}{%
+\subsection*{SPRING TERM 2023}\label{spring-term-2023-1}}
+\addcontentsline{toc}{subsection}{SPRING TERM 2023}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.3333}}
+  >{\raggedleft\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.6667}}@{}}
+\toprule()
+\endhead
+Wed, January 11 & Classes Begin \\
+Mon, January 16 & No Day Classes (Holiday) Martin Luther King Jr.~Day \\
+Wed, January 18 & Last Day to Add or Drop a Full-Term or 1st Half-Term
+Course without a W \\
+Fri, January 20 & Census Date, Attendance Due on My.Coe \\
+Thurs, January 26 & Date of Record Mon, February 6 \\
+Mon, February 6 & Last Day to Withdraw \&/or Change Method of Grading
+for First-Half Courses \\
+Mon, March 6 & Begin Second-Half Term Courses \\
+Tues, March 7 & Mid-Term Progress Report Due Online (11:59 PM) \\
+Fri, March 10 & Last Day to Add or Drop a Second-Half Term Course
+without a W \\
+Mon--Fri, March 13--17 & Spring Term Recess (Starting after Class on
+Friday, March 10) \\
+Mon--Fri, March 20--April 7 & Advising Season Thurs, March 30 \\
+Thurs, March 30 & Last Day to Withdraw \&/or Change Method of Grading
+for Full-Term Courses \\
+Mon--Fri, April 10--14 & Registration for Fall Term 2023 \\
+Mon, April 10 & Summer Registration Opens \\
+Tues, April 11 & Last Day to Withdraw \&/or Change Method of Grading for
+Second-Half Courses \\
+Wed, April 12 & Student Research Symposium ** No Day Classes ** Evening
+Classes Will Meet \\
+Fri, April 28 & Last Day of Spring Term Classes \\
+Sat, April 29 & Reading Day \\
+Mon--Thurs, May 1--4 & Final Exams \\
+Sat, May 6 & Honors Convocation / Baccalaureate \\
+Sun, May 7 & Commencement \\
+Tues, May 9 & Final Grades and Attendance are Due for Non-Graduating
+Students on My.Coe (11:59 PM) \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{may-term-2023-1}{%
+\subsection*{MAY TERM 2023}\label{may-term-2023-1}}
+\addcontentsline{toc}{subsection}{MAY TERM 2023}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.3333}}
+  >{\raggedleft\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.6667}}@{}}
+\toprule()
+\endhead
+Wed, May 10 & Classes Begin \\
+Fri, May 12 & Last Day to Add or Drop a Course Without a W \\
+Mon, May 15 & Attendance Due Online; Last Day to Change Method of
+Grading for May Term \\
+Wed, May 17 & Last Day to Withdraw from May Term Courses \\
+Fri--Sat, May 19--20 & Meeting of the Board of Trustees \\
+Mon, May 29 & No Classes (Holiday) Memorial Day \\
+Fri, June 2 & Last Day of May Term Classes \\
+Sat, June 3 & Residence Halls Close \\
+Sun, June 4 & Final Grades and Attendance for May Term Due on My.Coe
+(11:59 PM) \\
+\bottomrule()
+\end{longtable}
+
+\hypertarget{summer-term-2023-1}{%
+\subsection*{SUMMER TERM 2023*}\label{summer-term-2023-1}}
+\addcontentsline{toc}{subsection}{SUMMER TERM 2023*}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.3333}}
+  >{\raggedleft\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.6667}}@{}}
+\toprule()
+\endhead
+Mon, June 5 & Classes Begin \\
+Fri, June 9 & Last Day to Add or Drop a Full-Term Course Without a W \\
+Mon, June 19 & No Classes (Holiday) Juneteenth \\
+Fri, June 23 & Last Day to Change Method of Grading \&/or Withdraw from
+Block A Courses \\
+Tues, July 4 & No Classes (Holiday) Independence Day \\
+Fri, July 7 & Last Day of Block A Courses \\
+Mon, July 10 & Classes Begin: Block B Courses \\
+Tues, July 11 & Mid-Term Progress Report Due Online (11:59 PM); Block A
+Final Grades Due \\
+Fri, July 14 & Last Day to Add or Drop a Course Without a W for Block B
+Courses \\
+Mon, July 17 & Last Day to Change Method of Grading \&/or Withdraw from
+Full Term Courses \\
+Tues, July 25 & Last Day to Change Method of Grading \&/or Withdraw from
+Block B Courses \\
+Fri, August 11 & Last Day of Term Classes: Block B and Full-Term
+Courses \\
+Tues, August 15 & Final Grades and Attendance Due (Block B and
+Full-Term) on My.Coe (11:59 PM) \\
+\bottomrule()
+\end{longtable}
+
+*Courses taught at the Wilderness Field Station are subject to the broad
+dates of the summer, but will provide a specific add/drop and withdraw
+calendar to students at the time of application.
+
+\hypertarget{here-is-a-list-of-courses}{%
+\chapter*{Here is a list of courses:}\label{here-is-a-list-of-courses}}
+\addcontentsline{toc}{chapter}{Here is a list of courses:}
+
+\begin{itemize}
+\tightlist
+\item
+  {``DS230 - Data Centric Programming''} (n.d.)
+\item
+  {``DS230 - Data Centric Programming''} (n.d.)
+\item
+  (\textbf{abcd?})
+\item
+  \textbf{\protect\hyperlink{courses-in-data-science}{DS-230}}
+\item
+  \textbf{DS-230 Introduction to Data Science}
+
+  \begin{itemize}
+  \item
+    Provides a programming experience with applications that focus on
+    data handling tasks. Students examine programming techniques to
+    acquire and manage data from a variety of sources and formats; use
+    relational databases to store and query data; and explore techniques
+    to work with semi-structured and unstructured data sets.
+    Prerequisite: Introduction to Programming (CS-125) or consent of
+    instructor
+  \end{itemize}
+\item
+  \textbf{DS-260}
+
+  \begin{itemize}
+  \item
+    Studies intermediate data analytic techniques and concepts to
+    visualize quantitative data. This course expands the mathematical
+    background of students, with topics from statistical analysis and
+    linear algebra. Students will learn advanced visualization
+    techniques, with particular emphasis on creating graphics and
+    animations using visualization libraries. Prerequisite: Data-Centric
+    Computing (DS-230)
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{data-science}{%
+\chapter{Data Science}\label{data-science}}
+
+Here is a description of the major.
+
+And the major requirments: - abcd - abcd - abcd
+
+\hypertarget{courses-in-data-science}{%
+\subsubsection{Courses in Data Science}\label{courses-in-data-science}}
+
+\begin{itemize}
+\item
+  \textbf{DS-230 Introduction to Data Science}
+
+  Provides a programming experience with applications that focus on data
+  handling tasks. Students examine programming techniques to acquire and
+  manage data from a variety of sources and formats; use relational
+  databases to store and query data; and explore techniques to work with
+  semi-structured and unstructured data sets. Prerequisite: Introduction
+  to Programming (CS-125) or consent of instructor
+\item
+  \textbf{DS-260 Data Analysis and Visualization}
+
+  Studies intermediate data analytic techniques and concepts to
+  visualize quantitative data. This course expands the mathematical
+  background of students, with topics from statistical analysis and
+  linear algebra. Students will learn advanced visualization techniques,
+  with particular emphasis on creating graphics and animations using
+  visualization libraries. Prerequisite: Data-Centric Computing (DS-230)
+\end{itemize}
+
+\bookmarksetup{startatroot}
+
+\hypertarget{references}{%
+\chapter*{References}\label{references}}
+\addcontentsline{toc}{chapter}{References}
+
+\hypertarget{refs}{}
+\begin{CSLReferences}{0}{0}
+\end{CSLReferences}
+
+\backmatter
+\printindex
+
+\end{document}
