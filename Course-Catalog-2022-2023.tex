@@ -147,10 +147,12 @@
 \@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
 \makeatother
 \makeatletter
-\@ifpackageloaded{tcolorbox}{}{\usepackage[many]{tcolorbox}}
+\@ifpackageloaded{tcolorbox}{}{\usepackage[skins,breakable]{tcolorbox}}
 \makeatother
 \makeatletter
 \@ifundefined{shadecolor}{\definecolor{shadecolor}{rgb}{.97, .97, .97}}
+\makeatother
+\makeatletter
 \makeatother
 \makeatletter
 \makeatother
@@ -167,13 +169,13 @@
 
 \title{Course Catalog 2022-2023}
 \author{}
-\date{8/1/2022}
+\date{2022-08-01}
 
 \begin{document}
 \frontmatter
 \maketitle
 
-\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[boxrule=0pt, breakable, enhanced, frame hidden, sharp corners, borderline west={3pt}{0pt}{shadecolor}, interior hidden]}{\end{tcolorbox}}\fi
+\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[boxrule=0pt, sharp corners, enhanced, frame hidden, breakable, borderline west={3pt}{0pt}{shadecolor}, interior hidden]}{\end{tcolorbox}}\fi
 
 \renewcommand*\contentsname{Table of contents}
 {
@@ -186,8 +188,12 @@
 \hypertarget{preface}{%
 \chapter*{PREFACE}\label{preface}}
 
+\markboth{PREFACE}{PREFACE}
+
 \hypertarget{non-discrimination}{%
 \section*{Non-Discrimination}\label{non-discrimination}}
+
+\markright{Non-Discrimination}
 
 Coe College does not discriminate on the basis of race, color,
 ethnicity, age, religion, national origin, sexual orientation, gender
@@ -198,6 +204,8 @@ programs of the College.
 \hypertarget{higher-education-opportunity-act-heoa}{%
 \section*{Higher Education Opportunity Act
 (HEOA)}\label{higher-education-opportunity-act-heoa}}
+
+\markright{Higher Education Opportunity Act (HEOA)}
 
 The College complies with Readmission Requirements for Service Members
 as outlined in the Higher Education Opportunity Act section 487. This
@@ -216,12 +224,16 @@ academic status as the student had when they attended the college.
 \section*{Equal Opportunity in
 Employment}\label{equal-opportunity-in-employment}}
 
+\markright{Equal Opportunity in Employment}
+
 Coe College is an equal opportunity employer in the recruitment and
 hiring of faculty and staff.
 
 \hypertarget{family-educational-rights-and-privacy-act-ferpa}{%
 \section*{Family Educational Rights and Privacy Act
 (FERPA)}\label{family-educational-rights-and-privacy-act-ferpa}}
+
+\markright{Family Educational Rights and Privacy Act (FERPA)}
 
 The provisions of the Family Educational Rights and Privacy Act (FERPA)
 prohibit the College from releasing grades or other information about
@@ -233,6 +245,8 @@ Registrar and included on p.~68 of this catalog.
 \hypertarget{solomon-amendment-of-1997}{%
 \section*{Solomon Amendment of 1997}\label{solomon-amendment-of-1997}}
 
+\markright{Solomon Amendment of 1997}
+
 Pursuant to the regulations of the Solomon Amendment of 1997, Coe
 College is required to make student recruiting information available to
 military recruiters who request it.
@@ -240,6 +254,8 @@ military recruiters who request it.
 \hypertarget{reservation-of-the-right-to-modify}{%
 \section*{Reservation of the Right to
 Modify}\label{reservation-of-the-right-to-modify}}
+
+\markright{Reservation of the Right to Modify}
 
 The provisions of this catalog are to be considered directive in
 character and not as an irrevocable contract between the student and the
@@ -255,6 +271,9 @@ Faculty advisors and the Registrar will assist in every way possible.
 \chapter*{MISSION STATEMENT OF THE
 COLLEGE}\label{mission-statement-of-the-college}}
 \addcontentsline{toc}{chapter}{MISSION STATEMENT OF THE COLLEGE}
+
+\markboth{MISSION STATEMENT OF THE COLLEGE}{MISSION STATEMENT OF THE
+COLLEGE}
 
 \begin{figure}
 
@@ -282,6 +301,8 @@ programs of the College.}
 \hypertarget{fast-facts}{%
 \chapter*{FAST FACTS}\label{fast-facts}}
 \addcontentsline{toc}{chapter}{FAST FACTS}
+
+\markboth{FAST FACTS}{FAST FACTS}
 
 \textbf{COE COLLEGE} is a private, four-year co-educational liberal arts
 college that was founded in 1851 and is historically affiliated with the
@@ -403,6 +424,8 @@ the 2021--2022 academic year is \$59,324.
 \chapter*{HISTORY OF COE COLLEGE}\label{history-of-coe-college}}
 \addcontentsline{toc}{chapter}{HISTORY OF COE COLLEGE}
 
+\markboth{HISTORY OF COE COLLEGE}{HISTORY OF COE COLLEGE}
+
 Coe College claims the shortest name of any American institution of
 higher education, but the school has actually carried five titles
 through its history. When the Rev.~Williston Jones founded the college
@@ -514,6 +537,8 @@ The requirements for a B.S.N. degree can be found on p.~183.
 \chapter*{2022--2023 ACADEMIC CALENDAR}\label{academic-calendar}}
 \addcontentsline{toc}{chapter}{2022--2023 ACADEMIC CALENDAR}
 
+\markboth{2022--2023 ACADEMIC CALENDAR}{2022--2023 ACADEMIC CALENDAR}
+
 \hypertarget{fall-term-2022}{%
 \subsection*{FALL TERM 2022}\label{fall-term-2022}}
 \addcontentsline{toc}{subsection}{FALL TERM 2022}
@@ -521,8 +546,10 @@ The requirements for a B.S.N. degree can be found on p.~183.
 \begin{longtable}[]{@{}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.3333}}
   >{\raggedleft\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.6667}}@{}}
-\toprule()
+\toprule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 Tues, August 23 & Open Registration \\
 Wed, August 24 & Classes Begin \\
 Tues, August 30 & Last Day to Add or Drop a Full-Term, or 1st Half-Term
@@ -552,7 +579,6 @@ Sat, December 3 & Reading Day \\
 Mon--Thurs, December 5--8 & Final Exams \\
 Wed, December 14 & Final Grades and Attendance are Due from the Faculty
 on My.Coe (11:59 PM) \\
-\bottomrule()
 \end{longtable}
 
 \hypertarget{spring-term-2023}{%
@@ -562,8 +588,10 @@ on My.Coe (11:59 PM) \\
 \begin{longtable}[]{@{}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.3333}}
   >{\raggedleft\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.6667}}@{}}
-\toprule()
+\toprule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 Wed, January 11 & Classes Begin \\
 Mon, January 16 & No Day Classes (Holiday) Martin Luther King Jr.~Day \\
 Wed, January 18 & Last Day to Add or Drop a Full-Term or 1st Half-Term
@@ -594,7 +622,6 @@ Sat, May 6 & Honors Convocation / Baccalaureate \\
 Sun, May 7 & Commencement \\
 Tues, May 9 & Final Grades and Attendance are Due for Non-Graduating
 Students on My.Coe (11:59 PM) \\
-\bottomrule()
 \end{longtable}
 
 \hypertarget{may-term-2023}{%
@@ -604,8 +631,10 @@ Students on My.Coe (11:59 PM) \\
 \begin{longtable}[]{@{}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.3333}}
   >{\raggedleft\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.6667}}@{}}
-\toprule()
+\toprule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 Wed, May 10 & Classes Begin \\
 Fri, May 12 & Last Day to Add or Drop a Course Without a W \\
 Mon, May 15 & Attendance Due Online; Last Day to Change Method of
@@ -617,7 +646,6 @@ Fri, June 2 & Last Day of May Term Classes \\
 Sat, June 3 & Residence Halls Close \\
 Sun, June 4 & Final Grades and Attendance for May Term Due on My.Coe
 (11:59 PM) \\
-\bottomrule()
 \end{longtable}
 
 \hypertarget{summer-term-2023}{%
@@ -627,8 +655,10 @@ Sun, June 4 & Final Grades and Attendance for May Term Due on My.Coe
 \begin{longtable}[]{@{}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.3333}}
   >{\raggedleft\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.6667}}@{}}
-\toprule()
+\toprule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 Mon, June 5 & Classes Begin \\
 Fri, June 9 & Last Day to Add or Drop a Full-Term Course Without a W \\
 Mon, June 19 & No Classes (Holiday) Juneteenth \\
@@ -649,7 +679,6 @@ Fri, August 11 & Last Day of Term Classes: Block B and Full-Term
 Courses \\
 Tues, August 15 & Final Grades and Attendance Due (Block B and
 Full-Term) on My.Coe (11:59 PM) \\
-\bottomrule()
 \end{longtable}
 
 *Courses taught at the Wilderness Field Station are subject to the broad
@@ -659,6 +688,8 @@ calendar to students at the time of application.
 \hypertarget{the-academic-calendar}{%
 \chapter*{THE ACADEMIC CALENDAR}\label{the-academic-calendar}}
 \addcontentsline{toc}{chapter}{THE ACADEMIC CALENDAR}
+
+\markboth{THE ACADEMIC CALENDAR}{THE ACADEMIC CALENDAR}
 
 The academic year consists of three terms (see Academic Calendar,
 p.~15). Students normally take four course credits in the Fall Term and
@@ -671,6 +702,8 @@ term. (The maximum course load is described in Course Load, p.~53).
 \hypertarget{may-term-optional}{%
 \section*{MAY TERM (OPTIONAL)}\label{may-term-optional}}
 \addcontentsline{toc}{section}{MAY TERM (OPTIONAL)}
+
+\markright{MAY TERM (OPTIONAL)}
 
 Students may enroll for up to one course credit during May Term in one
 of the limited selection of courses. All May Term courses require
@@ -706,6 +739,8 @@ contact time for the course.
 \section*{COE PLAN}\label{coe-plan}}
 \addcontentsline{toc}{section}{COE PLAN}
 
+\markright{COE PLAN}
+
 Coe College's requirements for graduation, commonly known as the Coe
 Plan were developed with the following outcomes in mind:
 
@@ -733,6 +768,8 @@ the Catalog.
 \hypertarget{graduation-requirements}{%
 \section*{GRADUATION REQUIREMENTS}\label{graduation-requirements}}
 \addcontentsline{toc}{section}{GRADUATION REQUIREMENTS}
+
+\markright{GRADUATION REQUIREMENTS}
 
 All students who graduate from Coe College must complete at least one
 major and earn at least 32 course credits (cc) with grades leading to a
@@ -867,6 +904,8 @@ complete the requirements for graduation:
 \hypertarget{areas-of-study}{%
 \chapter*{AREAS OF STUDY}\label{areas-of-study}}
 \addcontentsline{toc}{chapter}{AREAS OF STUDY}
+
+\markboth{AREAS OF STUDY}{AREAS OF STUDY}
 
 The three undergraduate degrees have areas of study associated with
 them. The Bachelor of Science in Nursing's area of study is nursing; the
@@ -1082,6 +1121,8 @@ B.S.N.}\label{area-of-study-major-for-b.s.n.}}
 \chapter*{PRACTICUM}\label{practicum}}
 \addcontentsline{toc}{chapter}{PRACTICUM}
 
+\markboth{PRACTICUM}{PRACTICUM}
+
 A practicum experience is required of all students for all undergraduate
 degrees, except those earning second degrees.
 
@@ -1217,6 +1258,8 @@ The requirements for a B.S.N. degree can be found on p.~183.
 \chapter*{2022--2023 ACADEMIC CALENDAR}\label{academic-calendar-1}}
 \addcontentsline{toc}{chapter}{2022--2023 ACADEMIC CALENDAR}
 
+\markboth{2022--2023 ACADEMIC CALENDAR}{2022--2023 ACADEMIC CALENDAR}
+
 \hypertarget{fall-term-2022-1}{%
 \subsection*{FALL TERM 2022}\label{fall-term-2022-1}}
 \addcontentsline{toc}{subsection}{FALL TERM 2022}
@@ -1224,8 +1267,10 @@ The requirements for a B.S.N. degree can be found on p.~183.
 \begin{longtable}[]{@{}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.3333}}
   >{\raggedleft\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.6667}}@{}}
-\toprule()
+\toprule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 Tues, August 23 & Open Registration \\
 Wed, August 24 & Classes Begin \\
 Tues, August 30 & Last Day to Add or Drop a Full-Term, or 1st Half-Term
@@ -1255,7 +1300,6 @@ Sat, December 3 & Reading Day \\
 Mon--Thurs, December 5--8 & Final Exams \\
 Wed, December 14 & Final Grades and Attendance are Due from the Faculty
 on My.Coe (11:59 PM) \\
-\bottomrule()
 \end{longtable}
 
 \hypertarget{spring-term-2023-1}{%
@@ -1265,8 +1309,10 @@ on My.Coe (11:59 PM) \\
 \begin{longtable}[]{@{}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.3333}}
   >{\raggedleft\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.6667}}@{}}
-\toprule()
+\toprule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 Wed, January 11 & Classes Begin \\
 Mon, January 16 & No Day Classes (Holiday) Martin Luther King Jr.~Day \\
 Wed, January 18 & Last Day to Add or Drop a Full-Term or 1st Half-Term
@@ -1297,7 +1343,6 @@ Sat, May 6 & Honors Convocation / Baccalaureate \\
 Sun, May 7 & Commencement \\
 Tues, May 9 & Final Grades and Attendance are Due for Non-Graduating
 Students on My.Coe (11:59 PM) \\
-\bottomrule()
 \end{longtable}
 
 \hypertarget{may-term-2023-1}{%
@@ -1307,8 +1352,10 @@ Students on My.Coe (11:59 PM) \\
 \begin{longtable}[]{@{}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.3333}}
   >{\raggedleft\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.6667}}@{}}
-\toprule()
+\toprule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 Wed, May 10 & Classes Begin \\
 Fri, May 12 & Last Day to Add or Drop a Course Without a W \\
 Mon, May 15 & Attendance Due Online; Last Day to Change Method of
@@ -1320,7 +1367,6 @@ Fri, June 2 & Last Day of May Term Classes \\
 Sat, June 3 & Residence Halls Close \\
 Sun, June 4 & Final Grades and Attendance for May Term Due on My.Coe
 (11:59 PM) \\
-\bottomrule()
 \end{longtable}
 
 \hypertarget{summer-term-2023-1}{%
@@ -1330,8 +1376,10 @@ Sun, June 4 & Final Grades and Attendance for May Term Due on My.Coe
 \begin{longtable}[]{@{}
   >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.3333}}
   >{\raggedleft\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.6667}}@{}}
-\toprule()
+\toprule\noalign{}
 \endhead
+\bottomrule\noalign{}
+\endlastfoot
 Mon, June 5 & Classes Begin \\
 Fri, June 9 & Last Day to Add or Drop a Full-Term Course Without a W \\
 Mon, June 19 & No Classes (Holiday) Juneteenth \\
@@ -1352,7 +1400,6 @@ Fri, August 11 & Last Day of Term Classes: Block B and Full-Term
 Courses \\
 Tues, August 15 & Final Grades and Attendance Due (Block B and
 Full-Term) on My.Coe (11:59 PM) \\
-\bottomrule()
 \end{longtable}
 
 *Courses taught at the Wilderness Field Station are subject to the broad
@@ -1362,6 +1409,8 @@ calendar to students at the time of application.
 \hypertarget{here-is-a-list-of-courses}{%
 \chapter*{Here is a list of courses:}\label{here-is-a-list-of-courses}}
 \addcontentsline{toc}{chapter}{Here is a list of courses:}
+
+\markboth{Here is a list of courses:}{Here is a list of courses:}
 
 \begin{itemize}
 \tightlist
@@ -1377,6 +1426,7 @@ calendar to students at the time of application.
   \textbf{DS-230 Introduction to Data Science}
 
   \begin{itemize}
+  \tightlist
   \item
     Provides a programming experience with applications that focus on
     data handling tasks. Students examine programming techniques to
@@ -1390,6 +1440,7 @@ calendar to students at the time of application.
   \textbf{DS-260}
 
   \begin{itemize}
+  \tightlist
   \item
     Studies intermediate data analytic techniques and concepts to
     visualize quantitative data. This course expands the mathematical
@@ -1437,6 +1488,8 @@ And the major requirments: - abcd - abcd - abcd
 \hypertarget{references}{%
 \chapter*{References}\label{references}}
 \addcontentsline{toc}{chapter}{References}
+
+\markboth{References}{References}
 
 \hypertarget{refs}{}
 \begin{CSLReferences}{0}{0}
