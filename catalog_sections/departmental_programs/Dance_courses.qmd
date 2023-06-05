@@ -1,0 +1,25 @@
+### Dance (Courses Only)
+Rezabek, Wolverton.
+
+#### Courses in Dance
+
+- **{{< var c.dan101.long >}}**
+  {{< var c.dan101.desc >}} 
+- **{{< var c.dan102.long >}}**
+  {{< var c.dan102.desc >}} 
+- **{{< var c.dan111.long >}}**
+  {{< var c.dan111.desc >}} 
+- **{{< var c.dan112.long >}}**
+  {{< var c.dan112.desc >}} 
+- **{{< var c.dan131.long >}}**
+  {{< var c.dan131.desc >}} 
+- **{{< var c.dan132.long >}}**
+  {{< var c.dan132.desc >}} 
+- **{{< var c.dan141.long >}}**
+  {{< var c.dan141.desc >}} 
+- **{{< var c.dan142.long >}}**
+  {{< var c.dan142.desc >}} 
+- **{{< var c.dan151.long >}}**
+  {{< var c.dan151.desc >}} 
+- **{{< var c.dan152.long >}}**
+  {{< var c.dan152.desc >}} 
