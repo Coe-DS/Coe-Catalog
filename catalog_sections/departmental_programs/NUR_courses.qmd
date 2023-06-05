@@ -1,0 +1,18 @@
+### Nursing
+
+Here is a description of the major.
+
+And the major requirments:
+- **{{< var c.nur100.long >}}**
+- NUR-137
+- abcd
+
+#### Courses in Data Science
+
+- **{{< var c.ds230.long >}}**
+  {{< var c.ds230.desc >}}  
+- **{{< var c.ds260.long >}}**
+  {{< var c.ds260.desc >}}
+
+
+
