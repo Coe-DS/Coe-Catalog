@@ -1,0 +1,77 @@
+### Environmental Studies (Collateral Major)
+St. Clair (Administrative Coordinator).
+
+The Environmental Studies Major is a collateral, interdisciplinary program which requires students to study environmental issues using the techniques and perspectives from a variety of academic disciplines.
+In the sophomore or junior year, a student intending to complete an environmental studies collateral submits a proposal to the Environmental Studies administrative coordinator, outlining the plan of study for the major and describing plans for independent research, internship, or off-campus study. Students seeking this collateral major should submit this document prior to enrollment in EVS-484 Topics in Environmental Studies. 
+In addition to the requirements listed below, before undertaking a practicum experience, each student is strongly encouraged to consult with the Environmental Studies administrative coordinator to identify a practicum experience that supports his or her study of environmental issues.
+Students choosing a collateral major in environmental studies may not select the collateral major in environmental science. 
+
+
+**Collateral Major in Environmental Studies**
+A major in environmental studies requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+Concurrent completion of any of the majors listed under [Areas of Study](catalog_sections/areas_of_study#Areas Of Study) of the Catalog is required.  
+
+1. {{< var c.bio105.long >}}
+2. {{< var c.bio155.long >}} and {{< var c.bio155L.long >}}
+3. {{< var c.eco175.long >}}
+4. {{< var c.eco195.long >}}
+5. _One_ of the following:
+{{< var c.evs112.long >}}
+{{< var c.phl205.long >}}
+6. _One_ of the following:
+{{< var c.bus190.long >}}
+{{< var c.bus340.long >}}
+{{< var c.psy300.long >}}
+{{< var c.soc235.long >}}
+{{< var c.sta100.long >}} **and** {{< var c.sta110.long >}}
+{{< var c.sta100.long >}} **and** {{< var c.sta130.long >}}
+{{< var c.sta315.long >}}
+7. {{< var c.evs484.long >}}
+8. _Four_ courses to be chosen as indicated from the three lists below. Courses with a substantial focus on environmental content and relevant to a student’s particular course of study may be substituted to fulfill this category, subject to prior approval by the Environmental Studies administrative coordinator.
+	a.  _One or more_ of the following _Natural Science_ courses:
+	{{< var c.bio165.long >}}
+	{{< var c.bio175.long >}}
+	{{< var c.bio185.long >}}
+	{{< var c.bio285.long >}} (**NOTE:** *Taught at the Wilderness Field Station*)
+	{{< var c.bio295.long >}} and {{< var c.bio295L.long >}}
+	{{< var c.chm103.long >}} and {{< var c.chm103L.long >}} **OR** {{< var c.chm121.long >}} and {{< var c.chm121L.long >}}
+	b. _One or more_ of the following _Social Science_ courses:
+	{{< var c.bus170.long >}}
+	{{< var c.eco155.long >}}
+	{{< var c.eco215.long >}}
+	{{< var c.evs112.long >}} (if not used to satisfy #5)
+	{{< var c.evs137.long >}}
+	{{< var c.pol115.long >}}
+	{{< var c.pol386.long >}}
+	{{< var c.soc328.long >}}
+	c. _One or more_ of the following _Humanities_ courses:
+	{{< var c.phl205.long >}} (if not used to satisfy #5)
+	{{< var c.rhe135.long >}} (when topic is appropriate to major)
+	{{< var c.rhe257.long >}}
+	{{< var c.rhe345.long >}}
+
+
+#### Courses in Environmental Studies (Collateral Major) 
+- **{{< var c.bus170.long >}}**
+  {{< var c.bus170.desc >}} 
+- **{{< var c.eco195.long >}}**
+  {{< var c.eco195.desc >}} 
+- **{{< var c.evs112.long >}}**
+  {{< var c.evs112.desc >}} 
+- **{{< var c.evs137.long >}}**
+  {{< var c.evs137.desc >}} 
+- **{{< var c.evs484.long >}}**
+  {{< var c.evs484.desc >}} 
+
+
+
+
+
+
+
+
+
+
+
+
+
