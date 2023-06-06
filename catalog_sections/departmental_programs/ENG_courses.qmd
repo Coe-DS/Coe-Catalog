@@ -1,0 +1,115 @@
+### English
+
+Aspengren, Ferguson, Hausknecht, LeMay, McQueen, Shaw (Chair), Sodeman, Valderrama
+
+The study of English allows students to explore a wide range of literary and cultural productions from varied parts of the world. Our courses develop habits of mind that are fundamental to liberal education, including the ability to read critically, to think creatively, and to write clearly and with verve.
+In consultation with their advisors, English majors are able to design personalized programs of study that attend to the historical and geographical range of literatures in English.  Students considering graduate work in literature should consult with English faculty to plan a rigorous course of study that would typically include an honors thesis and coursework in a world language.
+
+
+**English Major**
+A major in English requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+1. {{< var c.eng111.long >}}
+2. {{< var c.eng281.long >}}
+3. {{< var c.eng291.long >}}
+4. {{< var c.eng301.long >}}
+5. Three English courses numbered 305 or above, one of which must be in British literature before 1800. 
+6. Two additional English course credits, one of which may be in Creative Writing or in French, or Spanish literature in translation ({{< var c.fre145.long >}}, {{< var c.fre146.long >}}, {{< var c.fre148.long >}}, {{< var c.spa148.long >}})
+7.{{< var c.eng464.long >}} _OR_ {{< var c.eng467.long >}}
+
+
+**English Minor**
+The minor in English consists of five course credits, including {{< var c.eng111.long >}} and _two_ English courses numbered 300 or above. One course in Creative Writing (CRW-) or in French, or Spanish literature in translation ({{< var c.fre145.long >}}, {{< var c.fre146.long >}}, {{< var c.fre148.long >}}, {{< var c.spa148.long >}}) may count toward the five course credits.
+
+
+#### Courses in Literature
+
+- **{{< var c.eng105.long >}}**
+  {{< var c.eng105.desc >}}  
+- **{{< var c.eng107.long >}}**
+  {{< var c.eng107.desc >}}  
+- **{{< var c.eng105.long >}}**
+  {{< var c.eng105.desc >}}  
+- **{{< var c.eng108.long >}}**
+  {{< var c.eng108.desc >}}  
+- **{{< var c.eng110.long >}}**
+  {{< var c.eng110.desc >}}  
+- **{{< var c.eng111.long >}}**
+  {{< var c.eng111.desc >}}  
+- **{{< var c.eng112.long >}}**
+  {{< var c.eng112.desc >}}  
+- **{{< var c.eng115.long >}}**
+  {{< var c.eng115.desc >}}  
+- **{{< var c.eng117.long >}}**
+  {{< var c.eng117.desc >}}  
+- **{{< var c.eng127.long >}}**
+  {{< var c.eng127.desc >}}  
+- **{{< var c.eng137.long >}}**
+  {{< var c.eng137.desc >}}  
+- **{{< var c.eng146.long >}}**
+  {{< var c.eng146.desc >}}  
+- **{{< var c.eng157.long >}}**
+  {{< var c.eng157.desc >}}  
+- **{{< var c.eng175.long >}}**
+  {{< var c.eng175.desc >}}  
+- **{{< var c.eng206.long >}}**
+  {{< var c.eng206.desc >}}  
+- **{{< var c.eng207.long >}}**
+  {{< var c.eng207.desc >}}  
+- **{{< var c.eng208.long >}}**
+  {{< var c.eng208.desc >}}  
+- **{{< var c.eng281.long >}}**
+  {{< var c.eng281.desc >}}  
+- **{{< var c.eng291.long >}}**
+  {{< var c.eng291.desc >}}  
+- **{{< var c.eng301.long >}}**
+  {{< var c.eng301.desc >}}  
+- **{{< var c.eng312.long >}}**
+  {{< var c.eng312.desc >}}  
+- **{{< var c.eng327.long >}}**
+  {{< var c.eng327.desc >}}  
+- **{{< var c.eng337.long >}}**
+  {{< var c.eng337.desc >}}  
+- **{{< var c.eng347.long >}}**
+  {{< var c.eng347.desc >}}  
+- **{{< var c.eng357.long >}}**
+  {{< var c.eng357.desc >}}  
+- **{{< var c.eng367.long >}}**
+  {{< var c.eng367.desc >}}  
+- **{{< var c.eng375.long >}}**
+  {{< var c.eng375.desc >}}  
+- **{{< var c.eng378.long >}}**
+  {{< var c.eng378.desc >}}  
+- **{{< var c.eng380.long >}}**
+  {{< var c.eng380.desc >}}  
+- **{{< var c.eng382.long >}}**
+  {{< var c.eng382.desc >}}  
+- **{{< var c.eng383.long >}}**
+  {{< var c.eng383.desc >}}  
+- **{{< var c.eng384.long >}}**
+  {{< var c.eng384.desc >}}  
+- **{{< var c.eng385.long >}}**
+  {{< var c.eng385.desc >}}  
+- **{{< var c.eng388.long >}}**
+  {{< var c.eng388.desc >}}  
+- **{{< var c.eng390.long >}}**
+  {{< var c.eng390.desc >}}  
+- **{{< var c.eng392.long >}}**
+  {{< var c.eng392.desc >}}  
+- **{{< var c.eng393.long >}}**
+  {{< var c.eng393.desc >}}  
+- **{{< var c.eng394.long >}}**
+  {{< var c.eng394.desc >}}  
+
+**ADVANCED STUDY IN ENGLISH**
+Students registering for these courses must fulfill the _prerequisites_ first and should consult with English department faculty if they have questions. 
+
+- **{{< var c.eng454.long >}}**
+  {{< var c.eng454.desc >}}  
+- **{{< var c.eng464.long >}}**
+  {{< var c.eng464.desc >}}
+- **{{< var c.eng467.long >}}**
+  {{< var c.eng467.desc >}}
+- **{{< var c.eng494.long >}}**
+  {{< var c.eng494.desc >}}
+
+
