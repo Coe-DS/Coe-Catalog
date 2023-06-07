@@ -1,0 +1,94 @@
+### Social & Criminal Justice
+L. Barnett, J. Christensen, Lemos, McNabb (Administrative Coordinator).
+The Social & Criminal Justice Program offers students an opportunity to immerse themselves in an interdisciplinary major that draws from Coe’s rich tradition in the liberal arts, as well as the pre-professional opportunities at the college. Core courses in the major address multifaceted questions surrounding restorative, retributive, procedural, and distributive justice. While many programs addressing such issues are housed in the field of criminal justice studies, the SCJ faculty teach topics within the major from varying perspectives and disciplines, introducing students to the ways in which matters of justice are at work in — and essential to — many areas of study.
+The major is both local and global in nature, exhibiting the possibilities and limitations of social and criminal justice initiatives in the Cedar Rapids community, while also navigating matters of human rights and comparative justice systems that reveal our connections to the broader world.
+Through interdisciplinary engagement and a required practicum, the SCJ program demonstrates for students how a multiplicity of voices and viewpoints can help to shape new ideas about the impact of social justice initiatives upon the criminal justice system, and the foundations of individual and collective community engagement.
+
+#### Social & Criminal Justice Major
+A major in Social & Criminal Justice requires a cumulative 2.0 GPA in all courses counted toward the major.
+1. SCJ-101 Introduction to Social and Criminal Justice
+2. SCJ-201 Law Enforcement and Corrections
+3. SOC-235 Methods of Sociological Research (WE)
+4. PHL-285 Law, Morality, and Punishment (WE)
+5. SCJ-350 Human Rights and Comparative Justice Systems
+6. SOC-351 Criminology
+7. [One] of the following:
+   STA-100 Statistical Foundations (7 weeks) and STA-110 Inferential Statistics (7 weeks)
+   STA-100 Statistical Foundations (7 weeks) and STA-130 Experimental Design (7 weeks)
+   BUS-190 Statistical Analysis (WE)
+   PSY-300 Statistical Methods and Data Analysis
+8. [Three] courses, chosen from the following, in consultation with the student’s advisor and/or the Social & Criminal Justice administrative coordinator. No more than two courses may be selected from the same prefix.
+   ACC-313 Fraud Examination (WE)
+   ARH-107 Gender and Art 
+   COM-237 Interpersonal Communication (WE)
+   COM-357 Sex, Race, and Gender in the Media (WE)
+   COM-361 Communication and Social Change 
+   COM-362 U.S. Public Address (WE)
+   ECO-115 Introduction to Political Economy 
+   EDU-187 Human Relations (WE)
+   ENG-127 Social Justice and Literature (WE)
+   ENG-146 Introduction to Postcolonial Literature (WE)
+   GS-107 Introduction to Gender and Sexuality Studies (WE)
+   HIS-145 History of the United States to 1865
+   HIS-155 History of the United States Since 1865 
+   HIS-347 African American History (WE)
+   HIS-257 Native American History (WE)
+   HIS-297 Women in America (WE)
+   HIS-325 Recent American History I (WE)
+   IS-126 Human Rights Work with Burmese Immigrants in Thailand 
+   PHL-128 Morality and Moral Controversies (WE)
+   PHL-205 Environmental Ethics (WE)
+   PHL-265 Political Philosophy (WE)
+   PHL-270 Ethical Theory (WE)
+   PHL-277 Philosophy of Gender and Race (WE)
+   POL-305 Terrorism (WE)
+   POL-350 U.S. Social Policy Process (WE)
+   POL-375 The Constitution and Individual Liberties 
+   PSY-235 Abnormal Psychology
+   PSY-245 Organizational Psychology 
+   PSY-255 Social Psychology
+   PSY-315 Learning and Behavior 
+   PSY-350 Drugs and Behavior 
+   PSY-415 Counseling Psychology 
+   REL-217 Religion in America (WE)
+   SCJ-190 Topics in Social and Criminal Justice
+   SCJ-220 Juvenile Delinquency and the Justice System
+   SCJ-301 Criminal Law and the Fourth, Fifth, and Sixth Amendments 
+   SCJ-390 Advanced Topics in Social and Criminal Justice
+   SOC-207 Sociology of the Family 
+   SOC-247 Sociology of Race
+   SOC-328 Urban Sociology 
+   SOC-338 Political Sociology 
+   SOC-355 Deviant Behavior 
+   SOC-425 Social Change
+   A course approved by the Social & Criminal Justice administrative coordinator
+9. [One] of the following capstone projects:
+   SCJ-444 Independent Study in Social and Criminal Justice 
+   SCJ-494 Internship in Social and Criminal Justice
+   OCC-323 Chicago Program (if internship/independent study has SCJ focus)
+   WSH-464 Washington Term Internship Seminar (if internship has SCJ focus)
+As a capstone experience, it is expected that students will carry out the project during the junior or senior year, after completing the majority of the required coursework. Students are expected to consult with the SCJ administrative coordinator prior to beginning their projects. 
+10. SCJ-490 Social & Criminal Justice Colloquium -- Non-Credit Bearing
+
+#### Courses Social & Criminal Justice
+
+- **{{< var c.scj101.long >}}**
+  {{< var c.scj101.desc >}}  
+- **{{< var c.scj190.long >}}**
+  {{< var c.scj190.desc >}}
+- **{{< var c.scj201.long >}}**
+  {{< var c.scj201.desc >}}  
+- **{{< var c.scj220.long >}}**
+  {{< var c.scj220.desc >}}
+- **{{< var c.scj301.long >}}**
+  {{< var c.scj301.desc >}}  
+- **{{< var c.scj350.long >}}**
+  {{< var c.scj350.desc >}}
+- **{{< var c.scj390.long >}}**
+  {{< var c.scj390.desc >}}  
+- **{{< var c.scj444.long >}}**
+  {{< var c.scj444.desc >}}
+- **{{< var c.scj490.long >}}**
+  {{< var c.scj490.desc >}}
+- **{{< var c.scj494.long >}}**
+  {{< var c.scj494.desc >}}  
