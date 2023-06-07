@@ -1,0 +1,78 @@
+### Sociology
+L. Barnett, Boguslaw, Fairbanks (Chair, Fall), K. Rodgers (Chair, Spring).
+The sociology department, which also offers a minor in anthropology, offers a rigorous curriculum in support of Coe’s mission of providing students with a high-quality liberal arts education and preparing students intellectually, professionally, and socially to lead productive and satisfying lives in the global society of the 21st century. The department serves this mission through an integrated series of courses designed to promote students’ awareness and understanding 21st- century social problems, including the enduring presence of social inequality.
+
+#### Sociology Major
+A major in Sociology requires a cumulative 2.0 GPA in all courses counted toward the major.
+1. SOC-107 Introductory Sociology
+2. SOC-235 Methods of Sociological Research (WE)
+3. SOC-450 Sociological Theory (WE)
+4. SOC-464 Capstone Seminar in Sociology (WE)
+5. [Five] additional sociology courses, including at least one course numbered 400–449 (not including SOC-444 Independent Study, which does not count towards the major)
+6. [One] of the following:
+   STA-100 Statistical Foundations (7 weeks) and STA-110 Inferential Statistics (7 weeks)
+   STA-100 Statistical Foundations (7 weeks) and STA-130 Experimental Design (7 weeks)
+
+#### Sociology Minor
+1. SOC-107 Introductory Sociology
+2. SOC-235 Methods of Sociological Research (WE)
+3. SOC-450 Sociological Theory (WE)
+4. [Three] additional sociology courses, including at least one course numbered 400–449 (not including SOC-444 Independent Study, which does not count towards the major)
+   The following courses do not satisfy any of the requirements for a major or minor in sociology:
+   SOC-275 Directed Reading
+   SOC-365/ -375 Research Participation I, Research Participation II
+   SOC-444 Independent Study
+   SOC-494 Internship in Sociology
+   SOC-499 Career-Related Independent Investigation
+
+#### Courses in Data Science
+
+- **{{< var c.soc107.long >}}**
+  {{< var c.soc107.desc >}}  
+- **{{< var c.soc207.long >}}**
+  {{< var c.soc207.desc >}}
+- **{{< var c.soc217.long >}}**
+  {{< var c.soc217.desc >}}  
+- **{{< var c.soc226.long >}}**
+  {{< var c.soc226.desc >}}
+- **{{< var c.soc235.long >}}**
+  {{< var c.soc235.desc >}}  
+- **{{< var c.soc236.long >}}**
+  {{< var c.soc236.desc >}}
+- **{{< var c.soc237.long >}}**
+  {{< var c.soc237.desc >}}  
+- **{{< var c.soc238.long >}}**
+  {{< var c.soc238.desc >}}
+- **{{< var c.soc247.long >}}**
+  {{< var c.soc247.desc >}}
+- **{{< var c.soc275.long >}}**
+  {{< var c.soc275.desc >}}  
+- **{{< var c.soc328.long >}}**
+  {{< var c.soc328.desc >}}
+- **{{< var c.soc338.long >}}**
+  {{< var c.soc338.desc >}}  
+- **{{< var c.soc351.long >}}**
+  {{< var c.soc351.desc >}}
+- **{{< var c.soc355.long >}}**
+  {{< var c.soc355.desc >}}
+- **{{< var c.soc365.long >}}**
+  {{< var c.soc365.desc >}}  
+- **{{< var c.soc375.long >}}**
+  {{< var c.soc375.desc >}}
+- **{{< var c.soc417.long >}}**
+  {{< var c.soc417.desc >}}  
+- **{{< var c.soc425.long >}}**
+  {{< var c.soc425.desc >}}
+- **{{< var c.soc435.long >}}**
+  {{< var c.soc435.desc >}}
+- **{{< var c.soc444.long >}}**
+  {{< var c.soc444.desc >}}  
+- **{{< var c.soc445.long >}}**
+  {{< var c.soc445.desc >}}
+- **{{< var c.soc450.long >}}**
+  {{< var c.soc450.desc >}}  
+- **{{< var c.soc464.long >}}**
+  {{< var c.soc464.desc >}}
+- **{{< var c.soc494.long >}}**
+  {{< var c.soc494.desc >}}
+
