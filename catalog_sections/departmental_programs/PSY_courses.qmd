@@ -1,0 +1,95 @@
+### Psychology
+Baker, Brown, Castillo, Chihak, Farrell (Chair, Fall), Kelly (Chair, Spring), Lee, Recker, Stephenson
+Psychology is the scientific study of behavior and mental processes—the basis for both a field of scientific knowledge and of professional application. Both required and elective courses in psychology are grounded in the scientific approach. As an important tool for the understanding of both theory and data, the study of basic statistical and methodological concepts is included among courses required of all students majoring in psychology.  
+In addition to a major in **Psychology**, the College also offers collateral majors in **Neuroscience** (see [p.]() ) and **Organizational Science** (see [p.]()). 
+#### Secondary Education Certification in Psychology
+Students seeking certification to teach psychology at the secondary level are strongly encouraged to speak with an advisor in Education as early as possible in their program of studies. 
+
+#### Psychology Major 
+A major in Psychology requires a cumulative 2.0 GPA in all courses counted toward the major.
+1. PSY-100 Introductory Psychology 
+2. PSY-200 Research Methods (WE)
+3. PSY-215 Topics in Diversity and Inclusion (7 weeks) (0.5 credits)
+4. PSY-295 Applied Contemporary Psychology (WE)
+5. PSY-300 Statistical Methods and Data Analysis  
+6. PSY-464 Seminar in Psychology (WE)
+7. [One] of the following:
+   PSY-455 Advanced Experimental Psychology 
+   PSY-494 Internship in Psychology
+8. [One] of the following:
+   PSY-205 Developmental Psychology 
+   PSY-235 Abnormal Psychology 
+9. [One] of the following:
+   PSY-245 Organizational Psychology
+   PSY-255 Social Psychology 
+10. [One] of the following:
+   PSY-250 Biopsychology
+   PSY-260 Cognitive Psychology
+11. [One] of the following:
+   PSY-325/ -325L Health Psychology and Laboratory (WE)
+   PSY-335/ -335L Sensation and Perception and Laboratory (WE)
+   PSY-355/ -355L Personality and Laboratory (WE)
+12. [One] of the following:
+   PSY-315 Learning and Behavior
+   PSY-350 Drugs and Behavior
+   PSY-415 Counseling Psychology 
+   PSY-450 Behavioral Neuroscience 
+   PSY-465 Industrial Psychology 
+   PSY-475 Testing and Measurement 
+
+#### Courses in Psychology
+
+- **{{< var c.psy100.long >}}**
+  {{< var c.psy100.desc >}}  
+- **{{< var c.psy137.long >}}**
+  {{< var c.psy137.desc >}}
+- **{{< var c.psy200.long >}}**
+  {{< var c.psy200.desc >}}  
+- **{{< var c.psy205.long >}}**
+  {{< var c.psy205.desc >}}
+- **{{< var c.psy208.long >}}**
+  {{< var c.psy208.desc >}}  
+- **{{< var c.psy215.long >}}**
+  {{< var c.psy215.desc >}}
+- **{{< var c.psy235.long >}}**
+  {{< var c.psy235.desc >}}  
+- **{{< var c.psy245.long >}}**
+  {{< var c.psy245.desc >}}
+- **{{< var c.psy250.long >}}**
+  {{< var c.psy250.desc >}}  
+- **{{< var c.psy255.long >}}**
+  {{< var c.psy255.desc >}}
+- **{{< var c.psy60.long >}}**
+  {{< var c.psy260.desc >}}
+- **{{< var c.psy295.long >}}**
+  {{< var c.psy295.desc >}}  
+- **{{< var c.psy300.long >}}**
+  {{< var c.psy300.desc >}}
+- **{{< var c.psy315.long >}}**
+  {{< var c.psy315.desc >}}  
+- **{{< var c.psy325.long >}}**
+  {{< var c.psy325.desc >}}
+- **{{< var c.psy335.long >}}**
+  {{< var c.psy335.desc >}}  
+- **{{< var c.psy350.long >}}**
+  {{< var c.psy350.desc >}}
+- **{{< var c.psy354.long >}}**
+  {{< var c.psy354.desc >}}
+- **{{< var c.psy355.long >}}**
+  {{< var c.psy355.desc >}}  
+- **{{< var c.psy415.long >}}**
+  {{< var c.psy415.desc >}}
+- **{{< var c.psy444.long >}}**
+  {{< var c.psy444.desc >}}  
+- **{{< var c.psy450.long >}}**
+  {{< var c.psy450.desc >}}
+- **{{< var c.psy455.long >}}**
+  {{< var c.psy455.desc >}}
+- **{{< var c.psy464.long >}}**
+  {{< var c.psy464.desc >}}  
+- **{{< var c.psy465.long >}}**
+  {{< var c.psy465.desc >}}
+- **{{< var c.psy475.long >}}**
+  {{< var c.psy475.desc >}}
+- **{{< var c.psy494.long >}}**
+  {{< var c.psy494.desc >}}  
