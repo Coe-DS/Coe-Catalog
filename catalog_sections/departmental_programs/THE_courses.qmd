@@ -8,84 +8,85 @@ For the campus community at large, as audience members or as occasional particip
 #### Theatre Arts Major
 A major in Theatre Arts requires a cumulative 2.0 GPA in all courses counted toward the major.
 **Theatre Arts Core Courses** (required of all students majoring in theatre arts):
-1. THE-102 Theatre Production Lab 
-2. THE-130 Technical Production I 
-3. THE-140 Design for the Stage
-4. THE-150 Acting I 
-5. THE-228 History of Theatre and Drama I (WE)
-6. THE-238 History of Theatre and Drama II (WE)
-7. THE-290 Directing I (WE)
-8. THE-464 Senior Seminar 
+1. {{< var c.the102.long >}} 
+2. {{< var c.the130.long >}} 
+3. {{< var c.the140.long >}} 
+4. {{< var c.the150.long >}} 
+5. {{< var c.the228.long >}} 
+6. {{< var c.the238.long >}} 
+7. {{< var c.the290.long >}} 
+8. {{< var c.the464.long >}} 
 
 #### Theatre Arts Minor 
 The minor in Theatre Arts consists of six course credits of Theatre Arts. 
 Theatre Arts students select one of the following **[emphases]**: general, acting, directing, musical theatre, and technical theatre/design.
 
-**[General]**
-1. [Eight] core courses (see [p.]() )
-2. [Three] additional course credits of Theatre Arts, chosen with departmental approval. 
+**General**
+1. **Eight** core courses (see [p.]() )
+2. **Three** additional course credits of Theatre Arts, chosen with departmental approval. 
 
-**[Acting]**
-1. [Eight] core courses (see [p.]())
-2. THE-170 Voice and Diction 
-3. THE-250 Acting II 
-4. [One] of the following: 
-   THE-160 Movement for the Stage 
-   THE-260 Acting for the Camera 
-   THE-270 Musical Theatre Acting 
-   THE-350 Advanced Acting: Shakespeare 
-*Strongly recommended:**
-   Any dance course (DAN-101 through DAN-152)
-   THE-162 Stage Make-Up 
-   THE-452 Advanced Projects in Acting 
-   PHL-105 Introduction to Philosophy (WE)
-   PSY-100 Introductory Psychology 
+**Acting**
+1. **Eight** core courses (see [p.]())
+2. {{< var c.the170.long >}} THE-170 Voice and Diction 
+3. {{< var c.the250.long >}} THE-250 Acting II 
+4. **One** of the following:
+	{{< var c.the160.long >}} 
+	{{< var c.the260.long >}} 
+	{{< var c.the270.long >}} 
+	{{< var c.the350.long >}}
+ 
+*Strongly recommended:{.underlined}**
+	Any dance course (DAN-101 through DAN-152)
+	{{< var c.the162.long >}} 
+	{{< var c.the452.long >}} 
+	{{< var c.phl105.long >}} 
+	{{< var c.psy100.long >}} 
 
-**[Directing]**
-1. [Eight] core courses (see [p.]())
-   THE-250 Acting II
-   THE-390 Directing II (WE)
-2. [One] additional course in acting or design
-*Strongly recommended:* 
-   ARH-118 History of Western Architecture
-   COM-237 Interpersonal Communication (WE)
-   THE-220 Lighting Design 
-   THE-242 Scene Design 
-   THE-280 Costume Design 
-   THE-350 Advanced Acting: Shakespeare 
-   THE-462 Advanced Projects in Directing 
+**Directing**
+1. **Eight** core courses (see [p.]())
+	{{< var c.the250.long >}} 
+	{{< var c.the390.long >}} 
+2. **One** additional course in acting or design
+*Strongly recommended:*
+	{{< var c.arh118.long >}} 
+	{{< var c.com237.long >}}
+	{{< var c.the220.long >}}  
+	{{< var c.the242.long >}} 
+	{{< var c.the280.long >}} 
+	{{< var c.the350.long >}} 
+	{{< var c.the462.long >}}
    Any other art history course 
 
-**[Musical Theatre]**
-1. [Eight] core courses (See [p.]())
-2. MU-109 Theory of Music I
-3. THE-170 Voice and Diction
-4. THE-270 Musical Theatre Acting
-5. [Four] terms of MUA-202V Voice Lessons (0.6 cc) 
-6. [One] additional course credit in practical musical theatre chosen from a combination of the following:
-   MUA-130V Musical Theatre Production Experience (0.5 cc)
-   MUA-131V Song Interpretation Workshop (0.2 cc)
-   A musical theatre internship approved by the Music or Theatre Arts department
-7. [Six] seven-week dance courses (DAN-101 through DAN-142) (0.2 cc)
+**Musical Theatre**
+1. **Eight** core courses (See [p.]())
+2. {{< var c.mu109.long >}} 
+3. {{< var c.the170.long >}} 
+4. {{< var c.the270.long >}} 
+5. **Four** terms of {{< var c.mua202v.long >}} (0.6 cc) 
+6. **One** additional course credit in practical musical theatre chosen from a combination of the following:
+	{{< var c.mua130v.long >}} (0.5 cc)
+	{{< var c.mua131v.long >}} (0.2 cc)
+	A musical theatre internship approved by the Music or Theatre Arts department
+7. **Six** seven-week dance courses (DAN-101 through DAN-142) (0.2 cc)
 
-**[Technical Theatre/Design]** 
-1. [Eight] core courses (see [p.]())
-2. [Three] of the following: 
-   THE-220 Lighting Design 
-   THE-230 Technical Production II 
-   THE-232 Computer-Aided Drafting and Design 
-   THE-242 Scene Design 
-   THE-280 Costume Design 
-   THE-288 History of Dress (WE)
+**Technical Theatre/Design** 
+1. **Eight** core courses (see [p.]())
+2. **Three*** of the following: 
+	{{< var c.the220.long >}} 
+	{{< var c.the230.long >}} 
+	{{< var c.the232.long >}} 
+	{{< var c.the242.long >}} 
+	{{< var c.the280.long >}}
+	{{< var c.the288.long >}} 
 
 *Strongly recommended:* 
-   ARH-118 History of Western Architecture
-   Any other Art History course 
-   ART-115 Drawing: Observation and Interpretation 
-   ART-145 Digital Studio 
-   ART-364 The Human Form 
-   PHY-155/-155L Electronics & Laboratory
-   THE-442 Advanced Projects in Design and Technical Production
+	{{< var c.arh118.long >}} 
+	Any other Art History course 
+	{{< var c.art115.long >}} 
+	{{< var c.art145.long >}} 
+	{{< var c.art364.long >}} 
+	{{< var c.phy155.long >}} and {{< var c.phy155l.long >}}  
+	{{< var c.the442.long >}} 
 
 #### Courses in Theatre Arts 
 
