@@ -5,62 +5,62 @@ The department of political science emphasizes the breadth of political science 
 #### Political Science Major
 A major in political science requires a cumulative 2.0 GPA in all courses counted toward the major.
 A major in political science requires ten courses, including at least three 300- or 400-level courses. 
-1. POL-108 Introduction to Politics 
-2. POL-115 American National Government and Politics 
-3. [One] political theory course:
-   POL-405 Contemporary Political Theory (WE)
-   POL-435 Ancient and Medieval Political Theory (WE)
-   POL-445 Modern Political Theory (WE)
-4. [One] additional American government course: 
-   POL-207 Religion and American Politics (WE)
-   POL-245 Political Parties and Elections 
-   POL-277 Women and Politics in the United States (WE)
-   POL-325 The American Congress (WE)
-   POL-345 The American Presidency (WE)
-   POL-350 US Social Policy Process (WE)
-5. [Two] comparative or international politics courses: 
-   POL-248 Political Violence and the Violent 
-   POL-258 World Politics (WE)
-   POL-266 Latin American Politics (WE)
-   POL-276 African Politics (WE)
-   POL-286 Asian Politics (WE)
-   POL-298 European Politics (WE)
-   POL-305 Terrorism (WE)
-   POL-310 International Organizations (WE)
-   POL-365 American Foreign Policy (WE)
-   POL-386 International Development (WE)
-   POL-398 Religion and World Politics (WE)
-6. [Four] additional political science courses
+1. {{< var c.pol108.long >}} 
+2. {{< var c.pol115.long >}}
+3. [One]{.underlined} political theory course:
+	{{< var c.pol405.long >}}
+	{{< var c.pol435.long >}}
+	{{< var c.pol445.long >}} 
+4. [One]{.underlined} additional American government course:
+	{{< var c.pol207.long >}} 
+	{{< var c.pol245.long >}}
+	{{< var c.pol277.long >}}
+	{{< var c.pol325.long >}}
+	{{< var c.pol345.long >}}
+	{{< var c.pol350.long >}} 
+5. [Two]{.underlined} comparative or international politics courses:
+	{{< var c.pol248.long >}}
+	{{< var c.pol258.long >}}
+	{{< var c.pol266.long >}}
+	{{< var c.pol276.long >}}
+	{{< var c.pol286.long >}}
+	{{< var c.pol298.long >}}
+	{{< var c.pol305.long >}}
+	{{< var c.pol310.long >}}         
+	{{< var c.pol365.long >}}
+	{{< var c.pol386.long >}}
+	{{< var c.pol398.long >}}
+6. [Four]{.underlined} additional political science courses
 Satisfactory work in Topics in Political Science (POL-284/-296) may be used, with consent of department chair, to satisfy any departmental requirement. 
 
 #### Political Science Minor
 A minor in political science requires six courses, including at least two 300- or 400-level courses. 
-1. POL-108 Introduction to Politics 
-2. POL-115 American National Government and Politics 
-3. [One] political theory course: 
-   POL-405 Contemporary Political Theory (WE)
-   POL-435 Ancient and Medieval Political Theory (WE)
-   POL-445 Modern Political Theory (WE)
-4. [One] additional American government course: 
-   POL-207 Religion and American Politics (WE)
-   POL-245 Political Parties and Elections 
-   POL-277 Women and Politics in the United States (WE)
-   POL-325 The American Congress (WE)
-   POL-345 The American Presidency (WE)
-   POL-350 U.S. Social Policy Process (WE)
-5. [One] comparative or international politics course: 
-   POL-248 Political Violence and the Violent 
-   POL-258 World Politics (WE)
-   POL-266 Latin American Politics (WE)
-   POL-276 African Politics (WE)
-   POL-286 Asian Politics (WE)
-   POL-298 European Politics (WE)
-   POL-305 Terrorism (WE)
-   POL-310 International Organizations (WE)
-   POL-365 American Foreign Policy (WE)
-   POL-386 International Development (WE)
-   POL-398 Religion and World Politics (WE)
-6. [One] additional political science course
+1. {{< var c.pol108.long >}}
+2. {{< var c.pol115.long >}}
+3. [One]{.underlined} political theory course:
+	{{< var c.pol405.long >}}
+	{{< var c.pol435.long >}}
+	{{< var c.pol445.long >}} 	 
+4. [One]{.underlined} additional American government course: 
+	{{< var c.pol207.long >}} 
+	{{< var c.pol245.long >}}
+	{{< var c.pol277.long >}}
+	{{< var c.pol325.long >}}
+	{{< var c.pol345.long >}}
+	{{< var c.pol350.long >}}
+5. [One]{.underlined} comparative or international politics course:
+	{{< var c.pol248.long >}}
+	{{< var c.pol258.long >}}
+	{{< var c.pol266.long >}}
+	{{< var c.pol276.long >}}
+	{{< var c.pol286.long >}}
+	{{< var c.pol298.long >}}
+	{{< var c.pol305.long >}}
+	{{< var c.pol310.long >}}
+	{{< var c.pol365.long >}}
+	{{< var c.pol386.long >}}
+	{{< var c.pol398.long >}}		
+6. [One]{.underlined} additional political science course
 Satisfactory work in Topics in Political Science (POL-284/-296) may be used, with consent of department chair, to satisfy any departmental requirement. 
 
 #### Courses in Political Science
