@@ -23,32 +23,32 @@ In order to successfully complete a course and be promoted to successive courses
 Candidates for the **Bachelor of Science in Nursing** degree must satisfactorily complete: 
 1. The general education requirements (see p. ).
 2. [Eight] required supporting courses:
-Biology		BIO-145 Cellular and Molecular Biology 
-		BIO-195 Introduction to Microbiology 
-		BIO-215/ -215L Human Anatomy and Laboratory 
-		BIO-225 Human Physiology
-Chemistry	CHM-111/ -111L Introduction to Organic and Biological Chemistry and Laboratory
-Psychology 	PSY-100 Introductory Psychology 
-Sociology	SOC-107 Introductory Sociology
-Statistics 	PSY-300 Statistical Methods and Data Analysis **[or]**
-		STA-100 Statistical Foundations (7 weeks) **and** STA-110 Inferential Statistics (7 weeks)
-3. NUR-100 Nursing Issues (0.2 course credit) (Pre-nursing students must enroll each term of the first year.  A maximum of two seminars may be counted for credit toward graduation.)
-4. NUR-200 Nursing Issues II (0.2 course credit) (Pre-nursing students must enroll each term of the sophomore year. A maximum of two seminars may be counted for credit toward graduation.)
-5.   Nine non-clinical theory course credits: 
-NUR-300 Art and Science of Nursing 
-NUR-305 Information Literacy and Management (WE) (0.5 cc)  
-NUR-345/-345L Mental Health Nursing and Laboratory
-NUR-360 Pharmacological Principles (0.5 cc)  
-NUR-375 Legal and Ethical Issues in Nursing (WE)
-NUR-425 Nursing Research (WE) 
-NUR-430 Community and Population Oriented Nursing (WE)
-NUR-431 Maintaining Wellness in Aging and Chronicity
-NUR-495 Maternal Newborn Nursing
-6.   Four two-course-credit clinical courses: 
-NUR-315/ -315L Pathophysiology and Assessment/Clinical Application 
-NUR-355/-355L Introductory Concepts in Nursing/Clinical Application
-NUR-415/ -415L Advanced Concepts in Nursing/Clinical Application 
-NUR-455/-455L Leadership and Contemporary Issues in Nursing/Clinical Application (WE)
+Biology         {{< var c.bio145.long >}}
+		{{< var c.bio195.long >}}
+		{{< var c.bio215_215l.long >}}
+		{{< var c.bio225.long >}}		
+Chemistry	{{< var c.bio111_111l.long >}}
+Psychology 	{{< var c.psy100.long >}}
+Sociology	{{< var c.soc107.long >}}
+Statistics 	{{< var c.sta300.long >}} **[or]{.underlined}**
+		{{< var c.sta100.long >}} (7 weeks) **[and]{.underlined}** {{< var c.sta110.long >}}
+3. {{< var c.nur100.long >}} (0.2 course credit) (Pre-nursing students must enroll each term of the first year.  A maximum of two seminars may be counted for credit toward graduation.)
+4. {{< var c.nur100.long >}} (0.2 course credit) (Pre-nursing students must enroll each term of the sophomore year. A maximum of two seminars may be counted for credit toward graduation.)
+5. Nine non-clinical theory course credits: 
+	{{< var c.nur300.long >}} 
+	{{< var c.nur305.long >}}
+	{{< var c.nur345_345l.long >}}
+	{{< var c.nur360.long >}}
+	{{< var c.nur375.long >}}
+	{{< var c.nur425.long >}}
+	{{< var c.nur430.long >}}
+	{{< var c.nur431.long >}}
+	{{< var c.nur495.long >}}
+6. Four two-course-credit clinical courses: 
+	{{< var c.nur315_315l.long >}}
+	{{< var c.nur355_355l.long >}}
+	{{< var c.nur415_415l.long >}}
+	{{< var c.nur455_455l.long >}}
 7. A formal NCLEX review course (at the student’s expense)
 8. All required supporting courses and required nursing courses listed above, with no one specific course repeated more than once and with no more than two different courses repeated.
 
