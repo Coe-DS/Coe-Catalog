@@ -4,25 +4,23 @@ The philosophy and religion department offer courses designed to lead students t
 
 #### Philosophy Major 
 A grade of “C” (2.0) or higher must be earned in all courses counted toward a major in philosophy.
-1. [Two] of the following, one of which must be either Early Modern Philosophy (WE) (PHL-240) or Late Modern    
-    Philosophy (WE) (PHL-335):
-    PHL-220 Ancient Greek Philosophy (WE)
-    PHL-230 Medieval Philosophy (WE)
-    PHL-240 Early Modern Philosophy (WE)
-    PHL-335 Late Modern Philosophy (WE)
-2. [Three] additional 300-level philosophy courses 
-3. [Five] additional philosophy courses, at least two of which must be numbered 200 or above
-4. PHIL-490 Philosophy Colloquium (WE) (non-credit bearing)
+1. [Two]{.underlined} of the following, one of which must be either {{< var c.phl240.long >}} (PHL-240) or {{< var c.phl335.long >}} (PHL-335):
+	{{< var c.phl220.long >}}
+	{{< var c.phl230.long >}}
+	{{< var c.phl240.long >}}
+	{{< var c.phl335.long >}}
+2. [Three]{.underlined} additional 300-level philosophy courses 
+3. [Five]{.underlined} additional philosophy courses, at least two of which must be numbered 200 or above
+4. {{< var c.phl490.long >}}(non-credit bearing)
 
-**NOTE:** *The recommended beginning course in philosophy for those contemplating a major in philosophy is Introduction to Philosophy (PHL-105). However, any of the other 100-level courses are also suitable first courses. Some courses numbered between 200 and 299 may be suitable first courses for students with sophomore standing.* 
+**NOTE:** *The recommended beginning course in philosophy for those contemplating a major in philosophy is {{< var c.phl105.long >}}. However, any of the other 100-level courses are also suitable first courses. Some courses numbered between 200 and 299 may be suitable first courses for students with sophomore standing.* 
 
 #### Philosophy Minor 
-1. [Two] of the following, one of which must be either Early Modern Philosophy (WE) (PHL-240) or Late Modern 
-    Philosophy (WE) (PHL-335): 
-    PHL-220 Ancient Greek Philosophy (WE)
-    PHL-230 Medieval Philosophy (WE)
-    PHL-240 Early Modern Philosophy (WE)
-    PHL-335 Late Modern Philosophy (WE)
+1. [Two]{.underlined} of the following, one of which must be either {{< var c.phl240.long >}} (PHL-240) or {{< var c.phl335.long >}} (PHL-335):
+	{{< var c.phl220.long >}}
+	{{< var c.phl230.long >}}
+	{{< var c.phl240.long >}}
+	{{< var c.phl335.long >}}
 2. [One] additional 300-level philosophy course
 3. [Three] additional philosophy courses
 
