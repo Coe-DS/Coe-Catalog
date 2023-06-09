@@ -6,69 +6,72 @@ Through interdisciplinary engagement and a required practicum, the SCJ program d
 
 #### Social & Criminal Justice Major
 A major in Social & Criminal Justice requires a cumulative 2.0 GPA in all courses counted toward the major.
-1. SCJ-101 Introduction to Social and Criminal Justice
-2. SCJ-201 Law Enforcement and Corrections
-3. SOC-235 Methods of Sociological Research (WE)
-4. PHL-285 Law, Morality, and Punishment (WE)
-5. SCJ-350 Human Rights and Comparative Justice Systems
-6. SOC-351 Criminology
-7. [One] of the following:
-   STA-100 Statistical Foundations (7 weeks) and STA-110 Inferential Statistics (7 weeks)
-   STA-100 Statistical Foundations (7 weeks) and STA-130 Experimental Design (7 weeks)
-   BUS-190 Statistical Analysis (WE)
-   PSY-300 Statistical Methods and Data Analysis
-8. [Three] courses, chosen from the following, in consultation with the student’s advisor and/or the Social & Criminal Justice administrative coordinator. No more than two courses may be selected from the same prefix.
-   ACC-313 Fraud Examination (WE)
-   ARH-107 Gender and Art 
-   COM-237 Interpersonal Communication (WE)
-   COM-357 Sex, Race, and Gender in the Media (WE)
-   COM-361 Communication and Social Change 
-   COM-362 U.S. Public Address (WE)
-   ECO-115 Introduction to Political Economy 
-   EDU-187 Human Relations (WE)
-   ENG-127 Social Justice and Literature (WE)
-   ENG-146 Introduction to Postcolonial Literature (WE)
-   GS-107 Introduction to Gender and Sexuality Studies (WE)
-   HIS-145 History of the United States to 1865
-   HIS-155 History of the United States Since 1865 
-   HIS-347 African American History (WE)
-   HIS-257 Native American History (WE)
-   HIS-297 Women in America (WE)
-   HIS-325 Recent American History I (WE)
-   IS-126 Human Rights Work with Burmese Immigrants in Thailand 
-   PHL-128 Morality and Moral Controversies (WE)
-   PHL-205 Environmental Ethics (WE)
-   PHL-265 Political Philosophy (WE)
-   PHL-270 Ethical Theory (WE)
-   PHL-277 Philosophy of Gender and Race (WE)
-   POL-305 Terrorism (WE)
-   POL-350 U.S. Social Policy Process (WE)
-   POL-375 The Constitution and Individual Liberties 
-   PSY-235 Abnormal Psychology
-   PSY-245 Organizational Psychology 
-   PSY-255 Social Psychology
-   PSY-315 Learning and Behavior 
-   PSY-350 Drugs and Behavior 
-   PSY-415 Counseling Psychology 
-   REL-217 Religion in America (WE)
-   SCJ-190 Topics in Social and Criminal Justice
-   SCJ-220 Juvenile Delinquency and the Justice System
-   SCJ-301 Criminal Law and the Fourth, Fifth, and Sixth Amendments 
-   SCJ-390 Advanced Topics in Social and Criminal Justice
-   SOC-207 Sociology of the Family 
-   SOC-247 Sociology of Race
-   SOC-328 Urban Sociology 
-   SOC-338 Political Sociology 
-   SOC-355 Deviant Behavior 
-   SOC-425 Social Change
-   A course approved by the Social & Criminal Justice administrative coordinator
-9. [One] of the following capstone projects:
-   SCJ-444 Independent Study in Social and Criminal Justice 
-   SCJ-494 Internship in Social and Criminal Justice
-   OCC-323 Chicago Program (if internship/independent study has SCJ focus)
-   WSH-464 Washington Term Internship Seminar (if internship has SCJ focus)
+1. {{< var c.scj101.long >}} 
+2. {{< var c.scj201.long >}} 
+3. {{< var c.scj235.long >}} 
+4. {{< var c.phl285.long >}} 
+5. {{< var c.scj350.long >}} 
+6. {{< var c.soc351.long >}} 
+7. **One** of the following:
+	{{< var c.sta100.long >}} (7 weeks) and {{< var c.sta110.long >}} (7 weeks)
+	{{< var c.sta100.long >}} (7 weeks) and {{< var c.sta130.long >}} (7 weeks)
+	{{< var c.sta190.long >}}
+	{{< var c.psy300.long >}}
+8. **Three** courses, chosen from the following, in consultation with the student’s advisor and/or the Social & Criminal Justice administrative coordinator. No more than two courses may be selected from the same prefix.
+	{{< var c.acc313.long >}}
+	{{< var c.arh107.long >}}
+	{{< var c.com237.long >}}
+	{{< var c.com357.long >}}
+	{{< var c.com361.long >}}
+	{{< var c.com362.long >}}
+	{{< var c.eco115.long >}}
+	{{< var c.edu187.long >}}
+	{{< var c.eng127.long >}}
+	{{< var c.eng146.long >}}
+	{{< var c.gs107.long >}}
+	{{< var c.his145.long >}}
+	{{< var c.his155.long >}}
+	{{< var c.his347.long >}}
+	{{< var c.his257.long >}}
+	{{< var c.his297.long >}}
+	{{< var c.his325.long >}}
+	{{< var c.is126.long >}}
+	{{< var c.phl128.long >}}
+	{{< var c.phl205.long >}}
+	{{< var c.phl265.long >}}
+	{{< var c.phl270.long >}}
+	{{< var c.phl277.long >}}
+	{{< var c.pol305.long >}}
+	{{< var c.pol350.long >}}
+	{{< var c.pol375.long >}}
+	{{< var c.psy235.long >}}
+	{{< var c.psy245.long >}}
+	{{< var c.psy255.long >}}
+	{{< var c.psy315.long >}}
+	{{< var c.psy350.long >}}
+	{{< var c.psy415.long >}}
+	{{< var c.rel217.long >}}
+	{{< var c.scj190.long >}}
+	{{< var c.scj220.long >}}
+	{{< var c.scj301.long >}}
+	{{< var c.scj390.long >}}
+	{{< var c.soc207.long >}}
+	{{< var c.soc247.long >}}
+	{{< var c.soc207.long >}}
+	{{< var c.soc247.long >}}
+	{{< var c.soc328.long >}}
+	{{< var c.soc338.long >}}
+	{{< var c.soc355.long >}}
+	{{< var c.soc425.long >}}
+	A course approved by the Social & Criminal Justice administrative coordinator
+9. **One** of the following capstone projects:
+	{{< var c.scj444.long >}}
+	{{< var c.scj494.long >}}
+	{{< var c.occ323.long >}} (if internship/independent study has SCJ focus)
+	{{< var c.wsh464.long >}} (if internship has SCJ focus)
+
 As a capstone experience, it is expected that students will carry out the project during the junior or senior year, after completing the majority of the required coursework. Students are expected to consult with the SCJ administrative coordinator prior to beginning their projects. 
-10. SCJ-490 Social & Criminal Justice Colloquium -- Non-Credit Bearing
+10. {{< var c.scj490.long >}} -- Non-Credit Bearing
 
 #### Courses Social & Criminal Justice
 
