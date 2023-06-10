@@ -1,35 +1,49 @@
-### Physics 
+## Physics 
 Affatigato (Chair), Akgun, Baehr, Bragatto, Duru, Feller, Wetzel
+
 The physics department serves a variety of students with a balanced program, giving equal emphasis to the needs of the technically and the non-technically oriented. 
 
-####Physics Major
+### Physics Major
+
 A major in physics requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
-1. {{< var c.phy185_185l.long >}} 
+
+1. {{< var c.phy185_185l.long >}}
+ 
 2. {{< var c.phy195_195l.long >}} 
+
 3. {{< var c.phy231.long >}} 
+
 4. {{< var c.phy235_235l.long >}} 
+
 5. {{< var c.phy265.long >}} 
-6. [Two]{.underlined} of the following courses:
+
+6. **Two** of the following courses:
 	{{< var c.phy275.long >}}
 	{{< var c.phy315.long >}}
 	{{< var c.phy335.long >}}
 	{{< var c.phy425.long >}}
-7. [Four]{.underlined} additional physics courses, all of which must be numbered 150 or above. 
+
+7. **Four** additional physics courses, all of which must be numbered 150 or above. 
 8. Comprehensive evaluation
-   Satisfactory completion of written and oral examinations
+    Satisfactory completion of written and oral examinations
+
 ***Recommended:***
 	{{< var c.cs125.long >}}
 	{{< var c.chm121_121l.long >}}
 
-####Physics Major
+### Physics Major
 A minor in Physics requires a cumulative 2.0 GPA in all courses counted toward the major.
 1. {{< var c.phy185_185l.long >}} or {{< var c.phy165_165l.long >}}
-2. {{< var c.phy195_195l.long >}} or {{< var c.phy175_175l.long >}}
-3. {{< var c.phy235_235l.long >}}
-4. {{< var c.phy265.long >}} 
-6. [Two]{.underlined} additional physics course approved by the department, both of which must be numbered 150 and above. 
 
-#### Courses in Physics 
+2. {{< var c.phy195_195l.long >}} or {{< var c.phy175_175l.long >}}
+
+3. {{< var c.phy235_235l.long >}}
+
+4. {{< var c.phy265.long >}} 
+
+6. **Two** additional physics course approved by the department, both of which must be numbered 150 and above. 
+
+### Courses in Physics 
 - **{{< var c.phy105.long >}}**
   {{< var c.phy105.desc >}} 
 - **{{< var c.phy114.long >}}**
@@ -60,8 +74,8 @@ A minor in Physics requires a cumulative 2.0 GPA in all courses counted toward t
   {{< var c.phy231.desc >}}
 - **{{< var c.phy235.long >}}**
   {{< var c.phy235.desc >}}
-- **{{< var c.phy235lab.long >}}**
-  {{< var c.phy235lab.desc >}}
+- **{{< var c.phy235l.long >}}**
+  {{< var c.phy235l.desc >}}
 - **{{< var c.phy241.long >}}**
   {{< var c.phy241.desc >}}
 - **{{< var c.phy251.long >}}**
