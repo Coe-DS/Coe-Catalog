@@ -1,0 +1,111 @@
+### Philosophy 
+Hoover, Lemos. 
+The philosophy and religion department offer courses designed to lead students to reflect on their views concerning fundamental issues in life and thought. Since both the philosophical and religious traditions have had a central place in and an enormous influence upon the development of human culture, any student seeking a liberal education, whatever the major discipline, will profit from the departmental offerings. 
+
+#### Philosophy Major 
+A grade of “C” (2.0) or higher must be earned in all courses counted toward a major in philosophy.
+1. [Two] of the following, one of which must be either Early Modern Philosophy (WE) (PHL-240) or Late Modern    
+    Philosophy (WE) (PHL-335):
+    PHL-220 Ancient Greek Philosophy (WE)
+    PHL-230 Medieval Philosophy (WE)
+    PHL-240 Early Modern Philosophy (WE)
+    PHL-335 Late Modern Philosophy (WE)
+2. [Three] additional 300-level philosophy courses 
+3. [Five] additional philosophy courses, at least two of which must be numbered 200 or above
+4. PHIL-490 Philosophy Colloquium (WE) (non-credit bearing)
+
+**NOTE:** *The recommended beginning course in philosophy for those contemplating a major in philosophy is Introduction to Philosophy (PHL-105). However, any of the other 100-level courses are also suitable first courses. Some courses numbered between 200 and 299 may be suitable first courses for students with sophomore standing.* 
+
+#### Philosophy Minor 
+1. [Two] of the following, one of which must be either Early Modern Philosophy (WE) (PHL-240) or Late Modern 
+    Philosophy (WE) (PHL-335): 
+    PHL-220 Ancient Greek Philosophy (WE)
+    PHL-230 Medieval Philosophy (WE)
+    PHL-240 Early Modern Philosophy (WE)
+    PHL-335 Late Modern Philosophy (WE)
+2. [One] additional 300-level philosophy course
+3. [Three] additional philosophy courses
+
+
+#### Courses in Philosophy 
+##### Introductory courses
+
+**[Category A: General Introductions]**
+The following courses, all numbered PHL-105, are different versions of the same course. They share overlapping content and focus on the development of the same skills. Students can receive credit for only one PHL-105: Introduction to Philosophy course.
+- **{{< var c.phl105.long >}}**
+  {{< var c.phl105.desc >}}  
+- **{{< var c.phl105.long >}}**
+  {{< var c.phl105.desc >}} 
+- **{{< var c.phl105.long >}}**
+  {{< var c.phl105.desc >}} 
+- **{{< var c.phl105.long >}}**
+  {{< var c.phl105.desc >}} 
+- **{{< var c.phl105.long >}}**
+  {{< var c.phl105.desc >}} 
+
+**[Category B: Ethical and Political Issues]**
+- **{{< var c.phl128.long >}}**
+  {{< var c.phl128.desc >}}  
+- **{{< var c.phl138.long >}}**
+  {{< var c.phl138.desc >}} 
+- **{{< var c.phl165.long >}}**
+  {{< var c.phl165.desc >}} 
+- **{{< var c.phl205.long >}}**
+  {{< var c.phl205.desc >}}   
+
+**[Category C: Logic]**
+- **{{< var c.phl115.long >}}**
+  {{< var c.phl115.desc >}}
+
+##### Intermediate courses
+- **{{< var c.phl206.long >}}**
+See also Religion (REL-206), [p.]()
+  {{< var c.phl206.desc >}}  
+- **{{< var c.phl210.long >}}**
+  {{< var c.phl210.desc >}} 
+- **{{< var c.phl220.long >}}**
+  {{< var c.phl220.desc >}} 
+- **{{< var c.phl230.long >}}**
+  {{< var c.phl230.desc >}} 
+- **{{< var c.phl235.long >}}**
+  {{< var c.phl235.desc >}} 
+- **{{< var c.phl240.long >}}**
+  {{< var c.phl240.desc >}} 
+- **{{< var c.phl245.long >}}**
+  {{< var c.phl245.desc >}} 
+- **{{< var c.phl255.long >}}**
+  {{< var c.phl255.desc >}} 
+- **{{< var c.phl265.long >}}**
+  {{< var c.phl265.desc >}} 
+- **{{< var c.phl270.long >}}**
+  {{< var c.phl270.desc >}} 
+- **{{< var c.phl277.long >}}**
+  {{< var c.phl277.desc >}} 
+- **{{< var c.phl285.long >}}**
+  {{< var c.phl285.desc >}} 
+
+##### Advanced seminars 
+- **{{< var c.phl305.long >}}**
+  {{< var c.phl305.desc >}} 
+- **{{< var c.phl315.long >}}**
+  {{< var c.phl315.desc >}} 
+- **{{< var c.phl320.long >}}**
+  {{< var c.phl320.desc >}} 
+- **{{< var c.phl335.long >}}**
+  {{< var c.phl335.desc >}} 
+- **{{< var c.phl345.long >}}**
+  {{< var c.phl345.desc >}} 
+- **{{< var c.phl355.long >}}**
+  {{< var c.phl355.desc >}} 
+- **{{< var c.phl365.long >}}**
+  {{< var c.phl365.desc >}} 
+- **{{< var c.phl394.long >}}**
+  {{< var c.phl394.desc >}} 
+- **{{< var c.phl444.long >}}**
+  {{< var c.phl444.desc >}} 
+- **{{< var c.phl464.long >}}**
+  {{< var c.phl464.desc >}} 
+- **{{< var c.phl490.long >}}**
+  {{< var c.phl490.desc >}} 
+- **{{< var c.phl494.long >}}**
+  {{< var c.phl494.desc >}} 

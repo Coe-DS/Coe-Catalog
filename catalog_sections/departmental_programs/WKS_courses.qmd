@@ -1,0 +1,32 @@
+### Workshops (Courses Only)
+Hughes, Rogers.
+Workshops (0.25 and 0.5 course credit) are designed to allow hands-on, experiential learning in a practice-based context.  WKS courses can be interdisciplinary explorations, or offer opportunities to learn, refine, or apply a skill set within a specific discipline. 
+
+- **{{< var c.wks201.long >}}**
+  {{< var c.wks201.desc >}}  
+- **{{< var c.wks202.long >}}**
+  {{< var c.wks202.desc >}}
+- **{{< var c.wks203.long >}}**
+  {{< var c.wks203.desc >}}  
+- **{{< var c.wks204.long >}}**
+  {{< var c.wks204.desc >}}
+- **{{< var c.wks211.long >}}**
+  {{< var c.wks211.desc >}}  
+- **{{< var c.wks212.long >}}**
+  {{< var c.wks212.desc >}}
+- **{{< var c.wks213.long >}}**
+  {{< var c.wks213.desc >}}  
+- **{{< var c.wks214.long >}}**
+  {{< var c.wks214.desc >}}
+- **{{< var c.wks221.long >}}**
+  {{< var c.wks221.desc >}}  
+- **{{< var c.wks241.long >}}**
+  {{< var c.wks241.desc >}}
+- **{{< var c.wks251.long >}}**
+  {{< var c.wks251.desc >}}  
+- **{{< var c.wks252.long >}}**
+  {{< var c.wks252.desc >}}
+- **{{< var c.wks253.long >}}**
+  {{< var c.wks253.desc >}}
+- **{{< var c.wks291.long >}}**
+  {{< var c.wks291.desc >}}  

@@ -1,0 +1,100 @@
+### Religion
+Chaplin, Hatchell (Chair), Kensky. 
+The philosophy and religion department offer courses designed to lead students to reflect on their views concerning fundamental issues in life and thought. Since both the philosophical and religious traditions have had a central place in and an enormous influence upon the development of human culture, any student seeking a liberal education, whatever the major discipline, will profit from the departmental offerings. 
+
+#### Religion Major
+A grade of “C” (2.0) or higher must be earned in all courses counted toward a major in religion. 
+1. [One] of the following: 
+   REL-101 Introduction to Religion (WE)
+   REL-103 Belief and Unbelief (WE)
+2. REL-106 Eastern Religions 
+3. REL-108 Western Religions (WE)
+4. [One] of the following: 
+   REL-105 Introduction to Hebrew Bible (WE)
+   REL-115 Introduction to New Testament (WE)
+5. [One] of the following: 
+   REL-116 Buddhism
+   REL-136 Religions of China (WE)
+   REL-196 Hinduism
+6. [Five] additional religion courses, at least three of which are numbered 300 or above 
+
+#### Religion Minor
+1. [One] of the following: 
+   REL-106 Eastern Religions 
+   REL-108 Western Religions (WE)
+2. [Four] additional religion courses 
+
+#### Courses in Religion by Content area 
+Special attention should be given to the numerical ordering of the courses listed below: 
+1. Courses numbered between 100 and 199 include general introductions to religion (Introduction to Religion (WE) (REL-101), Belief and Unbelief (WE) (REL-103), Eastern Religions (REL-106), and Western Religions (WE) (REL-108) as well as introductory courses focused on specific traditions.
+2. Courses numbered 200-299 are topical courses especially suitable for sophomore level and above.
+3. Courses numbered 300-399 are advanced courses with prerequisites. 
+
+Recommended beginning courses for those contemplating a major in religion are: Introduction to Religion (WE) (REL-101), Belief and Unbelief (WE) (REL-103), Eastern Religions (REL-106), or Western Religions (REL-108). However, other courses numbered below 200 are also suitable introductory courses.
+
+#### Survey courses
+#### Individual traditions 
+#### Judeo-Christian scriptures 
+#### Topical courses 
+ 
+#### Courses in Religion
+- **{{< var c.rel101.long >}}**
+  {{< var c.rel101.desc >}}  
+- **{{< var c.rel103.long >}}**
+  {{< var c.rel103.desc >}}
+- **{{< var c.rel105.long >}}**
+  {{< var c.rel105.desc >}}  
+- **{{< var c.rel106.long >}}**
+  {{< var c.rel106.desc >}}
+- **{{< var c.rel108.long >}}**
+  {{< var c.rel108.desc >}}  
+- **{{< var c.rel115.long >}}**
+  {{< var c.rel115.desc >}}
+- **{{< var c.rel116.long >}}**
+  {{< var c.rel116.desc >}}
+- **{{< var c.rel128.long >}}**
+  {{< var c.rel128.desc >}}
+- **{{< var c.rel136.long >}}**
+  {{< var c.rel136.desc >}}  
+- **{{< var c.rel138.long >}}**
+  {{< var c.rel138.desc >}}
+- **{{< var c.rel148.long >}}**
+  {{< var c.rel148.desc >}}  
+- **{{< var c.rel178.long >}}**
+  {{< var c.rel178.desc >}}
+- **{{< var c.rel196.long >}}**
+  {{< var c.rel196.desc >}}
+- **{{< var c.rel206.long >}}**
+  {{< var c.rel206.desc >}}
+- **{{< var c.rel215.long >}}**
+  {{< var c.rel215.desc >}}  
+- **{{< var c.rel217.long >}}**
+  {{< var c.rel217.desc >}}
+- **{{< var c.rel226.long >}}**
+  {{< var c.rel226.desc >}}  
+- **{{< var c.rel236.long >}}**
+  {{< var c.rel236.desc >}}
+- **{{< var c.rel295.long >}}**
+  {{< var c.rel295.desc >}}
+- **{{< var c.rel296.long >}}**
+  {{< var c.rel296.desc >}}
+- **{{< var c.rel310.long >}}**
+  {{< var c.rel310.desc >}}
+- **{{< var c.rel330.long >}}**
+  {{< var c.rel330.desc >}}
+- **{{< var c.rel336.long >}}**
+  {{< var c.rel336.desc >}}
+- **{{< var c.rel338.long >}}**
+  {{< var c.rel338.desc >}}
+- **{{< var c.rel365.long >}}**
+  {{< var c.rel365.desc >}}
+- **{{< var c.rel385.long >}}**
+  {{< var c.rel385.desc >}}  
+- **{{< var c.rel386.long >}}**
+  {{< var c.rel386.desc >}}
+- **{{< var c.rel394.long >}}**
+  {{< var c.rel394.desc >}}
+- **{{< var c.rel444.long >}}**
+  {{< var c.rel444.desc >}}
+- **{{< var c.re494.long >}}**
+  {{< var c.rel494.desc >}}

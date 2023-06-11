@@ -1,0 +1,133 @@
+### Political Science
+Barrow, Lanegran (Chair), B. Nesmith.
+The department of political science emphasizes the breadth of political science and presents politics as a worldwide phenomenon. The department nurtures active and responsible habits of citizenship, encouraging service learning and the development of political values, while offering students a variety of opportunities to study politics outside the classroom.
+
+#### Political Science Major
+A major in political science requires a cumulative 2.0 GPA in all courses counted toward the major.
+A major in political science requires ten courses, including at least three 300- or 400-level courses. 
+1. POL-108 Introduction to Politics 
+2. POL-115 American National Government and Politics 
+3. [One] political theory course:
+   POL-405 Contemporary Political Theory (WE)
+   POL-435 Ancient and Medieval Political Theory (WE)
+   POL-445 Modern Political Theory (WE)
+4. [One] additional American government course: 
+   POL-207 Religion and American Politics (WE)
+   POL-245 Political Parties and Elections 
+   POL-277 Women and Politics in the United States (WE)
+   POL-325 The American Congress (WE)
+   POL-345 The American Presidency (WE)
+   POL-350 US Social Policy Process (WE)
+5. [Two] comparative or international politics courses: 
+   POL-248 Political Violence and the Violent 
+   POL-258 World Politics (WE)
+   POL-266 Latin American Politics (WE)
+   POL-276 African Politics (WE)
+   POL-286 Asian Politics (WE)
+   POL-298 European Politics (WE)
+   POL-305 Terrorism (WE)
+   POL-310 International Organizations (WE)
+   POL-365 American Foreign Policy (WE)
+   POL-386 International Development (WE)
+   POL-398 Religion and World Politics (WE)
+6. [Four] additional political science courses
+Satisfactory work in Topics in Political Science (POL-284/-296) may be used, with consent of department chair, to satisfy any departmental requirement. 
+
+#### Political Science Minor
+A minor in political science requires six courses, including at least two 300- or 400-level courses. 
+1. POL-108 Introduction to Politics 
+2. POL-115 American National Government and Politics 
+3. [One] political theory course: 
+   POL-405 Contemporary Political Theory (WE)
+   POL-435 Ancient and Medieval Political Theory (WE)
+   POL-445 Modern Political Theory (WE)
+4. [One] additional American government course: 
+   POL-207 Religion and American Politics (WE)
+   POL-245 Political Parties and Elections 
+   POL-277 Women and Politics in the United States (WE)
+   POL-325 The American Congress (WE)
+   POL-345 The American Presidency (WE)
+   POL-350 U.S. Social Policy Process (WE)
+5. [One] comparative or international politics course: 
+   POL-248 Political Violence and the Violent 
+   POL-258 World Politics (WE)
+   POL-266 Latin American Politics (WE)
+   POL-276 African Politics (WE)
+   POL-286 Asian Politics (WE)
+   POL-298 European Politics (WE)
+   POL-305 Terrorism (WE)
+   POL-310 International Organizations (WE)
+   POL-365 American Foreign Policy (WE)
+   POL-386 International Development (WE)
+   POL-398 Religion and World Politics (WE)
+6. [One] additional political science course
+Satisfactory work in Topics in Political Science (POL-284/-296) may be used, with consent of department chair, to satisfy any departmental requirement. 
+
+#### Courses in Political Science
+
+- **{{< var c.pol108.long >}}**
+  {{< var c.pol108.desc >}}  
+- **{{< var c.pol115.long >}}**
+  {{< var c.pol115.desc >}}
+- **{{< var c.pol207.long >}}**
+  {{< var c.pol207.desc >}}  
+- **{{< var c.pol210.long >}}**
+  {{< var c.pol210.desc >}} 
+- **{{< var c.pol245.long >}}**
+  {{< var c.pol245.desc >}}  
+- **{{< var c.pol248.long >}}**
+  {{< var c.pol248.desc >}}  
+- **{{< var c.pol258.long >}}**
+  {{< var c.pol258.desc >}}  
+- **{{< var c.pol266.long >}}**
+  {{< var c.pol266.desc >}} 
+- **{{< var c.pol276.long >}}**
+  {{< var c.pol276.desc >}}  
+- **{{< var c.pol277.long >}}**
+  {{< var c.pol277.desc >}} 
+- **{{< var c.pol284.long >}}**
+  {{< var c.pol284.desc >}} 
+- **{{< var c.pol286.long >}}**
+  {{< var c.pol286.desc >}}  
+- **{{< var c.pol296.long >}}**
+  {{< var c.pol296.desc >}}  
+- **{{< var c.pol298.long >}}**
+  {{< var c.pol298.desc >}}  
+- **{{< var c.pol305.long >}}**
+  {{< var c.pol305.desc >}} 
+- **{{< var c.pol310.long >}}**
+  {{< var c.pol310.desc >}}  
+- **{{< var c.pol325.long >}}**
+  {{< var c.pol325.desc >}} 
+- **{{< var c.pol335.long >}}**
+  {{< var c.pol335.desc >}} 
+- **{{< var c.pol345.long >}}**
+  {{< var c.pol345.desc >}} 
+- **{{< var c.pol350.long >}}**
+  {{< var c.pol350.desc >}}  
+- **{{< var c.pol365.long >}}**
+  {{< var c.pol365.desc >}}  
+- **{{< var c.pol375.long >}}**
+  {{< var c.pol375.desc >}}  
+- **{{< var c.pol386.long >}}**
+  {{< var c.pol386.desc >}} 
+- **{{< var c.pol398.long >}}**
+  {{< var c.pol398.desc >}}  
+- **{{< var c.pol405.long >}}**
+  {{< var c.pol405.desc >}} 
+- **{{< var c.pol435.long >}}**
+  {{< var c.pol435.desc >}}  
+- **{{< var c.pol444.long >}}**
+  {{< var c.pol444.desc >}} 
+- **{{< var c.pol445.long >}}**
+  {{< var c.pol445.desc >}} 
+- **{{< var c.pol494.long >}}**
+  {{< var c.pol494.desc >}} 
+- **{{< var c.wsh284.long >}}**
+See description, [p]() 
+- **{{< var c.wsh286.long >}}**
+See description, [p]()   
+- **{{< var c.wsh464.long >}}**
+See description, [p]() 
+- **{{< var c.wsh494.long >}}**
+See description, [p]() 

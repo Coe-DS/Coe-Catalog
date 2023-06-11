@@ -1,0 +1,167 @@
+### Theatre Arts
+D. Barnett, Charipar, Ganfield, Hahn, Rezabek, Schmidt, Steffens, Wolverton (Chair)
+The Theatre Arts program is designed to provide a balance between academic and experiential learning for all interested students. The goal is to offer opportunities for student participation in all aspects of theatre, on stage and in the classroom, and to enrich the cultural and academic life of the College. 
+The program accommodates both majors and minors through courses focused on theatrical history, theory and literature, as well as through training in acting, directing, design, and theatrical production. This foundation prepares students for graduate study and for any field that values high-level communication skills, as well as for careers in theatre as teachers, artists, technicians, or managers. 
+As a means of helping students prepare for graduate study and/or a professional career, all majors are required to present an audition piece or a portfolio for annual review beginning in their second year. The senior seminar provides a capstone experience, giving students an opportunity to reflect on their development as theatre artists, and to examine theatre as a collaborative art form. 
+For the campus community at large, as audience members or as occasional participants, the program offers a wide range of drama selected both to educate and to entertain. 
+
+#### Theatre Arts Major
+A major in Theatre Arts requires a cumulative 2.0 GPA in all courses counted toward the major.
+**Theatre Arts Core Courses** (required of all students majoring in theatre arts):
+1. THE-102 Theatre Production Lab 
+2. THE-130 Technical Production I 
+3. THE-140 Design for the Stage
+4. THE-150 Acting I 
+5. THE-228 History of Theatre and Drama I (WE)
+6. THE-238 History of Theatre and Drama II (WE)
+7. THE-290 Directing I (WE)
+8. THE-464 Senior Seminar 
+
+#### Theatre Arts Minor 
+The minor in Theatre Arts consists of six course credits of Theatre Arts. 
+Theatre Arts students select one of the following **[emphases]**: general, acting, directing, musical theatre, and technical theatre/design.
+
+**[General]**
+1. [Eight] core courses (see [p.]() )
+2. [Three] additional course credits of Theatre Arts, chosen with departmental approval. 
+
+**[Acting]**
+1. [Eight] core courses (see [p.]())
+2. THE-170 Voice and Diction 
+3. THE-250 Acting II 
+4. [One] of the following: 
+   THE-160 Movement for the Stage 
+   THE-260 Acting for the Camera 
+   THE-270 Musical Theatre Acting 
+   THE-350 Advanced Acting: Shakespeare 
+*Strongly recommended:**
+   Any dance course (DAN-101 through DAN-152)
+   THE-162 Stage Make-Up 
+   THE-452 Advanced Projects in Acting 
+   PHL-105 Introduction to Philosophy (WE)
+   PSY-100 Introductory Psychology 
+
+**[Directing]**
+1. [Eight] core courses (see [p.]())
+   THE-250 Acting II
+   THE-390 Directing II (WE)
+2. [One] additional course in acting or design
+*Strongly recommended:* 
+   ARH-118 History of Western Architecture
+   COM-237 Interpersonal Communication (WE)
+   THE-220 Lighting Design 
+   THE-242 Scene Design 
+   THE-280 Costume Design 
+   THE-350 Advanced Acting: Shakespeare 
+   THE-462 Advanced Projects in Directing 
+   Any other art history course 
+
+**[Musical Theatre]**
+1. [Eight] core courses (See [p.]())
+2. MU-109 Theory of Music I
+3. THE-170 Voice and Diction
+4. THE-270 Musical Theatre Acting
+5. [Four] terms of MUA-202V Voice Lessons (0.6 cc) 
+6. [One] additional course credit in practical musical theatre chosen from a combination of the following:
+   MUA-130V Musical Theatre Production Experience (0.5 cc)
+   MUA-131V Song Interpretation Workshop (0.2 cc)
+   A musical theatre internship approved by the Music or Theatre Arts department
+7. [Six] seven-week dance courses (DAN-101 through DAN-142) (0.2 cc)
+
+**[Technical Theatre/Design]** 
+1. [Eight] core courses (see [p.]())
+2. [Three] of the following: 
+   THE-220 Lighting Design 
+   THE-230 Technical Production II 
+   THE-232 Computer-Aided Drafting and Design 
+   THE-242 Scene Design 
+   THE-280 Costume Design 
+   THE-288 History of Dress (WE)
+
+*Strongly recommended:* 
+   ARH-118 History of Western Architecture
+   Any other Art History course 
+   ART-115 Drawing: Observation and Interpretation 
+   ART-145 Digital Studio 
+   ART-364 The Human Form 
+   PHY-155/-155L Electronics & Laboratory
+   THE-442 Advanced Projects in Design and Technical Production
+
+#### Courses in Theatre Arts 
+
+- **{{< var c.the100.long >}}**
+  {{< var c.the100.desc >}}  
+- **{{< var c.the102.long >}}**
+  {{< var c.the102.desc >}}
+- **{{< var c.the112.long >}}**
+  {{< var c.the112.desc >}}  
+- **{{< var c.the118.long >}}**
+  {{< var c.the118.desc >}}
+- **{{< var c.the130.long >}}**
+  {{< var c.the130.desc >}}  
+- **{{< var c.the140.long >}}**
+  {{< var c.the140.desc >}}
+- **{{< var c.the145.long >}}**
+  {{< var c.the145.desc >}}  
+- **{{< var c.the150.long >}}**
+  {{< var c.the150.desc >}}
+- **{{< var c.the160.long >}}**
+  {{< var c.the160.desc >}}  
+- **{{< var c.the162.long >}}**
+  {{< var c.the162.desc >}}
+- **{{< var c.the170.long >}}**
+  {{< var c.the170.desc >}}  
+- **{{< var c.the185.long >}}**
+  {{< var c.the185.desc >}}
+- **{{< var c.the220.long >}}**
+  {{< var c.the220.desc >}}  
+- **{{< var c.the228.long >}}**
+  {{< var c.the228.desc >}}
+- **{{< var c.the230.long >}}**
+  {{< var c.the230.desc >}}  
+- **{{< var c.the232.long >}}**
+  {{< var c.the232.desc >}}
+- **{{< var c.the238.long >}}**
+  {{< var c.the238.desc >}}  
+- **{{< var c.the242.long >}}**
+  {{< var c.the242.desc >}}
+- **{{< var c.the250.long >}}**
+  {{< var c.the250.desc >}}  
+- **{{< var c.the255.long >}}**
+  {{< var c.the255.desc >}}
+- **{{< var c.the260.long >}}**
+  {{< var c.the260.desc >}}  
+- **{{< var c.the270.long >}}**
+  {{< var c.the270.desc >}}
+- **{{< var c.the280.long >}}**
+  {{< var c.the280.desc >}}  
+- **{{< var c.the288.long >}}**
+  {{< var c.the288.desc >}}
+- **{{< var c.the290.long >}}**
+  {{< var c.the290.desc >}}  
+- **{{< var c.the350.long >}}**
+  {{< var c.the350.desc >}}
+- **{{< var c.the355.long >}}**
+  {{< var c.the355.desc >}}  
+- **{{< var c.the390.long >}}**
+  {{< var c.the390.desc >}}
+- **{{< var c.the442.long >}}**
+  {{< var c.the442.desc >}}  
+- **{{< var c.the444.long >}}**
+  {{< var c.the444.desc >}}
+- **{{< var c.the452.long >}}**
+  {{< var c.the452.desc >}}  
+- **{{< var c.the455.long >}}**
+See also Creative Writing (CRW-455), [p.]()
+  {{< var c.the455.desc >}}
+- **{{< var c.the462.long >}}**
+  {{< var c.the462.desc >}}  
+- **{{< var c.the464.long >}}**
+  {{< var c.the464.desc >}}
+- **{{< var c.the486.long >}}**
+  {{< var c.the486.desc >}}  
+- **{{< var c.the488.long >}}**
+  {{< var c.the488.desc >}}
+- **{{< var c.the494.long >}}**
+  {{< var c.the494.desc >}} 
+

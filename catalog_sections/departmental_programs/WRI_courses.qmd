@@ -1,0 +1,102 @@
+### Writing
+The writing major (within the Rhetoric department) is designed to help students become skilled, reflective writers capable of composing texts in a variety of genres, responding effectively to diverse rhetorical situations. 
+
+#### Writing Major
+A major in Writing requires a cumulative 2.0 GPA in all courses counted toward the major.
+1. RHE-200 Rhetorical Theory & Practice
+2. [One] of the following:
+   RHE-225 Journalism and Media Writing Workshop (WE)
+   RHE-255 The Essay (WE)
+3. [One] of the following:
+   RHE-377 Cultural Studies (WE)
+   COM-382/RHE-382 Research Methods: Rhetorical/Critical (WE)
+4. [Six] credits, including any course with an RHE prefix not already fulfilling another requirement, or any of the courses from the list below. No more than two courses with the CRW or COM prefix may count toward the major.
+   COM-241 Introduction to Multimedia Journalism (WE) 
+   COM-341 Digital Storytelling (WE)
+   COM-361 Communication and Social Change 
+   COM-362 U.S. Public Address (WE)
+   COM-382/RHE-382 Research Methods: Rhetorical/Critical (WE) (if not used to fulfill requirement #3)
+   COM-462 Seminar in Public Discourse (WE)
+   CRW-115 Exploring Creative Writing (WE)
+   CRW-255 Playwriting Workshop 1 (WE)
+   CRW-280 Poetry Workshop 1 (WE)
+   CRW-290 Fiction Workshop 1 (WE)
+   CRW-355 Playwriting Workshop 2 (WE)
+   CRW-380 Poetry Workshop 2 (WE)
+   CRW-390 Fiction Workshop 2 (WE)
+5. [One] of the following:
+   RHE-415 How Writers Write (WE) (If not used to satisfy requirement #4)
+   RHE-425 Advanced Topics in Writing and Rhetoric (WE) (if not used to satisfy requirement #4)
+   RHE-444 Independent Study in Writing and Rhetoric (WE)
+   An Honors Thesis 
+6. A portfolio of works completed in the major (minimum 3, maximum 4), preceded by a preface that synthesizes major threads/themes of learning, and reflects on programmatic learning outcomes and on what takeaways from the major the student anticipates being most important as they prepare for their post-baccalaureate life. The portfolio should be submitted by the end of the term prior to the student’s intended graduation date, unless circumstances suggest it should be submitted later (confer with advisor and department chair).
+
+##### Writing Minor
+A minor in Writing requires five credits, including RHE-200 Rhetorical Theory and Practice and one RHE course numbered 300 or above. Any course with an RHE prefix or chosen from the list below may count toward the five credits; no more than two courses with CRW or COM prefix may count toward the minor. A cumulative 2.0 GPA is required in all courses counted toward the minor.
+   COM-241 Introduction to Multimedia Journalism (WE)
+   COM-341 Digital Storytelling (WE)
+   COM-361 Communication and Social Change 
+   COM-362 U.S. Public Address (WE)
+   COM-382/RHE-382 Research Methods: Rhetorical/Critical (WE)
+   COM-462 Seminar in Public Discourse (WE)
+   CRW-115 Exploring Creative Writing (WE)
+   CRW-255 Playwriting Workshop 1 (WE)
+   CRW-280 Poetry Workshop 1 (WE)
+   CRW-290 Fiction Workshop 1 (WE)
+   CRW-355 Playwriting Workshop 2 (WE)
+   CRW-380 Poetry Workshop 2 (WE)
+   CRW-390 Fiction Workshop 2 (WE)
+
+#### Courses in Rhetoric 
+- **{{< var c.rhe100.long >}}**
+  {{< var c.rhe100.desc >}}  
+- **{{< var c.rhe112.long >}}**
+  {{< var c.rhe112.desc >}}
+- **{{< var c.rhe135.long >}}**
+  {{< var c.rhe135.desc >}}  
+- **{{< var c.rhe137.long >}}**
+  {{< var c.rhe137.desc >}}
+- **{{< var c.rhe146.long >}}**
+  {{< var c.rhe146.desc >}}  
+- **{{< var c.rhe175.long >}}**
+  {{< var c.rhe175.desc >}}
+- **{{< var c.rhe200.long >}}**
+  {{< var c.rhe200.desc >}}  
+- **{{< var c.rhe210.long >}}**
+  {{< var c.rhe210.desc >}}
+- **{{< var c.rhe225.long >}}**
+  {{< var c.rhe225.desc >}}  
+- **{{< var c.rhe230.long >}}**
+  {{< var c.rhe230.desc >}}
+- **{{< var c.rhe255.long >}}**
+  {{< var c.rhe255.desc >}}  
+- **{{< var c.rhe257.long >}}**
+  {{< var c.rhe257.desc >}}
+- **{{< var c.rhe265.long >}}**
+  {{< var c.rhe265.desc >}}  
+- **{{< var c.rhe275.long >}}**
+  {{< var c.rhe275.desc >}}
+- **{{< var c.rhe284.long >}}**
+  {{< var c.rhe284.desc >}}  
+- **{{< var c.rhe285.long >}}**
+  {{< var c.rhe285.desc >}}
+- **{{< var c.rhe312.long >}}**
+  {{< var c.rhe312.desc >}}  
+- **{{< var c.rhe345.long >}}**
+  {{< var c.rhe345.desc >}}
+- **{{< var c.rhe377.long >}}**
+  {{< var c.rhe377.desc >}}  
+- **{{< var c.rhe382.long >}}**
+  {{< var c.rhe382.desc >}}
+- **{{< var c.rhe394.long >}}**
+  {{< var c.rhe394.desc >}}
+- **{{< var c.rhe415.long >}}**
+  {{< var c.rhe415.desc >}}  
+- **{{< var c.rhe425.long >}}**
+  {{< var c.rhe425.desc >}}
+- **{{< var c.rhe444.long >}}**
+  {{< var c.rhe444.desc >}}  
+- **{{< var c.rhe490.long >}}**
+  {{< var c.rhe490.desc >}}
+- **{{< var c.rhe494.long >}}**
+  {{< var c.rhe494.desc >}} 
