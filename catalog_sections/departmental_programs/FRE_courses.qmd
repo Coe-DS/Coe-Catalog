@@ -86,7 +86,7 @@ A grade of "C" (2.0) or higher must be earned in all courses counted toward a mi
 - **{{< var c.fre495.long >}}**
   {{< var c.fre495.desc >}}
 - **{{< var c.fre499.long >}}**
-  {{< var c.fre499.desc >}}
+  {{< var c.fre499.desc >}} 
 
 
 
