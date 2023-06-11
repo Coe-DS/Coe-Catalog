@@ -1,10 +1,10 @@
-### Environmental Science (Collateral Major)
+## Environmental Science (Collateral Major)
 St. Clair, Sanchini (Administrative Coordinators).
 
-**Collateral Major in Environmental Science**
+### Collateral Major in Environmental Science
 A major in environmental science requires a minimum cumulative 2.0 GPA in all courses counted toward the major. 
 Concurrent completion of a primary major in biology or chemistry is required.  
-1. _One_ of the following combinations:
+1. **One** of the following combinations:
 Biology majors:
 	{{< var c.mth135.long >}}
 	{{< var c.bio445.long >}} and {{< var c.bio445L.long >}}
@@ -17,26 +17,26 @@ Chemistry majors:
 2. {{< var c.bio295.long >}} and {{< var c.bio295L.long >}}
 3. {{< var c.chm211.long >}} and {{< var c.bio211L.long >}}
 4. {{< var c.chm221.long >}}
-5. _Two_ of the following with the associated laboratories:
-{{< var c.bio115.long >}}
-{{< var c.bio165.long >}}
-{{< var c.bio175.long >}}
-{{< var c.bio185.long >}}
-{{< var c.bio275.long >}}
-{{< var c.bio325.long >}}
-{{< var c.bio385.long >}}
-{{< var c.bio411.long >}}
-{{< var c.bio425.long >}}
-{{< var c.bio444.long >}}
+5. **Two** of the following with the associated laboratories:
+	{{< var c.bio115.long >}}
+	{{< var c.bio165.long >}}
+	{{< var c.bio175.long >}}
+	{{< var c.bio185.long >}}
+	{{< var c.bio275.long >}}
+	{{< var c.bio325.long >}}
+	{{< var c.bio385.long >}}
+	{{< var c.bio411.long >}}
+	{{< var c.bio425.long >}}
+	{{< var c.bio444.long >}}
 Any course taught at the Wilderness Field Station with BIO prefix.
 
 *Recommended:*
 Any course taught at the Wilderness Field Station
-{{< var c.bio105.long >}}
-{{< var c.mth145.long >}}
-{{< var c.rhe257.long >}}
-{{< var c.sta100.long >}} **and** {{< var c.sta110.long >}}
-{{< var c.sta100.long >}} **and** {{< var c.sta130.long >}}
+	{{< var c.bio105.long >}}
+	{{< var c.mth145.long >}}
+	{{< var c.rhe257.long >}}
+	{{< var c.sta100.long >}} **and** {{< var c.sta110.long >}}
+	{{< var c.sta100.long >}} **and** {{< var c.sta130.long >}}
 
 **NOTE:**  *Students should select courses from the economics, political science, and philosophy departments as part of their general education program.*
 

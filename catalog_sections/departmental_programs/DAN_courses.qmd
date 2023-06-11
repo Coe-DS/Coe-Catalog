@@ -1,7 +1,7 @@
-### Dance (Courses Only)
+## Dance (Courses Only)
 Rezabek, Wolverton.
 
-#### Courses in Dance
+### Courses in Dance
 
 - **{{< var c.dan101.long >}}**
   {{< var c.dan101.desc >}} 

@@ -1,0 +1,113 @@
+## Film Studies
+Cohen (Co-Coordinator), Lausch, Rogers (Co-Coordinator).
+
+The film studies major is an interdisciplinary major that allows a student to focus on the particular aspect of film studies that interests her or him most – for example, film writing, cinema studies, or digital production.
+
+### Film Studies Major
+A major in film requires a minimum cumulative 2.0 GPA in all courses counted toward the major. A major in film studies requires ten courses taken from each of the three disciplines represented in the major.
+1. {{< var c.art150.long >}}
+2. {{< var c.flm105.long >}} and {{< var c.flm105L.long >}}
+3. {{< var c.flm200.long >}} and {{< var c.flm200L.long >}}
+4. {{< var c.flm225.long >}} and {{< var c.flm225L.long >}}
+5. {{< var c.flm464.long >}} and {{< var c.flm474.long >}}
+6. **Five** courses chosen from the following, in consultation with the Film Studies administrative coordinator.  At least two of the courses must be completed at the 300 level or above, and no more than two courses may be selected with the same prefix.
+	{{< var c.art145.long >}}
+	{{< var c.art155.long >}}
+	{{< var c.art325.long >}}
+	{{< var c.art361.long >}}
+	{{< var c.art370.long >}}
+	{{< var c.com151.long >}}
+	{{< var c.com157.long >}}
+	{{< var c.com161.long >}}
+	{{< var c.com337.long >}}
+	{{< var c.com341.long >}}
+	{{< var c.com357.long >}}
+	{{< var c.crw255.long >}} or {{< var c.the255.long >}}
+	{{< var c.crw350.long >}}
+	{{< var c.flm250.long >}}
+	{{< var c.flm350.long >}}
+	{{< var c.flm442.long >}}
+	{{< var c.flm494.long >}}
+	{{< var c.mu140.long >}}
+	{{< var c.mu195.long >}}
+	{{< var c.rhe137.long >}}
+	{{< var c.rhe146.long >}}
+	{{< var c.rhe200.long >}}
+	{{< var c.rhe255.long >}}
+	{{< var c.rhe257.long >}}
+	{{< var c.the130.long >}}
+	{{< var c.the140.long >}}
+	{{< var c.the220.long >}}
+	{{< var c.the290.long >}}
+
+
+### Film Studies Minor
+A minor in film studies requires six courses chosen in consultation with the Film Studies administrative coordinator.
+1. {{< var c.art150.long >}}
+2. {{< var c.flm105.long >}} and {{< var c.flm105L.long >}}
+3. {{< var c.flm200.long >}} and {{< var c.flm200L.long >}}
+4. {{< var c.flm225.long >}} and {{< var c.flm225L.long >}}
+5. **One** of the following:
+	{{< var c.art145.long >}}
+	{{< var c.art155.long >}}
+	{{< var c.art325.long >}}
+	{{< var c.art361.long >}}
+	{{< var c.art370.long >}}
+	{{< var c.com151.long >}}
+	{{< var c.com157.long >}}
+	{{< var c.com161.long >}}
+	{{< var c.crw255.long >}} or {{< var c.the255.long >}}
+	{{< var c.mu140.long >}}
+	{{< var c.mu195.long >}}
+	{{< var c.rhe137.long >}}
+	{{< var c.rhe146.long >}}
+	{{< var c.rhe200.long >}}
+	{{< var c.rhe255.long >}}
+	{{< var c.rhe257.long >}}
+	{{< var c.the130.long >}}
+	{{< var c.the140.long >}}
+	{{< var c.the220.long >}}
+	{{< var c.the290.long >}}
+6. **One** of the following:
+	{{< var c.crw350.long >}}
+	{{< var c.com337.long >}}
+	{{< var c.com341.long >}}
+	{{< var c.com357.long >}}
+	{{< var c.flm350.long >}}
+	{{< var c.flm442.long >}}
+	{{< var c.flm494.long >}}
+
+
+### Courses in Film Studies
+- **{{< var c.flm105/flm105L.long >}}**
+  {{< var c.flm105/flm105L.desc >}} 
+- **{{< var c.flm200/flm200L.long >}}**
+  {{< var c.flm200/flm200L.desc >}} 
+- **{{< var c.flm225.long >}}**
+  {{< var c.flm225.desc >}} 
+- **{{< var c.flm250.long >}}**
+  {{< var c.flm250.desc >}} 
+- **{{< var c.flm350.long >}}**
+  {{< var c.flm350.desc >}} 
+- **{{< var c.flm442.long >}}**
+  {{< var c.flm442.desc >}} 
+- **{{< var c.flm464.long >}}**
+  {{< var c.flm464.desc >}} 
+- **{{< var c.flm474.long >}}**
+  {{< var c.flm474.desc >}} 
+- **{{< var c.flm494.long >}}**
+  {{< var c.flm494.desc >}} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

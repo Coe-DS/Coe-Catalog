@@ -1,4 +1,4 @@
-### English
+## English
 
 Aspengren, Ferguson, Hausknecht, LeMay, McQueen, Shaw (Chair), Sodeman, Valderrama
 
@@ -6,7 +6,7 @@ The study of English allows students to explore a wide range of literary and cul
 In consultation with their advisors, English majors are able to design personalized programs of study that attend to the historical and geographical range of literatures in English.  Students considering graduate work in literature should consult with English faculty to plan a rigorous course of study that would typically include an honors thesis and coursework in a world language.
 
 
-**English Major**
+### English Major
 A major in English requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 1. {{< var c.eng111.long >}}
 2. {{< var c.eng281.long >}}
@@ -17,11 +17,11 @@ A major in English requires a minimum cumulative 2.0 GPA in all courses counted 
 7.{{< var c.eng464.long >}} _OR_ {{< var c.eng467.long >}}
 
 
-**English Minor**
+### English Minor
 The minor in English consists of five course credits, including {{< var c.eng111.long >}} and _two_ English courses numbered 300 or above. One course in Creative Writing (CRW-) or in French, or Spanish literature in translation ({{< var c.fre145.long >}}, {{< var c.fre146.long >}}, {{< var c.fre148.long >}}, {{< var c.spa148.long >}}) may count toward the five course credits.
 
 
-#### Courses in Literature
+### Courses in Literature
 
 - **{{< var c.eng105.long >}}**
   {{< var c.eng105.desc >}}  
@@ -100,8 +100,8 @@ The minor in English consists of five course credits, including {{< var c.eng111
 - **{{< var c.eng394.long >}}**
   {{< var c.eng394.desc >}}  
 
-**ADVANCED STUDY IN ENGLISH**
-Students registering for these courses must fulfill the _prerequisites_ first and should consult with English department faculty if they have questions. 
+### ADVANCED STUDY IN ENGLISH
+Students registering for these courses must fulfill the **prerequisites** first and should consult with English department faculty if they have questions. 
 
 - **{{< var c.eng454.long >}}**
   {{< var c.eng454.desc >}}  
