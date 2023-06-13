@@ -22,6 +22,7 @@ book:
         - catalog_sections/academic_calendar.qmd
         - catalog_sections/courses.qmd
         - catalog_sections/departmental_programs/DS_courses.qmd
+        - catalog_sections/departmental_programs/FRE_courses.qmd
     - catalog_sections/references.qmd
 
 bibliography: references.bib

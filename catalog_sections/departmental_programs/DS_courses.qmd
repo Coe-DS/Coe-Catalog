@@ -1,4 +1,4 @@
-### Data Science
+## Data Science
 
 Here is a description of the major.
 
@@ -7,7 +7,7 @@ And the major requirments:
 - abcd
 - abcd
 
-#### Courses in Data Science
+### Courses in Data Science
 
 - **{{< var c.ds230.long >}}**
   {{< var c.ds230.desc >}}  

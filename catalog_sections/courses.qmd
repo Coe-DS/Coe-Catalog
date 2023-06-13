@@ -1,8 +1,6 @@
----
-mustache: ./course_list.yaml
----
 
-# Here is a list of courses: {.unnumbered}
+
+# Here is a list of courses: 
 
 - @ds230
 - @ds230
@@ -14,3 +12,4 @@ mustache: ./course_list.yaml
   - {{< var c.ds260.desc >}}
 
 
+{{< include departmental_programs/ds_courses.qmd >}}
