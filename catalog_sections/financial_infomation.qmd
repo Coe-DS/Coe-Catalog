@@ -18,6 +18,7 @@ A $300 non-refundable enrollment fee is paid to the College by the accepted cand
 
 Coe College charges tuition, room, board, and student fees. The student fees include Health Services and an Activity Fee which is allocated to the Student Senate for apportionment among various student activities such as the student newspaper, literary magazine, and social events. Expenses not covered by the Comprehensive Fee include some music lessons, books, linen service, personal expenses, certain specific campus events, and health and accident insurance. 
 
+|                                              |          |
 |:---------------------------------------------|---------:|
 | Tution                                       | $50,314  |
 | Board                                        | $5,726   |
@@ -96,11 +97,17 @@ In accordance with federal regulations, a Title IV refund calculation must be pe
 ### Return of Financial Aid Funds Policy Steps
 
 * Step 1: Determine the percentage of enrollment period completed by the student. If the calculated percentage is equal to or greater than 60%, the student has “earned” all aid for the enrollment period and no adjustment in financial aid occurs.
+
 	Days Attended ÷ Days in Enrollment Period = Percentage Completed
+
 * Step 2: Apply the percentage completed to the Title IV aid award to determine the student’s eligibility for financial aid prior to the withdrawal.
-	$(Total Aid Disbursed + Aid that could have been disbursed) x Percentage Completed = Earned Aid$
+
+	(Total Aid Disbursed + Aid that could have been disbursed) x Percentage Completed = Earned Aid
+
 * Step 3: Determine the amount of unearned financial aid to be returned to the appropriate Title IV financial aid program.
+	
 	Total Disbursed Aid – Earned Aid = Unearned Aid to be Returned
+
     + If the aid already disbursed equals the earned aid, no further action is required.
     + If the aid already disbursed is greater than the earned aid, the difference must be returned to the appropriate Title IV aid program.
     + If the aid already disbursed is less than the earned aid, a late disbursement may be made to the student.
@@ -122,7 +129,9 @@ The Coe College Student Financial Service Office is required to return any unear
 The student will be informed by the Student Financial Services Office of the type and amount of FSA program funds that are being returned on their behalf and of the amount the student must return. If the student’s portion of aid to be returned is a loan, the terms of the original loan repayment agreement will apply. The amount of unearned grant funds a student must repay is limited to the amount by which unearned grant funds disbursed exceed half of the original grant award by $50 or more. In general, the Student Financial Services Office will return the grant funds to the appropriate federal program and charge the student’s Coe account, which will result in debt to the college.
 
 * Step 5: Determine earned FSA assistance that has not been disbursed.
+	
 	Total Aid Earned – Total Aid Disbursed = Earned Aid not Disbursed
+
 Grant aid that was earned, but had not been applied before the student withdrew, will be applied to the students account within 45 days. Loan proceeds that could be disbursed after the student withdrew will only be disbursed if the student requests a disbursement within 14 days of receiving notice from the Student Financial Services of their eligibility of a post-withdrawal loan disbursement.
 
 ### Institutional Refund Calculation/Policy
