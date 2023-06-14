@@ -1,22 +1,33 @@
-### Social & Criminal Justice
+## Social & Criminal Justice
 L. Barnett, J. Christensen, Lemos, McNabb (Administrative Coordinator).
+
 The Social & Criminal Justice Program offers students an opportunity to immerse themselves in an interdisciplinary major that draws from Coe’s rich tradition in the liberal arts, as well as the pre-professional opportunities at the college. Core courses in the major address multifaceted questions surrounding restorative, retributive, procedural, and distributive justice. While many programs addressing such issues are housed in the field of criminal justice studies, the SCJ faculty teach topics within the major from varying perspectives and disciplines, introducing students to the ways in which matters of justice are at work in — and essential to — many areas of study.
+
 The major is both local and global in nature, exhibiting the possibilities and limitations of social and criminal justice initiatives in the Cedar Rapids community, while also navigating matters of human rights and comparative justice systems that reveal our connections to the broader world.
+
 Through interdisciplinary engagement and a required practicum, the SCJ program demonstrates for students how a multiplicity of voices and viewpoints can help to shape new ideas about the impact of social justice initiatives upon the criminal justice system, and the foundations of individual and collective community engagement.
 
-#### Social & Criminal Justice Major
+### Social & Criminal Justice Major
 A major in Social & Criminal Justice requires a cumulative 2.0 GPA in all courses counted toward the major.
+
 1. {{< var c.scj101.long >}} 
+
 2. {{< var c.scj201.long >}} 
+
 3. {{< var c.scj235.long >}} 
+
 4. {{< var c.phl285.long >}} 
+
 5. {{< var c.scj350.long >}} 
-6. {{< var c.soc351.long >}} 
+
+6. {{< var c.soc351.long >}}
+ 
 7. **One** of the following:
-	{{< var c.sta100.long >}} (7 weeks) and {{< var c.sta110.long >}} (7 weeks)
-	{{< var c.sta100.long >}} (7 weeks) and {{< var c.sta130.long >}} (7 weeks)
+	{{< var c.sta100.long >}} (7 weeks) **and** {{< var c.sta110.long >}} (7 weeks)
+	{{< var c.sta100.long >}} (7 weeks) **and** {{< var c.sta130.long >}} (7 weeks)
 	{{< var c.sta190.long >}}
 	{{< var c.psy300.long >}}
+
 8. **Three** courses, chosen from the following, in consultation with the student’s advisor and/or the Social & Criminal Justice administrative coordinator. No more than two courses may be selected from the same prefix.
 	{{< var c.acc313.long >}}
 	{{< var c.arh107.long >}}
@@ -64,6 +75,7 @@ A major in Social & Criminal Justice requires a cumulative 2.0 GPA in all course
 	{{< var c.soc355.long >}}
 	{{< var c.soc425.long >}}
 	A course approved by the Social & Criminal Justice administrative coordinator
+
 9. **One** of the following capstone projects:
 	{{< var c.scj444.long >}}
 	{{< var c.scj494.long >}}
@@ -71,9 +83,10 @@ A major in Social & Criminal Justice requires a cumulative 2.0 GPA in all course
 	{{< var c.wsh464.long >}} (if internship has SCJ focus)
 
 As a capstone experience, it is expected that students will carry out the project during the junior or senior year, after completing the majority of the required coursework. Students are expected to consult with the SCJ administrative coordinator prior to beginning their projects. 
+
 10. {{< var c.scj490.long >}} -- Non-Credit Bearing
 
-#### Courses Social & Criminal Justice
+### Courses Social & Criminal Justice
 
 - **{{< var c.scj101.long >}}**
   {{< var c.scj101.desc >}}  
