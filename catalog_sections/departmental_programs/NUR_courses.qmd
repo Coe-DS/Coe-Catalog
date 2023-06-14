@@ -1,9 +1,10 @@
-### Nursing
+## Nursing
 
 Bursch (Chair), Dehner, Guthrie, Kittrell, Siems, Umbarger-Mackey 
+
 A description of policies unique to the nursing department is in the *Nursing Department Student Policies Manual*. Copies of the manual are available in the Nursing Department Office, Stuart Hall 415, and online.
 
-#### The Bachelor of Science in Nursing Program
+### The Bachelor of Science in Nursing Program
 
 The baccalaureate nursing program is designed to prepare students for practice as professional nurses in a variety of settings. The upper division nursing courses draw upon broad and diverse knowledge gained from the liberal arts foundation to support the educational outcomes. 
 
@@ -11,18 +12,19 @@ Clinical experiences in the program include working with clients across the age 
 
 Graduates of the Bachelor of Science in Nursing degree program are eligible to take the state board licensing examination for Registered Nurses. They are also eligible for admission to graduate programs in nursing and to advanced nurse practitioner programs. The Coe College nursing program is approved by the Iowa Board of Nursing and accredited by the Commission on Collegiate Nursing Education (CCNE). 
 
-Coe College offers two paths to enter the nursing program.  Standard entry is for sophomore level (or higher) college students and direct entry is for selected high school seniors.  Details for both plans are found in the *Nursing Department Student Policies Manual*.  Copies of the manual are available in the Nursing Department Office.  At the end of the sophomore year, a student must possess valid licensure, e.g. Licensed Practical Nurse (LPN) or Certified Nursing Assistant (Direct Care Worker).   A student with a revoked license from any state will NOT be admitted into the nursing program.  In addition, a clinical component may not be taken by a person: a) who had been denied licensure by the State Board of Nursing, b) whose licensure is currently suspended, surrendered or revoked in any United States jurisdiction, c) whose licensure/ registration is currently suspended, surrendered or revoked in another country due to disciplinary action.
+Coe College offers two paths to enter the nursing program.  Standard entry is for sophomore level (or higher) college students and direct entry is for selected high school seniors.  Details for both plans are found in the *Nursing Department Student Policies Manual*.  Copies of the manual are available in the Nursing Department Office.  At the end of the sophomore year, a student must possess valid licensure, e.g. Licensed Practical Nurse (LPN) or Certified Nursing Assistant (Direct Care Worker). A student with a revoked license from any state will NOT be admitted into the nursing program. In addition, a clinical component may not be taken by a person: a) who had been denied licensure by the State Board of Nursing, b) whose licensure is currently suspended, surrendered or revoked in any United States jurisdiction, c) whose licensure/ registration is currently suspended, surrendered or revoked in another country due to disciplinary action.
 
 The nursing department Admission, Promotion, and Retention committee reviews applications and selects candidates who are best qualified to meet the standards of the nursing profession. Admission to the BSN degree program is competitive. Those applicants who appear to be the most qualified will be admitted. Standard and direct entry students are expected to maintain the eligibility requirements as outlined in the *Nursing Department Student Policies Manual*. 
 
 #### Departmental Notes: 
-In order to successfully complete a course and be promoted to successive courses, students must 
-- Achieve a minimum grade of C (2.0) in all nursing courses; a grade of C- (1.7) or lower requires the student to repeat the course.
-- Achieve a cumulative average of 72% on all exams in a given course.
+In order to successfully complete a course and be promoted to successive courses, students must:
+	+ Achieve a minimum grade of C (2.0) in all nursing courses; a grade of C- (1.7) or lower requires the student to repeat the course.
+	+ Achieve a cumulative average of 72% on all exams in a given course.
 
 Candidates for the **Bachelor of Science in Nursing** degree must satisfactorily complete: 
-1. The general education requirements (see p. ).
-2. [Eight] required supporting courses:
+1. The general education requirements (see @sec-general-education-requirement ).
+
+2. **Eight** required supporting courses:
 Biology         {{< var c.bio145.long >}}
 		{{< var c.bio195.long >}}
 		{{< var c.bio215_215l.long >}}
@@ -30,10 +32,13 @@ Biology         {{< var c.bio145.long >}}
 Chemistry	{{< var c.bio111_111l.long >}}
 Psychology 	{{< var c.psy100.long >}}
 Sociology	{{< var c.soc107.long >}}
-Statistics 	{{< var c.sta300.long >}} **[or]{.underlined}**
-		{{< var c.sta100.long >}} (7 weeks) **[and]{.underlined}** {{< var c.sta110.long >}}
+Statistics 	{{< var c.sta300.long >}} **or**
+		{{< var c.sta100.long >}} (7 weeks) **and** {{< var c.sta110.long >}}
+
 3. {{< var c.nur100.long >}} (0.2 course credit) (Pre-nursing students must enroll each term of the first year.  A maximum of two seminars may be counted for credit toward graduation.)
-4. {{< var c.nur100.long >}} (0.2 course credit) (Pre-nursing students must enroll each term of the sophomore year. A maximum of two seminars may be counted for credit toward graduation.)
+
+4. {{< var c.nur200.long >}} (0.2 course credit) (Pre-nursing students must enroll each term of the sophomore year. A maximum of two seminars may be counted for credit toward graduation.)
+
 5. Nine non-clinical theory course credits: 
 	{{< var c.nur300.long >}} 
 	{{< var c.nur305.long >}}
@@ -44,16 +49,19 @@ Statistics 	{{< var c.sta300.long >}} **[or]{.underlined}**
 	{{< var c.nur430.long >}}
 	{{< var c.nur431.long >}}
 	{{< var c.nur495.long >}}
+
 6. Four two-course-credit clinical courses: 
 	{{< var c.nur315_315l.long >}}
 	{{< var c.nur355_355l.long >}}
 	{{< var c.nur415_415l.long >}}
 	{{< var c.nur455_455l.long >}}
+
 7. A formal NCLEX review course (at the student’s expense)
+
 8. All required supporting courses and required nursing courses listed above, with no one specific course repeated more than once and with no more than two different courses repeated.
 
 
-#### Courses in Nursing
+### Courses in Nursing
 
 - **{{< var c.nur100.long >}}**
   {{< var c.dsnur100.desc >}}  
