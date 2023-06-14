@@ -1,24 +1,31 @@
-### Political Science
+## Political Science
 Barrow, Lanegran (Chair), B. Nesmith.
+
 The department of political science emphasizes the breadth of political science and presents politics as a worldwide phenomenon. The department nurtures active and responsible habits of citizenship, encouraging service learning and the development of political values, while offering students a variety of opportunities to study politics outside the classroom.
 
-#### Political Science Major
+### Political Science Major
 A major in political science requires a cumulative 2.0 GPA in all courses counted toward the major.
+
 A major in political science requires ten courses, including at least three 300- or 400-level courses. 
-1. {{< var c.pol108.long >}} 
+
+1. {{< var c.pol108.long >}}
+ 
 2. {{< var c.pol115.long >}}
-3. [One]{.underlined} political theory course:
+
+3. **One** political theory course:
 	{{< var c.pol405.long >}}
 	{{< var c.pol435.long >}}
 	{{< var c.pol445.long >}} 
-4. [One]{.underlined} additional American government course:
+
+4. **One** additional American government course:
 	{{< var c.pol207.long >}} 
 	{{< var c.pol245.long >}}
 	{{< var c.pol277.long >}}
 	{{< var c.pol325.long >}}
 	{{< var c.pol345.long >}}
-	{{< var c.pol350.long >}} 
-5. [Two]{.underlined} comparative or international politics courses:
+	{{< var c.pol350.long >}}
+
+5. **Two** comparative or international politics courses:
 	{{< var c.pol248.long >}}
 	{{< var c.pol258.long >}}
 	{{< var c.pol266.long >}}
@@ -30,25 +37,33 @@ A major in political science requires ten courses, including at least three 300-
 	{{< var c.pol365.long >}}
 	{{< var c.pol386.long >}}
 	{{< var c.pol398.long >}}
-6. [Four]{.underlined} additional political science courses
+
+6. **Four** additional political science courses
+
 Satisfactory work in Topics in Political Science (POL-284/-296) may be used, with consent of department chair, to satisfy any departmental requirement. 
 
-#### Political Science Minor
+### Political Science Minor
+
 A minor in political science requires six courses, including at least two 300- or 400-level courses. 
+
 1. {{< var c.pol108.long >}}
+
 2. {{< var c.pol115.long >}}
-3. [One]{.underlined} political theory course:
+
+3. **One** political theory course:
 	{{< var c.pol405.long >}}
 	{{< var c.pol435.long >}}
-	{{< var c.pol445.long >}} 	 
-4. [One]{.underlined} additional American government course: 
+	{{< var c.pol445.long >}}
+ 	 
+4. **One** additional American government course: 
 	{{< var c.pol207.long >}} 
 	{{< var c.pol245.long >}}
 	{{< var c.pol277.long >}}
 	{{< var c.pol325.long >}}
 	{{< var c.pol345.long >}}
 	{{< var c.pol350.long >}}
-5. [One]{.underlined} comparative or international politics course:
+
+5. **One** comparative or international politics course:
 	{{< var c.pol248.long >}}
 	{{< var c.pol258.long >}}
 	{{< var c.pol266.long >}}
@@ -59,11 +74,13 @@ A minor in political science requires six courses, including at least two 300- o
 	{{< var c.pol310.long >}}
 	{{< var c.pol365.long >}}
 	{{< var c.pol386.long >}}
-	{{< var c.pol398.long >}}		
-6. [One]{.underlined} additional political science course
+	{{< var c.pol398.long >}}
+		
+6. **One** additional political science course
+
 Satisfactory work in Topics in Political Science (POL-284/-296) may be used, with consent of department chair, to satisfy any departmental requirement. 
 
-#### Courses in Political Science
+### Courses in Political Science
 
 - **{{< var c.pol108.long >}}**
   {{< var c.pol108.desc >}}  
@@ -124,10 +141,10 @@ Satisfactory work in Topics in Political Science (POL-284/-296) may be used, wit
 - **{{< var c.pol494.long >}}**
   {{< var c.pol494.desc >}} 
 - **{{< var c.wsh284.long >}}**
-See description, [p]() 
+See description, @washington-term
 - **{{< var c.wsh286.long >}}**
-See description, [p]()   
+See description, @washington-term
 - **{{< var c.wsh464.long >}}**
-See description, [p]() 
+See description, @washington-term
 - **{{< var c.wsh494.long >}}**
-See description, [p]() 
+See description, @washington-term
