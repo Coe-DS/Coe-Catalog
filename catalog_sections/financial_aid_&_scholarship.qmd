@@ -38,6 +38,7 @@ This scholarship is awarded to students who show passion and concern for our env
 The Coe College community values the ability each student has to make an impact on campus.  This award recognizes this relationship the student has with the campus community. Eligible students are notified of the requirements to receive this award upon admission to the College.
 
 **Renewal Criteria**
+
 + All scholarships are renewable on an annual basis. Renewal is contingent on full-time study and will not exceed eight terms of full-time study. 
 + The renewal for the Williston Jones, Trustee, and Visual and Performing Arts scholarships will be based on Satisfactory Academic Progress (SAP). See @sec-satisfactory-academic-progress-policy for SAP GPA and pace standards. Winners of music and theatre scholarships must meet participation criteria as specified in their award letter. Full criteria for renewal of all scholarships are outlined in scholarship notification letters.
 + Students who fall below the required academic scholarship criteria or determine that should contact the Student Financial Services  to determine if they are eligible for an extension to meet the GPA requirements or if other funds may be available to assist with offsetting the loss of a scholarship.
@@ -53,7 +54,8 @@ When a FAFSA is filed, a standard formula is used to calculate the expected fami
 Application for all need-based financial aid programs must be made for each year the student is enrolled. The FAFSA is available online at [Federal Student Aid](www.fafsa.gov).
 
 **Verification Process** 
-Federal regulations require that some applicants who are eligible for need-based financial aid complete the verification process. Students may be chosen for verification by the U.S. Department of Education or by Coe College. Applicants selected for verification are required to submit supporting documentation to the Student Financial Services. These supporting documents may include, but are not limited to, copies of student and parent IRS tax transcripts from a prior tax year, verification of untaxed income received, family size and the number of family members attending college during the next academic year. Returning students selected for verification will not receive a financial aid award offer until all requested documents are received and reviewed by the Student Financial Services Office. Prospective students will receive a preliminary financial aid award offer prior to completion of verification. In order to finalize the awards offered, all requested documents should be received by the Student Financial Services Office at least one month prior to the end of the award period. A financial aid award is subject to change if verification results in a change to the Expected Family Contribution (EFC). During the verification process the Student Financial Services Office will contact students if clarification is needed on any of the information reported on the FAFSA or if it is necessary to make corrections to the FAFSA data. 
+
+	Federal regulations require that some applicants who are eligible for need-based financial aid complete the verification process. Students may be chosen for verification by the U.S. Department of Education or by Coe College. Applicants selected for verification are required to submit supporting documentation to the Student Financial Services. These supporting documents may include, but are not limited to, copies of student and parent IRS tax transcripts from a prior tax year, verification of untaxed income received, family size and the number of family members attending college during the next academic year. Returning students selected for verification will not receive a financial aid award offer until all requested documents are received and reviewed by the Student Financial Services Office. Prospective students will receive a preliminary financial aid award offer prior to completion of verification. In order to finalize the awards offered, all requested documents should be received by the Student Financial Services Office at least one month prior to the end of the award period. A financial aid award is subject to change if verification results in a change to the Expected Family Contribution (EFC). During the verification process the Student Financial Services Office will contact students if clarification is needed on any of the information reported on the FAFSA or if it is necessary to make corrections to the FAFSA data. 
 
 ### Need-based Gift Aid
 
@@ -131,9 +133,9 @@ William D. Ford Federal Direct Stafford Loans must be repaid by the student. The
 + **Federal Direct PLUS Loan Program for Graduate Students**  
 	Federal Direct PLUS Loan Program for Graduate Students must be repaid by the student. The terms and conditions applicable to the Parent PLUS Loan (made to parents of dependent students) also apply to PLUS Loans made to graduate students.
 
-### General Policies 
+### General Policies {#sec-financial-aid-satisfactory-academic-prgress-policy}
 
-**Financial Aid Satisfactory Academic Progress Policy — Academic Year 22–23** {#sec-financial-aid-satisfactory-academic-prgress-policy}
+**Financial Aid Satisfactory Academic Progress Policy — Academic Year 22–23** 
 
 	The Student Financial Services Office is required to monitor students who receive federal financial aid to determine if they are making satisfactory academic progress (SAP) toward their degree program.
 
@@ -143,7 +145,8 @@ William D. Ford Federal Direct Stafford Loans must be repaid by the student. The
 
 	SAP is measured in three components: Cumulative Grade Point Average (GPA); Pace (Completion Rate); and Maximum Time Frame Limitation.
 
-1. **GPA:**  A student in an undergraduate program must meet minimum GPA standards.  
+1. **GPA:**  A student in an undergraduate program must meet minimum GPA standards.
+	  
 |   Total Course Credit Attemptted[^2]  |  Cumulative Minimun GPA  |
 |:-------------------------------------:|:------------------------:|
 | 0 – 4.99                              | 1.5                      |
@@ -152,16 +155,17 @@ William D. Ford Federal Direct Stafford Loans must be repaid by the student. The
 | 12 – 15.99                            | 1.9                      |
 | 16 and above                          | 2.0                      |
 
-: {tbl-colwidths="[50,50]"}
+{tbl-colwidths="[50,50]"}
 
 2. **Pace:** A student must complete an incremental percentage of all cumulative credits attempted.
+
 |   Total Course Credit Attemptted[^2]  | Minimum Percentage of Attempted Course Credit Completed |
 |:-------------------------------------:|:------------------------:|
 | 0 – 7.99                              | 58%                      |
 | 8 – 15.99                             | 64%                      |
 | 16 and above                          | 70%                      |
 
-: {tbl-colwidths="[50,50]"}
+{tbl-colwidths="[50,50]"}
 
 [^1]: An academic year for the purpose of administering federal financial aid is defined as minimum two 15-week terms for a total 30 weeks during which the average undergraduate student is expected to complete a minimum of six (6.0) course credits.  Enrollment in a minimum of three (3.0) course credits per term is required in order to be considered a full-time student.  
 
