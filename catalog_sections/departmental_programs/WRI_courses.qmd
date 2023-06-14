@@ -3,49 +3,49 @@ The writing major (within the Rhetoric department) is designed to help students 
 
 #### Writing Major
 A major in Writing requires a cumulative 2.0 GPA in all courses counted toward the major.
-1. RHE-200 Rhetorical Theory & Practice
-2. [One] of the following:
-   RHE-225 Journalism and Media Writing Workshop (WE)
-   RHE-255 The Essay (WE)
-3. [One] of the following:
-   RHE-377 Cultural Studies (WE)
-   COM-382/RHE-382 Research Methods: Rhetorical/Critical (WE)
-4. [Six] credits, including any course with an RHE prefix not already fulfilling another requirement, or any of the courses from the list below. No more than two courses with the CRW or COM prefix may count toward the major.
-   COM-241 Introduction to Multimedia Journalism (WE) 
-   COM-341 Digital Storytelling (WE)
-   COM-361 Communication and Social Change 
-   COM-362 U.S. Public Address (WE)
-   COM-382/RHE-382 Research Methods: Rhetorical/Critical (WE) (if not used to fulfill requirement #3)
-   COM-462 Seminar in Public Discourse (WE)
-   CRW-115 Exploring Creative Writing (WE)
-   CRW-255 Playwriting Workshop 1 (WE)
-   CRW-280 Poetry Workshop 1 (WE)
-   CRW-290 Fiction Workshop 1 (WE)
-   CRW-355 Playwriting Workshop 2 (WE)
-   CRW-380 Poetry Workshop 2 (WE)
-   CRW-390 Fiction Workshop 2 (WE)
-5. [One] of the following:
-   RHE-415 How Writers Write (WE) (If not used to satisfy requirement #4)
-   RHE-425 Advanced Topics in Writing and Rhetoric (WE) (if not used to satisfy requirement #4)
-   RHE-444 Independent Study in Writing and Rhetoric (WE)
-   An Honors Thesis 
+1. {{< var c.rhe200.long >}}
+2. **One** of the following:
+   {{< var c.rhe225.long >}} 
+   {{< var c.rhe255.long >}} 
+3. **One** of the following:
+	{{< var c.rhe377.long >}}
+	{{< var c.com382.long >}} **or** {{< var c.rhe382.long >}}
+4. **Six** credits, including any course with an RHE prefix not already fulfilling another requirement, or any of the courses from the list below. No more than two courses with the CRW or COM prefix may count toward the major.
+	{{< var c.com241.long >}}
+	{{< var c.com341.long >}}
+	{{< var c.com361.long >}}
+	{{< var c.com362.long >}}
+	{{< var c.com382.long >}} or {{< var c.rhe382.long >}} (if not used to fulfill requirement #3)
+	{{< var c.com462.long >}}
+	{{< var c.com115.long >}}
+	{{< var c.com255.long >}}
+	{{< var c.com280.long >}}
+	{{< var c.com290.long >}}
+	{{< var c.com355.long >}}
+	{{< var c.com380.long >}}
+	{{< var c.com390.long >}}
+5. **One** of the following:
+	{{< var c.rhe415.long >}} (If not used to satisfy requirement #4)
+	{{< var c.rhe425.long >}} (if not used to satisfy requirement #4)
+	{{< var c.rhe444.long >}}
+	An Honors Thesis 
 6. A portfolio of works completed in the major (minimum 3, maximum 4), preceded by a preface that synthesizes major threads/themes of learning, and reflects on programmatic learning outcomes and on what takeaways from the major the student anticipates being most important as they prepare for their post-baccalaureate life. The portfolio should be submitted by the end of the term prior to the student’s intended graduation date, unless circumstances suggest it should be submitted later (confer with advisor and department chair).
 
 ##### Writing Minor
 A minor in Writing requires five credits, including RHE-200 Rhetorical Theory and Practice and one RHE course numbered 300 or above. Any course with an RHE prefix or chosen from the list below may count toward the five credits; no more than two courses with CRW or COM prefix may count toward the minor. A cumulative 2.0 GPA is required in all courses counted toward the minor.
-   COM-241 Introduction to Multimedia Journalism (WE)
-   COM-341 Digital Storytelling (WE)
-   COM-361 Communication and Social Change 
-   COM-362 U.S. Public Address (WE)
-   COM-382/RHE-382 Research Methods: Rhetorical/Critical (WE)
-   COM-462 Seminar in Public Discourse (WE)
-   CRW-115 Exploring Creative Writing (WE)
-   CRW-255 Playwriting Workshop 1 (WE)
-   CRW-280 Poetry Workshop 1 (WE)
-   CRW-290 Fiction Workshop 1 (WE)
-   CRW-355 Playwriting Workshop 2 (WE)
-   CRW-380 Poetry Workshop 2 (WE)
-   CRW-390 Fiction Workshop 2 (WE)
+	{{< var c.com241.long >}}
+	{{< var c.com341.long >}}
+	{{< var c.rhe361.long >}}
+	{{< var c.rhe362.long >}}
+	{{< var c.rhe382.long >}} **or** {{< var c.rhe382.long >}}
+	{{< var c.com462.long >}}
+	{{< var c.crw115.long >}}
+	{{< var c.crw255.long >}}
+	{{< var c.crw280.long >}}
+	{{< var c.crw290.long >}}
+	{{< var c.crw355.long >}}
+	{{< var c.crw380.long >}}
+	{{< var c.crw390.long >}}
 
 #### Courses in Rhetoric 
 - **{{< var c.rhe100.long >}}**
