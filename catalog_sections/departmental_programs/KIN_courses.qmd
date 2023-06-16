@@ -1,0 +1,153 @@
+## Kinesiology {#sec-kinesiology}
+Atwater, Brendes, Chandler, R. Christensen, Galbraith, Gee, Griffith, LeFevre, Libby, Martin, Molinari, Parks, Prunty, Rice, Roberts, E. Rodgers, Rydze (Chair), Snyder, Tiedt, Walter, Woodin.
+
+The kinesiology department’s program enables students to earn a major in physical education for teacher certification, a coaching endorsement, a coaching authorization, and a teacher health certification endorsement. Students may also pursue a track that focuses on health and human performance. 
+
+### Kinesiology Major 
+A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+
+### Secondary Education Emphasis in Physical Education
+1. {{< var c.bio155.long >}}
+2. **One** of the following:
+	{{< var c.bio103.long >}}
+	{{< var c.bio215.long >}} **AND** {{< var c.bio225.long >}}
+3. {{< var c.kin105.long >}}
+4. {{< var c.kin165.long >}}
+5. {{< var c.kin175.long >}}
+6. {{< var c.kin225.long >}}
+7. {{< var c.kin347.long >}}
+8. {{< var c.kin365.long >}}
+9. {{< var c.kin415.long >}}
+10. {{< var c.kin440.long >}}
+11. {{< var c.kin442.long >}}
+12. {{< var c.kin495.long >}}
+
+### Kinesiology Major — Fitness Development
+1. {{< var c.bio155.long >}}
+2. **One** of the following:
+	{{< var c.bio103.long >}}
+	{{< var c.bio215.long >}} **AND** {{< var c.bio225.long >}}
+3. {{< var c.kin105.long >}}
+4. {{< var c.kin115.long >}}
+5. {{< var c.kin175.long >}}
+6. {{< var c.kin365.long >}}
+7. {{< var c.kin440.long >}}
+8. {{< var c.kin442.long >}}
+9. **All** of the following courses in the **Strength and Conditioning Group**: 
+	{{< var c.kin103.long >}} or {{< var c.kin104.long >}}
+	{{< var c.kin103.long >}} or {{< var c.kin104.long >}}
+	{{< var c.kin185.long >}} 
+	{{< var c.kin385.long >}}
+	{{< var c.kin405.long >}}
+	{{< var c.kin495.long >}}
+		**or**
+	**All** of the following courses in the **Health and Wellness Group**: 
+	{{< var c.kin125.long >}}
+	{{< var c.kin135.long >}}
+	{{< var c.kin155.long >}}
+
+### State of Iowa Coaching Endorsement (#55, K-12) 
+1. Teaching certification in an academic area 
+2. {{< var c.kin175.long >}}
+3. {{< var c.kin201.long >}}
+The Coaching Endorsement (#55, K-12) may be granted to any student with teacher certification completing a major in kinesiology and by taking {{< var c.kin205.long >}} **OR** {{< var c.kin201.long >}}.
+
+### State of Iowa Coaching Authorization
+1. {{< var c.kin175.long >}}
+2. {{< var c.kin201.long >}}
+
+### State of Iowa Health Certification Endorsement
+1. {{< var c.kin115.long >}}
+2. {{< var c.kin125.long >}}
+3. {{< var c.kin135.long >}}
+4. {{< var c.kin155.long >}}
+5. {{< var c.kin175.long >}}
+6. **One** of the following:
+	{{< var c.nur137.long >}}
+	{{< var c.nur297.long >}}
+	{{< var c.soc207.long >}}
+
+### Kinesiology Major — Athletic Training 
+1. {{< var c.bio155.long >}}
+2. {{< var c.bio215/215L.long >}}
+3. {{< var c.bio225.long >}}
+4. {{< var c.kin105.long >}}
+5. {{< var c.kin115.long >}}
+6. {{< var c.kin175.long >}}
+7. {{< var c.kin365.long >}}
+8. {{< var c.kin442.long >}}
+9. {{< var c.kin495.long >}}
+**All** of the following courses in the Athletic Training Group 
+	{{< var c.kin110.long >}}
+	{{< var c.kin210.long >}}
+	{{< var c.kin410.long >}}
+
+*Students interested in the Athletic Training Group track are strongly encouraged to meet with the Kinesiology faculty for informal advising as soon as they have chosen this major. Additional coursework may be needed for those students pursuing a licensure in Athletic Training. *
+
+### Courses in Kinesiology
+- **{{< var c.kin100/102/103/104.long >}}**
+  {{< var c.kin100/102/103/104.desc >}} 
+- **{{< var c.kin105.long >}}**
+  {{< var c.kin105.desc >}} 
+- **{{< var c.kin110.long >}}**
+  {{< var c.kin110.desc >}} 
+- **{{< var c.kin111.long >}}**
+  {{< var c.kin111.desc >}} 
+- **{{< var c.kin112.long >}}**
+  {{< var c.kin112.desc >}} 
+- **{{< var c.kin115.long >}}**
+  {{< var c.kin115.desc >}} 
+- **{{< var c.kin125.long >}}**
+  {{< var c.kin125.desc >}} 
+- **{{< var c.kin135.long >}}**
+  {{< var c.kin135.desc >}} 
+- **{{< var c.kin155.long >}}**
+  {{< var c.kin155.desc >}} 
+- **{{< var c.kin165.long >}}**
+  {{< var c.kin165.desc >}} 
+- **{{< var c.kin175.long >}}**
+  {{< var c.kin175.desc >}} 
+- **{{< var c.kin185.long >}}**
+  {{< var c.kin185.desc >}} 
+- **{{< var c.kin201.long >}}**
+  {{< var c.kin201.desc >}} 
+- **{{< var c.kin202.long >}}**
+  {{< var c.kin202.desc >}} 
+- **{{< var c.kin205.long >}}**
+  {{< var c.kin205.desc >}} 
+- **{{< var c.kin210.long >}}**
+  {{< var c.kin210.desc >}} 
+- **{{< var c.kin215.long >}}**
+  {{< var c.kin215.desc >}} 
+- **{{< var c.kin225.long >}}**
+  {{< var c.kin225.desc >}} 
+- **{{< var c.kin315.long >}}**
+  {{< var c.kin315.desc >}} 
+- **{{< var c.kin347.long >}}**
+  {{< var c.kin347.desc >}} 
+- **{{< var c.kin365.long >}}**
+  {{< var c.kin365.desc >}} 
+- **{{< var c.kin385.long >}}**
+  {{< var c.kin385.desc >}} 
+**NOTE:**  *Students are encouraged to complete Advanced Weight Training (PE-103/-104) and Movement Training (PE-103/-104) before enrolling in KIN-385.*
+- **{{< var c.kin405.long >}}**
+  {{< var c.kin405.desc >}} 
+- **{{< var c.kin410.long >}}**
+  {{< var c.kin410.desc >}} 
+- **{{< var c.kin415.long >}}**
+  {{< var c.kin415.desc >}} 
+- **{{< var c.kin440.long >}}**
+  {{< var c.kin440.desc >}} 
+- **{{< var c.kin442.long >}}**
+  {{< var c.kin442.desc >}} 
+- **{{< var c.kin444.long >}}**
+  {{< var c.kin444.desc >}} 
+- **{{< var c.kin494.long >}}**
+  {{< var c.kin494.desc >}} 
+- **{{< var c.kin495.long >}}**
+  {{< var c.kin495.desc >}} 
+
+
+
+
+
