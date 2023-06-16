@@ -1,41 +1,62 @@
-### Theatre Arts
+## Theatre Arts
+
 D. Barnett, Charipar, Ganfield, Hahn, Rezabek, Schmidt, Steffens, Wolverton (Chair)
+
 The Theatre Arts program is designed to provide a balance between academic and experiential learning for all interested students. The goal is to offer opportunities for student participation in all aspects of theatre, on stage and in the classroom, and to enrich the cultural and academic life of the College. 
+
 The program accommodates both majors and minors through courses focused on theatrical history, theory and literature, as well as through training in acting, directing, design, and theatrical production. This foundation prepares students for graduate study and for any field that values high-level communication skills, as well as for careers in theatre as teachers, artists, technicians, or managers. 
+
 As a means of helping students prepare for graduate study and/or a professional career, all majors are required to present an audition piece or a portfolio for annual review beginning in their second year. The senior seminar provides a capstone experience, giving students an opportunity to reflect on their development as theatre artists, and to examine theatre as a collaborative art form. 
+
 For the campus community at large, as audience members or as occasional participants, the program offers a wide range of drama selected both to educate and to entertain. 
 
-#### Theatre Arts Major
+### Theatre Arts Major {#sec-theatre-arts-major}
+
 A major in Theatre Arts requires a cumulative 2.0 GPA in all courses counted toward the major.
+
 **Theatre Arts Core Courses** (required of all students majoring in theatre arts):
 1. {{< var c.the102.long >}} 
-2. {{< var c.the130.long >}} 
+
+2. {{< var c.the130.long >}}
+ 
 3. {{< var c.the140.long >}} 
+
 4. {{< var c.the150.long >}} 
-5. {{< var c.the228.long >}} 
+
+5. {{< var c.the228.long >}}
+ 
 6. {{< var c.the238.long >}} 
+
 7. {{< var c.the290.long >}} 
+
 8. {{< var c.the464.long >}} 
 
-#### Theatre Arts Minor 
+### Theatre Arts Minor 
 The minor in Theatre Arts consists of six course credits of Theatre Arts. 
-Theatre Arts students select one of the following **[emphases]**: general, acting, directing, musical theatre, and technical theatre/design.
+
+Theatre Arts students select one of the following **emphases**: general, acting, directing, musical theatre, and technical theatre/design.
 
 **General**
-1. **Eight** core courses (see [p.]() )
+
+1. **Eight** core courses (see @sec-theatre-arts-major )
+
 2. **Three** additional course credits of Theatre Arts, chosen with departmental approval. 
 
 **Acting**
-1. **Eight** core courses (see [p.]())
-2. {{< var c.the170.long >}} THE-170 Voice and Diction 
-3. {{< var c.the250.long >}} THE-250 Acting II 
+
+1. **Eight** core courses (see @sec-theatre-arts-major )
+
+2. {{< var c.the170.long >}} 
+ 
+3. {{< var c.the250.long >}} 
+
 4. **One** of the following:
 	{{< var c.the160.long >}} 
 	{{< var c.the260.long >}} 
 	{{< var c.the270.long >}} 
 	{{< var c.the350.long >}}
  
-*Strongly recommended:{.underlined}**
+*Strongly recommended:*
 	Any dance course (DAN-101 through DAN-152)
 	{{< var c.the162.long >}} 
 	{{< var c.the452.long >}} 
@@ -43,10 +64,15 @@ Theatre Arts students select one of the following **[emphases]**: general, actin
 	{{< var c.psy100.long >}} 
 
 **Directing**
-1. **Eight** core courses (see [p.]())
-	{{< var c.the250.long >}} 
-	{{< var c.the390.long >}} 
-2. **One** additional course in acting or design
+
+1. **Eight** core courses (see @sec-theatre-arts-major )
+
+2. {{< var c.the250.long >}} 
+
+3. {{< var c.the390.long >}} 
+
+4. **One** additional course in acting or design
+
 *Strongly recommended:*
 	{{< var c.arh118.long >}} 
 	{{< var c.com237.long >}}
@@ -55,22 +81,31 @@ Theatre Arts students select one of the following **[emphases]**: general, actin
 	{{< var c.the280.long >}} 
 	{{< var c.the350.long >}} 
 	{{< var c.the462.long >}}
-   Any other art history course 
+	Any other art history course 
 
 **Musical Theatre**
-1. **Eight** core courses (See [p.]())
+
+1. **Eight** core courses (See @sec-theatre-arts-major )
+
 2. {{< var c.mu109.long >}} 
+
 3. {{< var c.the170.long >}} 
+
 4. {{< var c.the270.long >}} 
+
 5. **Four** terms of {{< var c.mua202v.long >}} (0.6 cc) 
+
 6. **One** additional course credit in practical musical theatre chosen from a combination of the following:
 	{{< var c.mua130v.long >}} (0.5 cc)
 	{{< var c.mua131v.long >}} (0.2 cc)
 	A musical theatre internship approved by the Music or Theatre Arts department
+
 7. **Six** seven-week dance courses (DAN-101 through DAN-142) (0.2 cc)
 
 **Technical Theatre/Design** 
-1. **Eight** core courses (see [p.]())
+
+1. **Eight** core courses (see @sec-theatre-arts-major )
+
 2. **Three*** of the following: 
 	{{< var c.the220.long >}} 
 	{{< var c.the230.long >}} 
