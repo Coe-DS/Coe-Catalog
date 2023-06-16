@@ -1,31 +1,42 @@
-### Sociology
+## Sociology
 L. Barnett, Boguslaw, Fairbanks (Chair, Fall), K. Rodgers (Chair, Spring).
+
 The sociology department, which also offers a minor in anthropology, offers a rigorous curriculum in support of Coe’s mission of providing students with a high-quality liberal arts education and preparing students intellectually, professionally, and socially to lead productive and satisfying lives in the global society of the 21st century. The department serves this mission through an integrated series of courses designed to promote students’ awareness and understanding 21st- century social problems, including the enduring presence of social inequality.
 
-#### Sociology Major
+### Sociology Major
 A major in Sociology requires a cumulative 2.0 GPA in all courses counted toward the major.
+
 1. {{< var c.soc107.long >}} 
-2. {{< var c.soc235.long >}} 
-3. {{< var c.soc450.long >}} 
+
+2. {{< var c.soc235.long >}}
+ 
+3. {{< var c.soc450.long >}}
+ 
 4. {{< var c.soc464.long >}} 
+
 5. **Five** additional sociology courses, including at least one course numbered 400–449 (not including SOC-444 Independent Study, which does not count towards the major)
+
 6. **One** of the following:
 	{{< var c.sta100.long >}} (7weeks) and {{< var c.sta110.long >}} (7 weeks)
 	{{< var c.staa100.long >}} (7weeks) and {{< var c.sta130.long >}} (7 weeks)
 
-#### Sociology Minor
-1. {{< var c.soc107.long >}} 
+### Sociology Minor
+1. {{< var c.soc107.long >}}
+ 
 2. {{< var c.soc235.long >}} 
+
 3. {{< var c.soc450.long >}}
+
 4. **Three** additional sociology courses, including at least one course numbered 400–449 (not including {{< var c.soc444.long >}} , which does not count towards the major)
-   The following courses do not satisfy any of the requirements for a major or minor in sociology:
+
+The following courses do not satisfy any of the requirements for a major or minor in sociology:
 	{{< var c.soc275.long >}}
 	{{< var c.soc365.long >}} or {{< var c.soc375.long >}}
 	{{< var c.soc444.long >}}
 	{{< var c.soc494.long >}}
 	{{< var c.soc499.long >}}
 
-#### Courses in Data Science
+### Courses in Sociology 
 
 - **{{< var c.soc107.long >}}**
   {{< var c.soc107.desc >}}  
