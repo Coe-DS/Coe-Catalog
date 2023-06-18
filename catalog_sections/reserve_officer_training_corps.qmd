@@ -1,0 +1,106 @@
+# RESERVE OFFICER TRAINING CORPS 
+
+
+## Aerospace Studies 
+Clark, Spyker.
+
+### Air Force ROTC Courses
+
+The Air Force Reserve Officers’ Training Corps (AFROTC) program at Coe College is administered through a cross-enrollment agreement with the Department of Aerospace Studies at the University of Iowa in Iowa City. Classes are held at the University of Iowa or at Coe College. Information on the Air Force ROTC program is available by contacting the Department of Aerospace Studies at 319-335-9222.
+
+Air Force ROTC is typically a four-year program divided between the General Military Course (first two years), field training, and the Professional Officer Course (last two years). Enrollment in the General Military Course is open to all students and carries no service obligation. Students can join the program any time during their first or freshman year. Students who complete the General Military Course attend a paid two-week field training course. Normally, students attend the camp between the sophomore and junior years of college. Successful completion of field training and the Professional Officer Course culminates in the student receiving a commission as an officer in the United States Air Force. Opportunities are available in approximately 100 career fields. 
+
+Students are supplied all AFROTC books, uniforms, and necessary materials free of charge. All students in the Professional Officer Course receive a monthly stipend of either $450 or $500. Veterans continue to draw both the AFROTC stipend plus any GI Bill benefits to which they are entitled. General Military Course Students are eligible to apply for AFROTC two- and three-year scholarships which provide tuition, books, fees, and between $300-$500 tax-free monthly stipend. 
+
+- **{{< var c.msa110.long >}}**
+  {{< var c.msa110.desc >}}   
+- **{{< var c.msa110l.long >}}**
+  {{< var c.msa110l.desc >}} 
+- **{{< var c.msa120.long >}}**
+  {{< var c.msa120.desc >}}
+- **{{< var c.msa120l.long >}}**
+  {{< var c.msa120l.desc >}} 
+- **{{< var c.msa210.long >}}**
+  {{< var c.msa210.desc >}}
+- **{{< var c.msa210l.long >}}**
+  {{< var c.msa210l.desc >}}
+- **{{< var c.msa220.long >}}**
+  {{< var c.msa220.desc >}
+- **{{< var c.msa220l.long >}}**
+  {{< var c.msa220l.desc >}
+- **{{< var c.msa310.long >}}**
+  {{< var c.msa310.desc >}}
+- **{{< var c.msa310l.long >}}**
+  {{< var c.msa310l.desc >}}
+- **{{< var c.msa320.long >}}**
+  {{< var c.msa320.desc >}}
+- **{{< var c.msa320l.long >}}**
+  {{< var c.msa320l.desc >}}
+- **{{< var c.msa410.long >}}**
+  {{< var c.msa410.desc >}}
+- **{{< var c.msa410l.long >}}**
+  {{< var c.msa410l.desc >}}
+- **{{< var c.msa420.long >}}**
+  {{< var c.msa420.desc >}}
+- **{{< var c.msa420l.long >}}**
+  {{< var c.msa420l.desc >}} 
+    
+## Military Science 
+Guderski.
+
+### Army ROTC Courses
+
+The Army Reserve Officers’ Training Corps (ROTC) program at Coe College is administered through a cross-enrollment agreement with the Department of Military Science at The University of Iowa in Iowa City. Classes are held either at The University of Iowa or at Coe College, depending upon the size of class enrollment. Information on the Army ROTC program is available by contacting the Department of Military Science at (319) 399-8297 or the website at [http://armyrotc.com/edu/univia/index.htm].{underlined} 
+
+All students are eligible to apply for ROTC two-, three-, and four-year scholarships which cover tuition and fees, books and supplies, and a tax-free monthly stipend during the academic year. The Army National Guard and Army Reserve also provide financial assistance through membership with a respective unit. 
+
+#### Basic courses 
+
+The ROTC Basic Course is primarily for first- and second-year students. It provides the fundamentals of leadership and management and introduces the roles of the military as influenced by national and foreign policy. Enrollment in the Basic Course is open to all students and carries no service obligation. Students with prior military training normally are exempt from the Basic Course requirements. 
+
+Students may complete the Basic Course requirements over a one- or two-year period, or during a four-week fully-paid summer training session, the Leader’s Training Course (LTC), held at Fort Knox, Kentucky. Students normally attend the camp between the sophomore and junior years of college. 
+
+- **{{< var c.mil101.long >}}**
+  {{< var c.mil101.desc >}} 
+- **{{< var c.mil102.long >}}**
+  {{< var c.mil102.desc >}}
+- **{{< var c.mil103.long >}}**
+  {{< var c.mil103.desc >}}
+- **{{< var c.mil104.long >}}**
+  {{< var c.mil104.desc >}}   
+
+#### Advanced courses   
+
+The ROTC Advanced Course is open to any student who meets the prerequisites. Its design is primarily for students who wish to pursue a commission as a lieutenant in the U.S. Army upon graduation. Most students in the advanced course incur an obligation to the military via the Active Army, Army National Guard, or Army Reserve. Students agreeing to serve in the armed forces, through a contractual obligation with the ROTC program, receive a tax-free monthly stipend.
+
+To enter the Advanced Course, students must fulfill the requirements of the Basic Course, attain junior status, and earn a minimum cumulative GPA of 2.00. Students must complete the Leadership Development and Assessment Course (LDAC), a six-week course held at Fort Lewis, WA, usually during the summer between the third and fourth years of instruction. The course may be delayed until the summer following the final ROTC class with permission of the professor of military science. 
+
+Students in the Advanced Course complete the following list of courses:
+	- {{< var c.mil209.long >}}
+	- {{< var c.mil220.long >}} 
+	- {{< var c.mil305.long >}} 
+	- {{< var c.mil350.long >}} 
+	- {{< var c.mil360.long >}} 
+In addition, students choose **one** course in history from the following list:
+	- {{< var c.his145.long >}} 
+	- {{< var c.his155.long >}} 
+	- {{< var c.his217.long >}} 
+	- {{< var c.his227.long >}} 
+	- {{< var c.his387.long >}} 
+
+Students earning a degree in nursing normally are exempt from this requirement, and students may, with the approval of the professor of military science, use other courses to meet the requirement. 
+
+- **{{< var c.mil209.long >}}**
+  {{< var c.mil209.desc >}} 
+- **{{< var c.mil215.long >}}**
+  {{< var c.mil215.desc >}} 
+- **{{< var c.mil220.long >}}**
+  {{< var c.mil220.desc >}} 
+- **{{< var c.mil305.long >}}**
+  {{< var c.mil305.desc >}} 
+- **{{< var c.mil350.long >}}**
+  {{< var c.mil350.desc >}} 
+- **{{< var c.mil360.long >}}**
+  {{< var c.mil360.desc >}} 
+- **{{< var c.mil380.long >}}**
+  {{< var c.mil380.desc >}} 
