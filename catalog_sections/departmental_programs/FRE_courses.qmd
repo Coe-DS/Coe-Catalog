@@ -41,7 +41,7 @@ A grade of "C" (2.0) or higher must be earned in all courses counted toward a mi
 	{{< var c.phl345.long >}}
 	{{< var c.pol298.long >}}
 	{{< var c.rel148.long >}}
-	{{< var c.phl178.long >}}
+	{{< var c.rel178.long >}}
 
 
 ### Courses in French
