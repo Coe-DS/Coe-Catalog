@@ -1,0 +1,94 @@
+## Mathematical Sciences {#sec-mathematical-sciences}
+Cross (Chair, Fall), Herron, Hostetler, Hughes, Miller, Stobb, White (Chair, Spring). 
+
+The department of mathematical sciences offers a complete range of courses, with majors and minors available in COMPUTER SCIENCE, DATA SCIENCE and MATHEMATICS, as well as courses in statistics for additional breadth. The department adheres to its belief that the mathematical sciences and the habits of mind that they engender are components of a fine liberal arts education.
+
+### Mathematics Major
+A major in mathematics requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+1. {{< var c.mth135.long >}}
+2. {{< var c.mth145.long >}}
+3. {{< var c.mth215.long >}}
+4. {{< var c.mth255.long >}}
+5. {{< var c.mth265.long >}}
+6. {{< var c.mth385.long >}}
+7. {{< var c.cs125.long >}}
+8. **One** of the following:
+	{{< var c.mth415.long >}}
+	{{< var c.mth445.long >}}
+9. **Three** of the following:
+	{{< var c.sta315.long >}}
+	{{< var c.sta325.long >}}
+	{{< var c.mth305.long >}}
+	{{< var c.mth325.long >}}
+	{{< var c.mth395.long >}}
+	{{< var c.mth415.long >}} (if not used to satisfy #8)
+	{{< var c.mth425.long >}}
+	{{< var c.mth444.long >}}
+	{{< var c.mth445.long >}} (if not used to satisfy #8)
+	{{< var c.mth455.long >}}
+	{{< var c.mth463.long >}}
+	{{< var c.mth484.long >}}
+**NOTE:** *A course in statistics and a course in geometry are required for the Iowa teaching endorsement in mathematics at either the elementary or secondary school level. Students planning to teach should consult with faculty in the education department. *
+
+### Mathematics Minor
+1. {{< var c.mth135.long >}}
+2. {{< var c.mth145.long >}}
+3. {{< var c.mth215.long >}}
+4. **Three** of the following:
+	{{< var c.sta315.long >}}
+	{{< var c.sta325.long >}}
+	{{< var c.mth255.long >}}
+	{{< var c.mth265.long >}}
+	{{< var c.mth305.long >}}
+	{{< var c.mth325.long >}}
+	{{< var c.mth385.long >}}
+	{{< var c.mth395.long >}}
+	{{< var c.mth415.long >}} 
+	{{< var c.mth425.long >}}
+	{{< var c.mth444.long >}}
+	{{< var c.mth445.long >}} 
+	{{< var c.mth455.long >}}
+	{{< var c.mth463.long >}}
+	{{< var c.mth484.long >}}
+
+### Courses in Mathematics
+- **{{< var c.mth105.long >}}**
+  {{< var c.mth105.desc >}} 
+- **{{< var c.mth135.long >}}**
+  {{< var c.mth135.desc >}} 
+- **{{< var c.mth145.long >}}**
+  {{< var c.mth145.desc >}} 
+- **{{< var c.mth215.long >}}**
+  {{< var c.mth215.desc >}} 
+- **{{< var c.mth255.long >}}**
+  {{< var c.mth255.desc >}} 
+- **{{< var c.mth265.long >}}**
+  {{< var c.mth265.desc >}} 
+- **{{< var c.mth305.long >}}**
+  {{< var c.mth305.desc >}} 
+- **{{< var c.mth325.long >}}**
+  {{< var c.mth325.desc >}} 
+- **{{< var c.mth385.long >}}**
+  {{< var c.mth385.desc >}} 
+- **{{< var c.mth395.long >}}**
+  {{< var c.mth395.desc >}} 
+- **{{< var c.mth415.long >}}**
+  {{< var c.mth415.desc >}} 
+- **{{< var c.mth425.long >}}**
+  {{< var c.mth425.desc >}} 
+- **{{< var c.mth444.long >}}**
+  {{< var c.mth444.desc >}} 
+- **{{< var c.mth445.long >}}**
+  {{< var c.mth445.desc >}} 
+- **{{< var c.mth454.long >}}**
+  {{< var c.mth454.desc >}} 
+- **{{< var c.mth455.long >}}**
+  {{< var c.mth455.desc >}} 
+- **{{< var c.mth463.long >}}**
+  {{< var c.mth463.desc >}} 
+- **{{< var c.mth484.long >}}**
+  {{< var c.mth484.desc >}} 
+- **{{< var c.mth494.long >}}**
+  {{< var c.mth494.desc >}} 
+
+
