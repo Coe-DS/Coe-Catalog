@@ -1,0 +1,27 @@
+## Molecular Biology (Collateral Major) {#sec-molecular-biology}
+Leonardo (Administrative Coordinator).
+This major might be considered by students interested in finding technical positions in academia or industry after graduation or those planning to pursue a graduate program in molecular biology, cell biology, or microbiology. 
+
+### Collateral Major in Molecular Biology
+A major in molecular biology requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+Concurrent completion of a primary major in biology is required (see @sec-biology). Students choosing a collateral major in Molecular Biology may not select the collateral major in Biochemistry. 
+1. {{< var c.chm221.long >}}
+2. {{< var c.chm321.long >}}
+3. {{< var c.chm322.long >}}
+4. {{< var c.bio345/345L.long >}}
+5. {{< var c.bio405.long >}}
+6. One of the following:
+	{{< var c.chm431/431L.long >}}
+	{{< var c.chm432/432L.long >}}
+7. One of the following sequences:
+	{{< var c.bio325/325L.long >}}
+	{{< var c.bio415/415L.long >}}
+	{{< var c.bio435/435L.long >}}
+	{{< var c.bio455/455L.long >}}
+Strongly recommended:
+	One of the following sequences:
+		{{< var c.phy165/165L.long >}} and {{< var c.phy175/175L.long >}}
+		{{< var c.phy185/185L.long >}} and {{< var c.phy195/195L.long >}}
+
+
+
