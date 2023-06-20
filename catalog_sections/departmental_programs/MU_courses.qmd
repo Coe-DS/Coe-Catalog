@@ -1,0 +1,507 @@
+## Music {#sec-music}
+Benson, Brewer, Carson (Chair), Falk, Hanisch, Lawrence, Lovegood, Shanley, Weiler, B. Wolgast, Zeidieh
+
+Teaching Artists: Altfillisch, Bishop, Brumwell, Capistran, Farley, Fleer, Hall, Harris, Holmes-Bendixen, Marrs, Morton, Nagel, Nothnagle, Phelps, Reznicow, Rothrock, Schamberger, Sentman, Terrell, Wissenberg, M. Wolgast
+
+All Coe students are encouraged to participate in music as part of their liberal arts education. Choral and instrumental ensembles, private lessons in applied music, and academic courses are open to non-music majors. 
+
+The *Coe College Music Department Faculty/Student Handbook* supplements the descriptions of courses and requirements for music majors and outlines departmental policies and procedures. Copies of the *Handbook* are available in the Music Office, Marquis Hall 103 or online at `www.coe.edu/academics/majors-areas-study/music`.
+
+Students who major in music may select either the Bachelor of Arts degree or the Bachelor of Music degree. 
+
+### BACHELOR OF MUSIC
+Candidates for the **BACHELOR OF MUSIC** degree must successfully complete: 
+1. **Six** theory and history courses with a grade of “C” (2.0) or higher:
+	{{< var c.mu109.long >}}/{{< var c.mu109L.long >}}
+	{{< var c.mu209.long >}}/{{< var c.mu209L.long >}}
+	{{< var c.mu309.long >}}/{{< var c.mu309L.long >}}
+	{{< var c.mu255.long >}}
+	{{< var c.mu355.long >}}
+	{{< var c.mu458.long >}}
+2. {{< var c.mu285.long >}}
+3. First-Year Experience requirements (see @sec-first-year-experience)
+4. The writing emphasis requirement of the general education requirements for the B.A. degree (see @sec-writing-emphasis-courses)
+5. The *Keyboard Fundamentals Examination* by the end of the sophomore year. Exceptions must be approved by a majority vote of the music faculty. After successful completion of this examination, credits may be accumulated toward a secondary performance area in piano.
+**NOTE:** *A description of this examination is given in the Coe College Music Department Faculty/Student Handbook at `https://www.coe.edu/academics/majors-areas-study/music`*
+6. The Bachelor of Music Advanced Standing Assessment (BMASA), an audition evaluation whereby the music faculty assesses the suitability of a student for student teaching or for the presentation of a senior recital. Students performing at the approved level are permitted to register for lessons and classes at the Advanced Level, leading to student teaching or the presentation of a senior recital. Students who are not recommended for study at the Advanced Level are required to select a degree program other than the Bachelor of Music program, or to reapply in a later term.  
+7. The Senior Assessment Examination in the final term prior to graduation. 
+8. **One** of the four areas of study applicable towards the Bachelor of Music degree: 
+	
+	**Composition**
+	1. {{< var c.mu195.long >}}
+	2. {{< var c.mu409.long >}}/{{< var c.mu409L.long >}}
+	3. {{< var c.mua413.long >}}
+	4. {{< var c.mua423.long >}}
+	5. **Eight** terms of participation in the Applied Music Course, which must include four terms each of MUA-202C and MUA-303C
+	6. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements, but the two required language courses described below may not.) 
+	7. **Two** courses in French in consecutive terms (may not be used to satisfy the humanities requirement of #6) 
+	8. **Two** additional non-music courses 
+	9. {{< var c.mua490.long >}}
+	
+	**Keyboard and Instrumental Performance**
+	1. {{< var c.mu409.long >}}/{{< var c.mu409L.long >}}
+	2. **Four** of the following:
+		{{< var c.mu140.long >}}
+		{{< var c.mu151.long >}}
+		{{< var c.mu157.long >}}
+		{{< var c.mu195.long >}}
+		{{< var c.mu270.long >}}
+		{{< var c.mu166/284.long >}}
+		{{< var c.mu385.long >}}
+		{{< var c.mu444.long >}}
+		{{< var c.mua133V.long >}}
+		{{< var c.mua134V.long >}}
+		{{< var c.mua413V.long >}}
+		{{< var c.mua423V.long >}}
+		One course credit in MUA-courses beyond those required in the Applied Music Course.
+	3. **Eight** terms of participation in the Applied Music Course. 
+	4. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements.) 
+	5. **Two** courses in French in consecutive terms (may not be used to satisfy the humanities requirement of #4)
+	6. {{< var c.mua490.long >}}
+
+	**Vocal Performance**
+	1. {{< var c.mua133V.long >}}
+	2. {{< var c.mua134V.long >}}
+	3. {{< var c.mu409.long >}}/{{< var c.mu409L.long >}}
+	4. **Four** of the following:
+		{{< var c.mu140.long >}}
+		{{< var c.mu151.long >}}
+		{{< var c.mu157.long >}}
+		{{< var c.mu195.long >}}
+		{{< var c.mu270.long >}}
+		{{< var c.mu166/284.long >}}
+		{{< var c.mu385.long >}}
+		{{< var c.mu444.long >}}
+		{{< var c.mua133V.long >}}
+		{{< var c.mua413.long >}}
+		{{< var c.mua423.long >}}
+		One course credit in MUA-courses beyond those required in the Applied Music Course. 
+	5. **Eight** terms of participation in the Applied Music Course. 
+	6. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements.) 
+	7. **Two** courses in French in consecutive terms (may not be used to satisfy the humanities requirement of #6) 
+	8. {{< var c.mua490.long >}}
+
+	**Music Education (Vocal or Instrumental)**
+	To complete the Vocal or Instrumental Music Education area of study in four years, a student must begin the sequence of courses during the first year. A student entering either area of study as a sophomore should anticipate spending a fifth year to complete all degree requirements. 
+	In addition to the following requirements, according to state regulations, all teachers in Iowa “shall acquire a core of liberal arts knowledge including, but not limited to, mathematics, natural sciences, social sciences, and humanities.”  The Mathematics and Natural Science course requirements may be met through coursework at Coe, comparable courses from an accredited college, or a score of 4 or higher on AP examinations in mathematics or science.  Social Science and Humanities core are met with the required EDU courses and MU Music History and Literature courses.
+	1. {{< var c.edu105.long >}}
+	2. {{< var c.edu117.long >}}
+	3. {{< var c.edu187.long >}}
+	4. {{< var c.edu195.long >}}
+	5. {{< var c.edu219.long >}}
+	6. {{< var c.mu205.long >}}
+	7. {{< var c.mu360.long >}}
+	8. **One** of the following:
+		{{< var c.mu361.long >}}, {{< var c.mu362.long >}}, and {{< var c.mua134.long >}} (for Vocal Music Education majors)
+		{{< var c.mu363.long >}} and {{< var c.mu364.long >}} (for Instrumental Music Education majors)
+	9. {{< var c.mu385.long >}}
+	10. {{< var c.mu421.long >}}
+	11. {{< var c.mu422.long >}}
+	12. **Seven** terms of participation in the Applied Music Course.
+	13. Fulfillment of the general licensure grade point requirement (minimum 2.7 cumulative and in the major) 
+	**NOTE:** *A recital is not required to complete the music education area of study but may be given with the approval of the studio instructor. *
+
+### BACHELOR OF ARTS: MUSIC MAJOR
+Candidates for the **BACHELOR OF ARTS** degree with a major in music must successfully complete: 
+1. {{< var c.mu109.long >}}/{{< var c.mu109L.long >}}
+2. {{< var c.mu209.long >}}/{{< var c.mu209L.long >}}
+3. {{< var c.mu309.long >}}/{{< var c.mu309L.long >}}
+4. {{< var c.mu458.long >}}
+5. **Four** terms of participation in the Applied Music Course with piano as the primary or secondary performing area. 
+6. **One** of the following: 
+	{{< var c.mu255.long >}}
+	{{< var c.mu355.long >}}
+7. **One** of the following (if not used to satisfy #6):
+	{{< var c.mua131V.long >}}
+	{{< var c.mu140.long >}}
+	{{< var c.mu151.long >}}
+	{{< var c.mu157.long >}}
+	{{< var c.mu195.long >}}
+	{{< var c.mu255.long >}}
+	{{< var c.mu270.long >}}
+	{{< var c.mu166/284.long >}}
+	{{< var c.mu285.long >}}
+	{{< var c.mu355.long >}}
+	{{< var c.mu409.long >}}
+	{{< var c.mua133V.long >}}
+	{{< var c.mua134V.long >}}
+8. The Senior Assessment Examination in the final term prior to graduation 
+
+### Jazz Emphasis
+Students completing a **BACHELOR OF ARTS** degree may choose to supplement their music major with an Emphasis in Jazz.  Concurrent completion of a major in music is required.  A minimum of 6.1 course credits must be taken that do not count toward a major in music. 
+1. {{< var c.mu157.long >}}
+2. {{< var c.mu409.long >}}/{{< var c.mu409L.long >}}
+3. **Five** terms of {{< var c.mua102.long >}}
+4. **Seven** terms of {{< var c.mua101.long >}}
+5. **Two** terms of {{< var c.mua102K.long >}}
+6. **Two** terms of {{< var c.mua103K.long >}}
+7. {{< var c.aam107.long >}}
+
+### Music Industry Emphasis
+Students completing a **BACHELOR OF ARTS** degree may choose to supplement their music major with an Emphasis in Music Industry.  Concurrent completion of a major in music is required.  A minimum of 6.5 course credits must be taken that do not count toward a major in music.
+1. {{< var c.mu195.long >}}
+2. {{< var c.mu202.long >}}
+3. **One** of the following:
+	{{< var c.pr205.long >}}
+	{{< var c.rhe265.long >}}
+4. **One** of the following:
+	{{< var c.bus250.long >}}
+	{{< var c.bus330.long >}}
+5. **Three** terms of {{< var c.mu151.long >}}
+6. **Two** terms of {{< var c.mu251.long >}}
+
+### Musical Theatre Emphasis
+Students completing a **BACHELOR OF ARTS** degree may choose to supplement their music major with an Emphasis in Musical Theatre.  Concurrent completion of a major in music with voice as the primary instrument is required.  A minimum of 6.4 course credits must be taken that do not count toward a major in music.
+1. {{< var c.the150.long >}}
+2. {{< var c.the170.long >}}
+3. {{< var c.the270.long >}}
+4. **Two** terms of {{< var c.mua202V.long >}} with musical theatre repertoire (may not be used to satisfy the requirement of #1) 
+5. **One** additional course credit in practical musical theatre chosen from a combination of the following:
+	{{< var c.mua130V.long >}}
+	{{< var c.mua131V.long >}}
+	A musical theatre internship approved by the music or theatre arts department
+6. **Six** seven-week dance courses (DAN-101 through DAN-142) (0.2 cc)
+
+### Pre-Music Therapy Emphasis
+Students completing a **BACHELOR OF ARTS** degree may choose to supplement their music major with an Emphasis in Pre-Music Therapy.  Concurrent completion of a major in music is required.  
+The Bachelor of Arts in Music, Pre-Music Therapy Emphasis, is designed to prepare students to apply to a Music Therapy certification program. It is not a free-standing major, and it does not include music therapy courses. Rather, the courses listed below are intended to better prepare Bachelor of Arts in Music students for future study in Music Therapy at an academic program approved by the American Music Therapy Association. Students must complete all requirements for a Bachelor of Arts in Music, in addition to the courses listed below. These include 5 non-music course credits and 2 additional music course credits for a minimum total of 7 course credits that must be taken that do not count toward a major in music.  
+Courses taken to satisfy requirements in the Bachelor of Arts in Music may NOT also be used to satisfy the requirements of the Pre-Music Therapy Emphasis below, but all courses MAY be used towards general education requirements. 
+1. {{< var c.psy100.long >}}
+2. {{< var c.bio103.long >}}
+3. {{< var c.bio155.long >}} & {{< var c.bio155L.long >}} (concurrent with BIO-155)
+4. **One** of the following:
+	{{< var c.edu117.long >}}
+	{{< var c.edu187.long >}}
+	{{< var c.edu195.long >}}
+	{{< var c.psy235.long >}}
+	{{< var c.psy315.long >}}
+5. **One** of the following:
+	{{< var c.the100.long >}}
+	{{< var c.the150.long >}}
+	{{< var c.the160.long >}}
+	{{< var c.the170.long >}}
+	{{< var c.the270.long >}}
+6. **Two** credits (or more) from the following:
+	{{< var c.mu195.long >}}
+	{{< var c.mu285.long >}}
+	{{< var c.mu409.long >}}
+	{{< var c.mua102K.long >}}
+	Additional terms of ensemble participation, beyond those required for the Bachelor of Arts in Music: 
+		Concert Band (0.3 each), Jazz Band (0.2 each), Concert Choir (0.3 each), Chorale (0.2 each), Orchestra (0.3 each), or Handbells (0.2 each) 
+	Additional terms of hour lessons, beyond those required for the Bachelor of Arts in Music, on your primary instrument (0.6 each):  
+		{{< var c.mua104K.long >}}
+		{{< var c.mua151S.long >}}
+		{{< var c.mua300A.long >}}
+
+Strongly recommended:
+- {{< var c.mu255.long >}} **or** {{< var c.mu355.long >}} (whichever is not taken to fulfill the BA in Music requirement) 
+- {{< var c.mu285.long >}} and {{< var c.mu385.long >}}
+- Additional music performance courses (ensembles and lessons) 
+- Additional theatre, art, biology, business, education, psychology, sociology, and statistics courses 
+- Fulfill the academic practicum requirement with a music therapy-related internship 
+
+### Music Minor
+The minor in music consists of six course credits. At least four of these credits must be MU courses. MUA credits (lessons and ensembles) must be taken as the Applied Music Course if they are to apply to the music minor. Individual partial credit courses may not accumulate toward credit for a minor in music. 
+
+### Departmental Notes
+- Private music lessons are available for credit only. Declared music majors who have achieved junior status (see @sec-class-designation) and who perform in a major ensemble are not charged for lessons. Other Coe students are charged by term according to the total registered lesson credit (see @sec-financial-information). Students who have not attended three lessons by the end of the third week of classes are dropped from music lessons and may be reinstated only by petition. After the third week of lessons, students will be charged for the full term, even if they choose to drop.
+- Attendance at the numerous musical events on campus throughout the year is an essential part of the student’s musical training. Students taking lessons for 0.6 credit must attend a specific number of these events each term and the weekly Recital Hour. They must also perform in Recital Hour once each term, except for the first term of the first year of study.
+
+### APPLIED MUSIC
+### The Applied Music Course
+Intensive studies in performance and repertoire through lessons, ensembles, pedagogy, and techniques. The applied music course requirements are: 
+1. An hour lesson each week, as specified in the *Coe College Music Department Faculty/Student Handbook* for each major, along with participation and attendance at the weekly Recital Hour and concerts as described above in *Departmental Notes*. (0.6 course credit)
+2. Participation in one of the following ensembles, as assigned by audition: Concert Band, Concert Choir, Orchestra, Chorale.
+3. Additional ensembles, lessons, or courses in pedagogy, techniques, and literature (0.1-0.6 course credit) that are required for any of the areas of study that lead to one of the music degrees. The *Coe College Music Department Faculty/Student Handbook* (see above) contains descriptions and additional information about these ensembles and courses.
+**Prerequisite:** an audition; consent of department chair.
+
+### APPLIED MUSIC CLASSES
+Artist teachers in violin, viola, cello, string and electric bass, piano, piano accompanying^+^, harpsichord^+^, organ^+^, flute, oboe, clarinet, saxophone, bassoon, trumpet, horn, trombone, low brass, percussion, guitar, harp, composition^+^, and voice are available to all students who wish to study applied music. 
+**^+^Prerequisite:** proficiency in piano and consent of instructor. 
+
+Composition lessons and classes in keyboard, brass, woodwind, and string literature are also available. Credit for applied music study is granted after the student has satisfactorily passed an examination by a faculty committee (jury exam) at the close of each term. Two hours daily practice per weekly hour lesson are expected of all students taking applied music. 
+
+### APPLIED BRASSES--LESSONS
+	{{< var c.mua101B.long >}}
+	{{< var c.mua202B.long >}}
+	{{< var c.mua303B.long >}}
+	{{< var c.mua111B.long >}}
+	{{< var c.mua212B.long >}}
+	{{< var c.mua313B.long >}}
+	{{< var c.mua121B.long >}}
+	{{< var c.mua222B.long >}}
+	{{< var c.mua323B.long >}}
+	{{< var c.mua131B.long >}}
+	{{< var c.mua232B.long >}}
+	{{< var c.mua333B.long >}}
+
+### APPLIED COMPOSITION--LESSONS
+	{{< var c.mua101C.long >}}
+	{{< var c.mua202C.long >}}
+	{{< var c.mua303C.long >}}
+	{{< var c.mua413.long >}}
+	{{< var c.mua423.long >}}
+
+### APPLIED KEYBOARD--LESSONS
+	{{< var c.mua100K.long >}}
+	{{< var c.mua101K.long >}}
+	{{< var c.mua102K.long >}}
+	{{< var c.mua103K.long >}}
+	{{< var c.mua202K.long >}}
+	{{< var c.mua303K.long >}}
+	{{< var c.mua304K.long >}}
+	{{< var c.mua111K.long >}}
+	{{< var c.mua212K.long >}}
+	{{< var c.mua313K.long >}}
+	{{< var c.mua121K.long >}}
+	{{< var c.mua222K.long >}}
+	{{< var c.mua323K.long >}}
+
+### APPLIED PERCUSSION--LESSONS
+	{{< var c.mua101P.long >}}
+	{{< var c.mua202P.long >}}
+	{{< var c.mua303P.long >}}
+
+### APPLIED STRINGS--LESSONS
+	{{< var c.mua101S.long >}}
+	{{< var c.mua202S.long >}}
+	{{< var c.mua303S.long >}}
+	{{< var c.mua111S.long >}}
+	{{< var c.mua212S.long >}}
+	{{< var c.mua313S.long >}}
+	{{< var c.mua121S.long >}}
+	{{< var c.mua222S.long >}}
+	{{< var c.mua323S.long >}}
+	{{< var c.mua131S.long >}}
+	{{< var c.mua232S.long >}}
+	{{< var c.mua333S.long >}}
+	{{< var c.mua141S.long >}}
+	{{< var c.mua242S.long >}}
+	{{< var c.mua343S.long >}}
+	{{< var c.mua151S.long >}}
+	{{< var c.mua252S.long >}}
+	{{< var c.mua353S.long >}}
+
+### APPLIED VOICE--LESSONS
+(Offerings vary each term and include sight singing and/or Alexander Technique.)
+	{{< var c.mua101V.long >}}
+	{{< var c.mua110V.long >}}
+	{{< var c.mua202V.long >}}
+	{{< var c.mua303V.long >}}
+	{{< var c.mua300A.long >}}
+
+### APPLIED WOODWINDS--LESSONS
+	{{< var c.mua101W.long >}}
+	{{< var c.mua202W.long >}}
+	{{< var c.mua303W.long >}}
+	{{< var c.mua111W.long >}}
+	{{< var c.mua212W.long >}}
+	{{< var c.mua313W.long >}}
+	{{< var c.mua121W.long >}}
+	{{< var c.mua222W.long >}}
+	{{< var c.mua323W.long >}}
+	{{< var c.mua131W.long >}}
+	{{< var c.mua232W.long >}}
+	{{< var c.mua333W.long >}}
+	{{< var c.mua141W.long >}}
+	{{< var c.mua242W.long >}}
+	{{< var c.mua343W.long >}}
+
+### APPLIED PEDAGOGY/ ENSEMBLE AND LITERATURE
+	{{< var c.mua133B.long >}}
+	{{< var c.mua134B.long >}}
+	{{< var c.mua133K.long >}}
+	{{< var c.mua134K.long >}}
+	{{< var c.mua133P.long >}}
+	{{< var c.mua134P.long >}}
+	{{< var c.mua133S.long >}}
+	{{< var c.mua134S.long >}}
+	{{< var c.mua133W.long >}}
+	{{< var c.mua134W.long >}}
+	{{< var c.mua134V.long >}}
+
+### APPLIED TECHNIQUES
+	{{< var c.mua143.long >}}
+	{{< var c.mua153.long >}}
+	{{< var c.mua163.long >}}
+	{{< var c.mua173.long >}}
+	{{< var c.mua183.long >}}
+	{{< var c.mua193.long >}}
+
+### COURSES IN MUSIC BY CATEGORY
+### ENSEMBLES
+Ensembles are open, by audition, to all Coe students, as well as being required of all students pursuing a degree in music. 
+Credit for participation in these regularly-offered ensembles is available under the following schedule.  Students are encouraged to participate in these ensembles as often as possible. Additional ensembles, offered on a periodic basis, are listed in the *Coe College Music Department Faculty/Student Handbook*.
+	{{< var c.mua100.long >}}
+	{{< var c.mua101.long >}}
+	{{< var c.mua102.long >}}
+	{{< var c.mua103.long >}}
+	{{< var c.mua104.long >}}
+	{{< var c.mua105.long >}}
+	{{< var c.mua110.long >}}
+	{{< var c.mua111.long >}}
+	{{< var c.mua130V.long >}}
+	{{< var c.mua131V.long >}}
+	{{< var c.mua284.long >}}
+
+### GENERAL SURVEY COURSES
+	{{< var c.mu100.long >}}
+	{{< var c.mu101.long >}}
+	{{< var c.mu140.long >}}
+	{{< var c.mu151.long >}}
+	{{< var c.mu251.long >}}
+	{{< var c.mu157.long >}}
+	{{< var c.mu161.long >}}
+	{{< var c.mu166.long >}}
+	{{< var c.mu270.long >}}
+	{{< var c.mu284.long >}}
+	{{< var c.mua133V.long >}}
+	{{< var c.mua134V.long >}}
+
+### THEORY COURSES 
+	{{< var c.mu109.long >}}
+	{{< var c.mu109L.long >}}
+	{{< var c.mu209.long >}}
+	{{< var c.mu209L.long >}}
+	{{< var c.mua211.long >}}
+	{{< var c.mu309.long >}}
+	{{< var c.mu309L.long >}}
+	{{< var c.mu409.long >}}
+	{{< var c.mu409L.long >}}
+
+### COMPOSITION COURSES 
+	{{< var c.mu195.long >}}
+	{{< var c.mua413.long >}}
+	{{< var c.mua423.long >}}
+
+### CONDUCTING COURSES 
+	{{< var c.mu285.long >}}
+	{{< var c.mu385.long >}}
+
+### HISTORY COURSES 
+	{{< var c.mu255.long >}}
+	{{< var c.mu355.long >}}
+	{{< var c.mu458.long >}}
+
+### MUSIC EDUCATION COURSES 
+	{{< var c.mu205.long >}}
+	{{< var c.mu360.long >}}
+	{{< var c.mu361.long >}}
+	{{< var c.mu362.long >}}
+	{{< var c.mu363.long >}}
+	{{< var c.mu364.long >}}
+	{{< var c.mu421.long >}}
+	{{< var c.mu422.long >}}
+	{{< var c.mua104K.long >}}
+
+### ADVANCED STUDY IN MUSIC 
+	{{< var c.mua490.long >}}
+	{{< var c.mu444.long >}}
+
+### Courses in Music
+**MU Prefix**
+- **{{< var c.mu100.long >}}**
+  {{< var c.mu100.desc >}} 
+- **{{< var c.mu101.long >}}**
+  {{< var c.mu101.desc >}} 
+- **{{< var c.mu109.long >}}**
+  {{< var c.mu109.desc >}} 
+- **{{< var c.mu109L.long >}}**
+  {{< var c.mu109L.desc >}} 
+- **{{< var c.mu140.long >}}**
+  {{< var c.mu140.desc >}} 
+- **{{< var c.mu151.long >}}**
+  {{< var c.mu151.desc >}} 
+- **{{< var c.mu157.long >}}**
+  {{< var c.mu157.desc >}} 
+- **{{< var c.mu161.long >}}**
+  {{< var c.mu161.desc >}} 
+- **{{< var c.mu166.long >}}**
+  {{< var c.mu166.desc >}} 
+- **{{< var c.mu195.long >}}**
+  {{< var c.mu195.desc >}} 
+- **{{< var c.mu202.long >}}**
+  {{< var c.mu202.desc >}} 
+- **{{< var c.mu205.long >}}**
+  {{< var c.mu205.desc >}} 
+- **{{< var c.mu209.long >}}**
+  {{< var c.mu209.desc >}} 
+- **{{< var c.mu209L.long >}}**
+  {{< var c.mu209L.desc >}} 
+- **{{< var c.mu251.long >}}**
+  {{< var c.mu251.desc >}} 
+- **{{< var c.mu255.long >}}**
+  {{< var c.mu255.desc >}} 
+- **{{< var c.mu270.long >}}**
+  {{< var c.mu270.desc >}} 
+- **{{< var c.mu284.long >}}**
+  {{< var c.mu284.desc >}} 
+- **{{< var c.mu285.long >}}**
+  {{< var c.mu285.desc >}} 
+- **{{< var c.mu309.long >}}**
+  {{< var c.mu309.desc >}} 
+- **{{< var c.mu309L.long >}}**
+  {{< var c.mu309L.desc >}} 
+- **{{< var c.mu355.long >}}**
+  {{< var c.mu355.desc >}} 
+- **{{< var c.mu360.long >}}**
+  {{< var c.mu360.desc >}} 
+- **{{< var c.mu361.long >}}**
+  {{< var c.mu361.desc >}} 
+- **{{< var c.mu362.long >}}**
+  {{< var c.mu362.desc >}} 
+- **{{< var c.mu363.long >}}**
+  {{< var c.mu363.desc >}} 
+- **{{< var c.mu364.long >}}**
+  {{< var c.mu364.desc >}} 
+- **{{< var c.mu385.long >}}**
+  {{< var c.mu385.desc >}} 
+- **{{< var c.mu409.long >}}**
+  {{< var c.mu409.desc >}} 
+- **{{< var c.mu409L.long >}}**
+  {{< var c.mu409L.desc >}} 
+- **{{< var c.mu421.long >}}**
+  {{< var c.mu421.desc >}} 
+- **{{< var c.mu422.long >}}**
+  {{< var c.mu422.desc >}} 
+- **{{< var c.mu444.long >}}**
+  {{< var c.mu444.desc >}} 
+- **{{< var c.mu458.long >}}**
+  {{< var c.mu458.desc >}} 
+
+**MUA Prefix**
+- **{{< var c.mua100.long >}}**
+  {{< var c.mua100.desc >}} 
+- **{{< var c.mua101.long >}}**
+  {{< var c.mua101.desc >}} 
+- **{{< var c.mua102.long >}}**
+  {{< var c.mua102.desc >}} 
+- **{{< var c.mua103.long >}}**
+  {{< var c.mua103.desc >}} 
+- **{{< var c.mua104.long >}}**
+  {{< var c.mua104.desc >}} 
+- **{{< var c.mua105.long >}}**
+  {{< var c.mua105.desc >}} 
+- **{{< var c.mua110.long >}}**
+  {{< var c.mua110.desc >}} 
+- **{{< var c.mua111.long >}}**
+  {{< var c.mua111.desc >}} 
+- **{{< var c.mua130V.long >}}**
+  {{< var c.mua130V.desc >}} 
+- **{{< var c.mua131V.long >}}**
+  {{< var c.mua131V.desc >}} 
+- **{{< var c.mua133V.long >}}**
+  {{< var c.mua133V.desc >}} 
+- **{{< var c.mua134V.long >}}**
+  {{< var c.mua134V.desc >}} 
+- **{{< var c.mua211.long >}}**
+  {{< var c.mua211.desc >}} 
+- **{{< var c.mua284.long >}}**
+  {{< var c.mua284.desc >}} 
+- **{{< var c.mua413.long >}}**
+  {{< var c.mua413.desc >}} 
+- **{{< var c.mua423.long >}}**
+  {{< var c.mua423.desc >}} 
+- **{{< var c.mua490.long >}}**
+  {{< var c.mua490.desc >}} 
+
