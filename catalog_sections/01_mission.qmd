@@ -3,11 +3,9 @@
 
 
 
-# MISSION STATEMENT OF THE COLLEGE {.unnumbered}
+# MISSION STATEMENT OF THE COLLEGE 
 
 \index{Mission Statement}
-
-edit!
 
 Coe College is a national, residential liberal arts college offering a broad array of programs in the arts, sciences and professions.  Our mission is to prepare students for meaningful lives and fulfilling careers in a diverse, interconnected world.  Coe’s success will be judged by the success of our graduates.  
 

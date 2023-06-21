@@ -1,0 +1,7 @@
+# DEPARTMENTAL PROGRAMS 
+
+
+
+{{< include departmental_programs/DAN_courses.qmd >}}
+{{< include departmental_programs/DS_courses.qmd >}}
+{{< include departmental_programs/ECO_courses.qmd >}}

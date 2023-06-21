@@ -1,8 +1,8 @@
-## THE ACADEMIC CALENDAR {.unnumbered}
+# THE ACADEMIC CALENDAR
 The academic year consists of three terms (see Academic Calendar, p. 15).  Students normally take four course credits in the Fall Term and four course credits in the Spring Term. Thus, eight course credits are completed in an academic year.  During optional May Term, students may enroll for up to one course credit in one of the limited selection of courses.  Summer term is limited in scope and is not considered a regular term. (The maximum course load is described in Course Load, p. 53).
 
 
-## MAY TERM (OPTIONAL) {.unnumbered}
+# MAY TERM (OPTIONAL) 
 Students may enroll for up to one course credit during May Term in one of the limited selection of courses.  All May Term courses require consent of instructor prior to registration.
 May Term courses are designed to meet at least two of the following shared learning outcomes:
 
@@ -12,7 +12,7 @@ May Term courses are designed to meet at least two of the following shared learn
 
 May Term courses are expected to have the same amount of contact time and academic rigor per course credit as courses which meet over a Fall or Spring Term.  For every 1 course credit of May term students are expected to complete 140 hours of work.  Such contact time includes class meetings, lectures by the instructor, supervised course related activities and independent out of class activities.  Off-campus May Term courses at an off-campus location provide certain educational benefits through site visits, guest lectures, etc., that also contribute to the contact time for the course.
 
-## COE PLAN {.unnumbered}
+# COE PLAN 
 Coe College’s requirements for graduation, commonly known as the Coe Plan were developed with the following outcomes in mind:
 
 - Creation of a bridge from high school to Coe College that helps students understand the importance of a liberal arts education, the ways to develop the skills needed by any learner, and the opportunities they will have by going to Coe College.
@@ -21,7 +21,7 @@ Coe College’s requirements for graduation, commonly known as the Coe Plan were
 
 These outcomes are met through the College’s First-Year Experience, General Education program, Writing Emphasis courses, and the College’s Practicum experiences and areas of study, described in this section of the Catalog.
 
-## GRADUATION REQUIREMENTS {.unnumbered}
+# GRADUATION REQUIREMENTS
 
 All students who graduate from Coe College must complete at least one major and earn at least 32 course credits (cc) with grades leading to a cumulative grade point average (GPA) of 2.0 or higher.  (The course is the unit of academic credit.)  Courses are one credit unless otherwise indicated.  Students are expected to complete 180 hours of work to earn one course credit, although class times vary from course to course.  Other institutions may convert Coe credit to their system by considering one course credit to be 6 quarter hours, or 4 semester hours.)  No more than a total of two course credits from courses which are less than 0.5 credit can be used to meet the 32-credit graduation requirement.  No more than eight course credits earned of Advanced Placement or International Baccalaureate credit can be used to satisfy this requirement.
 
@@ -36,7 +36,7 @@ In addition, students must fulfill the requirements of the First-Year Experience
 
 To participate in Commencement exercises, students must submit a completed Intent to Graduate form to the Office of the Registrar, preferably three terms prior to Commencement.  
 
-### Second Baccalaureate Degree
+## Second Baccalaureate Degree
 
 A student who holds a baccalaureate degree from another institution may earn a second baccalaureate degree at Coe, if the following criteria are met:
 
@@ -47,7 +47,7 @@ Students accepted at Coe to pursue a second degree are granted a maximum of 24 c
 
 Second baccalaureate students are exempt from the following requirements: first-year experience, general education, writing emphasis, and practicum.  They are not eligible to graduate with Latin Honors or for induction in Phi Beta Kappa or Phi Kappa Phi.
 
-### Transfer Student Information
+## Transfer Student Information
 
 To honor its mission and to preserve its academic integrity as a liberal arts institution, the College accepts a course in transfer if that course meets the spirit of the College’s mission and is from a regionally accredited institution.  This section includes information, in addition to that included in the section, Graduation Requirements (see p. 16), germane to students who are transferring to Coe College from another college or university.
 

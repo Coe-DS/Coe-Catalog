@@ -5,7 +5,7 @@ import pandas as pd, os
 catalog_master = pd.read_csv("catalog_from_jenzabar.csv")
 
 def find_if_var_exists(crs_code):
-    rootdir="."
+    rootdir="./catalog_sections"
     counter = 0
     for folder, dirs, files in os.walk(rootdir):
         for file in files:
@@ -44,7 +44,7 @@ def print_course_vars(row, file_id):
         print(dept_code, "_courses.qmd#courses-in-", "SOMETHING", ")\'", sep="", file=file_id)
 
 
-with open("_variable.yml", "w") as fid:
+with open("_variables.yml", "w") as fid:
     print("c:", file=fid)
     f = lambda x : print_course_vars(x,fid)
     catalog_master.apply(f, axis = 1)
