@@ -1,4 +1,4 @@
-## Religion 
+## Religion {#sec-religion}
 Chaplin, Hatchell (Chair), Kensky. 
 
 The philosophy and religion department offer courses designed to lead students to reflect on their views concerning fundamental issues in life and thought. Since both the philosophical and religious traditions have had a central place in and an enormous influence upon the development of human culture, any student seeking a liberal education, whatever the major discipline, will profit from the departmental offerings. 
@@ -34,11 +34,61 @@ A grade of “C” (2.0) or higher must be earned in all courses counted toward 
 
 ### Courses in Religion by Content area 
 Special attention should be given to the numerical ordering of the courses listed below: 
-1. Courses numbered between 100 and 199 include general introductions to religion ({{< var c.rel101.long >}} (REL-101), {{< var c.rel103.long >}} (REL-103), {{< var c.rel106.long >}} (REL-106), and {{< var c.rel108.long >}} (REL-108) as well as introductory courses focused on specific traditions.
+1. Courses numbered between 100 and 199 include general introductions to religion ({{< var c.rel101.long >}} , {{< var c.rel103.long >}} , {{< var c.rel106.long >}} , and {{< var c.rel108.long >}} as well as introductory courses focused on specific traditions.
 2. Courses numbered 200-299 are topical courses especially suitable for sophomore level and above.
 3. Courses numbered 300-399 are advanced courses with prerequisites. 
 
-Recommended beginning courses for those contemplating a major in religion are: {{< var c.rel101.long >}} (REL-101), {{< var c.rel103.long >}} (REL-103), {{< var c.rel106.long >}} (REL-106), or {{< var c.rel108.long >}} (REL-108). However, other courses numbered below 200 are also suitable introductory courses.
+Recommended beginning courses for those contemplating a major in religion are: {{< var c.rel101.long >}} , {{< var c.rel103.long >}} , {{< var c.rel106.long >}} , or {{< var c.rel108.long >}}m. However, other courses numbered below 200 are also suitable introductory courses.
+
+:::: {.columns}
+
+::: {.column width="45%"}
+**Survey courses**	
+	{{< var c.rel101.long >}}
+	{{< var c.rel103.long >}}
+	{{< var c.rel106.long >}}
+	{{< var c.rel108.long >}}
+
+**Individual traditions**
+	{{< var c.rel116.long >}}
+	{{< var c.rel128.long >}}
+	{{< var c.rel136.long >}}
+	{{< var c.rel138.long >}}
+	{{< var c.rel148.long >}}
+	{{< var c.rel178.long >}}
+	{{< var c.rel196.long >}}
+	{{< var c.rel206.long >}}
+	{{< var c.rel215.long >}}
+	{{< var c.rel226.long >}}
+	{{< var c.rel236.long >}}
+	{{< var c.rel336.long >}}
+:::
+
+::: {.column width="10%"}
+
+:::
+
+::: {.column width="45%"}
+**Judeo-Christian scriptures**
+	{{< var c.rel105.long >}}
+	{{< var c.rel115.long >}}
+	{{< var c.rel310.long >}}
+	{{< var c.rel330.long >}}
+	{{< var c.rel365.long >}}
+
+**Topical courses**
+	{{< var c.rel217.long >}}
+	{{< var c.rel295.long >}}
+	{{< var c.rel296.long >}}
+	{{< var c.rel338.long >}}
+	{{< var c.rel385.long >}}
+	{{< var c.rel386.long >}}
+	{{< var c.rel394.long >}}
+	{{< var c.rel444.long >}}
+	{{< var c.rel494.long >}} 
+:::
+
+::::
 
 **Survey courses**	
 	{{< var c.rel101.long >}}

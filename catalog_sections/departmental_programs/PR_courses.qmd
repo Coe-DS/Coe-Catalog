@@ -37,7 +37,7 @@ Concurrent completion of any of the majors listed on p.  of the Catalog is requi
 	{{< var c.int499.long >}} (0.0 credit) (with public relations as a major component
 	{{< var c.pr494.long >}} 
 
-8. **Three** of the following.  No more than two courses may be selected from within any one department. (Students majoring in Business Administration may select no more than one course with either a BUS or an ACC prefix. Students majoring in Communication Studies or in Writing may select no more than one course with either a COM or an RHE prefix.)
+8. **Three** of the following. No more than two courses may be selected from within any one department. (Students majoring in Business Administration may select no more than one course with either a BUS or an ACC prefix. Students majoring in Communication Studies or in Writing may select no more than one course with either a COM or an RHE prefix.)
 	{{< var c.acc171.long >}} 
 	{{< var c.art101.long >}} (if not used to satisfy #1)
 	{{< var c.art145.long >}} (if not used to satisfy #1)
@@ -57,7 +57,7 @@ Concurrent completion of any of the majors listed on p.  of the Catalog is requi
 	{{< var c.rhe265.long >}}
 	{{< var c.rhe415.long >}} (if not used to satisfy #6)
 
-#### Courses in Public Relations 
+### Courses in Public Relations 
 - **{{< var c.pr205.long >}}**
   {{< var c.pr205.desc >}}  
 - **{{< var c.pr494.long >}}**

@@ -50,11 +50,11 @@ Guderski.
 
 ### Army ROTC Courses
 
-The Army Reserve Officers’ Training Corps (ROTC) program at Coe College is administered through a cross-enrollment agreement with the Department of Military Science at The University of Iowa in Iowa City. Classes are held either at The University of Iowa or at Coe College, depending upon the size of class enrollment. Information on the Army ROTC program is available by contacting the Department of Military Science at (319) 399-8297 or the website at [http://armyrotc.com/edu/univia/index.htm].{underlined} 
+The Army Reserve Officers’ Training Corps (ROTC) program at Coe College is administered through a cross-enrollment agreement with the Department of Military Science at The University of Iowa in Iowa City. Classes are held either at The University of Iowa or at Coe College, depending upon the size of class enrollment. Information on the Army ROTC program is available by contacting the Department of Military Science at (319) 399-8297 or the website at [ARMY ROTC](http://armyrotc.com/edu/univia/index.htm)
 
 All students are eligible to apply for ROTC two-, three-, and four-year scholarships which cover tuition and fees, books and supplies, and a tax-free monthly stipend during the academic year. The Army National Guard and Army Reserve also provide financial assistance through membership with a respective unit. 
 
-#### Basic courses 
+#### Basic courses{.unnumbered}
 
 The ROTC Basic Course is primarily for first- and second-year students. It provides the fundamentals of leadership and management and introduces the roles of the military as influenced by national and foreign policy. Enrollment in the Basic Course is open to all students and carries no service obligation. Students with prior military training normally are exempt from the Basic Course requirements. 
 
@@ -69,7 +69,7 @@ Students may complete the Basic Course requirements over a one- or two-year peri
 - **{{< var c.mil104.long >}}**
   {{< var c.mil104.desc >}}   
 
-#### Advanced courses   
+#### Advanced courses{.unnumbered}   
 
 The ROTC Advanced Course is open to any student who meets the prerequisites. Its design is primarily for students who wish to pursue a commission as a lieutenant in the U.S. Army upon graduation. Most students in the advanced course incur an obligation to the military via the Active Army, Army National Guard, or Army Reserve. Students agreeing to serve in the armed forces, through a contractual obligation with the ROTC program, receive a tax-free monthly stipend.
 

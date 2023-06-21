@@ -1,35 +1,45 @@
-### Philosophy 
-Hoover, Lemos. 
+## Philosophy 
+
+Hoover, Lemos.
+
 The philosophy and religion department offer courses designed to lead students to reflect on their views concerning fundamental issues in life and thought. Since both the philosophical and religious traditions have had a central place in and an enormous influence upon the development of human culture, any student seeking a liberal education, whatever the major discipline, will profit from the departmental offerings. 
 
-#### Philosophy Major 
+### Philosophy Major 
 A grade of “C” (2.0) or higher must be earned in all courses counted toward a major in philosophy.
-1. [Two]{.underlined} of the following, one of which must be either {{< var c.phl240.long >}} (PHL-240) or {{< var c.phl335.long >}} (PHL-335):
+
+1. **Two** of the following, one of which must be either {{< var c.phl240.long >}} or {{< var c.phl335.long >}}:
 	{{< var c.phl220.long >}}
 	{{< var c.phl230.long >}}
 	{{< var c.phl240.long >}}
 	{{< var c.phl335.long >}}
-2. [Three]{.underlined} additional 300-level philosophy courses 
-3. [Five]{.underlined} additional philosophy courses, at least two of which must be numbered 200 or above
-4. {{< var c.phl490.long >}}(non-credit bearing)
+
+2. **Three** additional 300-level philosophy courses 
+
+3. **Five** additional philosophy courses, at least two of which must be numbered 200 or above
+
+4. {{< var c.phl490.long >}} (non-credit bearing)
 
 **NOTE:** *The recommended beginning course in philosophy for those contemplating a major in philosophy is {{< var c.phl105.long >}}. However, any of the other 100-level courses are also suitable first courses. Some courses numbered between 200 and 299 may be suitable first courses for students with sophomore standing.* 
 
-#### Philosophy Minor 
-1. [Two]{.underlined} of the following, one of which must be either {{< var c.phl240.long >}} (PHL-240) or {{< var c.phl335.long >}} (PHL-335):
+### Philosophy Minor 
+1. **Two** of the following, one of which must be either {{< var c.phl240.long >}} or {{< var c.phl335.long >}} :
 	{{< var c.phl220.long >}}
 	{{< var c.phl230.long >}}
 	{{< var c.phl240.long >}}
 	{{< var c.phl335.long >}}
-2. [One] additional 300-level philosophy course
-3. [Three] additional philosophy courses
+
+2. **One** additional 300-level philosophy course
+
+3. **Three** additional philosophy courses
 
 
-#### Courses in Philosophy 
-##### Introductory courses
+### Courses in Philosophy 
 
-**[Category A: General Introductions]**
-The following courses, all numbered PHL-105, are different versions of the same course. They share overlapping content and focus on the development of the same skills. Students can receive credit for only one PHL-105: Introduction to Philosophy course.
+#### Introductory courses {.unnumbered}
+
+**[Category A: General Introductions]{.underline}**
+
+The following courses, all numbered PHL-105, are different versions of the same course. They share overlapping content and focus on the development of the same skills. Students can receive credit for only one {{< var c.phl105.long >}} course.
 - **{{< var c.phl105.long >}}**
   {{< var c.phl105.desc >}}  
 - **{{< var c.phl105.long >}}**
@@ -41,7 +51,7 @@ The following courses, all numbered PHL-105, are different versions of the same 
 - **{{< var c.phl105.long >}}**
   {{< var c.phl105.desc >}} 
 
-**[Category B: Ethical and Political Issues]**
+**[Category B: Ethical and Political Issues]{.underline}**
 - **{{< var c.phl128.long >}}**
   {{< var c.phl128.desc >}}  
 - **{{< var c.phl138.long >}}**
@@ -51,13 +61,14 @@ The following courses, all numbered PHL-105, are different versions of the same 
 - **{{< var c.phl205.long >}}**
   {{< var c.phl205.desc >}}   
 
-**[Category C: Logic]**
+**[Category C: Logic]{.underline}**
 - **{{< var c.phl115.long >}}**
   {{< var c.phl115.desc >}}
 
-##### Intermediate courses
+##### Intermediate courses {.unnumbered}
+
 - **{{< var c.phl206.long >}}**
-See also Religion (REL-206), [p.]()
+See also {{< var c.rel206.long >}} , @sec-religion 
   {{< var c.phl206.desc >}}  
 - **{{< var c.phl210.long >}}**
   {{< var c.phl210.desc >}} 
@@ -82,7 +93,7 @@ See also Religion (REL-206), [p.]()
 - **{{< var c.phl285.long >}}**
   {{< var c.phl285.desc >}} 
 
-##### Advanced seminars 
+##### Advanced seminars {.unnumbered} 
 - **{{< var c.phl305.long >}}**
   {{< var c.phl305.desc >}} 
 - **{{< var c.phl315.long >}}**

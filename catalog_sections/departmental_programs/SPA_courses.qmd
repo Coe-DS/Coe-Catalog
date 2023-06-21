@@ -5,9 +5,9 @@ Peach, Muñoz Pérez, Rodríguez Moreno (Program Coordinator).
 ### Spanish Major 
 A grade of “C” (2.0) or higher must be earned in all courses counted toward a major in Spanish. 
 
-Students who major in Spanish complete a minimum of eight courses in Spanish beyond {{< var c.spa225.long >}} (SPA-225), though {{< var c.spa148.long >}} (SPA-148) may be taken as one of the eight. {{< var c.spa115.long >}} , {{< var c.spa125.long >}} , {{< var c.spa135.long >}} , {{< var c.spa215.long >}} , and {{< var c.spa225.long >}} are regarded as skill-building courses, and do not count toward the major in Spanish. Spanish students are urged to substitute study abroad in a program approved by the College and the department for up to three courses for the major. One Hispanic literature course (SPA-336 or above) must be taken in the senior year. 
+Students who major in Spanish complete a minimum of eight courses in Spanish beyond {{< var c.spa225.long >}} , though {{< var c.spa148.long >}} may be taken as one of the eight. {{< var c.spa115.long >}} , {{< var c.spa125.long >}} , {{< var c.spa135.long >}} , {{< var c.spa215.long >}} , and {{< var c.spa225.long >}} are regarded as skill-building courses, and do not count toward the major in Spanish. Spanish students are urged to substitute study abroad in a program approved by the College and the department for up to three courses for the major. One Hispanic literature course (SPA-336 or above) must be taken in the senior year. 
 
-{{< var c.spa464.long >}} is required during the final spring term before graduation. Students selecting Spanish as a second teaching field should complete a minimum of four Spanish courses numbered 315 or above. Any advanced courses taken for the second teaching field should include {{< var c.spa315.long >}} (SPA-315). 
+{{< var c.spa464.long >}} is required during the final spring term before graduation. Students selecting Spanish as a second teaching field should complete a minimum of four Spanish courses numbered 315 or above. Any advanced courses taken for the second teaching field should include {{< var c.spa315.long >}} . 
 
 ### Spanish Minor
 
@@ -22,8 +22,8 @@ A grade of “C” (2.0) or higher must be earned in all courses counted toward 
 The Spanish Studies major requires: 1) successful completion of four courses beyond {{< var c.spa225.long >}} , with {{< var c.spa336.long >}} or {{< var c.spa338.long >}} recommended as one of the four; and 2) successful completion of a departmentally approved list of five courses proposed by the student which exhibits both internal coherence and relevance to the course work in Spanish. Typically, application to the department for the approval of the interdisciplinary elected courses is to be made no later than the Spring Term of the junior year. {{< var c.spa115.long >}} , {{< var c.spa125.long >}} , {{< var c.spa135.long >}}, {{< var c.spa215.long >}} , and {{< var c.spa225.long >}} are regarded as skill-building courses, and do not count toward the major in Spanish Studies.
 
 ### Courses in Spanish
-- **{{< var c.spa115.long >}}**
-  {{< var c.spa115.desc >}}  
+- **{{< var c.spa115_125.long >}}**
+  {{< var c.spa115_125.desc >}}  
 - **{{< var c.spa129.long >}}**
   {{< var c.spa129.desc >}}
 - **{{< var c.spa135.long >}}**

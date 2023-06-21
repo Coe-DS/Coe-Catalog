@@ -1,5 +1,7 @@
-### Workshops (Courses Only)
+## Workshops (Courses Only)
+
 Hughes, Rogers.
+
 Workshops (0.25 and 0.5 course credit) are designed to allow hands-on, experiential learning in a practice-based context.  WKS courses can be interdisciplinary explorations, or offer opportunities to learn, refine, or apply a skill set within a specific discipline. 
 
 - **{{< var c.wks201.long >}}**

@@ -1,12 +1,15 @@
-### Organizational Science (Collateral Major) {#sec-organizational-science} 
+## Organizational Science (Collateral Major) {#sec-organizational-science} 
 
 Farrell (Administrative Coordinator)
 
-The Organizational Science major is a collateral and interdisciplinary program of study designed to acquaint students with human behavior in organizations from both theoretical and applied perspectives. The program aims to prepare students to carry out various human resources, organizational development, customer service, and institutional research functions in a variety of organizational settings.  It also prepares students for graduate study in the fields of Industrial/Organizational (I/O) Psychology, Human Resources, Quantitative Methods, and other similar fields.  Required courses in quantitative methods form the core of the major, complemented by required and elective coursework on relevant topics within the disciplines of Psychology and Business Administration that are central to the field.  An internship or research experience is also required. 
+The Organizational Science major is a collateral and interdisciplinary program of study designed to acquaint students with human behavior in organizations from both theoretical and applied perspectives. The program aims to prepare students to carry out various human resources, organizational development, customer service, and institutional research functions in a variety of organizational settings. It also prepares students for graduate study in the fields of Industrial/Organizational (I/O) Psychology, Human Resources, Quantitative Methods, and other similar fields. Required courses in quantitative methods form the core of the major, complemented by required and elective coursework on relevant topics within the disciplines of Psychology and Business Administration that are central to the field. An internship or research experience is also required. 
 
-#### Collateral Major in Organizational Science
-A major in organizational science requires a minimum cumulative 2.0 GPA in all courses counted toward the major. 
-Concurrent completion of a primary major in psychology is required.  
+### Collateral Major in Organizational Science
+
+A major in organizational science requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+ 
+Concurrent completion of a primary major in psychology is required. 
+ 
 1. **All** of the following quantitative/methodological core courses:
 	{{< var c.bus340.long >}}
 	{{< var c.psy475.long >}}	
@@ -18,7 +21,7 @@ Concurrent completion of a primary major in psychology is required.
 
 3. **Four** elective courses to be chosen as indicated from the two lists below. 
  
-a.  ***At least two*** of the following courses:
+a. **At least two** of the following courses:
 	{{< var c.bus250.long >}}
 	{{< var c.bus375.long >}}
 	{{< var c.bus387.long >}}
@@ -28,7 +31,7 @@ a.  ***At least two*** of the following courses:
 	{{< var c.bus457.long >}}
 	{{< var c.bus464.long >}}
 
-b. ***No more than two*** of the following courses:
+b. **No more than two** of the following courses:
 	{{< var c.psy255.long >}}
 	{{< var c.psy315.long >}}
 	{{< var c.psy355_355l.long >}}

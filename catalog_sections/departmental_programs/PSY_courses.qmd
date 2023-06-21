@@ -1,4 +1,4 @@
-## Psychology
+## Psychology {#sec-psychology}
 Baker, Brown, Castillo, Chihak, Farrell (Chair, Fall), Kelly (Chair, Spring), Lee, Recker, Stephenson
 
 Psychology is the scientific study of behavior and mental processes—the basis for both a field of scientific knowledge and of professional application. Both required and elective courses in psychology are grounded in the scientific approach. As an important tool for the understanding of both theory and data, the study of basic statistical and methodological concepts is included among courses required of all students majoring in psychology.  
@@ -8,7 +8,7 @@ In addition to a major in **Psychology**, the College also offers collateral maj
 ### Secondary Education Certification in Psychology
 Students seeking certification to teach psychology at the secondary level are strongly encouraged to speak with an advisor in Education as early as possible in their program of studies. 
 
-#### Psychology Major 
+### Psychology Major 
 A major in Psychology requires a cumulative 2.0 GPA in all courses counted toward the major.
 1. {{< var c.psy100.long >}}
 

@@ -16,22 +16,66 @@ Coe College offers two paths to enter the nursing program.  Standard entry is fo
 
 The nursing department Admission, Promotion, and Retention committee reviews applications and selects candidates who are best qualified to meet the standards of the nursing profession. Admission to the BSN degree program is competitive. Those applicants who appear to be the most qualified will be admitted. Standard and direct entry students are expected to maintain the eligibility requirements as outlined in the *Nursing Department Student Policies Manual*. 
 
-#### Departmental Notes: 
+### Departmental Notes: 
+
 In order to successfully complete a course and be promoted to successive courses, students must:
 	+ Achieve a minimum grade of C (2.0) in all nursing courses; a grade of C- (1.7) or lower requires the student to repeat the course.
 	+ Achieve a cumulative average of 72% on all exams in a given course.
 
 Candidates for the **Bachelor of Science in Nursing** degree must satisfactorily complete: 
+
 1. The general education requirements (see @sec-general-education-requirement ).
 
 2. **Eight** required supporting courses:
+
+:::: {.columns}
+
+::: {.column width="20%"}
+Biology
+
+Chemistry
+
+Psychology
+
+Sociology
+
+Statistics 
+:::
+
+::: {.column width="10%"}
+
+:::
+
+::: {.column width="70%"}
+
+{{< var c.bio145.long >}}
+{{< var c.bio195.long >}}
+{{< var c.bio215_215l.long >}}
+{{< var c.bio225.long >}}
+
+{{< var c.bio111_111l.long >}}
+
+{{< var c.psy100.long >}}
+
+{{< var c.soc107.long >}}
+
+{{< var c.sta300.long >}} **or**
+{{< var c.sta100.long >}} (7 weeks) **and** {{< var c.sta110.long >}}
+:::
+
+::::
+
 Biology         {{< var c.bio145.long >}}
 		{{< var c.bio195.long >}}
 		{{< var c.bio215_215l.long >}}
-		{{< var c.bio225.long >}}		
+		{{< var c.bio225.long >}}
+		
 Chemistry	{{< var c.bio111_111l.long >}}
+
 Psychology 	{{< var c.psy100.long >}}
+
 Sociology	{{< var c.soc107.long >}}
+
 Statistics 	{{< var c.sta300.long >}} **or**
 		{{< var c.sta100.long >}} (7 weeks) **and** {{< var c.sta110.long >}}
 
@@ -39,7 +83,7 @@ Statistics 	{{< var c.sta300.long >}} **or**
 
 4. {{< var c.nur200.long >}} (0.2 course credit) (Pre-nursing students must enroll each term of the sophomore year. A maximum of two seminars may be counted for credit toward graduation.)
 
-5. Nine non-clinical theory course credits: 
+5. **Nine** non-clinical theory course credits: 
 	{{< var c.nur300.long >}} 
 	{{< var c.nur305.long >}}
 	{{< var c.nur345_345l.long >}}
@@ -50,7 +94,7 @@ Statistics 	{{< var c.sta300.long >}} **or**
 	{{< var c.nur431.long >}}
 	{{< var c.nur495.long >}}
 
-6. Four two-course-credit clinical courses: 
+6. **Four** two-course-credit clinical courses: 
 	{{< var c.nur315_315l.long >}}
 	{{< var c.nur355_355l.long >}}
 	{{< var c.nur415_415l.long >}}
@@ -66,6 +110,7 @@ Statistics 	{{< var c.sta300.long >}} **or**
 - **{{< var c.nur100.long >}}**
   {{< var c.dsnur100.desc >}}  
 - **{{< var c.nur137.long >}}**
+See also {{< var c.psy137.long >}} , @sec-psychology
   {{< var c.nur137.desc >}} 
 - **{{< var c.nur200.long >}}**
   {{< var c.nur200.desc >}}
@@ -79,11 +124,11 @@ Statistics 	{{< var c.sta300.long >}} **or**
   {{< var c.nur300.desc >}}
 - **{{< var c.nur305.long >}}**
   {{< var c.nur305.desc >}}
-- **{{< var c.nur315.long >}}**
+- **{{< var c.nur315_315l_315c.long >}}**
   {{< var c.nur315.desc >}} 
 - **{{< var c.nur345.long >}}**
   {{< var c.nur345.desc >}}  
-- **{{< var c.nur355.long >}}**
+- **{{< var c.nur355_335l_335c.long >}}**
   {{< var c.nur355.desc >}} 
 - **{{< var c.nur360.long >}}**
   {{< var c.nur360.desc >}}  
@@ -91,7 +136,7 @@ Statistics 	{{< var c.sta300.long >}} **or**
   {{< var c.nur375.desc >}} 
 - **{{< var c.nur387.long >}}**
   {{< var c.nur387.desc >}} 
-- **{{< var c.nur415.long >}}**
+- **{{< var c.nur415_415l_415c.long >}}**
   {{< var c.nur415.desc >}} 
 - **{{< var c.nur425.long >}}**
   {{< var c.nur425.desc >}} 
@@ -102,7 +147,7 @@ Statistics 	{{< var c.sta300.long >}} **or**
 - **{{< var c.nur444.long >}}**
   {{< var c.nur444.desc >}} 
 - **{{< var c.nur455.long >}}**
-  {{< var c.nur455.desc >}} 
+  {{< var c.nur455_445c.desc >}} 
 - **{{< var c.nur494.long >}}**
   {{< var c.nur494.desc >}} 
 - **{{< var c.nur495.long >}}**

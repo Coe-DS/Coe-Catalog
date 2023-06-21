@@ -3,7 +3,7 @@
 ## FEES
 Rates subject to change.
 
-The Coe College annual fees and student accounts policies can be found in the **Coe Student Accounts Handbook** located at <https://www.coe.edu/student-life/student-life-resources/business-office/student-accounts-handbook>.
+The Coe College annual fees and student accounts policies can be found in the **Coe Student Accounts Handbook** located at <https://www.coe.edu/student-life/student-life-resources/business-office/student-accounts-handbook> .
 
 ### Full-time and Part-time Students
 
@@ -74,7 +74,7 @@ If a student chooses to pay his/her college charges on the semester payment sche
 
 ### Official Withdrawal from all Courses
 
-Students who withdraw from or cease attendance in all of their courses have the responsibility of initiating the official withdrawal process (see @{official-withdrawal-process} ).
+Students who withdraw from or cease attendance in all of their courses have the responsibility of initiating the official withdrawal process (see @official-withdrawal-process ).
 
 If a student is unable to complete the official withdrawal process, the intent to withdraw can be communicated to one of the following offices: Registrar, Student Financial Services, Student Life, Student Success and Persistence.
 
@@ -92,7 +92,7 @@ Students who did not earn credit for any of the courses they were registered for
 
 ### Federal Title IV Refund Calculation/Policy {#sec-federal-title-IV-refund-calculation-policy} 
 
-In accordance with federal regulations, a Title IV refund calculation must be performed for students that are recipients of Federal Student Aid (FSA) who cease attendance in all courses, including students who are expelled, or are granted a leave of absence. The FSA programs that are covered by this law are: Federal Pell Grants, TEACH Grants, Stafford Loans, PLUS Loans, Federal Supplemental Educational Opportunity Grants (FSEOG), Iraq Afghanistan Service Grant, and other Title IV Programs. The Coe College Student Financial Services Office determines, based on the *federally mandated formula, the amount of FSA assistance students have earned based on the date in the term a student is considered to be withdrawn. An example of the refund calculation is published online in the [Financial Aid Handbook] (https://www.coe.edu/admission/financial-aid-scholarships/financial-aid-handbook) and a handout may be obtained from the Student Financial Services Office.
+In accordance with federal regulations, a Title IV refund calculation must be performed for students that are recipients of Federal Student Aid (FSA) who cease attendance in all courses, including students who are expelled, or are granted a leave of absence. The FSA programs that are covered by this law are: Federal Pell Grants, TEACH Grants, Stafford Loans, PLUS Loans, Federal Supplemental Educational Opportunity Grants (FSEOG), Iraq Afghanistan Service Grant, and other Title IV Programs. The Coe College Student Financial Services Office determines, based on the federally mandated formula[^note], the amount of FSA assistance students have earned based on the date in the term a student is considered to be withdrawn. An example of the refund calculation is published online in the [Financial Aid Handbook] (https://www.coe.edu/admission/financial-aid-scholarships/financial-aid-handbook) and a handout may be obtained from the Student Financial Services Office.
 
 ### Return of Financial Aid Funds Policy Steps
 
@@ -134,6 +134,8 @@ The student will be informed by the Student Financial Services Office of the typ
 
 Grant aid that was earned, but had not been applied before the student withdrew, will be applied to the students account within 45 days. Loan proceeds that could be disbursed after the student withdrew will only be disbursed if the student requests a disbursement within 14 days of receiving notice from the Student Financial Services of their eligibility of a post-withdrawal loan disbursement.
 
+[^note]: the federal work-sheet used to calculate the amount of FSA assistance earned is available from the Student Financial Services upon request.
+
 ### Institutional Refund Calculation/Policy
 
 The Student Financial Services will follow the federal Title IV Refund Calculation/ Policy in determining the amount of earned and unearned Coe scholarships and grants and state assistance.
@@ -150,8 +152,8 @@ Changes in enrollment status from full-time to part-time may affect a student’
 
 ### Part-Time Students
 
-A part-time student withdrawing from all courses in the Fall or Spring Terms shall be subject to *Return of Title IV Funds/Institutional Refund Policy*, see @sec-federal-title-IV-refund-calculation-policy for more information. 
+A part-time student withdrawing from all courses in the Fall or Spring Terms shall be subject to *Return of Title IV Funds/Institutional Refund Policy*, see @federal-title-IV-refund-calculation-policy for more information. 
 
 ### Summer Students
 
-A summer student withdrawing from class will be subject to Return of Title IV Funds/Institutional Refund Policy (see @sec-federal-title-IV-refund-calculation-policy ) which credits earned aid and assessed charges on a prorated basis predicated on the term/session enrolled.
+A summer student withdrawing from class will be subject to Return of Title IV Funds/Institutional Refund Policy (see @federal-title-IV-refund-calculation-policy ) which credits earned aid and assessed charges on a prorated basis predicated on the term/session enrolled.

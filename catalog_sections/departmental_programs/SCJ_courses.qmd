@@ -81,8 +81,7 @@ A major in Social & Criminal Justice requires a cumulative 2.0 GPA in all course
 	{{< var c.scj494.long >}}
 	{{< var c.occ323.long >}} (if internship/independent study has SCJ focus)
 	{{< var c.wsh464.long >}} (if internship has SCJ focus)
-
-As a capstone experience, it is expected that students will carry out the project during the junior or senior year, after completing the majority of the required coursework. Students are expected to consult with the SCJ administrative coordinator prior to beginning their projects. 
+	As a capstone experience, it is expected that students will carry out the project during the junior or senior year, after completing the majority of the required coursework. Students are expected to consult with the SCJ administrative coordinator prior to beginning their projects. 
 
 10. {{< var c.scj490.long >}} -- Non-Credit Bearing
 

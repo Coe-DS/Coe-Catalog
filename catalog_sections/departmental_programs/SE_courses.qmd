@@ -1,3 +1,3 @@
-### Secondary Education (Minor Only)
-See—Education [p.]() 
+## Secondary Education (Minor Only)
+See Education , @sec-education 
 

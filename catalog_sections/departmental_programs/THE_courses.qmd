@@ -123,7 +123,7 @@ Theatre Arts students select one of the following **emphases**: general, acting,
 	{{< var c.phy155.long >}} and {{< var c.phy155l.long >}}  
 	{{< var c.the442.long >}} 
 
-#### Courses in Theatre Arts 
+### Courses in Theatre Arts 
 
 - **{{< var c.the100.long >}}**
   {{< var c.the100.desc >}}  
@@ -164,10 +164,12 @@ Theatre Arts students select one of the following **emphases**: general, acting,
 - **{{< var c.the250.long >}}**
   {{< var c.the250.desc >}}  
 - **{{< var c.the255.long >}}**
+See {{< var c.crw255.long >}} , @sec-couses-in-creative-writing
   {{< var c.the255.desc >}}
 - **{{< var c.the260.long >}}**
   {{< var c.the260.desc >}}  
 - **{{< var c.the270.long >}}**
+See {{< var c.mu270.long >}} , @sec-couses-in-music
   {{< var c.the270.desc >}}
 - **{{< var c.the280.long >}}**
   {{< var c.the280.desc >}}  
@@ -178,6 +180,7 @@ Theatre Arts students select one of the following **emphases**: general, acting,
 - **{{< var c.the350.long >}}**
   {{< var c.the350.desc >}}
 - **{{< var c.the355.long >}}**
+See also {{< var c.crw355.long >}} , @sec-couses-in-creative-writing
   {{< var c.the355.desc >}}  
 - **{{< var c.the390.long >}}**
   {{< var c.the390.desc >}}
@@ -188,7 +191,7 @@ Theatre Arts students select one of the following **emphases**: general, acting,
 - **{{< var c.the452.long >}}**
   {{< var c.the452.desc >}}  
 - **{{< var c.the455.long >}}**
-See also Creative Writing (CRW-455), [p.]()
+See also {{< var c.crw455.long >}} , @sec-couses-in-creative-writing
   {{< var c.the455.desc >}}
 - **{{< var c.the462.long >}}**
   {{< var c.the462.desc >}}  
