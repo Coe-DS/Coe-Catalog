@@ -102,6 +102,7 @@
 \renewcommand\bottomrule[2]\relax
 \usepackage{fancyhdr}
 \lfoot{\textit{Coe College (2022-2023)}}
+\renewcommand{\part}[1]{\addcontentsline{toc}{part}{#1}}
 \makeatletter
 \makeatother
 \makeatletter
@@ -175,7 +176,7 @@
 \frontmatter
 \maketitle
 
-\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[interior hidden, breakable, boxrule=0pt, frame hidden, enhanced, sharp corners, borderline west={3pt}{0pt}{shadecolor}]}{\end{tcolorbox}}\fi
+\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[borderline west={3pt}{0pt}{shadecolor}, interior hidden, boxrule=0pt, breakable, frame hidden, sharp corners, enhanced]}{\end{tcolorbox}}\fi
 
 \renewcommand*\contentsname{Table of contents}
 {
@@ -265,7 +266,7 @@ Responsibility for understanding and meeting graduation requirements as
 stated in the Coe College Catalog rests entirely with the student.
 Faculty advisors and the Registrar will assist in every way possible.
 
-\bookmarksetup{startatroot}
+\part{INTRODUCTORY RESOURCES}
 
 \hypertarget{mission-statement-of-the-college}{%
 \chapter{MISSION STATEMENT OF THE
@@ -291,8 +292,6 @@ by the success of our graduates.
 color, handicap, sexual orientation, national, or ethnic origin. All
 students have equal access to the facilities, financial aid, and
 programs of the College.}
-
-\bookmarksetup{startatroot}
 
 \hypertarget{fast-facts}{%
 \chapter{FAST FACTS}\label{fast-facts}}
@@ -500,7 +499,7 @@ one of the College's main academic buildings. The result is vastly
 improved academic, recreational, wellness and competition facilities to
 benefit future generations of students.
 
-\bookmarksetup{startatroot}
+\part{ACADEMIC RESOURCES}
 
 \hypertarget{academic-calendar}{%
 \chapter{2022--2023 ACADEMIC CALENDAR}\label{academic-calendar}}
@@ -647,8 +646,6 @@ Full-Term) on My.Coe (11:59 PM) \\
 dates of the summer, but will provide a specific add/drop and withdraw
 calendar to students at the time of application.
 
-\bookmarksetup{startatroot}
-
 \hypertarget{the-academic-calendar}{%
 \chapter{THE ACADEMIC CALENDAR}\label{the-academic-calendar}}
 
@@ -659,8 +656,6 @@ completed in an academic year. During optional May Term, students may
 enroll for up to one course credit in one of the limited selection of
 courses. Summer term is limited in scope and is not considered a regular
 term. (The maximum course load is described in Course Load, p.~53).
-
-\bookmarksetup{startatroot}
 
 \hypertarget{may-term-optional}{%
 \chapter{MAY TERM (OPTIONAL)}\label{may-term-optional}}
@@ -695,8 +690,6 @@ courses at an off-campus location provide certain educational benefits
 through site visits, guest lectures, etc., that also contribute to the
 contact time for the course.
 
-\bookmarksetup{startatroot}
-
 \hypertarget{coe-plan}{%
 \chapter{COE PLAN}\label{coe-plan}}
 
@@ -723,8 +716,6 @@ These outcomes are met through the College's First-Year Experience,
 General Education program, Writing Emphasis courses, and the College's
 Practicum experiences and areas of study, described in this section of
 the Catalog.
-
-\bookmarksetup{startatroot}
 
 \hypertarget{graduation-requirements}{%
 \chapter{GRADUATION REQUIREMENTS}\label{graduation-requirements}}
@@ -856,8 +847,6 @@ complete the requirements for graduation:
   Academic Practicum. Transfer students are required to fulfill this
   requirement.
 \end{itemize}
-
-\bookmarksetup{startatroot}
 
 \hypertarget{areas-of-study}{%
 \chapter{AREAS OF STUDY}\label{areas-of-study}}
@@ -1069,8 +1058,6 @@ B.S.N.}\label{area-of-study-major-for-b.s.n.}}
   Nursing
 \end{itemize}
 
-\bookmarksetup{startatroot}
-
 \hypertarget{academic-advising}{%
 \chapter{ACADEMIC ADVISING}\label{academic-advising}}
 
@@ -1092,8 +1079,6 @@ to be advised by their First-Year Seminar instructors. Students are free
 to speak at any time with professors in their major departments to
 answer specific questions regarding requirements and courses in those
 departments.
-
-\bookmarksetup{startatroot}
 
 \hypertarget{first-year-experience}{%
 \chapter{FIRST-YEAR EXPERIENCE}\label{first-year-experience}}
@@ -1121,8 +1106,6 @@ grade in the FYS to be changed from ``F'' to ``NP'' on the transcript.
 
 Students who begin their college enrollment in the Spring Term must also
 complete a course designated as a replacement.
-
-\bookmarksetup{startatroot}
 
 \hypertarget{writing-emphasis-courses}{%
 \chapter{WRITING EMPHASIS COURSES}\label{writing-emphasis-courses}}
@@ -1253,8 +1236,6 @@ Baccalaureate Degree p.~16.
   disciplinary coursework, capstone projects, and/or independent
   research.
 \end{itemize}
-
-\bookmarksetup{startatroot}
 
 \hypertarget{general-education-courses}{%
 \chapter{GENERAL EDUCATION COURSES}\label{general-education-courses}}
@@ -1399,8 +1380,6 @@ course credits required for graduation.
   (WE)
 \end{itemize}
 
-\bookmarksetup{startatroot}
-
 \hypertarget{special-programs-and-opportunities}{%
 \chapter{SPECIAL PROGRAMS AND
 OPPORTUNITIES}\label{special-programs-and-opportunities}}
@@ -1419,8 +1398,6 @@ Program}\label{english-as-a-second-language-program}}
 \hypertarget{pre-professional-programs}{%
 \section{Pre-Professional Programs}\label{pre-professional-programs}}
 
-\bookmarksetup{startatroot}
-
 \hypertarget{off-campus-study}{%
 \chapter{OFF-CAMPUS STUDY}\label{off-campus-study}}
 
@@ -1437,12 +1414,10 @@ Programs}\label{acm-international-programs}}
 \hypertarget{exchange-programs}{%
 \section{Exchange programs}\label{exchange-programs}}
 
-\bookmarksetup{startatroot}
+\part{CAMPUS RESOURCES}
 
-\hypertarget{campus-resources}{%
-\chapter{CAMPUS RESOURCES}\label{campus-resources}}
-
-\bookmarksetup{startatroot}
+\hypertarget{campus-resources-1}{%
+\chapter{CAMPUS RESOURCES}\label{campus-resources-1}}
 
 \hypertarget{student-life}{%
 \chapter{STUDENT LIFE}\label{student-life}}
@@ -1450,33 +1425,23 @@ Programs}\label{acm-international-programs}}
 \hypertarget{student-services}{%
 \section{Student Services}\label{student-services}}
 
-\bookmarksetup{startatroot}
+\part{COLLEGE REGULATIONS}
 
 \hypertarget{college-regulations-and-policies}{%
 \chapter{COLLEGE REGULATIONS AND
 POLICIES}\label{college-regulations-and-policies}}
 
-\bookmarksetup{startatroot}
-
 \hypertarget{effective-catalog}{%
 \chapter{EFFECTIVE CATALOG}\label{effective-catalog}}
-
-\bookmarksetup{startatroot}
 
 \hypertarget{class-designation}{%
 \chapter{CLASS DESIGNATION}\label{class-designation}}
 
-\bookmarksetup{startatroot}
-
 \hypertarget{registration}{%
 \chapter{REGISTRATION}\label{registration}}
 
-\bookmarksetup{startatroot}
-
 \hypertarget{academic-integrity-policy}{%
 \chapter{ACADEMIC INTEGRITY POLICY}\label{academic-integrity-policy}}
-
-\bookmarksetup{startatroot}
 
 \hypertarget{academic-standing}{%
 \chapter{ACADEMIC STANDING}\label{academic-standing}}
@@ -1514,8 +1479,6 @@ Absence}\label{returning-to-coe-after-a-leave-of-absence}}
 \hypertarget{withdrawal-from-the-college-and-readmission}{%
 \section{Withdrawal from the College and
 Readmission}\label{withdrawal-from-the-college-and-readmission}}
-
-\bookmarksetup{startatroot}
 
 \hypertarget{transcript-evaluation-policies}{%
 \chapter{TRANSCRIPT EVALUATION
@@ -1571,26 +1534,20 @@ Commencement}\label{participation-in-commencement}}
 \hypertarget{pending-graduates}{%
 \section{Pending Graduates}\label{pending-graduates}}
 
-\bookmarksetup{startatroot}
-
 \hypertarget{student-notification-of-rights-under-ferpa}{%
 \chapter{STUDENT NOTIFICATION OF RIGHTS UNDER
 FERPA}\label{student-notification-of-rights-under-ferpa}}
 
-\bookmarksetup{startatroot}
+\part{COURSES OF INSTRUCTION}
 
-\hypertarget{courses-of-instruction}{%
-\chapter{COURSES OF INSTRUCTION}\label{courses-of-instruction}}
-
-\bookmarksetup{startatroot}
+\hypertarget{courses-of-instruction-1}{%
+\chapter{COURSES OF INSTRUCTION}\label{courses-of-instruction-1}}
 
 \hypertarget{academic-programs}{%
 \chapter{ACADEMIC PROGRAMS}\label{academic-programs}}
 
 \hypertarget{occasional-courses}{%
 \section{Occasional Courses}\label{occasional-courses}}
-
-\bookmarksetup{startatroot}
 
 \hypertarget{departmental-programs}{%
 \chapter{DEPARTMENTAL PROGRAMS}\label{departmental-programs}}
@@ -1712,8 +1669,6 @@ And the major requirments: - abcd - abcd - abcd
 \section{Economics}\label{sec-economics}}
 
 See \textbf{?@sec-business-administration-and-economics}
-
-\bookmarksetup{startatroot}
 
 \hypertarget{reserve-officer-training-corps}{%
 \chapter{RESERVE OFFICER TRAINING
@@ -2124,7 +2079,7 @@ military science, use other courses to meet the requirement.
   Training Course. (0.25 to 0.75 course credit)
 \end{itemize}
 
-\bookmarksetup{startatroot}
+\part{FINANCIAL RESOURCES}
 
 \hypertarget{financial-information}{%
 \chapter{FINANCIAL INFORMATION}\label{financial-information}}
@@ -2539,8 +2494,6 @@ Title IV Funds/Institutional Refund Policy (see
 Section~\ref{sec-federal-title-IV-refund-calculation-policy} ) which
 credits earned aid and assessed charges on a prorated basis predicated
 on the term/session enrolled.
-
-\bookmarksetup{startatroot}
 
 \hypertarget{financial-aid-and-scholarships}{%
 \chapter{FINANCIAL AID AND
