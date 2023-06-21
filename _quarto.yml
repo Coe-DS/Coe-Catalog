@@ -1,6 +1,6 @@
 project:
   type: book
-  pre-render: create_variable_list.py
+    #  pre-render: create_variable_list.py
 
 execute:
   warning: false
@@ -13,35 +13,53 @@ book:
   date: "8/1/2022"
   cover-image: cover.png
   page-footer: "*Coe College Catalog (2022-2023)*"
+  sidebar:
+    search: true
+    collapse-level: 1
   chapters:
     - index.qmd
-    - catalog_sections/01_mission.qmd
-    - catalog_sections/02_fast_facts.qmd
-    - catalog_sections/03_academic_calendar.qmd
-    - catalog_sections/04_education_program.qmd
-    - catalog_sections/05_areas_of_study.qmd
-    - catalog_sections/06_academic_advising.qmd
-    - catalog_sections/07_first_year_experience.qmd
-    - catalog_sections/08_writing_emphasis.qmd
-    - catalog_sections/09_general_education_courses.qmd
-    - catalog_sections/10_special_programs_and_opportunities.qmd
-    - catalog_sections/11_off_campus_study.qmd
-    - catalog_sections/12_campus_resources.qmd
-    - catalog_sections/13_student_life.qmd
-    - catalog_sections/14_college_regulations.qmd
-    - catalog_sections/15_effective_catalog.qmd
-    - catalog_sections/16_class_designation.qmd
-    - catalog_sections/17_registration.qmd
-    - catalog_sections/18_academic_integrity_policy.qmd
-    - catalog_sections/19_academic_standing.qmd
-    - catalog_sections/20_transcript_evaluation_policies.qmd
-    - catalog_sections/21_ferpa_rights.qmd
-    - catalog_sections/22_courses_of_instruction.qmd
-    - catalog_sections/23_academic_programs.qmd
-    - catalog_sections/24_departmental_programs.qmd
-    - catalog_sections/25_reserve_officer_training_corps.qmd
-    - catalog_sections/26_financial_information.qmd
-    - catalog_sections/27_financial_aid_and_scholarship.qmd
+    - part: "INTRODUCTORY RESOURCES"
+      chapters:
+      - catalog_sections/01_mission.qmd
+      - catalog_sections/02_fast_facts.qmd
+    - part: "ACADEMIC RESOURCES"
+      chapters:
+      - catalog_sections/03_academic_calendar.qmd
+      - catalog_sections/04_education_program.qmd
+      - catalog_sections/05_may_term.qmd
+      - catalog_sections/06_coe_plan.qmd
+      - catalog_sections/07_graduation_requirements.qmd
+      - catalog_sections/08_areas_of_study.qmd
+      - catalog_sections/09_academic_advising.qmd
+      - catalog_sections/10_first_year_experience.qmd
+      - catalog_sections/11_writing_emphasis.qmd
+      - catalog_sections/12_general_education_courses.qmd
+      - catalog_sections/13_special_programs_and_opportunities.qmd
+      - catalog_sections/14_off_campus_study.qmd
+    - part: "CAMPUS RESOURCES"    
+      chapters:
+      - catalog_sections/15_campus_resources.qmd
+      - catalog_sections/16_student_life.qmd
+    - part: "COLLEGE REGULATIONS"  
+      chapters:
+      - catalog_sections/17_college_regulations.qmd
+      - catalog_sections/18_effective_catalog.qmd
+      - catalog_sections/19_class_designation.qmd
+      - catalog_sections/20_registration.qmd
+      - catalog_sections/21_academic_integrity_policy.qmd
+      - catalog_sections/22_academic_standing.qmd
+      - catalog_sections/23_transcript_evaluation_policies.qmd
+      - catalog_sections/24_ferpa_rights.qmd
+    - part: "COURSES OF INSTRUCTION"
+      chapters:
+      - catalog_sections/25_courses_of_instruction.qmd
+      - catalog_sections/26_academic_programs.qmd
+      - catalog_sections/27_departmental_programs.qmd
+      - catalog_sections/28_reserve_officer_training_corps.qmd
+    - part: "FINANCIAL RESOURCES"
+      chapters:
+      - catalog_sections/29_financial_information.qmd
+      - catalog_sections/30_financial_aid_and_scholarship.qmd
     - catalog_sections/references.qmd
 
 bibliography: references.bib
@@ -68,6 +86,8 @@ format:
               \renewcommand\bottomrule[2]\relax
               \usepackage{fancyhdr}
               \lfoot{\textit{Coe College (2022-2023)}}
+              \renewcommand{\part}[1]{\addcontentsline{toc}{part}{#1}}
+    
     include-after-body: 
       text: |
           \printindex
