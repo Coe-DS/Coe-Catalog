@@ -354,6 +354,47 @@ Depending upon the type selected, some practica are graded A–F, while others a
 - {{< var c.edu489.long >}}
 - {{< var c.edu490.long >}}
 - {{< var c.edu491.long >}}
-
+- {{< var c.edu492.long >}}
+- {{< var c.edu444.long >}}
+- {{< var c.eng394.long >}}
+- {{< var c.eng454.long >}}
+- {{< var c.flm442.long >}}
+- {{< var c.flm464.long >}}  (0.5 cc) and {{< var c.flm474.long >}} (0.5 cc)
+- {{< var c.fre394.long >}}
+- {{< var c.fre444.long >}}
+- {{< var c.his444.long >}}
+- {{< var c.kin444.long >}}
+- {{< var c.mth444.long >}}
+- {{< var c.mth454.long >}}
+- {{< var c.mu421.long >}}
+- {{< var c.mu422.long >}}
+- {{< var c.mu444.long >}}
+- {{< var c.mua490.long >}}
+- {{< var c.nur444.long >}}
+- {{< var c.nur455.long >}}
+- {{< var c.phl394.long >}}
+- {{< var c.phl444.long >}}
+- {{< var c.phl490.long >}} (0.0 cc)
+- {{< var c.phy255.long >}}
+- {{< var c.phy355.long >}}
+- {{< var c.phy444.long >}}
+- {{< var c.pol444.long >}}
+- {{< var c.psy354.long >}}
+- {{< var c.psy444.long >}}
+- {{< var c.psy455.long >}}
+- {{< var c.rel394.long >}}
+- {{< var c.rel444.long >}}
+- {{< var c.rhe394.long >}}
+- {{< var c.rhe444.long >}}
+- {{< var c.rhe490.long >}}
+- {{< var c.scj444.long >}}
+- {{< var c.soc365.long >}}
+- {{< var c.soc444.long >}}
+- {{< var c.spa394.long >}}
+- {{< var c.spa444.long >}}
+- {{< var c.the442.long >}}
+- {{< var c.the444.long >}}
+- {{< var c.the452.long >}}
+- {{< var c.the462.long >}}
 
 
