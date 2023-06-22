@@ -1,4 +1,4 @@
-# FAST FACTS
+# FAST FACTS {#sec-fast-facts}
 
 **COE COLLEGE** is a private, four-year co-educational liberal arts college that was founded in 1851 and is historically affiliated with the Presbyterian Church (U.S.A.), yet is ecumenical in practice and outlook. 
 
@@ -40,7 +40,7 @@ Coe College is committed to assisting those families in need of financial assist
 
 
 
-### HISTORY OF COE COLLEGE
+### HISTORY OF COE COLLEGE {#sec-history-of-coe-college} 
 
 Coe College claims the shortest name of any American institution of higher education, but the school has actually carried five titles through its history. When the Rev. Williston Jones founded the college in 1851, he called it The School for the Prophets. Cedar Rapids’ first resident minister opened the parlor of his home to a group of young men with the goal of educating them for the ministry to serve churches in the Midwest. Two years later, while Jones was canvassing churches in the East for money to send three of his students to Eastern seminaries, a Catskills farmer named Daniel Coe stepped forward with a pledge of $1,500 and urged Jones to start his own college in the frontier town of Cedar Rapids. Legend has it that the $1,500 raised by Coe was brought west from New York, sewn into the petticoat of a lady visitor traveling by stagecoach to Iowa. Coe gave this generous gift with the stipulation that the proposed institute should be “made available for the education of females as well as males.”  Accordingly, Coe was coeducational from its founding.
 

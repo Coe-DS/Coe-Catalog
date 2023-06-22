@@ -3,7 +3,7 @@
 
 
 
-# MISSION STATEMENT OF THE COLLEGE 
+# MISSION STATEMENT OF THE COLLEGE {#sec-mission-statement-of-college}
 
 \index{Mission Statement}
 

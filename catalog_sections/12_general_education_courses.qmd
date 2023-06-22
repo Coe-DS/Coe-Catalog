@@ -1,27 +1,306 @@
-# GENERAL EDUCATION COURSES
+# GENERAL EDUCATION COURSES {#sec-general-education-courses}
+
+Completion of the General Education Program, described here, is required for all students earning B.A. or B.S.N. degree at Coe College, but not required of students earning a B.M. degree.  An appropriate transferred course, determined by the Office of the Registrar, with a grade of “C” (2.0) or better may be accepted to meet an individual requirement.  
+Advanced Placement and International Baccalaureate courses may not be used to meet any part of this requirement.  No more than two courses with the same prefix may be used to fulfill the General Education Core Requirements.
+
+**A) Liberal Arts Core**
+
+1. A total of at least one course credit in the **Fine Arts Core** (courses with a prefix of ARH, ART, FLM, MU, MUA, THE)
+2. A total of at least two course credits in the **Humanities Core** (courses with a prefix of AAM, AMS, CLA, COM, CRW, ENG, FRE, GER, GRK, HIS, HUM, LTN, JPN, PHL, REL, RHE, or SPA)
+3. A total of at least two course credits in the **Natural Sciences and Mathematics Core** (courses with a prefix of BIO, CHM, CS, DS, MTH, PHY, STA, one of which must be a lab science with a prefix of BIO, CHM, or PHY)
+4. A total of at least two course credits in the **Social Sciences Core** (courses with a prefix of ANT, ECO, POL, PSY, or SOC) 
+
+**B) Diverse Cultural Perspectives (DCP) Core**
+
+A liberally educated person should have some knowledge of other cultures and some tools to aid in seeing one’s own culture from other perspectives. 
+
+The Diverse Cultural Perspectives courses (Non-Western Perspectives (course number ends in 6), United States Pluralism (course number ends in 7), Diverse Western Perspectives (course number ends in 8) help students to understand their own cultural identities and to develop appreciation for the range of different cultures to be found in the world, in the nation, and on campus. These courses explore other cultures in their own terms and as they interact with American culture. As a group, they encourage reflection on different ways in which cultural identities are formed, expressed and contested. Students are encouraged to combine these courses with the study of a world language and with study abroad. 
+
+Completion of one of the following options (see p. 24–28 for descriptions and approved courses):
+
+- Non-World Language Option (all of the following):
+  - Any DCP course (course number that ends in 6, 7, 8) 
+  - Non-Western Perspectives (course number that ends in 6)
+    (A semester-long study abroad experience can fulfill the Non-Western Perspective and DCP requirement.)
+  - United States Pluralism (course number that ends in 7)
+    (A semester-long U.S. off-campus study experience can fulfill the U.S. Pluralism and DCP requirement.)
+- Elementary World Language Option (all of the following):
+  - Any DCP course (course number that ends in 6, 7, 8)
+  - Two elementary world language courses in the same language not previously studied (may also fulfill one of the Humanities Core courses)
+- Intermediate World Language Option (all of the following):
+  - Any DCP course (course number that ends in 6, 7, or 8)
+  - One intermediate (-215) or above World Language course (*may also fulfill one of the Humanities Core course requirements*)
+
+## Diverse Cultural Perspectives: Non-Western Perspectives {#sec-diverse-cultural-perspectives-non-western}
+
+The Non-Western Perspectives (NWP) group includes courses in which a preponderance of the content analyzes human experience from the perspectives of diverse peoples outside of Western culture. Such cultures often are characterized by values and beliefs different from those of the United States and Western Europe. 
+
+- {{< var c.ant116.long >}}
+- {{< var c.ant286.long >}}
+- {{< var c.arh106.long >}}
+- {{< var c.arh296.long >}}
+- {{< var c.asc106.long >}}
+- {{< var c.asc176.long >}}
+- {{< var c.asc186.long >}}
+- {{< var c.asc196.long >}}
+- {{< var c.asc216.long >}}
+- {{< var c.bus446.long >}}
+- {{< var c.bus466.long >}}
+- {{< var c.bus476.long >}}
+- {{< var c.com236.long >}}
+- {{< var c.eco336.long >}}
+- {{< var c.eco436.long >}}
+- {{< var c.eco446.long >}}
+- {{< var c.eng146.long >}}
+- {{< var c.eng206.long >}}
+- {{< var c.fre146.long >}}
+- {{< var c.fre446.long >}}
+- {{< var c.fsa146.long >}}
+- {{< var c.gs136.long >}}
+- {{< var c.his136.long >}}
+- {{< var c.his216.long >}}
+- {{< var c.his246.long >}}
+- {{< var c.his256.long >}}
+- {{< var c.his276.long >}}
+- {{< var c.his286.long >}}
+  
+- {{< var c.his306.long >}}
+- {{< var c.his316.long >}}
+- {{< var c.his466.long >}}
+- {{< var c.is116.long >}}
+- {{< var c.is126.long >}}
+- {{< var c.is136.long >}}
+- {{< var c.jpn106.long >}}
+- {{< var c.mu166.long >}}
+- {{< var c.phl206.long >}}
+- {{< var c.pol266.long >}}
+- {{< var c.pol276.long >}}
+- {{< var c.pol286.long >}}
+- {{< var c.pol296.long >}}
+- {{< var c.pol386.long >}}
+- {{< var c.rel106.long >}}
+- {{< var c.rel116.long >}}
+- {{< var c.rel136.long >}}
+- {{< var c.rel196.long >}}
+- {{< var c.rel206.long >}}
+- {{< var c.rel226.long >}}
+- {{< var c.rel236.long >}}
+- {{< var c.rel296.long >}}
+- {{< var c.rel306.long >}}
+- {{< var c.rel336.long >}}
+- {{< var c.rel386.long >}}
+- {{< var c.rhe146.long >}}
+- {{< var c.soc226.long >}}
+- {{< var c.soc236.long >}}
+- {{< var c.spa336.long >}}
+- {{< var c.spa446.long >}}
+- {{< var c.spa486.long >}}
+- {{< var c.the486.long >}}
+- {{< var c.wsh286.long >}}
+
+## Diverse Cultural Perspectives: United States Pluralism {#sec-diverse-cultural-perspectives-united-states}
+
+The United States Pluralism (USP) group includes courses in which a preponderance of the content addresses one or more of the groups within the United States whose values, beliefs, and experiences differ from or oppose those of the majority culture. These courses increase students’ knowledge of the history of such groups; of the ways members of these groups have experienced democracy and culture in America differently because of factors like social class, race, gender, and religion; and of reform movements like feminism and civil rights, through which such groups have attempted to achieve social and economic equality. 
 
 
-## Diverse Cultural Perspectives: Non-Western Perspectives
+- {{< var c.aam107.long >}}
+- {{< var c.aam137.long >}}	 
+- {{< var c.aam217.long >}}	
+- {{< var c.aam227.long >}}
+- {{< var c.aam287.long >}}
+- {{< var c.aam367.long >}}
+- {{< var c.aam387.long >}}
+- {{< var c.aam447.long >}}
+- {{< var c.aam457.long >}}
+- {{< var c.aam467.long >}}
+- {{< var c.arh107.long >}}	
+- {{< var c.arh297.long >}}	
+- {{< var c.arh307.long >}}
+- {{< var c.bus387.long >}}
+- {{< var c.bus437.long >}}	
+- {{< var c.bus457.long >}}
+- {{< var c.bus467.long >}}	
+- {{< var c.com157.long >}}
+- {{< var c.com237.long >}}
+- {{< var c.com337.long >}}	
+- {{< var c.com357.long >}}
+- {{< var c.com437.long >}}
+- {{< var c.com447.long >}}
+- {{< var c.com457.long >}}
+- {{< var c.com467.long >}}
+- {{< var c.eco237.long >}}	
+- {{< var c.eco247.long >}}	
+- {{< var c.eco447.long >}}	
+- {{< var c.eco457.long >}}	
+- {{< var c.edu117.long >}}	
+- {{< var c.edu187.long >}}	
+- {{< var c.edu237.long >}}
+- {{< var c.edu247.long >}}	
+- {{< var c.eng107.long >}}	
+- {{< var c.eng117.long >}}
+- {{< var c.eng127.long >}}
+- {{< var c.eng137.long >}}
+- {{< var c.eng157.long >}}
+- {{< var c.eng207.long >}}
+- {{< var c.eng327.long >}}
+- {{< var c.eng337.long >}}
+- {{< var c.eng347.long >}}
+- {{< var c.eng357.long >}}
+- {{< var c.eng367.long >}}
+- {{< var c.eng467.long >}}
+- {{< var c.evs137.long >}}
+- {{< var c.gs107.long >}}
+- {{< var c.gs127.long >}}
+- {{< var c.gs247.long >}}
+- {{< var c.gs327.long >}}
+- {{< var c.gs387.long >}}
+- {{< var c.his217.long >}}
+- {{< var c.his227.long >}}	
+- {{< var c.his257.long >}}
+- {{< var c.his297.long >}}	
+- {{< var c.his317.long >}}	
+- {{< var c.his347.long >}}
+- {{< var c.his387.long >}}
+- {{< var c.kin347.long >}}
+- {{< var c.mu157.long >}}
+- {{< var c.nur137.long >}}	
+- {{< var c.nur297.long >}}	
+- {{< var c.nur387.long >}}
+- {{< var c.phl277.long >}}
+- {{< var c.pol207.long >}}
+- {{< var c.pol277.long >}}
+- {{< var c.psy137.long >}}	
+- {{< var c.rel217.long >}}	
+- {{< var c.rhe137.long >}}
+- {{< var c.rhe257.long >}}	
+- {{< var c.rhe377.long >}}	
+- {{< var c.soc107.long >}}	
+- {{< var c.soc207.long >}}	
+- {{< var c.soc217.long >}}	
+- {{< var c.soc237.long >}}	
+- {{< var c.soc247.long >}}	
+- {{< var c.soc417.long >}}
+- {{< var c.spa457.long >}}	
 
+## Diverse Cultural Perspectives: Diverse Western Perspectives {#sec-diverse-cultural-perspectives-western}
 
+The Diverse Western Perspectives (DWP) group includes courses in which a preponderance of the content addresses one or more subgroups of the Western world outside of the United States and the ways in which they experience Western culture. These courses increase students’ knowledge of the history of particular groups and the ways they have interacted with Western values. They typically address issues of difference and conflict between and within Western cultures by examining the influence of factors such as class, race, gender, and religion. 
 
-## Diverse Cultural Perspectives: United States Pluralism
+- {{< var c.ant288.long >}}
+- {{< var c.ant488.long >}}
+- {{< var c.arh128.long >}}
+- {{< var c.arh218.long >}}
+- {{< var c.arh248.long >}}
+- {{< var c.arh268.long >}}
+- {{< var c.arh298.long >}}
+- {{< var c.cla108.long >}}
+- {{< var c.eng108.long >}}
+- {{< var c.eng208.long >}}
+- {{< var c.eng378.long >}}
+- {{< var c.eng388.long >}}
+- {{< var c.fre148.long >}}
+- {{< var c.fre158.long >}}
+- {{< var c.his208.long >}}
+- {{< var c.his218.long >}}
+- {{< var c.his238.long >}}
+- {{< var c.his248.long >}}
+- {{< var c.his268.long >}}
+- {{< var c.his288.long >}}
+- {{< var c.his308.long >}}
+- {{< var c.his318.long >}}
+- {{< var c.his328.long >}}
+- {{< var c.mu458 .long >}}
+- {{< var c.nur268.long >}}
+- {{< var c.phl128.long >}}
+- {{< var c.phl138.long >}}
+- {{< var c.pol108.long >}}
+- {{< var c.pol248.long >}}
+- {{< var c.pol258.long >}}
+- {{< var c.pol298.long >}}
+- {{< var c.pol398.long >}}
+- {{< var c.psy208.long >}}
+- {{< var c.rel108.long >}}
+- {{< var c.rel128.long >}}
+- {{< var c.rel138.long >}}
+- {{< var c.rel148.long >}}
+- {{< var c.rel178.long >}}
+- {{< var c.rel278.long >}}
+- {{< var c.rel338.long >}}
+- {{< var c.soc238.long >}}
+- {{< var c.soc328.long >}}
+- {{< var c.soc338.long >}}
+- {{< var c.spa148.long >}}
+- {{< var c.spa258.long >}}
+- {{< var c.spa338.long >}}
+- {{< var c.spa418.long >}}
+- {{< var c.spa428.long >}}
+- {{< var c.spa458.long >}}
+- {{< var c.the118.long >}}
+- {{< var c.the228.long >}}
+- {{< var c.the238.long >}}
+- {{< var c.the288.long >}}
+- {{< var c.the488.long >}}
 
+## Independent Studies {#sec-independent-studies}
 
+The one-credit independent study or directed readings students are expected to complete a minimum of 140 hours of academic work, including meeting with faculty members and independent work between meetings. 
 
-## Diverse Cultural Perspectives: Diverse Western Perspectives
+## Internships {#sec-internships}
 
+The internship is a work or volunteer experience in the context of an independent academic investigation of site-related issues and personal aptitudes, values, and goals. The one-credit internship includes a minimum of 140 hours of on-site or remote experience and the required documentation and/or academic journal or paper as determined by the faculty member.  The details of the academic component are determined by prior arrangement with the faculty internship advisor.
 
+Ordinarily internships are completed during the academic year as one of the 32 credits for graduation, or over the summer for a credit-bearing or non-credit bearing-practicum fulfillment activity.  In unusual circumstances where an internship presents an opportunity to extend the educational component of the experience significantly, an internship may earn two credits. Application for non-departmental, two-credit internships requires consultation with the Internship Faculty Advisor and approval of the Committee on Petitions; departmental two-credit internships, when permitted, are overseen by the department. 
 
-## Independent Studies
+A combined maximum of 2.0 course credits may be counted toward the 32 credits required for graduation through Internships or Community-Based Project (see p. 70). Many internships are completed in the Cedar Rapids area; however, it is permissible to complete an internship outside of the area during the summer, or done remotely if authorized by the Internship Faculty Advisor. 
 
+Students interested in internships should consult with their Career Specialist in C3: Creativity, Careers, Community, as well as with the appropriate academic department who will be overseeing the internship experience.
 
+Each internship must include the consent of an Internship Faculty Advisor and completion of the internship request form housed on the College’s online platform for internships.
 
-## Internships
+Courses with an INT prefix and those on this list count as internship credit:
 
+- {{< var c.aam494.long >}}
+- {{< var c.ant494.long >}}
+- {{< var c.arh494.long >}}
+- {{< var c.arh494.long >}}
+- {{< var c.art494.long >}}
+- {{< var c.at494.long >}}
+- {{< var c.bio494.long >}}
+- {{< var c.bus494.long >}}
+- {{< var c.chm494.long >}}
+- {{< var c.com494.long >}}
+- {{< var c.crw494.long >}}
+- {{< var c.cs494.long >}}
+- {{< var c.ds494.long >}}
+- {{< var c.edu494.long >}}
+- {{< var c.eng494.long >}}
+- {{< var c.flm494.long >}}
+- {{< var c.fre494.long >}}
+- {{< var c.his494.long >}}
+- {{< var c.hss494.long >}}
+- {{< var c.int115.long >}}
+- {{< var c.int494.long >}}
+- {{< var c.int499.long >}}
+- {{< var c.kin494.long >}}
+- {{< var c.mth494.long >}}
+- {{< var c.nur494.long >}}
+- {{< var c.nyt394.long >}}
+- {{< var c.phl494.long >}}
+- {{< var c.phy494.long >}}
+- {{< var c.pol494.long >}}
+- {{< var c.pr494.long >}}
+- {{< var c.psy494.long >}}
+- {{< var c.rel494.long >}}
+- {{< var c.rhe494.long >}}
+- {{< var c.soc494.long >}}
+- {{< var c.smt494.long >}}
+- {{< var c.spa494.long >}}
+- {{< var c.the494.long >}}
+- {{< var c.wsh494.long >}}
 
+Students completing internships that are not department specific should register for one of the INT-494 or INT-499 courses on p. 70 (see the ***Coe Student Accounts Handbook*** for fee).
 
-## PRACTICUM
+## Practicum {#sec-practicum}
 
 A practicum experience is required of all students for all undergraduate degrees, except those earning second degrees.  
 
@@ -38,45 +317,43 @@ Depending upon the type selected, some practica are graded A–F, while others a
 
 †A maximum of two course credits earned through any combination of Internships and Community-Based Projects may be included in the 32 course credits required for graduation.
 
-- AAM-444 Independent Study
-- ANT-205 Archaeological Field School
-- ANT-444 Independent Study
-- ANT-474 Research Participation
-- ARH-444 Independent Study in Art History
-- ARH-474 Senior Seminar II & Senior Project (WE)
-- ART-394 Directed Studies in Art
-- ART-444 Independent Study
-- ART-474 Senior Seminar II & Senior Exhibition
-- AT-40_ Clinical Athletic Training (successful completion of sequence of AT-20_/ -30_ and-40_ - required to receive full credit)
-- BIO-115 Marine Biology
-- BIO-444 Independent Study
-- BIO-454 Research Participation
-- BIO-462 Advanced Biology Laboratory I
-- BUS-444 Independent Study
-- BUS-454 Research in Business
-- CHM-444 Independent Study
-- CHM-454 Undergraduate Summer Research
-- COM-394 Directed Studies in Communication Studies (WE)
-- COM-444 Independent Study in Communication Studies* (WE)
-- CRW-112 Advanced Literary Magazine Editing (two terms)
-- CRW-394 Directed Studies in Creative Writing (WE)
-- CRW-492 Manuscript Workshop (WE)
-- CS-444 Independent Study
-- CS-454 Research in Computer Science
-- DS-444 Independent Study in Data Science
-- DS-454 Research in Data Science
-- ECO-444 Independent Study
-- ECO-454 Research in Economics
-- EDU-215 Practicum in Education (WE)
-- EDU-481 Student Teaching in Art at the Secondary School (WE)
-- EDU-482 Student Teaching in Physical Education at the Secondary School (WE)
-- EDU-483 Student Teaching in Art at the Elementary School (WE)
-- EDU-485 Student Teaching in Physical Education at the Elementary School (WE)
-- EDU-489 Student Teaching in the Senior High School (WE)
-- EDU-490 Student Teaching in Middle School or Junior High School (WE)
-- EDU-491 Student Teaching in the Upper Elementary Grades: Grades 3-6 (WE)
-
-
+- {{< var c.aam444.long >}}
+- {{< var c.ant205.long >}}
+- {{< var c.ant444.long >}}
+- {{< var c.ant474.long >}}
+- {{< var c.arh444.long >}}
+- {{< var c.arh474.long >}}
+- {{< var c.art394.long >}}
+- {{< var c.art444.long >}}
+- {{< var c.art474.long >}}
+- {{< var c.at40.long >}}   (*successful completion of sequence of AT-20/-30 and -40 required to receive full credit*)
+- {{< var c.bio115.long >}}
+- {{< var c.bio444.long >}}
+- {{< var c.bio454.long >}}
+- {{< var c.bio462.long >}}
+- {{< var c.bus444.long >}}
+- {{< var c.bus454.long >}}
+- {{< var c.chm444.long >}}
+- {{< var c.chm454.long >}}
+- {{< var c.com394.long >}}
+- {{< var c.com444.long >}}
+- {{< var c.crw112.long >}}
+- {{< var c.crw394.long >}}
+- {{< var c.crw492.long >}}
+- {{< var c.cs444.long >}}
+- {{< var c.cs454.long >}}
+- {{< var c.ds444.long >}}
+- {{< var c.ds454.long >}}
+- {{< var c.eco444.long >}}
+- {{< var c.eco454.long >}}
+- {{< var c.edu215.long >}}
+- {{< var c.edu481.long >}}
+- {{< var c.edu482.long >}}
+- {{< var c.edu483.long >}}
+- {{< var c.edu485.long >}}
+- {{< var c.edu489.long >}}
+- {{< var c.edu490.long >}}
+- {{< var c.edu491.long >}}
 
 
 
