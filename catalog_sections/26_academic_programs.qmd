@@ -1,6 +1,113 @@
 # ACADEMIC PROGRAMS
 
+### Asia Term
+
+ASC-195 Asian Tonal Languages
+An introduction to Thai, Vietnamese, and other tonal Asian languages.  Emphasis is on basic communication as well as the distinguishing features of languages that use tones as part of their linguistic system. 
+ASC-196 Modern South East Asia
+An introduction to several Asian cultures such as Thai, Cambodian, and Vietnamese.  This course varies depending on the field of the supervising Coe faculty member. 
+ASC-444 Independent Study
+A student-designed study of some feature of Asian culture, arranged in consultation with the supervising Coe faculty member. May be taken more than once for a maximum of 2.0 credits. Prerequisite: consent of instructor. 
+
+### Community-Based Project
+CBP-325 Community-Based Project
+Supervised work on service projects proposed by external constituencies such as non-profit institutions, community agencies, and government organizations. Students learn about the issues, problems, and techniques associated with developing, organizing, and participating in projects that address and solve real-world problems, as well as provide services and benefits to community and project sponsors.  Authorization for the community-based project is determined by the supervising faculty member. May be taken more than once. A minimum of 140 hours of work is required. P/NP basis only. 
+
+
+### First-Year Seminar
+FS-110 First-Year Seminar 
+Required of all first-year students. The First-Year Seminar introduces students to college-level study with emphasis on critical thinking, writing, speaking, and research skills. Faculty offer first-year-only topics courses exploring issues from multiple perspectives within or across disciplines. Students in all sections prepare portfolios of their written work and attend a variety of cultural events on and off campus. Seminar instructors also serve as the primary academic advisors for first-year students in their respective sections. First-Year Seminars are writing emphasis and cannot fulfill any distributional, cultural perspective, or major requirements. 
+
+### World Language
+FSA-100 Foreign Study Abroad 
+Study abroad during May Term supervised by a Coe College faculty member, with site visits to places of historical and cultural interest. When appropriate, may count as a course in the major. May be taken more than once if offered in different locations. Prerequisite: consent of instructor. (Offered May Term only) 
+FSA-146 Turkey: History and Culture 
+Study abroad course on the history and culture of Turkey.  An exploration of a unique secular-Muslim society.  Particular historical focus is on Istanbul and ancient cities on Aegean coast.  Prerequisite: consent of instructor. (Offered May Term only)
+
+### Internships
+INT-494 Interdisciplinary Internship 
+Supervised work or volunteer experience related to a student’s career interests. A minimum of 140 hours on-site or remote work experience is required. Authorization and evaluation of the course credit for the internship is determined by the department through which the student is completing the internship. P/NP basis only. With departmental approval, credit may be applied to a major only with consent of department chair. Prerequisites: consent of the Internship Faculty Advisor. 
+INT-499 Summer Internship – Non-Credit Bearing  
+Is a supervised summer work or volunteer experience related to a student’s career interests. The internship is not credit-bearing; however, it can meet the practicum requirement. A minimum of 140 hours on-site experience is required. The internship must be approved by the Faculty Internship Advisor prior to registration. Students are required to abide by the same guidelines as students completing credit-bearing internships. Satisfactory completion determined by the supervising faculty member. P/NP basis only. May be taken more than once.  Prerequisites: consent of the department in which the student is completing the internship and completion of the Internship request form housed on the College’s online platform for internships.
+
+### New York Term
+See description, p. 40
+New York Term is offered every other Spring Term in odd-numbered years.  There is an extra fee for New York Term. All Coe financial aid applies, and students are eligible to apply for additional financial aid based on the additional costs of the term.
+NYT-250 Fine Arts in New York City 
+Consists of five 0.4-credit courses: art, film, music, theatre, and dance. Students attend approximately 35 concerts, plays, and dance performances and make frequent visits to museums, galleries, and artists’ studios. Each of these events is accompanied by discussion and seminar sessions with members of the resident New York Term faculty. (0.4 course credit for each course. Total of 2.0 course credits upon completion of the five courses.) 
+NYT-394 Internship in New York City 
+Investigates a student's career interests through work or volunteer experience. The internship is supervised by a faculty member of the relevant department, in consultation with Coe's Center for Creativity and Careers. P/NP basis only. Normally earns 2.0 credits, but may be taken for 1.0 credits when combined with NYT-444. 
+NYT-444 Independent Study 
+A plan of study designed by the student in consultation with the student’s faculty advisor, and supervised by the on-campus faculty advisor. Subject must be particularly appropriate for study in New York City. Prerequisite: consent of instructor. (Corequisite: NYT-394 for 1.0 credit.)
+
 
 ## Occasional Courses
+
+Additional courses, not found in the Catalog, may be offered occasionally and serve one or more of the following purposes: 1) to provide the opportunity for research, creative, or other scholarly activity for an instructor jointly with interested students; 2) to explore and develop intellectual pursuits which are attractive to members of the faculty; 3) to respond to student requests for courses which are distinctive, unusual, or meet specific needs; 4) to bridge between two or more disciplines or curricular categories; 5) to serve as one means of developing and testing a possible permanent course. 
+
+The courses listed in the following section are ones approved by the College but without plans of being offered in the next few years. The approved list of courses includes, but is not limited to, the following:
+
+CHM-104 Introduction to Forensic Science 
+An introduction to all aspects of forensic science from obtaining specimens to identifying the criminal with accurate forensic tests. The course teaches students a basic understanding of the laboratory tests and processes of forensic science.
+CHM-105 Food Chemistry 
+An introductory course that introduces chemical concepts in the context of cooking. Topics include the makeup, shape, and behavior of the four major classes of food molecules, effects of chemical structure on physical properties, the role of vitamins and nutrients, and basic principles of energy. Three class meetings per week. 
+CHM-442 Materials Chemistry
+Study of the structure and properties of modern materials, including glasses, polymers, metals, semiconductors, and superconductors. Mechanical, thermal, optical, magnetic, and electrical properties are examined and related to structure. Prerequisite: Electromagnetism (PHY-265) or Physical Chemistry I (CHM-341) or consent of instructor.  Corequisite: Materials Physics and Chemistry Laboratory (CHM-442L).
+CHM-442L Materials Chemistry Laboratory 
+Measurement of structure/property characteristics of materials using a variety of instrumentation.  Materials studied include glasses, polymers, metals, semiconductors, and superconductors. Prerequisite: previous or concurrent registration in Materials Physics and Chemistry (CHM-442).  Corequisite: Materials Physics and Chemistry Laboratory (CHM-442L). (0.2 course credit) 
+CHM-471 Advanced Chemistry Laboratory II 
+Spectroscopic investigations of chemical systems and applications of chemical instrumentation for analysis based on current chemical literature. One class period and two laboratories per week. Prerequisite: Physical Chemistry I (CHM-341). 
+EDU-405 Understanding Early Adolescence 
+An extension of the study of human development, focusing on the growth and development of the middle school age child. Special attention is given to the emotional, physical, and cognitive characteristics and needs of middle school age children for teachers in grades five through eight. 
+EDU-415 Middle School Curriculum and Instruction 
+Introduction to the organization, structure, and sequence of learning experiences for middle grade students. Addresses such issues as curriculum integration, teaching teams, pedagogical practices for middle school, and developmental appropriateness across the range of school subjects. Prerequisite: Practicum in Education (WE) (EDU-215). 
+EDU-430 Middle School Social Studies 
+Overview of the middle school social studies curriculum. A content course with a primary focus on geography and its relation to U.S. and world history. Prerequisite: Practicum in Education (WE) (EDU-215). (0.5 course credit) 
+EDU-440 Middle School Mathematics 
+Overview of the middle school mathematics curriculum. A content course with a primary focus on algebra, problem solving, and number theory. Prerequisite: Practicum in Education (WE) (EDU-215). (0.5 course credit) 
+INT-115 May Term in Southern Africa
+Provides opportunities for students to interact with a wide variety of communities in southern Africa, all of which are currently stressed by impacts of the HIV/AIDS pandemic and climate change. Students learn how communities provide health care delivery, nutritional support and access to clean water, which are needed to sustain the quality of human life in the region. Experiences provide hands-on opportunities for students to assist community change in these areas.  Prerequisite: consent of instructor. (Offered May Term only)
+NUR-255 Topics in Health Care 
+Offers selected topics on specific health care and/or nursing issues, problems, interventions, and theories. Content varies as determined by the instructor. May be taken more than once for credit, provided the topics are substantially different.  Prerequisite: sophomore standing. (Offered on an occasional basis) 
+PHY-111 Musical Acoustics 
+An exploration of the physical principles involved in the production, propagation, and perception of musical sounds. Topics include simple vibrating systems, properties of waves, and Fourier analysis. The primary emphasis is on musical instruments, including the voice, but some consideration is also given to room acoustics and human perception of sound.  Previous musical experience is helpful, but not necessary.  This course satisfies the non-lab science course requirement.  
+PHY-112/-112L Holography and Optics & Laboratory
+The making and understanding of holograms are used as the focus for a basic physics course in waves and optics. Includes one two-hour, (0.0 course credit) lab per week. This course satisfies the general education laboratory science requirement. 
+PHY-325/-325L Digital Electronics & Laboratory
+Integrated circuit devices and their applications: the basic logic gates, counters, displays, flip-flops, multiplexers, memories. Some acquaintance with DC circuit concepts and with the binary number system desirable. Includes one two-hour, (0.0 course credit) lab weekly. This course satisfies the general education laboratory science requirement. 
+REL-240 Intertestamental Literature 
+A survey of literature composed by Jews during the Hellenistic and early Roman periods essential for understanding the emergence and development of Rabbinic Judaism, early Christianity and Islam (Apocrypha and Pseudepigrapha, Josephus, Philo and the Dead Sea Scrolls). Prerequisite: Introduction to Hebrew Bible (WE) (REL-105) or consent of instructor. 
+REL-278 Mysticism 
+A survey of mystical literature in the world’s religious traditions. This course also addresses the question of the nature of mystical experience as well as that of the relation between the mystical element of religion and religion as a whole. 
+REL-306 Comparative Religion 
+A comparative study of the recurring themes and patterns found in various religions, past and present. Particular attention is paid to the meaning of religious ritual and myth, and the nature of religious experience. This course surveys several of the currently most influential theories regarding the nature of religion. Prerequisite: Eastern Religions (REL-106), Western Religions (WE) (REL-108), or consent of instructor.
+SOC-499 Career Related Independent Investigation 
+Investigation of a career opportunity through field placement and directed reading. This course does not satisfy any of the requirements for a major or minor in sociology. Prerequisite: declared major in sociology, second term sophomore standing, or consent of department chair. 
+
+
+### Skills Development
+
+SKD-115 Summer Bridge
+Engages students in a one-week course that takes place prior to Fall Orientation. Students participate in two mini-classes taught by college faculty. Each mini-class is followed by small group discussions regarding course content, learning strategies, college expectations, etc. Additional workshop sessions are held throughout Summer Bridge on topics such as: financial literacy, campus resources, goal setting and academic planning. Summer Bridge also offers opportunities to make social connections through a variety of informal and planned activities. P/NP basis only. (0.3 course credit)
+SKD-120 Concepts of Individualized Learning
+Provides a weekly engagement with an academic coach to identify interests and explore strengths, applying this knowledge to the development of a personal academic plan. Topics include: learning strategies, self-regulation, personal and professional growth, goal setting, campus engagement and self-reflection. P/NP basis only. (0.0 course credit)
+SKD-125 College Foundations 
+Familiarizes students with the skills and methods of study that lead to competence in college course work.  Through self-assessment and reflection, students determine strategies that increase satisfaction and success in the college environment.  P/NP basis only. (0.3 course credit)  
+SKD-130 Personal Finance for College Students
+A study of managing finances and making financial decisions that college students encounter. Areas of study for this project-oriented course include student loans, credit cards, savings and investments, cars, living on campus versus apartment living, savings needed for life immediately following graduation, and travel. (0.5 course credit)
+INT-100 Professionalism and Self Presentation
+Introduces students to the fundamentals of job-seeking strategies and professional expectations. Students are guided through development of professional materials, networking techniques, and interviewing skills.  This course does not satisfy Coe’s practicum requirement.
+
+### Washington Term
+WSH-284 Topics in Washington, D.C.
+Experiential learning, study, writing, and discussion dealing with various subjects related to the nation’s capital.  Examples of recent and proposed topics include Art and Architecture, Campaigns and Elections, Congressional Relations, and Politics and Communications.
+WSH-286 Topics in Washington, D.C.: Non-Western Perspectives
+Same as Topics in Washington, D.C. (WSH-284) except the course focuses on topics related to non-Western cultures.  Examples of recent and proposed topics include Globalization and the U.S.; and People, Politics and Cultures of the Middle East.  
+WSH-464 Washington Term Internship Seminar
+Group discussion of internship experiences.  Students are exposed to various research methodologies, readings and guest speakers for understanding Washington politics. The goal of the course is to expose students to generalizations about politics and how their internships are either confirming or challenging those generalizations. 
+WSH-494 The Washington Experience
+Internship with an organization related to national or international politics in Washington, D.C., supervised by one of the resident staff of the Washington Term. Students establish learning goals and prepare a portfolio that documents their learning and places it in the larger context of the literature on American or international politics. P/NP basis only. One course credit may be counted toward a major in political science with consent of department, if credit has not already been received for Internship in Political Science (POL-494). (2.0 course credits) 
+
+
 
 
