@@ -22,11 +22,11 @@ book:
       chapters:
       - catalog_sections/01_mission.qmd
       - catalog_sections/02_fast_facts.qmd
-    - part: "ACADEMIC RESOURCES"
-      chapters:
       - catalog_sections/03_academic_calendar.qmd
       - catalog_sections/04_education_program.qmd
       - catalog_sections/05_may_term.qmd
+    - part: "ACADEMIC RESOURCES"
+      chapters:
       - catalog_sections/06_coe_plan.qmd
       - catalog_sections/07_graduation_requirements.qmd
       - catalog_sections/08_areas_of_study.qmd
@@ -42,7 +42,7 @@ book:
       - catalog_sections/16_student_life.qmd
     - part: "COLLEGE REGULATIONS"  
       chapters:
-      - catalog_sections/17_college_regulations.qmd
+      #- catalog_sections/17_college_regulations.qmd
       - catalog_sections/18_effective_catalog.qmd
       - catalog_sections/19_class_designation.qmd
       - catalog_sections/20_registration.qmd
@@ -52,7 +52,7 @@ book:
       - catalog_sections/24_ferpa_rights.qmd
     - part: "COURSES OF INSTRUCTION"
       chapters:
-      - catalog_sections/25_courses_of_instruction.qmd
+      #- catalog_sections/25_courses_of_instruction.qmd
       - catalog_sections/26_academic_programs.qmd
       - catalog_sections/27_departmental_programs.qmd
       - catalog_sections/28_reserve_officer_training_corps.qmd
