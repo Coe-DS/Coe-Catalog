@@ -55,7 +55,7 @@ book:
       chapters:
       #- catalog_sections/25_courses_of_instruction.qmd
       - catalog_sections/26_academic_programs.qmd
-      - catalog_sections/27_departmental_programs.qmd
+      #- catalog_sections/27_departmental_programs.qmd
       - catalog_sections/28_reserve_officer_training_corps.qmd
     - part: "FINANCIAL RESOURCES"
       chapters:
