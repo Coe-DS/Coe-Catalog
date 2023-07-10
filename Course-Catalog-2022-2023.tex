@@ -176,7 +176,7 @@
 \frontmatter
 \maketitle
 
-\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[borderline west={3pt}{0pt}{shadecolor}, interior hidden, sharp corners, frame hidden, enhanced, breakable, boxrule=0pt]}{\end{tcolorbox}}\fi
+\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[interior hidden, borderline west={3pt}{0pt}{shadecolor}, frame hidden, enhanced, boxrule=0pt, sharp corners, breakable]}{\end{tcolorbox}}\fi
 
 \renewcommand*\contentsname{Table of contents}
 {
@@ -268,9 +268,9 @@ Faculty advisors and the Registrar will assist in every way possible.
 
 \part{INTRODUCTORY RESOURCES}
 
-\hypertarget{mission-statement-of-the-college}{%
+\hypertarget{sec-mission-statement-of-college}{%
 \chapter{MISSION STATEMENT OF THE
-COLLEGE}\label{mission-statement-of-the-college}}
+COLLEGE}\label{sec-mission-statement-of-college}}
 
 \begin{figure}
 
@@ -293,8 +293,8 @@ color, handicap, sexual orientation, national, or ethnic origin. All
 students have equal access to the facilities, financial aid, and
 programs of the College.}
 
-\hypertarget{fast-facts}{%
-\chapter{FAST FACTS}\label{fast-facts}}
+\hypertarget{sec-fast-facts}{%
+\chapter{FAST FACTS}\label{sec-fast-facts}}
 
 \textbf{COE COLLEGE} is a private, four-year co-educational liberal arts
 college that was founded in 1851 and is historically affiliated with the
@@ -401,8 +401,8 @@ enrolled during the 2021--2022 academic year totaled more than \$48,000.
 The total cost of full-time tuition, room, board, and activity fee for
 the 2021--2022 academic year is \$59,324.
 
-\hypertarget{history-of-coe-college}{%
-\subsection{HISTORY OF COE COLLEGE}\label{history-of-coe-college}}
+\hypertarget{sec-history-of-coe-college}{%
+\subsection{HISTORY OF COE COLLEGE}\label{sec-history-of-coe-college}}
 
 Coe College claims the shortest name of any American institution of
 higher education, but the school has actually carried five titles
@@ -499,10 +499,8 @@ one of the College's main academic buildings. The result is vastly
 improved academic, recreational, wellness and competition facilities to
 benefit future generations of students.
 
-\part{ACADEMIC RESOURCES}
-
-\hypertarget{academic-calendar}{%
-\chapter{2022--2023 ACADEMIC CALENDAR}\label{academic-calendar}}
+\hypertarget{sec-academic-calenar}{%
+\chapter{2022--2023 ACADEMIC CALENDAR}\label{sec-academic-calenar}}
 
 \hypertarget{fall-term-2022}{%
 \subsection{FALL TERM 2022}\label{fall-term-2022}}
@@ -690,8 +688,10 @@ courses at an off-campus location provide certain educational benefits
 through site visits, guest lectures, etc., that also contribute to the
 contact time for the course.
 
-\hypertarget{coe-plan}{%
-\chapter{COE PLAN}\label{coe-plan}}
+\part{ACADEMIC RESOURCES}
+
+\hypertarget{sec-coe-plan}{%
+\chapter{COE PLAN}\label{sec-coe-plan}}
 
 Coe College's requirements for graduation, commonly known as the Coe
 Plan were developed with the following outcomes in mind:
@@ -717,8 +717,8 @@ General Education program, Writing Emphasis courses, and the College's
 Practicum experiences and areas of study, described in this section of
 the Catalog.
 
-\hypertarget{graduation-requirements}{%
-\chapter{GRADUATION REQUIREMENTS}\label{graduation-requirements}}
+\hypertarget{sec-graduation-requirements}{%
+\chapter{GRADUATION REQUIREMENTS}\label{sec-graduation-requirements}}
 
 All students who graduate from Coe College must complete at least one
 major and earn at least 32 course credits (cc) with grades leading to a
@@ -848,8 +848,8 @@ complete the requirements for graduation:
   requirement.
 \end{itemize}
 
-\hypertarget{areas-of-study}{%
-\chapter{AREAS OF STUDY}\label{areas-of-study}}
+\hypertarget{sec-areas-of-study}{%
+\chapter{AREAS OF STUDY}\label{sec-areas-of-study}}
 
 The three undergraduate degrees have areas of study associated with
 them. The Bachelor of Science in Nursing's area of study is nursing; the
@@ -1058,8 +1058,8 @@ B.S.N.}\label{area-of-study-major-for-b.s.n.}}
   Nursing
 \end{itemize}
 
-\hypertarget{academic-advising}{%
-\chapter{ACADEMIC ADVISING}\label{academic-advising}}
+\hypertarget{sec-academic-advising}{%
+\chapter{ACADEMIC ADVISING}\label{sec-academic-advising}}
 
 The role of the academic advisor is to acquaint students with their
 academic options at Coe and assist them in selecting courses that
@@ -1080,8 +1080,8 @@ to speak at any time with professors in their major departments to
 answer specific questions regarding requirements and courses in those
 departments.
 
-\hypertarget{first-year-experience}{%
-\chapter{FIRST-YEAR EXPERIENCE}\label{first-year-experience}}
+\hypertarget{sec-first-year-experience}{%
+\chapter{FIRST-YEAR EXPERIENCE}\label{sec-first-year-experience}}
 
 The student's First-Year Experience at Coe is a deliberate strategy to
 engage first-year students across multiple dimensions of college life in
@@ -1107,8 +1107,8 @@ grade in the FYS to be changed from ``F'' to ``NP'' on the transcript.
 Students who begin their college enrollment in the Spring Term must also
 complete a course designated as a replacement.
 
-\hypertarget{writing-emphasis-courses}{%
-\chapter{WRITING EMPHASIS COURSES}\label{writing-emphasis-courses}}
+\hypertarget{sec-writing-emphasis-courses}{%
+\chapter{WRITING EMPHASIS COURSES}\label{sec-writing-emphasis-courses}}
 
 \textbf{Writing Across the Curriculum: Statement of Guiding Principles}
 
@@ -1237,29 +1237,670 @@ Baccalaureate Degree p.~16.
   research.
 \end{itemize}
 
-\hypertarget{general-education-courses}{%
-\chapter{GENERAL EDUCATION COURSES}\label{general-education-courses}}
+\hypertarget{sec-general-education-courses}{%
+\chapter{GENERAL EDUCATION
+COURSES}\label{sec-general-education-courses}}
 
-\hypertarget{diverse-cultural-perspectives-non-western-perspectives}{%
+Completion of the General Education Program, described here, is required
+for all students earning B.A. or B.S.N. degree at Coe College, but not
+required of students earning a B.M. degree. An appropriate transferred
+course, determined by the Office of the Registrar, with a grade of ``C''
+(2.0) or better may be accepted to meet an individual requirement.\\
+Advanced Placement and International Baccalaureate courses may not be
+used to meet any part of this requirement. No more than two courses with
+the same prefix may be used to fulfill the General Education Core
+Requirements.
+
+\textbf{A) Liberal Arts Core}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  A total of at least one course credit in the \textbf{Fine Arts Core}
+  (courses with a prefix of ARH, ART, FLM, MU, MUA, THE)
+\item
+  A total of at least two course credits in the \textbf{Humanities Core}
+  (courses with a prefix of AAM, AMS, CLA, COM, CRW, ENG, FRE, GER, GRK,
+  HIS, HUM, LTN, JPN, PHL, REL, RHE, or SPA)
+\item
+  A total of at least two course credits in the \textbf{Natural Sciences
+  and Mathematics Core} (courses with a prefix of BIO, CHM, CS, DS, MTH,
+  PHY, STA, one of which must be a lab science with a prefix of BIO,
+  CHM, or PHY)
+\item
+  A total of at least two course credits in the \textbf{Social Sciences
+  Core} (courses with a prefix of ANT, ECO, POL, PSY, or SOC)
+\end{enumerate}
+
+\textbf{B) Diverse Cultural Perspectives (DCP) Core}
+
+A liberally educated person should have some knowledge of other cultures
+and some tools to aid in seeing one's own culture from other
+perspectives.
+
+The Diverse Cultural Perspectives courses (Non-Western Perspectives
+(course number ends in 6), United States Pluralism (course number ends
+in 7), Diverse Western Perspectives (course number ends in 8) help
+students to understand their own cultural identities and to develop
+appreciation for the range of different cultures to be found in the
+world, in the nation, and on campus. These courses explore other
+cultures in their own terms and as they interact with American culture.
+As a group, they encourage reflection on different ways in which
+cultural identities are formed, expressed and contested. Students are
+encouraged to combine these courses with the study of a world language
+and with study abroad.
+
+Completion of one of the following options (see p.~24--28 for
+descriptions and approved courses):
+
+\begin{itemize}
+\tightlist
+\item
+  Non-World Language Option (all of the following):
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Any DCP course (course number that ends in 6, 7, 8)
+  \item
+    Non-Western Perspectives (course number that ends in 6) (A
+    semester-long study abroad experience can fulfill the Non-Western
+    Perspective and DCP requirement.)
+  \item
+    United States Pluralism (course number that ends in 7) (A
+    semester-long U.S. off-campus study experience can fulfill the U.S.
+    Pluralism and DCP requirement.)
+  \end{itemize}
+\item
+  Elementary World Language Option (all of the following):
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Any DCP course (course number that ends in 6, 7, 8)
+  \item
+    Two elementary world language courses in the same language not
+    previously studied (may also fulfill one of the Humanities Core
+    courses)
+  \end{itemize}
+\item
+  Intermediate World Language Option (all of the following):
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Any DCP course (course number that ends in 6, 7, or 8)
+  \item
+    One intermediate (-215) or above World Language course (\emph{may
+    also fulfill one of the Humanities Core course requirements})
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{sec-diverse-cultural-perspectives-non-western}{%
 \section{Diverse Cultural Perspectives: Non-Western
-Perspectives}\label{diverse-cultural-perspectives-non-western-perspectives}}
+Perspectives}\label{sec-diverse-cultural-perspectives-non-western}}
 
-\hypertarget{diverse-cultural-perspectives-united-states-pluralism}{%
+The Non-Western Perspectives (NWP) group includes courses in which a
+preponderance of the content analyzes human experience from the
+perspectives of diverse peoples outside of Western culture. Such
+cultures often are characterized by values and beliefs different from
+those of the United States and Western Europe.
+
+\begin{itemize}
+\item
+  \textbf{?var:c.ant116.long}
+\item
+  \textbf{?var:c.ant286.long}
+\item
+  \textbf{?var:c.arh106.long}
+\item
+  \textbf{?var:c.arh296.long}
+\item
+  \textbf{?var:c.asc106.long}
+\item
+  \textbf{?var:c.asc176.long}
+\item
+  \textbf{?var:c.asc186.long}
+\item
+  \textbf{?var:c.asc196.long}
+\item
+  \textbf{?var:c.asc216.long}
+\item
+  \textbf{?var:c.bus446.long}
+\item
+  \textbf{?var:c.bus466.long}
+\item
+  \textbf{?var:c.bus476.long}
+\item
+  \textbf{?var:c.com236.long}
+\item
+  \textbf{?var:c.eco336.long}
+\item
+  \textbf{?var:c.eco436.long}
+\item
+  \textbf{?var:c.eco446.long}
+\item
+  \textbf{?var:c.eng146.long}
+\item
+  \textbf{?var:c.eng206.long}
+\item
+  \textbf{?var:c.fre146.long}
+\item
+  \textbf{?var:c.fre446.long}
+\item
+  \textbf{?var:c.fsa146.long}
+\item
+  \textbf{?var:c.gs136.long}
+\item
+  \textbf{?var:c.his136.long}
+\item
+  \textbf{?var:c.his216.long}
+\item
+  \textbf{?var:c.his246.long}
+\item
+  \textbf{?var:c.his256.long}
+\item
+  \textbf{?var:c.his276.long}
+\item
+  \textbf{?var:c.his286.long}
+\item
+  \textbf{?var:c.his306.long}
+\item
+  \textbf{?var:c.his316.long}
+\item
+  \textbf{?var:c.his466.long}
+\item
+  \textbf{?var:c.is116.long}
+\item
+  \textbf{?var:c.is126.long}
+\item
+  \textbf{?var:c.is136.long}
+\item
+  \textbf{?var:c.jpn106.long}
+\item
+  \textbf{?var:c.mu166.long}
+\item
+  \textbf{?var:c.phl206.long}
+\item
+  \textbf{?var:c.pol266.long}
+\item
+  \textbf{?var:c.pol276.long}
+\item
+  \textbf{?var:c.pol286.long}
+\item
+  \textbf{?var:c.pol296.long}
+\item
+  \textbf{?var:c.pol386.long}
+\item
+  \textbf{?var:c.rel106.long}
+\item
+  \textbf{?var:c.rel116.long}
+\item
+  \textbf{?var:c.rel136.long}
+\item
+  \textbf{?var:c.rel196.long}
+\item
+  \textbf{?var:c.rel206.long}
+\item
+  \textbf{?var:c.rel226.long}
+\item
+  \textbf{?var:c.rel236.long}
+\item
+  \textbf{?var:c.rel296.long}
+\item
+  \textbf{?var:c.rel306.long}
+\item
+  \textbf{?var:c.rel336.long}
+\item
+  \textbf{?var:c.rel386.long}
+\item
+  \textbf{?var:c.rhe146.long}
+\item
+  \textbf{?var:c.soc226.long}
+\item
+  \textbf{?var:c.soc236.long}
+\item
+  \textbf{?var:c.spa336.long}
+\item
+  \textbf{?var:c.spa446.long}
+\item
+  \textbf{?var:c.spa486.long}
+\item
+  \textbf{?var:c.the486.long}
+\item
+  \textbf{?var:c.wsh286.long}
+\end{itemize}
+
+\hypertarget{sec-diverse-cultural-perspectives-united-states}{%
 \section{Diverse Cultural Perspectives: United States
-Pluralism}\label{diverse-cultural-perspectives-united-states-pluralism}}
+Pluralism}\label{sec-diverse-cultural-perspectives-united-states}}
 
-\hypertarget{diverse-cultural-perspectives-diverse-western-perspectives}{%
+The United States Pluralism (USP) group includes courses in which a
+preponderance of the content addresses one or more of the groups within
+the United States whose values, beliefs, and experiences differ from or
+oppose those of the majority culture. These courses increase students'
+knowledge of the history of such groups; of the ways members of these
+groups have experienced democracy and culture in America differently
+because of factors like social class, race, gender, and religion; and of
+reform movements like feminism and civil rights, through which such
+groups have attempted to achieve social and economic equality.
+
+\begin{itemize}
+\item
+  \textbf{?var:c.aam107.long}
+\item
+  \textbf{?var:c.aam137.long}\\
+\item
+  \textbf{?var:c.aam217.long}
+\item
+  \textbf{?var:c.aam227.long}
+\item
+  \textbf{?var:c.aam287.long}
+\item
+  \textbf{?var:c.aam367.long}
+\item
+  \textbf{?var:c.aam387.long}
+\item
+  \textbf{?var:c.aam447.long}
+\item
+  \textbf{?var:c.aam457.long}
+\item
+  \textbf{?var:c.aam467.long}
+\item
+  \textbf{?var:c.arh107.long}
+\item
+  \textbf{?var:c.arh297.long}
+\item
+  \textbf{?var:c.arh307.long}
+\item
+  \textbf{?var:c.bus387.long}
+\item
+  \textbf{?var:c.bus437.long}
+\item
+  \textbf{?var:c.bus457.long}
+\item
+  \textbf{?var:c.bus467.long}
+\item
+  \textbf{?var:c.com157.long}
+\item
+  \textbf{?var:c.com237.long}
+\item
+  \textbf{?var:c.com337.long}
+\item
+  \textbf{?var:c.com357.long}
+\item
+  \textbf{?var:c.com437.long}
+\item
+  \textbf{?var:c.com447.long}
+\item
+  \textbf{?var:c.com457.long}
+\item
+  \textbf{?var:c.com467.long}
+\item
+  \textbf{?var:c.eco237.long}
+\item
+  \textbf{?var:c.eco247.long}
+\item
+  \textbf{?var:c.eco447.long}
+\item
+  \textbf{?var:c.eco457.long}
+\item
+  \textbf{?var:c.edu117.long}
+\item
+  \textbf{?var:c.edu187.long}
+\item
+  \textbf{?var:c.edu237.long}
+\item
+  \textbf{?var:c.edu247.long}
+\item
+  \textbf{?var:c.eng107.long}
+\item
+  \textbf{?var:c.eng117.long}
+\item
+  \textbf{?var:c.eng127.long}
+\item
+  \textbf{?var:c.eng137.long}
+\item
+  \textbf{?var:c.eng157.long}
+\item
+  \textbf{?var:c.eng207.long}
+\item
+  \textbf{?var:c.eng327.long}
+\item
+  \textbf{?var:c.eng337.long}
+\item
+  \textbf{?var:c.eng347.long}
+\item
+  \textbf{?var:c.eng357.long}
+\item
+  \textbf{?var:c.eng367.long}
+\item
+  \textbf{?var:c.eng467.long}
+\item
+  \textbf{?var:c.evs137.long}
+\item
+  \textbf{?var:c.gs107.long}
+\item
+  \textbf{?var:c.gs127.long}
+\item
+  \textbf{?var:c.gs247.long}
+\item
+  \textbf{?var:c.gs327.long}
+\item
+  \textbf{?var:c.gs387.long}
+\item
+  \textbf{?var:c.his217.long}
+\item
+  \textbf{?var:c.his227.long}
+\item
+  \textbf{?var:c.his257.long}
+\item
+  \textbf{?var:c.his297.long}
+\item
+  \textbf{?var:c.his317.long}
+\item
+  \textbf{?var:c.his347.long}
+\item
+  \textbf{?var:c.his387.long}
+\item
+  \textbf{?var:c.kin347.long}
+\item
+  \textbf{?var:c.mu157.long}
+\item
+  \textbf{?var:c.nur137.long}
+\item
+  \textbf{?var:c.nur297.long}
+\item
+  \textbf{?var:c.nur387.long}
+\item
+  \textbf{?var:c.phl277.long}
+\item
+  \textbf{?var:c.pol207.long}
+\item
+  \textbf{?var:c.pol277.long}
+\item
+  \textbf{?var:c.psy137.long}
+\item
+  \textbf{?var:c.rel217.long}
+\item
+  \textbf{?var:c.rhe137.long}
+\item
+  \textbf{?var:c.rhe257.long}
+\item
+  \textbf{?var:c.rhe377.long}
+\item
+  \textbf{?var:c.soc107.long}
+\item
+  \textbf{?var:c.soc207.long}
+\item
+  \textbf{?var:c.soc217.long}
+\item
+  \textbf{?var:c.soc237.long}
+\item
+  \textbf{?var:c.soc247.long}
+\item
+  \textbf{?var:c.soc417.long}
+\item
+  \textbf{?var:c.spa457.long}
+\end{itemize}
+
+\hypertarget{sec-diverse-cultural-perspectives-western}{%
 \section{Diverse Cultural Perspectives: Diverse Western
-Perspectives}\label{diverse-cultural-perspectives-diverse-western-perspectives}}
+Perspectives}\label{sec-diverse-cultural-perspectives-western}}
 
-\hypertarget{independent-studies}{%
-\section{Independent Studies}\label{independent-studies}}
+The Diverse Western Perspectives (DWP) group includes courses in which a
+preponderance of the content addresses one or more subgroups of the
+Western world outside of the United States and the ways in which they
+experience Western culture. These courses increase students' knowledge
+of the history of particular groups and the ways they have interacted
+with Western values. They typically address issues of difference and
+conflict between and within Western cultures by examining the influence
+of factors such as class, race, gender, and religion.
 
-\hypertarget{internships}{%
-\section{Internships}\label{internships}}
+\begin{itemize}
+\item
+  \textbf{?var:c.ant288.long}
+\item
+  \textbf{?var:c.ant488.long}
+\item
+  \textbf{?var:c.arh128.long}
+\item
+  \textbf{?var:c.arh218.long}
+\item
+  \textbf{?var:c.arh248.long}
+\item
+  \textbf{?var:c.arh268.long}
+\item
+  \textbf{?var:c.arh298.long}
+\item
+  \textbf{?var:c.cla108.long}
+\item
+  \textbf{?var:c.eng108.long}
+\item
+  \textbf{?var:c.eng208.long}
+\item
+  \textbf{?var:c.eng378.long}
+\item
+  \textbf{?var:c.eng388.long}
+\item
+  \textbf{?var:c.fre148.long}
+\item
+  \textbf{?var:c.fre158.long}
+\item
+  \textbf{?var:c.his208.long}
+\item
+  \textbf{?var:c.his218.long}
+\item
+  \textbf{?var:c.his238.long}
+\item
+  \textbf{?var:c.his248.long}
+\item
+  \textbf{?var:c.his268.long}
+\item
+  \textbf{?var:c.his288.long}
+\item
+  \textbf{?var:c.his308.long}
+\item
+  \textbf{?var:c.his318.long}
+\item
+  \textbf{?var:c.his328.long}
+\item
+  \textbf{?var:c.mu458}
+\item
+  \textbf{?var:c.nur268.long}
+\item
+  \textbf{?var:c.phl128.long}
+\item
+  \textbf{?var:c.phl138.long}
+\item
+  \textbf{?var:c.pol108.long}
+\item
+  \textbf{?var:c.pol248.long}
+\item
+  \textbf{?var:c.pol258.long}
+\item
+  \textbf{?var:c.pol298.long}
+\item
+  \textbf{?var:c.pol398.long}
+\item
+  \textbf{?var:c.psy208.long}
+\item
+  \textbf{?var:c.rel108.long}
+\item
+  \textbf{?var:c.rel128.long}
+\item
+  \textbf{?var:c.rel138.long}
+\item
+  \textbf{?var:c.rel148.long}
+\item
+  \textbf{?var:c.rel178.long}
+\item
+  \textbf{?var:c.rel278.long}
+\item
+  \textbf{?var:c.rel338.long}
+\item
+  \textbf{?var:c.soc238.long}
+\item
+  \textbf{?var:c.soc328.long}
+\item
+  \textbf{?var:c.soc338.long}
+\item
+  \textbf{?var:c.spa148.long}
+\item
+  \textbf{?var:c.spa258.long}
+\item
+  \textbf{?var:c.spa338.long}
+\item
+  \textbf{?var:c.spa418.long}
+\item
+  \textbf{?var:c.spa428.long}
+\item
+  \textbf{?var:c.spa458.long}
+\item
+  \textbf{?var:c.the118.long}
+\item
+  \textbf{?var:c.the228.long}
+\item
+  \textbf{?var:c.the238.long}
+\item
+  \textbf{?var:c.the288.long}
+\item
+  \textbf{?var:c.the488.long}
+\end{itemize}
 
-\hypertarget{practicum}{%
-\section{PRACTICUM}\label{practicum}}
+\hypertarget{sec-independent-studies}{%
+\section{Independent Studies}\label{sec-independent-studies}}
+
+The one-credit independent study or directed readings students are
+expected to complete a minimum of 140 hours of academic work, including
+meeting with faculty members and independent work between meetings.
+
+\hypertarget{sec-internships}{%
+\section{Internships}\label{sec-internships}}
+
+The internship is a work or volunteer experience in the context of an
+independent academic investigation of site-related issues and personal
+aptitudes, values, and goals. The one-credit internship includes a
+minimum of 140 hours of on-site or remote experience and the required
+documentation and/or academic journal or paper as determined by the
+faculty member. The details of the academic component are determined by
+prior arrangement with the faculty internship advisor.
+
+Ordinarily internships are completed during the academic year as one of
+the 32 credits for graduation, or over the summer for a credit-bearing
+or non-credit bearing-practicum fulfillment activity. In unusual
+circumstances where an internship presents an opportunity to extend the
+educational component of the experience significantly, an internship may
+earn two credits. Application for non-departmental, two-credit
+internships requires consultation with the Internship Faculty Advisor
+and approval of the Committee on Petitions; departmental two-credit
+internships, when permitted, are overseen by the department.
+
+A combined maximum of 2.0 course credits may be counted toward the 32
+credits required for graduation through Internships or Community-Based
+Project (see p.~70). Many internships are completed in the Cedar Rapids
+area; however, it is permissible to complete an internship outside of
+the area during the summer, or done remotely if authorized by the
+Internship Faculty Advisor.
+
+Students interested in internships should consult with their Career
+Specialist in C3: Creativity, Careers, Community, as well as with the
+appropriate academic department who will be overseeing the internship
+experience.
+
+Each internship must include the consent of an Internship Faculty
+Advisor and completion of the internship request form housed on the
+College's online platform for internships.
+
+Courses with an INT prefix and those on this list count as internship
+credit:
+
+\begin{itemize}
+\item
+  \textbf{?var:c.aam494.long}
+\item
+  \textbf{?var:c.ant494.long}
+\item
+  \textbf{?var:c.arh494.long}
+\item
+  \textbf{?var:c.arh494.long}
+\item
+  \textbf{?var:c.art494.long}
+\item
+  \textbf{?var:c.at494.long}
+\item
+  \textbf{?var:c.bio494.long}
+\item
+  \textbf{?var:c.bus494.long}
+\item
+  \textbf{?var:c.chm494.long}
+\item
+  \textbf{?var:c.com494.long}
+\item
+  \textbf{?var:c.crw494.long}
+\item
+  \textbf{?var:c.cs494.long}
+\item
+  \textbf{?var:c.ds494.long}
+\item
+  \textbf{?var:c.edu494.long}
+\item
+  \textbf{?var:c.eng494.long}
+\item
+  \textbf{?var:c.flm494.long}
+\item
+  \textbf{?var:c.fre494.long}
+\item
+  \textbf{?var:c.his494.long}
+\item
+  \textbf{?var:c.hss494.long}
+\item
+  \textbf{?var:c.int115.long}
+\item
+  \textbf{?var:c.int494.long}
+\item
+  \textbf{?var:c.int499.long}
+\item
+  \textbf{?var:c.kin494.long}
+\item
+  \textbf{?var:c.mth494.long}
+\item
+  \textbf{?var:c.nur494.long}
+\item
+  \textbf{?var:c.nyt394.long}
+\item
+  \textbf{?var:c.phl494.long}
+\item
+  \textbf{?var:c.phy494.long}
+\item
+  \textbf{?var:c.pol494.long}
+\item
+  \textbf{?var:c.pr494.long}
+\item
+  \textbf{?var:c.psy494.long}
+\item
+  \textbf{?var:c.rel494.long}
+\item
+  \textbf{?var:c.rhe494.long}
+\item
+  \textbf{?var:c.soc494.long}
+\item
+  \textbf{?var:c.smt494.long}
+\item
+  \textbf{?var:c.spa494.long}
+\item
+  \textbf{?var:c.the494.long}
+\item
+  \textbf{?var:c.wsh494.long}
+\end{itemize}
+
+Students completing internships that are not department specific should
+register for one of the INT-494 or INT-499 courses on p.~70 (see the
+\textbf{\emph{Coe Student Accounts Handbook}} for fee).
+
+\hypertarget{sec-practicum}{%
+\section{Practicum}\label{sec-practicum}}
 
 A practicum experience is required of all students for all undergraduate
 degrees, except those earning second degrees.
@@ -1299,376 +1940,2767 @@ Internships and Community-Based Projects may be included in the 32
 course credits required for graduation.
 
 \begin{itemize}
-\tightlist
 \item
-  AAM-444 Independent Study
+  \textbf{?var:c.aam444.long}
 \item
-  ANT-205 Archaeological Field School
+  \textbf{?var:c.ant205.long}
 \item
-  ANT-444 Independent Study
+  \textbf{?var:c.ant444.long}
 \item
-  ANT-474 Research Participation
+  \textbf{?var:c.ant474.long}
 \item
-  ARH-444 Independent Study in Art History
+  \textbf{?var:c.arh444.long}
 \item
-  ARH-474 Senior Seminar II \& Senior Project (WE)
+  \textbf{?var:c.arh474.long}
 \item
-  ART-394 Directed Studies in Art
+  \textbf{?var:c.art394.long}
 \item
-  ART-444 Independent Study
+  \textbf{?var:c.art444.long}
 \item
-  ART-474 Senior Seminar II \& Senior Exhibition
+  \textbf{?var:c.art474.long}
 \item
-  AT-40\_ Clinical Athletic Training (successful completion of sequence
-  of AT-20\_/ -30\_ and-40\_ - required to receive full credit)
+  \textbf{?var:c.at40.long} (\emph{successful completion of sequence of
+  AT-20/-30 and -40 required to receive full credit})
 \item
-  BIO-115 Marine Biology
+  \textbf{?var:c.bio115.long}
 \item
-  BIO-444 Independent Study
+  \textbf{?var:c.bio444.long}
 \item
-  BIO-454 Research Participation
+  \textbf{?var:c.bio454.long}
 \item
-  BIO-462 Advanced Biology Laboratory I
+  \textbf{?var:c.bio462.long}
 \item
-  BUS-444 Independent Study
+  \textbf{?var:c.bus444.long}
 \item
-  BUS-454 Research in Business
+  \textbf{?var:c.bus454.long}
 \item
-  CHM-444 Independent Study
+  \textbf{?var:c.chm444.long}
 \item
-  CHM-454 Undergraduate Summer Research
+  \textbf{?var:c.chm454.long}
 \item
-  COM-394 Directed Studies in Communication Studies (WE)
+  \textbf{?var:c.com394.long}
 \item
-  COM-444 Independent Study in Communication Studies* (WE)
+  \textbf{?var:c.com444.long}
 \item
-  CRW-112 Advanced Literary Magazine Editing (two terms)
+  \textbf{?var:c.crw112.long}
 \item
-  CRW-394 Directed Studies in Creative Writing (WE)
+  \textbf{?var:c.crw394.long}
 \item
-  CRW-492 Manuscript Workshop (WE)
+  \textbf{?var:c.crw492.long}
 \item
-  CS-444 Independent Study
+  \textbf{?var:c.cs444.long}
 \item
-  CS-454 Research in Computer Science
+  \textbf{?var:c.cs454.long}
 \item
-  DS-444 Independent Study in Data Science
+  \textbf{?var:c.ds444.long}
 \item
-  DS-454 Research in Data Science
+  \textbf{?var:c.ds454.long}
 \item
-  ECO-444 Independent Study
+  \textbf{?var:c.eco444.long}
 \item
-  ECO-454 Research in Economics
+  \textbf{?var:c.eco454.long}
 \item
-  EDU-215 Practicum in Education (WE)
+  \textbf{?var:c.edu215.long}
 \item
-  EDU-481 Student Teaching in Art at the Secondary School (WE)
+  \textbf{?var:c.edu481.long}
 \item
-  EDU-482 Student Teaching in Physical Education at the Secondary School
-  (WE)
+  \textbf{?var:c.edu482.long}
 \item
-  EDU-483 Student Teaching in Art at the Elementary School (WE)
+  \textbf{?var:c.edu483.long}
 \item
-  EDU-485 Student Teaching in Physical Education at the Elementary
-  School (WE)
+  \textbf{?var:c.edu485.long}
 \item
-  EDU-489 Student Teaching in the Senior High School (WE)
+  \textbf{?var:c.edu489.long}
 \item
-  EDU-490 Student Teaching in Middle School or Junior High School (WE)
+  \textbf{?var:c.edu490.long}
 \item
-  EDU-491 Student Teaching in the Upper Elementary Grades: Grades 3-6
-  (WE)
+  \textbf{?var:c.edu491.long}
+\item
+  \textbf{?var:c.edu492.long}
+\item
+  \textbf{?var:c.edu444.long}
+\item
+  \textbf{?var:c.eng394.long}
+\item
+  \textbf{?var:c.eng454.long}
+\item
+  \textbf{?var:c.flm442.long}
+\item
+  \textbf{?var:c.flm464.long} (0.5 cc) and \textbf{?var:c.flm474.long}
+  (0.5 cc)
+\item
+  \textbf{?var:c.fre394.long}
+\item
+  \textbf{?var:c.fre444.long}
+\item
+  \textbf{?var:c.his444.long}
+\item
+  \textbf{?var:c.kin444.long}
+\item
+  \textbf{?var:c.mth444.long}
+\item
+  \textbf{?var:c.mth454.long}
+\item
+  \textbf{?var:c.mu421.long}
+\item
+  \textbf{?var:c.mu422.long}
+\item
+  \textbf{?var:c.mu444.long}
+\item
+  \textbf{?var:c.mua490.long}
+\item
+  \textbf{?var:c.nur444.long}
+\item
+  \textbf{?var:c.nur455.long}
+\item
+  \textbf{?var:c.phl394.long}
+\item
+  \textbf{?var:c.phl444.long}
+\item
+  \textbf{?var:c.phl490.long} (0.0 cc)
+\item
+  \textbf{?var:c.phy255.long}
+\item
+  \textbf{?var:c.phy355.long}
+\item
+  \textbf{?var:c.phy444.long}
+\item
+  \textbf{?var:c.pol444.long}
+\item
+  \textbf{?var:c.psy354.long}
+\item
+  \textbf{?var:c.psy444.long}
+\item
+  \textbf{?var:c.psy455.long}
+\item
+  \textbf{?var:c.rel394.long}
+\item
+  \textbf{?var:c.rel444.long}
+\item
+  \textbf{?var:c.rhe394.long}
+\item
+  \textbf{?var:c.rhe444.long}
+\item
+  \textbf{?var:c.rhe490.long}
+\item
+  \textbf{?var:c.scj444.long}
+\item
+  \textbf{?var:c.soc365.long}
+\item
+  \textbf{?var:c.soc444.long}
+\item
+  \textbf{?var:c.spa394.long}
+\item
+  \textbf{?var:c.spa444.long}
+\item
+  \textbf{?var:c.the442.long}
+\item
+  \textbf{?var:c.the444.long}
+\item
+  \textbf{?var:c.the452.long}
+\item
+  \textbf{?var:c.the462.long}
 \end{itemize}
 
 \hypertarget{special-programs-and-opportunities}{%
 \chapter{SPECIAL PROGRAMS AND
 OPPORTUNITIES}\label{special-programs-and-opportunities}}
 
+\hypertarget{clinical-laboratory-sciencesmedical-technology}{%
+\section{Clinical Laboratory Sciences/Medical
+Technology}\label{clinical-laboratory-sciencesmedical-technology}}
+
+In cooperation with the St.~Luke's Methodist Medical Laboratories in
+Cedar Rapids, or upon arrangement with other accredited laboratories and
+the approval of the College, Coe offers a four-year course leading to a
+Bachelor of Arts degree and registration as a Clinical Laboratory
+Scientist/Medical Technologist.
+
+The first three years are spent in residence at Coe, where candidates
+must complete all of the requirements for the B.A. degree, including
+general education requirements and an approved major. The minimum
+requirements of the Clinical Laboratory Sciences/Medical Technology
+program in biology and chemistry are five course credits in each field
+and at least one course in mathematics. The fourth year is a full
+calendar year spent at St.~Luke's or another accredited medical
+laboratory approved by Coe.
+
+The St.~Luke's Hospital Medical Laboratory is approved as a school of
+clinical laboratory sciences/medical technology by the Committee on
+Allied Health Education and Accreditation of the American Medical
+Association. Candidates completing the course are eligible to take the
+certification examinations of the American Society of Clinical
+Pathologists and the National Certification Agency and, if approved, may
+practice anywhere in the United States.
+
 \hypertarget{crimson-fellows-program}{%
 \section{Crimson Fellows Program}\label{crimson-fellows-program}}
+
+Steffens, Westberg (Program Directors).
+
+To graduate as a Crimson Fellow, a student must earn at least a 3.3
+cumulative grade point average for all courses taken at Coe College and
+complete all of the following:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \textbf{?var:c.cfp104.long} (0.2 cc)
+\item
+  \textbf{?var:c.CFP205.long}
+\item
+  \textbf{?var:c.CFP301.long} (0.5 cc)
+\item
+  \textbf{?var:c.CFP302.long} (0.5 cc)
+\item
+  \textbf{?var:c.CFP401.long} (0.5 cc)
+\end{enumerate}
+
+Applications to the Crimson Fellows Program are accepted and reviewed on
+a rolling basis.
+
+Completed applications are assessed on ACT/SAT score, the high school
+transcript, teacher recommendations, and the student essay. Although
+there are no minimum thresholds, the historical average ACT score has
+been over 27 with an average high school GPA above 3.70. Emphasis will
+be placed on the student essay.
+
+\begin{itemize}
+\item
+  \textbf{?var:c.cfp104.long}
+
+  \begin{itemize}
+  \item
+    \textbf{?var:c.cfp104.desc}
+  \end{itemize}
+\item
+  \textbf{?var:c.cfp145.long}
+
+  \begin{itemize}
+  \item
+    \textbf{?var:c.cfp145.desc}
+  \end{itemize}
+\item
+  \textbf{?var:c.cfp155.long}
+
+  \begin{itemize}
+  \item
+    \textbf{?var:c.cfp155.desc}
+  \end{itemize}
+\item
+  \textbf{?var:c.cfp175.long}
+
+  \begin{itemize}
+  \item
+    \textbf{?var:c.cfp175.desc}
+  \end{itemize}
+\item
+  \textbf{?var:c.cfp184.long}
+
+  \begin{itemize}
+  \item
+    \textbf{?var:c.cfp184.desc}
+  \end{itemize}
+\item
+  \textbf{?var:c.cfp205.long}
+
+  \begin{itemize}
+  \item
+    \textbf{?var:c.cfp205.desc}
+  \end{itemize}
+\item
+  \textbf{?var:c.cfp301.long}
+
+  \begin{itemize}
+  \item
+    \textbf{?var:c.cfp301.desc}
+  \end{itemize}
+\item
+  \textbf{?var:c.cfp302.long}
+
+  \begin{itemize}
+  \item
+    \textbf{?var:c.cfp302.desc}
+  \end{itemize}
+\item
+  \textbf{?var:c.cfp401.long}
+
+  \begin{itemize}
+  \item
+    \textbf{?var:c.cfp401.desc}
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{crimson-fellows-projects-graduating-with-distinction}{%
+\subsection{Crimson Fellows Projects \& Graduating with
+Distinction}\label{crimson-fellows-projects-graduating-with-distinction}}
+
+To graduate with Distinction, at the time of graduation a student must
+have: 1. earned at least a 3.2 cumulative grade point average for all
+courses taken at Coe College, 2. earned at least a 3.5 GPA (or higher if
+set higher in the program in which you are pursuing distinction) in the
+courses taken toward the major or minor in which distinction is sought,
+3. earned at least 14 course credits of graded courses at Coe College,
+4. satisfactorily completed a Crimson Fellows project in a major or
+minor, 5. completed the ``Graduating with Distinction Form'' found on
+My.Coe and submitted it to the Office of the Registrar no later than
+March 15 of the Spring Term before graduation, 6. submitted a thesis or
+project artifact, approved by the majority of the student's Crimson
+Fellows Program examining committee, to the Director of Library Services
+no later than Reading Day of Spring Term.
+
+\hypertarget{latin-honors}{%
+\subsection{Latin Honors}\label{latin-honors}}
+
+Cum laude is awarded to all graduating seniors with a cumulative GPA of
+3.60 or higher. Magna cum laude is awarded to graduating seniors with a
+cumulative GPA of 3.80 or higher who have completed an honors project.
+Summa cum laude is awarded to graduating seniors with a cumulative GPA
+of 3.98 or higher who have completed an honors project.
+
+\hypertarget{deans-list}{%
+\subsection{Dean's List}\label{deans-list}}
+
+Special recognition is given to students who show exceptional academic
+performance during Fall and Spring Terms. The designation ``Dean's
+List'' is awarded a student if, at the end of a given grade reporting
+period, the student: 1) was enrolled as a full-time, degree-seeking
+student; 2) earned at least a 3.5 GPA for the grading period, having no
+incomplete marks, no repeat courses, and at least three letter graded
+courses; and 3) ranked in the top ten percent of the student body for
+that grading period.
 
 \hypertarget{cross-registration-with-mount-mercy-university}{%
 \section{Cross-Registration with Mount Mercy
 University}\label{cross-registration-with-mount-mercy-university}}
 
+This agreement:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Covers only courses that are not offered at Coe College in the same
+  term unless a time conflict exists that cannot be resolved.
+\item
+  Is permitted on a space-available basis two weeks after the regular
+  registration at Mount Mercy.
+\item
+  Holds students subject to administrative rules of the host institution
+  for the courses taken.
+\item
+  Requires the student to register at both institutions.
+\item
+  Requires that a student be full-time and degree seeking in the term of
+  the request and for at least one previous term at Coe College.
+\end{enumerate}
+
+Coe students wishing to enroll at Mount Mercy University may not be on
+academic probation (see p.~61) and may not have been dismissed from Coe
+College. Prior to registering, students must submit a cross-registration
+request form to the Registrar, who grants approval to students wishing
+to register at Mount Mercy University. If the course is to be counted
+toward a major or minor, the approval of the appropriate Coe department
+chair is also required. Declarations of Pass/Not Pass options are made
+at Coe according to Coe policies. Both course credit and the letter
+grade given at Mount Mercy are recorded in the student's permanent
+record, as well as the fact that the course was taught at Mount Mercy.
+Under the agreement no additional fees are charged for cross
+registration, although the sum of the credits registered at both
+institutions are used to determine full-time status and/or the need to
+petition to take 5.0 course credits or more.
+
+A cross-registered student missing a class at a cooperating college
+because of calendar differences shall not be penalized for missing the
+class. The student, however, is responsible for making up any work
+missed in the class. Before registering for a course at Mount Mercy
+under this agreement, a student must complete the Mount Mercy--Coe
+College Cross Registration Form to be processed to ensure that all
+stipulations of the agreement are met.
+
 \hypertarget{english-as-a-second-language-program}{%
 \section{English As A Second Language
 Program}\label{english-as-a-second-language-program}}
 
+Drexler (Director), Welsh.
+
+English as a Second Language (ESL) programs at Coe College are designed
+to help study abroad and undergraduate international students assimilate
+into the College and local community through English language
+instruction.
+
+Coe College offers the following programs:
+
+\begin{itemize}
+\tightlist
+\item
+  Intensive English Language program (IELP). IELP accepts students whose
+  TOEFL ITP score falls lower than 500. IELP students enroll in 18 hours
+  of English language courses per week for one or two terms. Students
+  who successfully complete IELP may matriculate to the College.
+\item
+  English Academic Bridge (ELAB) program. ELAB accepts students whose
+  TOEFL ITP score falls between 500 and 520, the Admission requirement.
+  ELAB students are admitted as undergraduates with the following course
+  requirements for their first term at the College: one ESL course, one
+  Coe-credit course designed for English language learners, First-Year
+  Seminar, and their choice of another Coe-credit course.~
+\item
+  Short Intensive English Language program (SIELP). SIELP accepts study
+  abroad students for seven weeks during the Spring Term. SIELP students
+  enroll in 18 hours of English language course per week and live on
+  campus.
+\item
+  Summer Academic Orientation program (SAOP). SAOP accepts students who
+  intend to study abroad or become undergraduates in colleges and
+  universities in the United States or Canada. SAOP students enroll in
+  20 hours of ESL courses per week for the first week of August.
+\end{itemize}
+
+In addition to these programs, Coe international students who are not
+enrolled in an ESL program may register for ESL courses and work with
+ESL faculty on a one-on-one basis to support~their language needs.
+
+\begin{itemize}
+\item
+  \textbf{?var:c.esl195.long}
+
+  \begin{itemize}
+  \item
+    \textbf{?var:c.esl195.desc}
+  \end{itemize}
+\item
+  \textbf{?var:c.esl180.long}
+
+  \begin{itemize}
+  \item
+    \textbf{?var:c.esl180.desc}
+  \end{itemize}
+\item
+  \textbf{?var:c.esl185.long}
+
+  \begin{itemize}
+  \item
+    \textbf{?var:c.esl185.desc}
+  \end{itemize}
+\item
+  \textbf{?var:c.esl190.long}
+
+  \begin{itemize}
+  \item
+    \textbf{?var:c.esl190.desc}
+  \end{itemize}
+\item
+  \textbf{?var:c.esl210.long}
+
+  \begin{itemize}
+  \item
+    \textbf{?var:c.esl210.desc}
+  \end{itemize}
+\end{itemize}
+
 \hypertarget{pre-professional-programs}{%
 \section{Pre-Professional Programs}\label{pre-professional-programs}}
+
+\hypertarget{pre-law}{%
+\subsection{Pre-Law}\label{pre-law}}
+
+J. Christensen (Program Director).
+
+The cooperative 3+3 program allows qualified undergraduates from Coe
+College to earn both a bachelor's degree and a law degree in six years
+through partnership with the University of Iowa College of Law.
+
+If eligible, students admitted under the 3+3 program will receive three
+years of financial aid and pay Coe College tuition for the first three
+years. Qualified undergraduates from Coe must have satisfied all
+graduation requirements with the exception of the 32-course credit
+requirement by the conclusion of their junior year for admission into
+the College of Law. Students are not eligible for campus housing or
+extracurricular activities at Coe during their fourth year. During the
+fourth year of the program, which is the first year of law school,
+students will pay tuition only to Iowa Law and apply for financial aid
+through the University of Iowa. Credits earned during the first year of
+law school at Iowa, which would have been their senior year at Coe, will
+also apply to their undergraduate degree to complete the final credit
+requirements at Coe. At the end of their fourth year of study, students
+in the program will receive their bachelor's degree from Coe College,
+while also having a year of law school completed at the University of
+Iowa College of Law.
+
+There is no prescribed curriculum for students intending to enter law
+school after graduation. Law schools report that their most successful
+students are those who have acquired a broad academic background in the
+liberal arts, developed a capacity for logical analysis, and mastered
+the ability to write clearly.
+
+Study in one or several of a variety of disciplines will prepare
+students to undertake legal training. Students interested in law should
+consult their department advisor and the pre-law program director.
+
+\hypertarget{health-professions}{%
+\subsection{Health Professions}\label{health-professions}}
+
+Storer (Program Director).
+
+Coe's program for those interested in the health professions, such as
+medicine and dentistry, is a flexible one based on the requirements of
+the health professions' schools. Students interested in a health
+profession usually major in one of the sciences, but all majors offered
+by the College are acceptable.
+
+\hypertarget{professional-school-degree-completion-plan}{%
+\subsection{Professional School Degree Completion
+Plan}\label{professional-school-degree-completion-plan}}
+
+Students who complete three years of course work at Coe (24 course
+credits), including general education and area of study requirements,
+and who enter a college of architecture, engineering, or a physical
+therapy program, can receive a baccalaureate degree from Coe. Required
+for satisfactory completion of this program are (1) approval of the
+program by the Provost and Dean of the Faculty before transferring to
+the professional institution and (2) one year of full-time acceptable
+study there.
+
+\hypertarget{cooperative-degree-program-with-the-university-of-iowas-college-of-public-health}{%
+\subsection{Cooperative Degree Program With The University Of Iowa's
+College Of Public
+Health}\label{cooperative-degree-program-with-the-university-of-iowas-college-of-public-health}}
+
+This combined undergraduate and graduate 5-year program allows students
+to earn a Bachelor of Arts degree from Coe College and a Master of
+Public Health (MPH) degree from the University of Iowa. This program is
+available to students electing any undergraduate major offered by Coe.
+The first four years in the program are spent in residence at Coe
+College. Interested students take one University of Iowa undergraduate
+course in the spring of their second year (\emph{Fundamentals of Public
+Health}). In their third year, students take the GRE and apply to the
+Master's program in Public Health. If accepted, the student completes up
+to four graduate-level MPH courses during the fourth year at Coe College
+(\emph{Introduction to Biostatistics, Introduction to Health Promotion
+and Disease Prevention, Global Environmental Health, and/or
+Epidemiology}). UI Public Health courses are accepted in transfer to Coe
+College as elective credit.
 
 \hypertarget{off-campus-study}{%
 \chapter{OFF-CAMPUS STUDY}\label{off-campus-study}}
 
+The College endorses a wide variety of off-campus experiences for
+students. Coe strongly believes that students can benefit from study in
+Washington, New York, and the Wilderness Field Station, as well as in
+programs around the world.
+
+Numerous domestic and international study programs are available to Coe
+students. The four programs sponsored by Coe College are Asia Term, New
+York Term, Washington Term and Wilderness Field Station courses. In
+addition, programs are offered by the Associated Colleges of the Midwest
+(ACM) and others, including several exchange programs, by colleges,
+universities, and educational agencies in America and abroad. Students
+who wish to study off-campus on Coe's sponsored programs must apply to
+the individual program's director. Student proposals to study on
+exchange programs must be submitted to the Director of Off-Campus
+Studies at least six weeks before the end of the term just prior to the
+off-campus experience. Student proposals to study on all other
+off-campus programs must be submitted to the Director of Off-Campus
+Studies by the last day of classes of Fall Term of the academic year
+prior to the program.
+
+Credits earned on off-campus programs are applied toward graduation on
+the same basis as credits earned on campus. Any academic credit earned
+from programs not sponsored by Coe may be transferred back to the
+College in accordance with the College's general policy on transfer
+credit. Application is open to sophomores, juniors, and seniors who have
+a minimum 2.25 GPA at both the time of application and of enrollment for
+the off-campus study.
+
+NOTE: \emph{International students may not receive Coe College financial
+aid for off-campus study outside the U.S.}
+
 \hypertarget{domestic-programs}{%
 \section{Domestic Programs}\label{domestic-programs}}
+
+\hypertarget{new-york-term}{%
+\subsection{New York Term}\label{new-york-term}}
+
+Carson (Program Director)
+
+The New York Term is open to all students who meet the basic
+requirements for off-campus study. Offered in odd-numbered years in the
+Spring Term, this program provides abundant opportunity for experiences
+in the performing and visual arts, as well as internship opportunities
+for students from any major.
+
+The central course, Fine Arts in New York City (NYT-250), which includes
+attendance at concerts, theatre, and dance productions as well as tours
+to art exhibits and film screenings, consists of five 0.4 credit
+courses: art, music, theatre, dance, and film. A faculty member for each
+area grades the respective course. An internship (or other project
+approved in advance by the College) completes the program.
+
+There is an extra fee for New York Term. All Coe financial aid applies,
+and students are eligible to apply for additional financial aid based on
+the additional costs of the term. (See p.~72 for descriptions and course
+offerings.)
+
+\hypertarget{washington-term}{%
+\subsection{Washington Term}\label{washington-term}}
+
+B. Nesmith (Program Director).
+
+The Washington Term is open to all students who meet the basic
+requirements for off-campus study. Students accepted for Washington Term
+spend Fall or Spring Term in the nation's capital. Washington provides
+an unusual opportunity to study national politics and government and to
+enjoy a variety of cultural activities in the fine arts. (See p.~75 for
+descriptions and course offerings.)
+
+\hypertarget{wilderness-field-station}{%
+\subsection{Wilderness Field Station}\label{wilderness-field-station}}
+
+Ellis (Program Director).
+
+The Coe College Wilderness Field Station, located on remote Low Lake in
+Minnesota's Superior National Forest, offers students a unique and
+unparalleled opportunity for off-campus study. Courses take advantage of
+the serene surroundings for field observation, wilderness study, and
+outdoor learning. Biology courses are at the heart of the field station
+and often include aquatic biology, animal behavior, ornithology, and
+behavioral ecology of vertebrates. Students use the base camp's
+laboratories, herbarium, and library to supplement their field work.
+Non-science electives, such as nature writing and wilderness and the
+law, are also offered. There is an independent study option as well.
+Participants take one course during a four-week session.
+
+The program runs from mid-June to mid-July, mid-July to mid-August, or
+both. Each course is limited to eight students. Each course offered at
+the field station is one course credit. Particular courses satisfy lab
+science and other general education requirements and can be used as
+major elective credits. Any course taken at the field station satisfies
+the College's practicum requirement. The regular application deadline is
+March 1; the final deadline is April 15, with rolling applications after
+that date. For more information and application materials, visit The
+Field Station Webpage:
+www.coe.edu/academics/coe-difference-centers-and-programs/off-campus-study/wilderness-field-station.
 
 \hypertarget{acm-international-programs}{%
 \section{ACM \& International
 Programs}\label{acm-international-programs}}
 
+Coe offers opportunities to study in locations around the world. Some
+programs are for students wishing to broaden their liberal arts
+perspectives, while others allow intensive research and study in a
+specific academic area. Although some programs provide grades in the
+courses, all grades transfer back to Coe as P/NP. For detailed
+information and applications, students should contact directors for each
+program or visit http://www.acm.edu/off\_campus\_study/index.html.
+
+\hypertarget{occ-350-japan-study}{%
+\subsection{OCC-350 --- Japan Study}\label{occ-350-japan-study}}
+
+Nordmann (Program Director).
+
+Students study at Waseda University's School of International Liberal
+Studies in Tokyo after a brief orientation providing intensive language
+practice and cultural discussions. In addition to required language
+study, electives may be chosen from a wide range of Asian studies
+courses taught in English. A family living experience in Tokyo provides
+an informal education in Japanese culture and is in many ways the
+dominant feature of the program, offering total immersion in the
+Japanese way of life. The program is recommended for a full year of
+study, although students usually cannot receive Coe gift aid for more
+than one term. The full-year program includes a month-long cultural
+practicum or internship in another region of Japan, usually in February
+or March. Administered by Earlham College, Japan Study is recognized by
+both ACM and GLCA. Learn more at
+http://www.acm.edu/programs/8/japan/index.html.
+
+\hypertarget{occ-360-newberry-seminar-research-in-the-humanities}{%
+\subsection{OCC-360 --- Newberry Seminar: Research in the
+Humanities}\label{occ-360-newberry-seminar-research-in-the-humanities}}
+
+Swenson Arnold (Program Director).
+
+Students in the Newberry Seminar do advanced independent research in one
+of the world's great research libraries. They join ACM and GLCA faculty
+members in close reading and discussion centered on a common theme, and
+then write a major paper on a topic of their choice, using the Newberry
+Library's rich collections of primary documents. The Fall Seminar runs
+for a full term; the Spring Seminars are month-long. Students live in
+Chicago apartments and take advantage of the city's rich resources. The
+Newberry Seminar is for students looking for an academic challenge, a
+chance to do independent work, and possibly planning to attend graduate
+school. Administered by ACM, the Newberry Seminar is also recognized by
+GLCA. Learn more at http://www.acm.edu/programs/14/newberry/index.html.
+
+\hypertarget{occ-325-field-museum-semester-research-in-natural-history}{%
+\subsection{OCC-325 --- Field Museum Semester: Research in Natural
+History}\label{occ-325-field-museum-semester-research-in-natural-history}}
+
+Hughes (Program Director).
+
+An intensive research-and class-based experience for upper-level
+students interested in natural history research with a background in
+evolutionary biology, anthropology, or related discipline. The program
+provides the opportunity for students to explore scientific research and
+the Field Museum collections through a substantive internship, a course
+taught by the visiting Faculty Director, and a seminar led by Field
+Museum professional staff. See ACM website for more information.
+
+\hypertarget{occ-365-oak-ridge-science-semester}{%
+\subsection{OCC-365 --- Oak Ridge Science
+Semester}\label{occ-365-oak-ridge-science-semester}}
+
+St.~Clair (Program Director).
+
+The Oak Ridge Science Semester is designed to enable qualified
+undergraduates to study and conduct research in a prestigious and
+challenging scientific environment. As members of a research team
+working at the frontiers of knowledge, participants engage in long-range
+investigations using the facilities of the Oak Ridge National Laboratory
+(ORNL) near Knoxville, Tennessee. The majority of a student's time is
+spent in research with an advisor specializing in biology, engineering,
+mathematics, or the physical or social sciences. Students also
+participate in an interdisciplinary seminar designed to broaden their
+exposure to developments in their major field and related disciplines.
+In addition, each student chooses an elective from a variety of advanced
+courses. The academic program is enriched in informal ways by guest
+speakers, departmental colloquia, and the special interests and
+expertise of the ORNL staff. Administered by Denison University, Oak
+Ridge Science Semester is recognized by both ACM and GLCA. Learn more at
+http://www.acm.edu/programs/15/oakridge/index.html.
+
 \hypertarget{asia-term}{%
 \section{Asia Term}\label{asia-term}}
 
+Nordmann (Program Director).
+
+The Asia Term is open to all students who meet the basic requirements
+for off-campus study. Usually offered in the Spring Term, this program
+provides students an opportunity to experience a variety of Asian
+cultures in such countries as Thailand, Vietnam, and Cambodia. At each
+site, students study language, read works in English about the culture,
+engage in service learning, and work with students at the host
+universities to gain a functional understanding of how each culture
+works. Students are accompanied to Asia by Coe faculty members.
+
+Students take four credits of course work, typically one credit of Asian
+Tonal Languages, one credit of Asian studies, and two credits of
+independent study. In some iterations of the program, students take an
+elective course in art, English, history, sociology, education, or
+another discipline, depending on the field of the instructor leading the
+program, and one credit of independent study. (See p.~70 for
+descriptions and course offerings.)
+
 \hypertarget{exchange-programs}{%
 \section{Exchange programs}\label{exchange-programs}}
+
+Coe College sponsors a number of programs with cooperating foreign
+universities, offering Coe sophomores, juniors and seniors each year the
+opportunity to study in a foreign setting. Coe College accepts in return
+junior-level students from the foreign institution. Applications of the
+recommended students are sent to the host institution, with the host
+reserving the right to admit or reject each student nominated.
+
+Any student who applies for one of these programs must have completed at
+least one year of continuous study at their home institution. Students
+may apply to any appropriate academic program offered at the host
+institution as full-time, non-degree seeking, or unclassified students.
+Any academic credit earned at the host institution is transferred back
+to the home institution in accordance with the rules of that
+institution. The length of stay may not exceed one academic year. Upon
+completion of the time period specified at the host institution, the
+participating students must return to their home institution. Any
+extension of stay must be approved by both cooperating institutions. The
+exchange student must abide by all rules and regulations of the host
+institution.
+
+An exchange student must register and pay tuition and required fees at
+his or her home institution. In return, the student receives a tuition
+waiver at the host institution. The host institution helps arrange the
+necessary visa documents and also provides appropriate advising and
+other assistance to the incoming students from Coe College. Please see
+individual program descriptions for information regarding housing costs.
+The host institution assists in finding housing on the foreign
+university campus; Coe College assists in finding residence housing for
+students from the foreign university. At the end of the school year, the
+host institution submits to the home institution and official
+transcripts of grades and credits earned. Grades from exchange programs
+transfer to Coe as P/NP.
+
+Beyond tuition and fees, the participating student is responsible for
+the following expenses: meal expenses; transportation to and from the
+host institution; medical insurance and/or medical expenses; textbooks,
+clothing, and personal expenses; passport and visa costs; and all other
+debts incurred during the course of the year.
+
+\hypertarget{occ-205-coekongju-national-university-south-korea}{%
+\subsection{OCC-205 --- Coe/Kongju National University (South
+Korea)}\label{occ-205-coekongju-national-university-south-korea}}
+
+Nordmann (Program Director).
+
+Course offerings in Business, Economics, and Asian studies. Students pay
+the cost of living at the destination. Credits earned from the Kongju
+exchange program are evaluated on a P/NP basis.
+
+\hypertarget{occ-210-coechiang-mai-university-thailand}{%
+\subsection{OCC-210 --- Coe/Chiang Mai University
+(Thailand)}\label{occ-210-coechiang-mai-university-thailand}}
+
+Chaimov (Program Director).
+
+Coe students usually pursue an independent research project based on
+prior study in Thailand, as CMU offers no courses in English. Students
+pay cost of living at destination.
+
+Credits earned from the Chiang Mai exchange program are evaluated on a
+P/NP basis.
+
+\hypertarget{occ-213-coerangsit-university-thailand}{%
+\subsection{OCC-213 --- Coe/Rangsit University
+(Thailand)}\label{occ-213-coerangsit-university-thailand}}
+
+Chaimov (Program Director).
+
+Rangsit University. Coe students are responsible for securing their own
+accommodations. Rangsit University offers English language bachelor's
+degree programs in communications, international business, and
+international political economy. Students pay cost of living at
+destination.
+
+Credits earned from the Rangsit University exchange program are
+evaluated on a P/NP basis.
+
+\hypertarget{occ-215-coemid-sweden-university-sweden}{%
+\subsection{OCC-215 --- Coe/Mid Sweden University
+(Sweden)}\label{occ-215-coemid-sweden-university-sweden}}
+
+Carstens (Program Director).
+
+Courses in English are available in such areas as business, social
+sciences, and environmental studies. Students pay cost of living at the
+destination. Credits earned from the Mid Sweden exchange program are
+evaluated on a P/NP basis.
+
+\hypertarget{occ-220-coenagoya-gakuin-university-japan}{%
+\subsection{OCC-220 --- Coe/Nagoya-Gakuin University
+(Japan)}\label{occ-220-coenagoya-gakuin-university-japan}}
+
+Nordmann (Program Director).
+
+One year of Japanese language study is recommended for students applying
+for this program. Exchange students from Coe pay room expenses at Coe
+College. In return, students receive a room expense waiver. Other costs
+of living are paid at Nagoya-Gakuin University. Credits earned from the
+Nagoya-Gakuin exchange program are evaluated on a P/NP basis.
+
+\hypertarget{occ-225-coenorthern-ireland-scholars-program-northern-ireland-uk}{%
+\subsection{OCC-225 --- Coe/Northern Ireland Scholars Program (Northern
+Ireland,
+UK)}\label{occ-225-coenorthern-ireland-scholars-program-northern-ireland-uk}}
+
+Farrell (Program Director).
+
+Students with a high GPA may be selected to study at one of several
+universities in Northern Ireland, including Queens University Belfast
+and the University of Ulster. Applications for this consortial exchange
+are due in December of the year before study. Students pay cost of
+living at destination.
+
+Credits earned from the Northern Ireland exchange program are evaluated
+on a P/NP basis.
+
+\hypertarget{occ-230-coeuniversity-of-jaume-i-castello-spain}{%
+\subsection{OCC-230 --- Coe/University of Jaume I (Castello,
+Spain)}\label{occ-230-coeuniversity-of-jaume-i-castello-spain}}
+
+Rodríguez Moreno (Program Director).
+
+Courses in Spanish in a wide range of topics. Students pay cost of
+living at destination. UJI requires Coe students to have completed two
+Spanish courses at Coe. Spanish language courses are available for an
+extra cost.
+
+Credits earned from the Jaume I exchange program are evaluated on a P/NP
+basis.
+
+\hypertarget{occ-235-coesookmyung-university-south-korea}{%
+\subsection{OCC-235 --- Coe/Sookmyung University (South
+Korea)}\label{occ-235-coesookmyung-university-south-korea}}
+
+Nordmann (Program Director).
+
+Courses offered in English on areas including the arts, linguistics,
+international studies, business, biology, and political science.
+Students pay cost of living at destination. Credits earned from the
+Sookmyung exchange program are evaluated on a P/NP basis.
+
+\hypertarget{occ-240-coeuniversity-of-landau-germany}{%
+\subsection{OCC-240 --- Coe/University of Landau
+(Germany)}\label{occ-240-coeuniversity-of-landau-germany}}
+
+Chaimov (Program Director).
+
+Courses in English are available in, art, English literature,
+linguistics, other topics. Also, a wide range of subject areas taught in
+German. Students pay cost of living at the destination.
+
+Credits earned from the Landau exchange program are evaluated on a P/NP
+basis.
+
+\hypertarget{occ-245-coeuniversity-of-quebec-saguenay-canada}{%
+\subsection{OCC-245 --- Coe/University of Quebec (Saguenay,
+Canada)}\label{occ-245-coeuniversity-of-quebec-saguenay-canada}}
+
+Janca-Aji (Program Director).
+
+Courses in French are offered in a wide range of topics for students who
+pass a proficiency test in French. Students pay cost of living at
+destination. Credits earned from the Quebec exchange program are
+evaluated on a P/NP basis.
+
+\hypertarget{occ-250-coeizmir-institute-of-technology-turkey}{%
+\subsection{OCC-250 --- Coe/Izmir Institute of Technology
+(Turkey)}\label{occ-250-coeizmir-institute-of-technology-turkey}}
+
+Akgun (Program Director).
+
+Coe may send a student of Chemistry and a student of Physics to study
+those subjects in an English-language setting at a science university in
+Turkey. Students are responsible for housing, food, and all other costs
+of living.
+
+Credits earned on the Izmir exchange program are evaluated on a P/NP
+basis.
+
+\hypertarget{occ-255-coepolytechnic-university-of-upper-france-france}{%
+\subsection{OCC-255 --- Coe/Polytechnic University of Upper France
+(France)}\label{occ-255-coepolytechnic-university-of-upper-france-france}}
+
+Janca-Aji (Program Director).
+
+Students choose from courses in English on business, communications, and
+marketing or a wide range of courses in French. Students pay costs of
+living at the destination. Credits earned from the France exchange
+program are evaluated on a P/NP basis.
+
+\hypertarget{occ-260-coenational-university-of-villa-maria-argentina}{%
+\subsection{OCC-260 --- Coe/National University of Villa Maria
+(Argentina)}\label{occ-260-coenational-university-of-villa-maria-argentina}}
+
+Students with a good command of Spanish can take courses in Spanish in a
+wide range of areas, including literature, rural development, social
+sciences, environmental studies, communication, and computer science.
+Students pay costs of living to Coe before departure and must transfer
+at the same time as an incoming student from UNVM.
+
+Credits earned on the Argentina exchange program are evaluated on a P/NP
+basis.
+
+\hypertarget{occ-265-coeistanbul-altinbas-university-turkey}{%
+\subsection{OCC-265 --- Coe/Istanbul Altinbas University
+(Turkey)}\label{occ-265-coeistanbul-altinbas-university-turkey}}
+
+Duru (Program Advisor)
+
+Teaches entire majors in English in psychology, sociology, international
+relations, political science, economics, business. Students pay cost of
+living at the destination. Credits earned from the Altinbas exchange
+program are evaluated on a P/NP basis.
+
+\hypertarget{occ-270-coeashesi-university-ghana}{%
+\subsection{OCC-270 --- Coe/Ashesi University
+(Ghana)}\label{occ-270-coeashesi-university-ghana}}
+
+Eichhorn (Program Director).
+
+Courses in African studies (sociology, anthropology, political science,
+history, arts), computer science, business. Coe students pay room and
+board expenses at Coe College and receive a waiver of these expenses in
+Ghana. They must exchange at the same time as an Ashesi student.
+
+Credits earned on the Ashesi exchange program are evaluated on a P/NP
+basis.
+
+\hypertarget{occ-275-coeuniversity-of-salford-england}{%
+\subsection{OCC-275 --- Coe/University of Salford
+(England)}\label{occ-275-coeuniversity-of-salford-england}}
+
+Kuennen (Program Director).
+
+The University of Salford offers courses in business, contemporary
+European history, psychology, and many other areas. Students pay cost of
+living at the destination and must arrange their own housing.
+
+Credits earned from the Salford exchange program are evaluated on a P/NP
+basis.
+
+\hypertarget{occ-285-coeuniversity-of-neuchatel-switzerland}{%
+\subsection{OCC-285 --- Coe/University of Neuchatel
+(Switzerland)}\label{occ-285-coeuniversity-of-neuchatel-switzerland}}
+
+Janca-Aji (Program Director).
+
+Coe students take courses at the Institute of French Language and
+Civilization. Students pay costs of living at the destination. Credits
+earned from the Neuchatel exchange program are evaluated on a P/NP
+basis.
+
+\hypertarget{occ-290-coejinan-university-china}{%
+\subsection{OCC-290 --- Coe/Jinan University
+(China)}\label{occ-290-coejinan-university-china}}
+
+Nordmann (Program Director).
+
+Located in southern China, this international university offers courses
+in English in international economics and business, journalism, computer
+science, and Chinese studies as well as the study of Chinese language.
+Students pay costs of living at the destination.
+
+Credits earned from the Jinan exchange program are evaluated on a P/NP
+basis.
+
+\hypertarget{occ-291-coeistanbul-kultur-university-turkey}{%
+\subsection{OCC-291 --- Coe/Istanbul Kultur University
+(Turkey)}\label{occ-291-coeistanbul-kultur-university-turkey}}
+
+Duru (Program Advisor).
+
+Offers English curriculum in psychology, business, economics,
+international relations, and other areas. Students pay costs of living
+at the destination. Credits earned from the Istanbul Kultur University
+exchange program are evaluated on a P/NP basis.
 
 \part{CAMPUS RESOURCES}
 
 \hypertarget{campus-resources-1}{%
 \chapter{CAMPUS RESOURCES}\label{campus-resources-1}}
 
+\hypertarget{libraries}{%
+\subsection{Libraries}\label{libraries}}
+
+The College libraries---Stewart Memorial Library, located at the center
+of the campus and Fisher Music Library in Marquis Hall---contain over
+500,000 volumes and 16,000 pieces of media. Current subscriptions to
+some 3,500 periodicals and serials are maintained in print or electronic
+format, and over 200,000 electronic resources with books and journal
+volumes added annually.
+
+The collections ably support undergraduate education and are especially
+strong in the areas of literature, history, and music. The Fisher Music
+Library contains over 5,000 compact discs and records, 5,300 scores and
+books, and is equipped with listening facilities. Media services to the
+campus are provided through the Media Technologies Department in the
+library. These services include a circulating collection of over 8,000
+DVDs, two media-equipped auditorium styled classrooms, editing stations,
+an innovation studio that houses a 3D printer and laser cutter, and a
+variety of cameras, recording equipment available for use.
+
+The main library houses the Learning Commons (see description below) and
+the college archives. The library provides an outstanding research
+collection consisting of both print and electronic books, journals, and
+reference resources. The Reference Department assists students with
+their research needs through one on one research assistance, evaluating
+resources and websites, citation assistance and multimedia evaluation.
+In addition to library orientations, research classes are offered on
+specific course related topics. The library offers computer stations,
+iPad and laptop checkouts, study areas for individual and group study,
+including technology enhanced study rooms. These resources are greatly
+augmented by providing access to over 100 scholarly databases and an
+extensive webpage: coe.edu/library.
+
+The George T. Henry College Archives includes a research room and a
+climate-controlled vault located on the lower level of the Stewart
+Memorial Library. It houses and preserves the institutional records of
+Coe College and the papers of staff, students, and alumni of the
+college. Archive staff is available to aid students, faculty, and
+scholars in navigation and use of more than 900 linear feet of primary
+source documents. The Archives maintains the papers of journalist,
+author, and World War II broadcaster William L. Shirer, Coe class of
+1925 author of The Rise and Fall of the Third Reich; the literary works
+and selected private papers of Iowa poet Paul Engle, Coe class of 1931;
+and the photographs of longtime Coe College photographer George T.
+Henry.
+
+\hypertarget{learning-commons}{%
+\subsection{Learning Commons}\label{learning-commons}}
+
+The Coe Learning Commons in the Stewart Memorial Library integrates all
+of the College's academic support resources in a single location at the
+heart of campus delivered through peer education and by professional
+staff. Services and resources include academic coaching, supplemental
+advising, Writing Center, AAP-TRIO program, tutoring, accessibility
+support and accommodations, academic technology, Office of Off-Campus
+Study, and fellowship and graduate school advising.
+
+\hypertarget{art-collections}{%
+\subsection{Art Collections}\label{art-collections}}
+
+Selections from the College's Permanent Collection of Art totaling over
+800 works by 200 artists are displayed in and near many of the campus
+buildings. Most visible are the large outdoor sculptures on the campus,
+yet almost every building features selections from the Permanent
+Collection.~ For example, the Ella Poe Burling collection of
+nineteenth-century American and French art and antiques is exhibited in
+the upper lobby of Voorhees Hall.
+
+A large portion of the Permanent Collection can be found in Stewart
+Memorial Library.~ Four special galleries contain works by renowned
+American painters Grant Wood, Marvin Cone (Coe class of 1914), and
+Conger Metcalf (Coe class of 1936). Six large farm murals by Grant Wood
+constitute the heart of the Permanent Collection's Regionalist works.
+These murals are supplemented by nine smaller yet significant works by
+Wood, including Daughters of Revolution, a charcoal, pastel, and pencil
+on paper drawing of Wood's painting of the same name.
+
+Another signature feature of the Regionalist collection is the work of
+Marvin Cone. A 1914 Coe graduate, Cone later became a faculty member who
+founded the College's Art Department. Cone personally selected many of
+the paintings and drawings in the collection as representative of his
+own artistic development, underscoring the historic role of art as a
+core element in Coe's teaching mission.
+
+In addition to the works by native Iowans Cone and Wood, Coe College has
+acquired a distinguished collection of 70 works by Conger Metcalf, an
+American modernist painter, as well as paintings, drawings, and prints
+by notable artists such as Milton Avery, Mauricio Lasansky, Henri
+Matisse, Pablo Picasso, and Andy Warhol.
+
+More information about the Permanent Collection can be found on either
+the Permanent Collection's website,
+http://picovado.com/jrogers/\#-h2-introduction-h2-, or the library's
+webpage, www.coe.edu/academics/stewart-memorial-library.
+
+\hypertarget{information-technology}{%
+\subsection{Information Technology}\label{information-technology}}
+
+The Information Technology Office~provides a wide range of technology
+support to students,~faculty and staff. This includes management of
+computer labs, classroom technology, college-wide software licensing,
+wi-fi/internet, printers, cable TV, sound equipment, My Coe (my.coe.edu)
+and more. Coe's technology facilities include over 3,000 ethernet ports,
+full ethernet and wi-fi internet services within all campus buildings,
+250 public/lab computers available~for student use and full access to
+G-Suite services. The Office of Information Technology is located in
+Voorhees Hall. Assistance from the IT staff can be requested through a
+Help Desk/Spiceworks ticket (link found on~my.coe.edu).~
+
+\hypertarget{public-events-and-artists-in-residence}{%
+\subsection{Public Events and
+Artists-in-Residence}\label{public-events-and-artists-in-residence}}
+
+Guest lecturers and artists provide an essential dynamism to the
+educational climate at Coe. Programs are free to Coe students. In
+addition to hearing speakers of national and international note,
+students may have the opportunity to talk with them during a carry tray
+lunch, to attend special issues dinners with the speakers, or to have
+them as guests in a class. Performing groups appearing as
+artists-in-residence often stay two or three days on campus to work with
+students.
+
+\hypertarget{marquis-lecture-performance-series}{%
+\subsubsection{Marquis Lecture \& Performance
+Series}\label{marquis-lecture-performance-series}}
+
+The Marquis Lecture \& Performance Series hosts performances and
+presentations throughout the academic year. The Marquis Series is
+endowed by a gift from Sarah Marquis, Coe class of 1918, in honor of her
+father, John A. Marquis, who was president of Coe from 1909 to 1919.
+
+\hypertarget{coe-college-contemporary-issues-forum}{%
+\subsubsection{Coe College Contemporary Issues
+Forum}\label{coe-college-contemporary-issues-forum}}
+
+The Coe College Contemporary Issues Forum brings to audiences of the
+College community the presence and
+
+views of distinguished professionals whose work has received national
+recognition. The forum is normally presented during the month of
+February.
+
+\hypertarget{phi-beta-kappa-visiting-scholar}{%
+\subsubsection{Phi Beta Kappa Visiting
+Scholar}\label{phi-beta-kappa-visiting-scholar}}
+
+The Coe chapter of Phi Beta Kappa sponsors a Phi Beta Kappa Visiting
+Scholar who, in addition to presenting a public lecture, meets with
+individual classes as appropriate to the scholar's area of expertise.
+
 \hypertarget{student-life}{%
 \chapter{STUDENT LIFE}\label{student-life}}
+
+Student Life provides personalized support to students, enabling each to
+gain the best possible undergraduate education adding substantially to
+the educational program. Residence accommodations, along with living and
+learning values, an attractive campus social life, a sound health
+program, good recreational facilities, and a program of co-curricular
+activities are among the opportunities offered Student Life.
+
+\hypertarget{campus-civility-statement}{%
+\subsection{Campus Civility Statement}\label{campus-civility-statement}}
+
+This statement was written by students in order to address standards of
+civility and respect within the Coe College community. This statement is
+a living document and is intended to evolve over time.
+
+\begin{itemize}
+\tightlist
+\item
+  We, the members of the Coe College community, expect our campus
+  climate to be safe, mutually supportive, academically encouraging,
+  egalitarian, and tolerant of all its members:
+\item
+  we expect the academic experience to extend beyond the classroom into
+  our living environment.
+\item
+  we expect a campus free of incidents that create a hostile living
+  environment.
+\item
+  we expect a healthy and responsible attitude to accompany all social
+  gatherings.
+\item
+  we expect that intoxication will not be an excuse for incidents that
+  occur while under the influence.
+\item
+  we expect that diversity of opinion should be cultivated and
+  encouraged as well as respected within our community.
+\item
+  we expect that everyone will have the right to be respected for his or
+  her individuality.
+\item
+  we expect all campus community members to respect the rights of other
+  persons regardless of their actual or perceived age, color, creed,
+  disability, gender identity, national origin, race, religion, sex, or
+  sexual orientation.
+\end{itemize}
+
+A community is made up of individuals who model these standards and hold
+each other accountable. In order for the community to encompass the
+goals outlined above, each individual must be responsible and
+accountable for her or his own actions and words.
+
+\hypertarget{student-contribution-to-college-policy}{%
+\subsection{Student Contribution to College
+Policy}\label{student-contribution-to-college-policy}}
+
+Coe is proud of its traditions and its ability to change. While
+cognizant of the past, the College is also sensitive to the changing
+nature and needs of students. Coe students play an integral part in the
+initiation of change by utilizing available channels and by the creative
+development and use of new ones. The Student Senate is a frequent forum
+for the resolution of student concerns.
+
+\hypertarget{student-senate}{%
+\subsection{Student Senate}\label{student-senate}}
+
+Student Senate is the representative government of Coe students and
+coordinates many co-curricular activities. Through the student activity
+fee, the Senate funds the weekly newspaper, the Cosmos, and other
+student publications. The Student Activities Committee (SAC) of the
+Student Senate sponsors bands, comedians, multicultural programming, and
+other kinds of entertainment and activities.
+
+\hypertarget{student-handbook}{%
+\subsection{Student Handbook}\label{student-handbook}}
+
+The College Policies and Student Handbook outlines the College's
+expectations for responsible behavior reflecting maturity, mutual
+respect, and cooperation among all members of the Coe community. Student
+Life develops policies for conduct procedures, residence hall living,
+student organizations, and other areas of student affairs for approval
+by the Board of Trustees. The College Policies and Student Handbook is
+available online at
+https://www.coe.edu/student-life/student-development/college-policies-student-handbook.
+
+\hypertarget{committee-participation}{%
+\subsection{Committee Participation}\label{committee-participation}}
+
+Students serve on various committees, which aid in making educational
+policy at the college. Most committees (Academic Policies, Assessment,
+Athletics, Campus Technology, Diversity, Enrollment, Financial Aid and
+Academic Progress, Executive, Finance and Facilities, First-Year
+Program, Internationalization, Marquis Series, Petitions, Sustainability
+Council, Wellness, and Writing) include students appointed by the
+Student Senate as voting members.
 
 \hypertarget{student-services}{%
 \section{Student Services}\label{student-services}}
 
-\part{COLLEGE REGULATIONS}
+\hypertarget{residence-life}{%
+\subsection{Residence Life}\label{residence-life}}
 
-\hypertarget{college-regulations-and-policies}{%
-\chapter{COLLEGE REGULATIONS AND
-POLICIES}\label{college-regulations-and-policies}}
+Coe is a residential college, in that the residence experience is an
+integral part of the educational process. Students are expected to live
+on campus for four years and take meals in the College hall (see
+On-Campus and Off-Campus Resident Students, p.~263). The residence halls
+and apartments vary in style, size, and personality. All of the
+residential facilities have generous visitation policies, and campus
+life functions around the concept of the living units.
+
+Residence hall and apartment regulations are published in the Student
+Reference Book. As room charges do not include Winter Break or Spring
+Break, when residential facilities and the dining hall are closed, an
+additional fee is assessed to students staying on campus during those
+times. Information regarding housing is sent to students who have
+accepted admission to the College.
+
+\hypertarget{student-health-service}{%
+\subsection{Student Health Service}\label{student-health-service}}
+
+Coe's Student Health Service offers students medical care provided by a
+part-time Advanced Registered Nurse Practitioner (ARNP) and a full-time
+nurse. The Health Services staff can diagnose, manage, and treat certain
+medical diagnoses, free to full-time Coe students. Referrals are
+available to a family physician or specialist in the Cedar Rapids
+community as needed. In the event that a student needs hospitalization,
+St.~Luke's Hospital or Mercy Medical Center is utilized. The student is
+responsible for all health costs beyond those provided by Health
+Services. These include hospitalizations, emergency room visits,
+physician visits, and prescription medications. Therefore, all students
+are expected to carry medical insurance. Provisions for special diets or
+other arrangements which deviate from Coe's policies require a
+recommendation from the student's healthcare provider and are available
+through SODEXO food services. All students are required to have a
+current immunization record on file prior to registration for classes at
+Coe. Students without immunizations on file will have their registration
+held. Students who wish to utilize the Student Health Service should
+have a physical on file, which is required of all students in order to
+play collegiate sports.
+
+\hypertarget{personal-counseling}{%
+\subsection{Personal Counseling}\label{personal-counseling}}
+
+Realizing that students have concerns in areas other than academic
+matters and career options, Coe provides appropriate individual and
+group counseling. St.~Luke's Family Counseling Center, located next to
+the Coe campus, and the College work together to provide for students'
+counseling needs. St.~Luke's Family Counseling Center provides
+assessment, short-term counseling, and, when appropriate, referral to
+community resources. Individual counseling is available from a number of
+counselors on an appointment basis for students with personal, social,
+and family concerns. In addition, students may seek counseling from a
+pastoral and spiritual perspective from the College Chaplain. If
+long-term counseling is needed, Coe's counselor and Chaplain work with
+students to identify cost-effective solutions on and off campus.
+
+\hypertarget{religious-life}{%
+\subsection{Religious Life}\label{religious-life}}
+
+Coe College believes that it is important to foster an environment that
+accepts and respects the religious faith and beliefs of all its
+students, staff, and faculty. The Coe community is diverse in its
+religious makeup, and all members of the community are encouraged to
+express and practice their particular religious traditions. To this end,
+the College Chaplain seeks to provide and create an atmosphere that is
+consistent with the religious heritage of the College and conducive to
+the development of spiritual and moral values.
+
+Opportunities for worship, interfaith dialogue, Bible study, retreat,
+small groups, theological study, outreach, mission, meditation, and
+fellowship are abundant. There are also several active religious student
+organizations on campus and a specialized leadership program for
+students considering vocational ministry. The Chaplain is available for
+pastoral care, guided prayer, theological dialogue, pre-marital
+counseling, and other spiritual needs.
+
+\hypertarget{diversity-equity-inclusion}{%
+\subsection{Diversity, Equity \&
+Inclusion}\label{diversity-equity-inclusion}}
+
+The Office of Diversity, Equity \& Inclusion is comprised of the Dean of
+Students, Coordinator of Multicultural Affairs, Director of
+International Affairs, and the College Chaplain. This team works closely
+with LBGTQAI+ students, multicultural students, international students,
+and student allies, with the goal of fostering an environment where all
+Kohawks will thrive in an inclusive learning environment. Students
+interested in getting involved with Coe's diversity and inclusion
+efforts are encouraged to stop by the Student Life Office in Upper Gage
+and speak with a team member.
+
+\hypertarget{campus-activities}{%
+\subsection{Campus Activities}\label{campus-activities}}
+
+There is much to do on the Coe campus and in the Cedar Rapids community.
+Programming of campus activities is designed to meet the educational and
+recreational needs of the Coe community in a creative way. The diversity
+of the student body is considered in the scheduling of recitals, plays,
+exhibits, lectures, films, and concerts, as well as all school events
+and relaxing evenings in Charlie's. The Director of Campus Life
+coordinates the events organized by the Student Activities Committee
+(SAC).
+
+\hypertarget{student-activity-groups}{%
+\subsection{Student Activity Groups}\label{student-activity-groups}}
+
+Students earn credit for their participation in Coe's music ensembles
+(the Jazz and Concert Bands, the Symphony Orchestra, the Concert Choir,
+Chorale, and the Choral Chamber Ensemble), several of which have
+completed study/concert tours of Europe, Great Britain, and Asia in the
+past. Coe drama and forensics activities have received local and
+national recognition for their presentations. Special interest
+organizations are also represented on campus, as are national social
+fraternities and sororities and honor societies (Phi Beta Kappa, Phi
+Kappa Phi, Mortar Board, Alpha Lambda Delta, and Alpha Sigma Lambda).
+
+\hypertarget{athletics}{%
+\subsection{Athletics}\label{athletics}}
+
+Coe College sponsors 11 men's and 11 women's athletic teams that compete
+in the American Rivers Conference of NCAA Division III. Our goal is to
+provide our student athletes with positive educational and athletic
+experiences.
+
+Through hard work, intense training, and positive interactions with
+coaches, student athletes are provided opportunities to succeed. The
+College recognizes that many of its students enjoy participating in
+organized athletics or watching athletic contests as forms of
+recreational campus life. Basketball, volleyball, softball, table
+tennis, flag football, and wrestling are representative events in a
+year-round intramural program for both men and women. All students are
+eligible to participate.
+
+\hypertarget{recreational-facilities}{%
+\subsection{Recreational Facilities}\label{recreational-facilities}}
+
+Gage Memorial Union is the center of student interest and activity.
+Offices of the Student Activities Committee and other student
+organizations are there, plus the College dining hall, and mailroom.
+Informal programs and lectures are given there, and it serves as the
+College's ``open house'' for students, faculty, and visitors.
+``Charlie's,'' located in the adjacent P.U.B., is home to a coffee shop
+(serving Starbucks coffee), a convenience store, and grill. Charlie's is
+a relaxing place to meet friends or take in one of the many
+performances.
+
+The brand-new Coe College Athletics and Recreation Center includes two
+pristine courts for basketball and volleyball, a wrestling room that
+boasts three oversized mats, strength and conditioning room with
+brand-new equipment, and a fitness center that overlooks the campus.
+This is where Coe's basketball, volleyball, and wrestling teams host
+their home events.
+
+Moray Eby Fieldhouse includes three recently-renovated courts for
+basketball and volleyball. Eby also has a natatorium, athletic training
+rooms, indoor baseball/softball batting cages, and a rock-climbing wall.
+All outside playing fields and tennis courts are also available to Coe
+students.
+
+The Clark Racquet Center offers a state-of-the-art facility for runners,
+racquet enthusiasts, and everyone wanting to stay in shape. An aerobic
+room, dance studio, and classrooms complement the indoor track, tennis
+courts, and racquetball and squash courts. Professional staff manage the
+center and offer instruction to students.
+
+\part{COLLEGE REGULATIONS}
 
 \hypertarget{effective-catalog}{%
 \chapter{EFFECTIVE CATALOG}\label{effective-catalog}}
 
+Students ordinarily are graduated under the provisions of the catalog of
+their matriculation date. A student's matriculation date is the day of
+first enrollment following admission. If the student is readmitted, the
+matriculation date becomes the day of first enrollment following
+readmission. However, students will be expected to satisfy, to the
+extent practical, the graduation requirements of the catalog in effect
+at the anticipated date of graduation. Any necessary modification of
+general degree requirements will be worked out by the Provost and Dean
+of the Faculty, the Registrar, the appropriate department chair, and the
+Academic Policies Committee. Modification of major or minor requirements
+will be worked out by the department chair involved, the Registrar, and
+the student's advisor. A student has the right of petition to the
+Committee on Petitions.
+
+\hypertarget{grading}{%
+\subsection{Grading}\label{grading}}
+
+\textbf{GRADES} \textbar{} \textbar{} \textbar{} \textbar{}
+\textbar----\textbar-----------------------------------\textbar------------------------------------\textbar{}
+\textbar{} A \textbar{} Excellent \textbar{} 4.0 grade points per course
+credit \textbar{} \textbar{} A- \textbar{} \textbar{} 3.7 grade points
+per course credit \textbar{} \textbar{} B+ \textbar{} \textbar{} 3.3
+grade points per course credit \textbar{} \textbar{} B \textbar{} Above
+average \textbar{} 3.0 grade points per course credit \textbar{}
+\textbar{} B- \textbar{} \textbar{} 2.7 grade points per course credit
+\textbar{} \textbar{} C+ \textbar{} \textbar{} 2.3 grade points per
+course credit \textbar{} \textbar{} C \textbar{} Satisfactory, minimum
+expectation \textbar{} 2.0 grade points per course credit \textbar{}
+\textbar{} \textbar{} credit \textbar{} \textbar{} \textbar{} C-
+\textbar{} \textbar{} 1.7 grade points per course credit \textbar{}
+\textbar{} D+ \textbar{} \textbar{} 1.3 grade points per course credit
+\textbar{} \textbar{} D \textbar{} Passing, below expectation \textbar{}
+1.0 grade points per course credit \textbar{} \textbar{} D- \textbar{}
+\textbar{} 0.7 grade points per course credit \textbar{}
+
+\hypertarget{status-marks}{%
+\subsection{Status Marks}\label{status-marks}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{W} Approved withdrawal from a course.
+\item
+  \textbf{X} Course extends beyond term. An ``X'' status grade is given
+  in courses designated in the Catalog as having course work that
+  extends beyond the end of the term. Under no circumstances can an
+  ``X'' grade remain unresolved for more than one calendar year.
+\item
+  \textbf{O} No mark had been reported by the instructor by the time
+  academic reports were processed.
+\item
+  \textbf{I} Incomplete. An ``I'' status grade is reported only for
+  students who are unable to complete the work in the course due to
+  extenuating circumstances. The normal length of time for resolution of
+  an incomplete is within four weeks of the next Fall or Spring term in
+  which the student enrolls. If the instructor believes the resolution
+  of the incomplete will take longer, the instructor will note the later
+  deadline when reporting the incomplete status grade. An unresolved
+  incomplete will automatically become a failing grade after the
+  deadline, unless the instructor notes otherwise when reporting the
+  incomplete. Under no circumstances can an ``I'' grade remain
+  unresolved for more than one calendar year.
+\item
+  \textbf{R} The prefix ``R'' to a grade (i.e., RA, RB, RC, RD, RF)
+  indicates a grade of repeated course. A student may repeat a course
+  previously taken, and registration must indicate this repeat. Failure
+  to register for a repeat course properly results in no recognition of
+  the second attempt. Only the grade earned when the course is retaken
+  is used in computing the GPA. Credit may be earned only once for a
+  given course. Courses may be repeated only once, although, students
+  may petition for a second repeat if extenuating circumstances exist.
+\item
+  \textbf{EQ} Equivalent credit recognized; no credit given. Does not
+  increase courses attempted. For a student who has completed four
+  course credits of student teaching and who has high school or life
+  experience equivalent to a regular catalog course, the said course,
+  upon recommendation of the Education chair and the chair of the
+  department in which equivalent credit is being recognized, may be
+  listed on the student's transcript with the appropriate credit and a
+  status mark of ``EQ.''
+\end{itemize}
+
+\hypertarget{audited-courses}{%
+\subsection{Audited Courses}\label{audited-courses}}
+
+Students may audit courses with the consent of the instructor. In doing
+so, they attend class but are not required to take tests or submit
+papers. Audited courses receive no credit and do not appear on
+transcripts. Auditors pay a reduced tuition charge.
+
+\hypertarget{first-course-grading-for-non-traditional-students}{%
+\subsection{First Course Grading For Non-Traditional
+Students}\label{first-course-grading-for-non-traditional-students}}
+
+Individuals who have been away from the collegiate routine for several
+years may register on an audit basis in their first course, participate
+fully in the class (including tests, papers, etc.), and decide at the
+conclusion of the course if they wish to pay the other half of the
+tuition and receive credit for the course. This policy applies only to
+the first course---not to succeeding courses.
+
+\hypertarget{pass-not-pass-graded-courses}{%
+\subsection{Pass / Not-Pass Graded
+Courses}\label{pass-not-pass-graded-courses}}
+
+Courses are graded A--F unless otherwise indicated in the course
+description that only P/NP is an option (e.g., student teaching,
+internships). Courses graded P/NP count as credits towards graduation
+but do not affect the student's GPA. In addition, students may opt to
+take up to four A--F graded courses on a P/NP basis. When students opt
+for P/NP grading, the Office of the Registrar converts any grade a
+faculty member provides of D- or better to a P, and any grade of F to an
+NP. In order to count for Writing Emphasis credit, a submitted grade of
+C or higher must be earned.
+
+The following regulations apply:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Students are permitted to change the method of grading for a course
+  from a letter grade to P/NP. This change is allowed from the start of
+  the term of enrollment through the last day to withdraw from courses
+  during that term. See Academic Calendar p.~12 for official dates.
+\item
+  Students may elect to take up to four graded courses during their
+  undergraduate career on a P/NP basis. However:
+
+  \begin{enumerate}
+  \def\labelenumii{\alph{enumii}.}
+  \tightlist
+  \item
+    Students cannot use a course for which they elected P/NP grading to
+    satisfy the requirements for a major or minor.
+  \item
+    Students cannot elect P/NP grading while on academic probation,
+    though provisionally-admitted First Year students are allowed the
+    option of P/NP grading.
+  \end{enumerate}
+\item
+  The Registrar will not inform the instructor of the student's request
+  for P/NP grading and the instructor must provide the Registrar with an
+  appropriate letter grade.
+\item
+  A student's request for P/NP grading may be nullified at any time
+  before the end of the third business day after grades are due in the
+  student's final term. A written notice must be sent to the Office of
+  the Registrar to communicate the student's intent to replace the P or
+  NP grade with the instructor's letter grade.
+\item
+  A student's request to change their method of grading to P/NP in lieu
+  of a letter grade counts as one of the four P/NP elected courses
+  during the student's undergraduate career, regardless of whether it is
+  later nullified.
+\item
+  Ordinarily a student is limited to one course credit per term on an
+  elected P/NP basis. A student wishing to exceed this limitation must
+  present a convincing rationale or significant mitigating circumstances
+  to the Committee on Petitions.
+\end{enumerate}
+
+\hypertarget{midterm-grades}{%
+\subsection{Midterm Grades}\label{midterm-grades}}
+
+Midterm grades are not official evaluations and are not part of the
+official transcript. The goal of midterm grades is to help students take
+responsibility for their academic progress. Faculty submit midterm
+grades of A-F for students in all full-term courses. Midterm grades are
+not intended to be a guarantee, promise, or contract regarding the final
+grade a student will earn in the class. Instead they provide information
+for students about their academic performance.
+
 \hypertarget{class-designation}{%
 \chapter{CLASS DESIGNATION}\label{class-designation}}
+
+Class Designation is determined by the number of course credits earned
+following the Fall and Spring Terms.
+
+\begin{itemize}
+\tightlist
+\item
+  First-year student: Fewer than 8.0 course credits earned\\
+\item
+  Sophomore: 8.0--15.9 course credits earned
+\item
+  Junior: 16.0--23.9 course credits earned
+\item
+  Senior: 24.0 or more course credits earned
+\end{itemize}
 
 \hypertarget{registration}{%
 \chapter{REGISTRATION}\label{registration}}
 
+Before being allowed to register, students must have been admitted for
+study by the Office of Admission, must have settled their account with
+the Business Office, and must meet with their Academic Advisor.
+Registrations are canceled for failure to pay fees on time.
+
+Students are encouraged to develop a four-year comprehensive educational
+plan with the help of their advisor or with other members of the
+faculty.
+
+Students who will not graduate during the current academic year register
+online during the Spring Term for the Fall Term of the following
+academic year during times specified by the Office of the Registrar.
+Registration for the Spring and May Terms takes place during the
+preceding Fall Term. Once the online registration period is over, all
+changes to registration must take place in the Office of the Registrar
+using accurate, legible, and completed registration forms. Entering
+first-year students and transfer students receive instructions with
+their orientation materials, and readmitted students receive
+instructions from the Office of the Registrar concerning their
+registrations. Registrations are not accepted for a term without
+successful petition after the end of the first week of classes of that
+term.
+
+\hypertarget{changes-in-registration}{%
+\subsection{Changes in Registration}\label{changes-in-registration}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Unless a course is registered by a student online during the
+  registration period, they must intentionally file a registration form
+  with the Office of the Registrar in order to be registered for a
+  course. Registration forms for course additions must be approved by
+  the student's advisor and instructor of the course.
+\item
+  Courses may be added or dropped during the first five weeks of the
+  Fall, Spring, or Summer Term, including 7-week courses. Students may
+  add a May Term course during the first three days of the term. If a
+  student needs to add a course after these deadlines due to extenuating
+  circumstances, the student must petition the Committee on Petitions by
+  completing the appropriate forms.
+\end{enumerate}
+
+For courses spanning a fraction of a Term, the last date to add or drop
+without a ``W'' will be calculated as a proportionate time frame
+comparatively as full-term courses. See Academic Calendar (see p.~12)
+for official dates for full-term and half-term courses. 3. A student may
+withdraw from one or more courses with the following results: - If a
+student withdraws from a course when 2/3 or less of the Term is
+completed, a ``W'' (withdrawal) grade will be entered on the student's
+permanent record. This grade will not affect the student's GPA. This is
+the date listed in the academic calendar as the Last Day to Withdraw
+from a course.\\
+- For courses spanning a fraction of a Term, the last date to withdraw
+with a ``W'' will be calculated using the 2/3 fraction. See Academic
+Calendar (p.~15) for official dates for full-term and half-term courses.
+- If a student officially withdraws from a course after 2/3 of the Term
+is completed, a ``WF'' will be entered on the student's permanent
+record. This will affect the student's GPA (see p.~53). - A withdrawn
+course, regardless of the date withdrawn, counts as attempted credits on
+the transcript. Therefore, it also counts when calculating academic
+standing (see p.~61), and satisfactory academic progress (see p.~275)
+for financial aid.
+
+\hypertarget{course-load}{%
+\subsection{Course Load}\label{course-load}}
+
+A student is full-time for the Fall or Spring Term when enrolled for
+three or more course credits. A student enrolled for less than this
+course load is a part-time student. For financial aid purposes,
+half-time is defined as enrollment in no fewer than two course credits
+in each of the Fall and Spring Terms; three-fourths is defined as
+enrollment in no fewer than 2.5 course credits in each of the Fall and
+Spring Terms. Students who have earned a cumulative GPA of 3.4 or above,
+or have earned both 23 credits and a cumulative GPA of 2.5 or above, may
+take above 4.99 credits without the need for a petition, but approval
+must be secured from the Office of the Registrar. Other students must
+submit a petition to the Committee on Petitions and obtain approval in
+order to register for five or more course credits. No student shall be
+permitted to register for over 5.99 credits in each of the Fall and
+Spring Terms. Only petitions from those students who have completed at
+least one term as a full-time student will be considered by the
+Committee on Petitions. Students may not register for more than one
+course credit during May Term.
+
 \hypertarget{academic-integrity-policy}{%
 \chapter{ACADEMIC INTEGRITY POLICY}\label{academic-integrity-policy}}
+
+At Coe College, we expect academic integrity of all members of our
+community. Academic integrity assumes honesty about the nature of one's
+work in all situations. Such honesty is at the heart of the educational
+enterprise and is a precondition for intellectual growth. Academic
+dishonesty is the willful attempt to misrepresent one's work, cheat,
+plagiarize, or impede other students' academic progress. Academic
+dishonesty interferes with the mission of the College and will be
+treated with the utmost seriousness as a violation of community
+standards.
+
+\hypertarget{forms-of-academic-dishonesty}{%
+\subsection{Forms of Academic
+Dishonesty}\label{forms-of-academic-dishonesty}}
+
+Cheating is the attempt to deceive an evaluator by claiming credit for
+work one has not done or by knowingly assisting such an attempt. It
+includes (but is not limited to) the use of unauthorized sources of
+information on in-class or take-home exams, or other assignments;
+copying from other students on exams, assignments, or lab reports;
+fabrication of data, research, quotations, or other information; and
+taking credit for collaborations to which one has not contributed.
+
+Plagiarism is the use of someone else's words or ideas without
+acknowledgement and, when intentional, is a form of academic dishonesty.
+The unacknowledged use of words or ideas from any published or
+unpublished sources, including Internet resources or other student
+papers, constitutes plagiarism. Plagiarism may occur intentionally or
+unintentionally through the omission of appropriate citations. Any ideas
+or information the student adopts from a source, whether or not directly
+quoted, must be acknowledged by specific reference in notes or the text.
+
+Any words or phrases that are taken from a source must be quoted and
+cited. Any paraphrase---the restatement of an idea in your own
+words---must be cited.
+
+The methods of citation and documentation vary from discipline to
+discipline. Students are responsible for determining the appropriate
+method for any given assignment or, in the absence of a clearly stated
+protocol, using any accepted academic method. Guidelines can be found on
+the library website and in the Writing Center.
+
+Other forms of academic dishonesty include (but are not limited to)
+deliberately impeding other students' work and misuse of common academic
+property, in the libraries, labs, and elsewhere.
+
+\hypertarget{sanctions}{%
+\subsection{Sanctions}\label{sanctions}}
+
+Instructors have responsibility for determining whether academic
+dishonesty has occurred. Instructors shall proceed with sanctions
+accordingly. Any act of academic dishonesty that results in one of the
+sanctions below shall be detailed in a formal report filed with the
+Provost and Dean of the Faculty.
+
+Cases of unintentional plagiarism may be dealt with through educational
+procedures such as further assignments requiring the student to practice
+documentation and citation methods, or other means determined by the
+instructor.
+
+Acts of academic dishonesty will be subject to one or more of the
+following sanctions:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  failure of the assignment, i.e.~exam, paper, lab report, etc.
+\item
+  failure of the class
+\item
+  suspension or expulsion
+\end{enumerate}
+
+An instructor may impose the first two of these penalties. Suspension or
+expulsion may only be carried out by the Provost and Dean of the
+Faculty.
+
+Repeated acts of academic dishonesty will result in suspension or
+expulsion. When academic dishonesty has been determined to have occurred
+a second time, the Provost and Dean of the Faculty shall decide on the
+student's status at the College.
+
+\hypertarget{procedure}{%
+\subsection{Procedure}\label{procedure}}
+
+When an instance of academic dishonesty is suspected, the instructor
+will meet with the student to discuss the incident and will decide
+which, if any, of the above sanctions is appropriate.
+
+If warranted, the instructor will send a report to the Provost, with a
+copy given to the student, which details the nature of the violation and
+the steps taken to address it. The Provost will send a letter to the
+student within ten business days of receipt of the faculty member's
+report. The letter will reiterate the incident, describe the sanctions,
+and inform the student of their right to appeal. The report and letter
+from the Provost will remain on file in the Academic Affairs Office
+until five years after the student's graduation or severance from Coe.
+The Vice President for Student Life will be notified that a report has
+been filed. Information in the file will be confidential, to be shared
+only at the discretion of the Provost and Dean of the Faculty for a
+legitimate educational or legal purpose.
+
+\hypertarget{appeals-process}{%
+\subsection{Appeals Process}\label{appeals-process}}
+
+The student may appeal the charge and/or the sanction within ten
+business days of receiving the Provost's letter of notice by emailing
+the Provost and Dean of the Faculty requesting an appeals hearing.
+Students wishing to appeal are strongly encouraged to consult with the
+Director of Academic Achievement, who has been designated by the College
+to provide information and advocacy in these matters.
+
+The Provost's Office will convene an Academic Integrity Appeals Board
+within ten business days of receipt of the request for appeal to hear
+the appeal. The Academic Integrity Appeals Board will be chaired by
+either the chair or co-chair of the Academic Policies Committee.
+Additional members of the board will include: one additional faculty
+member on the Academic Policies Committee, the senior Student Life
+officer, one faculty member from the Committee on Admission, Retention,
+and Enrollment, and the Associate Dean for Student Academics. ~In any
+hearing the Provost may replace the Associate Dean for Student Success,
+or other member of the board to avoid conflicts of interest. The student
+may choose to have a faculty or staff member present as an observer. The
+student and the instructor will each appear as witnesses and each may
+request that other pertinent witnesses appear.
+
+A majority vote of the Appeals Board is necessary to uphold or overturn
+a sanction. If a sanction is overturned, the Appeals Board may impose a
+lesser sanction. The Appeals Board will submit a written finding which
+will be sent to the student and the faculty member(s) involved in the
+case and which will become part of the student's file. If the appeal's
+outcome is to overturn the dishonesty charge, the report in the Academic
+Affairs Integrity file will be removed.
 
 \hypertarget{academic-standing}{%
 \chapter{ACADEMIC STANDING}\label{academic-standing}}
 
+All students are expected to meet the College's standards for academic
+performance (see chart below). These are in place to keep students on
+track towards meeting the graduation requirements of the college (32
+credits with a cumulative GPA of 2.0). Students who do not meet Coe's
+academic standards may be put on probation or suspended from the
+College.
+
+To make sure that students are aware when their academic standing is in
+jeopardy, a series of communications are issued throughout an academic
+term including D/F notices, academic warnings, and notices of academic
+probation. Unless otherwise stated, these communications will be sent to
+the student by email and by a letter to the student's Coe mailbox.
+Additionally, an email will be sent to the student's advisor.
+
+\hypertarget{df-notices}{%
+\subsection{D/F Notices}\label{df-notices}}
+
+Academic notices are issued at midterm to students who earn a D, F, or
+NP in one or more courses. Students receiving these notices are expected
+to meet with their academic advisor to identify appropriate support.
+
+\hypertarget{academic-warnings}{%
+\subsection{Academic Warnings}\label{academic-warnings}}
+
+Academic warnings will be issued to students who earn a term grade point
+average below 2.00. Students receiving academic warnings are strongly
+encouraged to re-evaluate their current approach to their studies and/or
+their academic plans. They are expected to meet with their academic
+advisor and/or a Learning Commons staff member.
+
 \hypertarget{academic-probation}{%
 \section{Academic Probation}\label{academic-probation}}
+
+The Academic Standing Committee reviews academic records of all students
+at the conclusion of both the Fall and Spring Terms. A student is placed
+on academic probation if the cumulative GPA falls below the minimum GPA
+levels listed below:
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+\textbf{Total Course Credits Attempted} & \textbf{Minimum GPA Levels} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+0.0 -- 4.99 & l.50 \\
+5.0 -- 7.9 & l.75 \\
+8.0 -- 11.9 & 1.80 \\
+12.0 -- 15.9 & 1.90 \\
+16.0+ & 2.00 \\
+\end{longtable}
+
+To return to good standing and be removed from academic probation, a
+student shall earn a cumulative GPA greater than the threshold for
+academic probation as specified above. If the student's cumulative GPA
+decreases at the end of any term on probation, the student is subject to
+academic suspension. Students who are placed on academic probation have
+a maximum of two (2) consecutive terms, excluding May and Summer, to
+return to good standing before they are subject to academic suspension.
+
+Students who are on academic probation: - Are expected to comply with
+any requirements outlined by the Academic Standing Committee. - May not
+elect P/NP grading in lieu of a letter grade. - May not be excused from
+attending class to participate in extra-curricular activities.
+
+The status of academic probation is noted on a student's transcript.
+
+Students on probation who are not meeting the conditions of their
+probation and not performing at a passing level in their courses may be
+withdrawn from the College during the term on the recommendation of the
+Academic Standing Committee. If the student had previously appealed a
+suspension, the suspension is reinstated. Otherwise, the student will
+exit the College with a leave of absence and is eligible to return on
+probation the following term. Students may appeal this decision to the
+Provost.
 
 \hypertarget{academic-suspension}{%
 \section{Academic Suspension}\label{academic-suspension}}
 
+Students who do not meet the conditions of their academic probation or
+who fall below retention thresholds (see below) will be considered for
+academic suspension by the Academic Standing Committee, and, if
+suspended, will be unable to take courses at Coe College for a period of
+at least one academic year. (One academic year is defined as a Fall and
+Spring Term, and does not count May or Summer Terms.) A registration
+hold preventing registration will be placed on the student's account. A
+student already registered for the following term will be dropped from
+those courses.
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+\textbf{Total Course Credits Attempted} & \textbf{Minimum GPA Levels} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+0.0 -- 4.99 & 0.50 \\
+5.0 -- 7.9 & l.00 \\
+8.0 -- 11.9 & 1.50 \\
+12.0 -- 15.9 & 1.70 \\
+16.0 -- 19.9 & 1.80 \\
+20.0 -- 23.9 & 1.90 \\
+24 + & 2.00 \\
+\end{longtable}
+
+Students who are placed on suspension for academic reasons will receive
+a letter notifying them of their suspension at their home residence, by
+registered mail, as well as a letter in their Coe mailbox and an email
+to their Coe email. Suspended students have the right to appeal for
+immediate readmission if they can provide evidence of circumstances that
+would warrant reconsideration by the deadline indicated in their
+suspension letter.
+
+To appeal for immediate readmission:
+
+\begin{itemize}
+\tightlist
+\item
+  A suspended student appealing for readmission must submit an appeals
+  letter by mail, email, or delivery in person to the Office of the
+  Provost. The letter must include an explanation of any circumstances
+  that affected the student's academic performance. The letter should
+  provide a detailed plan with specific actions that the student will
+  take to improve their academic standing, and explain how the student
+  will overcome the obstacles that affected their academic performance.
+  Student appeals will not be considered if a written statement is not
+  received by the deadline.
+\item
+  Although not mandatory, the suspended student appealing for
+  readmission is urged to schedule to meet with the Academic Standing
+  Committee on the date designated in the suspension letter. At this
+  meeting the student will have the opportunity to respond to questions
+  the Committee may have on the circumstances outlined in the student's
+  letter requesting readmission.
+\item
+  A suspended student appealing for readmission is encouraged to request
+  a letter of support for immediate readmission from a faculty advisor
+  or other faculty or staff member at Coe, if the letter can shed light
+  on the student's ability and motivation to do well in future academic
+  endeavors. Similarly, the student is encouraged to consult with one or
+  more faculty or staff members to prepare a strong case for
+  readmission.
+\end{itemize}
+
+Students who have been suspended for academic reasons from the College
+once, can return to the College either through a successful appeal for
+immediate readmission or through readmission after leaving for at least
+one academic year. A student who is suspended for academic reasons more
+than once cannot appeal for immediate readmission and must leave the
+College for at least one academic year.
+
 \hypertarget{interim-suspension}{%
 \section{Interim Suspension}\label{interim-suspension}}
+
+Interim Suspension is a situation where it is determined that a
+student's continued presence at the college constitutes an immediate
+threat of harm to the student, other individuals, or to the stability
+and continuance of normal College functions. The Provost and Dean of
+Students or their designee may suspend a student pending disciplinary
+proceedings. Such suspension may become effective immediately and
+without prior notice.
+
+Interim suspension shall be considered an excused absence until the
+conclusion of formal hearings. The student will be offered the
+opportunity to make up any academic work missed during the time in which
+the interim suspension was imposed. It is the student's responsibility
+to make specific arrangements with faculty members to complete academic
+work. The Dean of Students will initiate communication with the
+appropriate faculty.
 
 \hypertarget{readmission-following-suspension}{%
 \section{Readmission Following
 Suspension}\label{readmission-following-suspension}}
 
+Coe College's academic suspension policy allows students, who are not
+readmitted immediately through appeal, to apply for readmission after at
+least one academic year has passed.
+
+To be considered for readmission, the student must submit a letter of
+appeal to the Office of the Provost. In the appeals letter, the student
+must present evidence that demonstrates how the circumstances that led
+to the student's academic suspension have been addressed, and how the
+student plans to be successful in his or her academic future.
+Readmission is determined by the Academic Standing Committee. The
+Academic Standing Committee reserves the right to conduct its own
+investigation, review the case, and make a final decision concerning the
+student's reinstatement to the College. When appropriate, certain
+academic stipulations may be applied. If a suspended student provides
+evidence of successful course completion elsewhere and/or written
+evidence of motivation and maturity necessary to be academically
+successful at Coe, the student may be readmitted on probation at Coe.
+
 \hypertarget{exiting-the-college}{%
 \section{Exiting the College}\label{exiting-the-college}}
 
+The exit process at Coe College, whether through withdrawing or taking a
+leave of absence, is initiated by the student. The exit procedure is
+initiated in the Learning Commons (Stewart Memorial Library) and begins
+with an interview with the Associate Dean of Student Academics or the
+Director of the TRIO-Academic Achievement Program. At the interview, the
+student is given an official exit form on which to secure signatures
+from the following: the Student Financial Services Office, to verify a
+balance due or a credit to be refunded, as well as Student Loan
+information, to be aware of financial aid adjustments; the Library, to
+ascertain that all materials have been returned; and the Resident
+Director of the student's residence hall, to arrange for room checkout.
+The completed exit form is returned to the Learning Commons which will
+then notify other pertinent areas of the student's withdrawal.
+
+If a student is unable to complete the official withdrawal process, the
+intent to withdraw or take a leave of absence can be communicated to one
+of the following offices: Registrar, Student Financial Services, Student
+Life.
+
+If a student withdraws from all courses during a period of enrollment
+for which he or she received financial aid, the Student Financial
+Services Office will determine how much, if any, of the student's
+financial aid proceeds must be returned to the College, based on a
+federally mandated refund formula (see Return of Title IV
+Funds/Institutional Refund Policy, p.~268).
+
+Special consideration is given to students who withdrew due to a call to
+active duty. Coe's ``Military Call Up/Refund''~and ``Readmission of
+Service Member''~policies are published on the Admission/Financial Aid
+webpage. Copies of these policies can be requested from the Student
+Financial Services Office.
+
 \hypertarget{leave-of-absence}{%
 \section{Leave of Absence}\label{leave-of-absence}}
+
+A student may find it necessary to interrupt a program of study at the
+College. Under this condition, the student may apply for a leave of
+absence. A leave of absence may be granted for a period not to exceed 12
+months. Students may extend a leave of absence for up to a total of 36
+months by contacting the Office of the Registrar via email at
+o-registrar@coe.edu. Students that do not renew their Leave of Absence,
+or return to Coe, will be officially withdrawn from the College. Course
+work completed while on leave from the College is subject to the same
+conditions as work in transfer.
 
 \hypertarget{requesting-a-leave-of-absence}{%
 \section{Requesting a leave of
 Absence}\label{requesting-a-leave-of-absence}}
 
+Students planning to leave of absence from the College should consult
+their academic advisor and then they must declare their intent to one of
+the following designated offices: Student Financial Services, Registrar,
+Residence Life, or the Learning Commons. Please refer to the previous
+section on exiting the College for the steps that follow.~
+
 \hypertarget{on-leave-of-absence}{%
 \section{On Leave of Absence}\label{on-leave-of-absence}}
+
+The Coe community is committed to supporting students while they are
+away from the College. Thus, the Associate Dean of Student Academics may
+assign a designee who will be the point of contact to each student on a
+Leave of Absence. This designee will stay in contact with the student
+during their time away from the College, as appropriate, and will assist
+with the return process once the student is ready to resume coursework.~
 
 \hypertarget{returning-to-coe-after-a-leave-of-absence}{%
 \section{Returning to Coe after a Leave of
 Absence}\label{returning-to-coe-after-a-leave-of-absence}}
 
+Students planning on returning to the College do not need to apply for
+readmission, but must submit a statement of intent to re-enroll to the
+Office of the Registrar and the Associate Dean of Student Academics, or
+designee, who will assist with the return process. Students are strongly
+encouraged to schedule a consultation with the Associate Dean of Student
+Academics, or designee, by December 1 for returning the Spring Term, or
+August 1 to return the Fall Term. If a student wants to register during
+the regular registration time (November for Spring Term or late March /
+early April for Fall Term), they will need to submit their statement of
+intent and contact the Associate Dean of Student Academics, or designee,
+at least two weeks before Registration. The exact date of~Registration
+can be found on the Academic Calendar on the Coe website under the
+Academics tab.~
+
 \hypertarget{withdrawal-from-the-college-and-readmission}{%
 \section{Withdrawal from the College and
 Readmission}\label{withdrawal-from-the-college-and-readmission}}
+
+Admission for work toward a degree terminates and the student is
+considered withdrawn from the College if:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  A full-time student does not enroll at Coe for the next term
+  (excluding May Term) and has not completed a Leave of Absence form.
+  This does not apply to students in College-approved off-campus study
+  programs.
+\item
+  A part-time student does not enroll for a course at Coe in a 12-month
+  period and has not completed a Leave of Absence form.
+\end{enumerate}
+
+Students wishing to resume work toward a degree, once admission status
+has terminated, must apply for readmission.
+
+Students previously enrolled at Coe and readmitted after an absence of
+two years or more may request that all previous work at Coe be
+re-evaluated by the Registrar on the same basis as credits offered in
+transfer. Re-evaluation means that only courses with grades of C or
+better will be counted for credit toward graduation. All courses
+affected by the re-evaluation and the grade earned for each course will
+remain on the student's permanent record but will not factor into the
+cumulative GPA or be counted toward graduation.
 
 \hypertarget{transcript-evaluation-policies}{%
 \chapter{TRANSCRIPT EVALUATION
 POLICIES}\label{transcript-evaluation-policies}}
 
+Official transcripts for courses taken at Coe College can only be issued
+by the Office of the Registrar and only after the office has received a
+written request and payment from the student.
+
 \hypertarget{general-policy-on-transfer-credit}{%
 \section{General Policy On Transfer
 Credit}\label{general-policy-on-transfer-credit}}
+
+To honor its mission and to preserve its academic integrity as a liberal
+arts institution, the College accepts a course in transfer for the
+equivalent earned credit (4 semester hours = 1 course credit), if that
+course meets the spirit of the College's mission and is from a
+regionally accredited institution. In cases where it is unclear whether
+the course would be acceptable for transfer credit, the Registrar and
+the appropriate department chair will consult. Other exceptions are
+referred to the Committee on Petitions.
 
 \hypertarget{evaluation-of-credits-in-transfer}{%
 \section{Evaluation Of Credits In
 Transfer}\label{evaluation-of-credits-in-transfer}}
 
+The Office of the Registrar is responsible for the evaluation of
+transfer credit. Credits accepted in transfer do not affect the
+cumulative GPA. Grades for the credits accepted are not recorded on
+Coe's transcript. Thus, transfer credits increase only the total courses
+attempted and the total course credits earned. Credit is not accepted
+for course work earning a grade below ``C'' (2.0 on a 4.0 scale).
+
 \hypertarget{junior-or-community-college-credit}{%
 \section{Junior or Community College
 Credit}\label{junior-or-community-college-credit}}
+
+No more than 50\% of the course credits required for a degree at Coe
+will be accepted in transfer from 2-year colleges. A maximum of 16
+credits will be accepted as transfer credit from 2-year regionally
+accredited institutions. Transfer students who complete a regionally
+accredited A.A. degree program or a regionally accredited
+college-parallel A.S. degree program will be accorded junior status (16
+course credits) at Coe. Transfer students who complete an A.A., A.S., or
+A.A.S. degree from a regionally accredited institution with which Coe
+has a specific articulation agreement will be awarded credit consistent
+with that agreement.
 
 \hypertarget{european-credit-transfer-system-ects}{%
 \section{European Credit Transfer System
 (ECTS)}\label{european-credit-transfer-system-ects}}
 
+ECTS credits are a relative rather than an absolute measure of student
+workload.~ They specify how much of a year's workload a course unit
+represents at the institution or department allocating the credits.~ECTS
+is thus based on a full student workload and not limited to contact
+hours only. In ECTS, 60 credits represent the workload of a normal
+undergraduate academic year of study and normally 30 credits for a
+semester and 20 credits for a term. Thus, ECTS credits will~normally~be
+transferred to Coe College at a rate of 7.5 ECTS credits: 1 Coe credit.
+
 \hypertarget{occasional-transfer-credit-for-degree-seeking-students}{%
 \section{Occasional Transfer Credit For Degree-Seeking
 Students}\label{occasional-transfer-credit-for-degree-seeking-students}}
+
+Degree-seeking students sometimes wish to transfer credit from another
+institution toward their degree at Coe. Such credit must be approved in
+advance of completion of the course by the Registrar. Departments must
+approve in advance any courses counting toward a major, a minor, or
+teacher certification requirements. Credit from junior or community
+colleges is not accepted for students who have junior or higher status
+at Coe.
 
 \hypertarget{evaluation-of-credits-for-graduation}{%
 \section{Evaluation of Credits For
 Graduation}\label{evaluation-of-credits-for-graduation}}
 
+The Office of the Registrar certifies the completion of general degree
+(see p.~16) and general education requirements (see p.~23). Credits
+toward a major, minor, endorsement, license, authorization, etc. are
+approved by the appropriate department chair, administrative
+coordinator, or by Academic Policies Committee for interdisciplinary
+majors.
+
 \hypertarget{credit-by-examination}{%
 \section{Credit By Examination}\label{credit-by-examination}}
+
+A maximum of eight course credits in satisfaction of degree requirements
+may be applied from credit earned through the Advanced Placement Program
+and International Baccalaureate.
 
 \hypertarget{updating-course-work}{%
 \section{Updating Course Work}\label{updating-course-work}}
 
+In the natural course of reviewing academic records, a student may be
+required to repeat certain courses (or appropriate substitutes) taken
+more than four years prior to the review to bring studies in those areas
+up to date. Review cases may be brought to the Academic Policies
+Committee by any member of the faculty, and this committee makes the
+final decision.
+
 \hypertarget{advanced-placement-ap}{%
 \section{Advanced Placement (AP)}\label{advanced-placement-ap}}
+
+Coe College's Advanced Placement code is 6101.
+
+Coe College grants college credit for approved Advanced Placement
+examination scores of 4 or 5. AP credit cannot be used to fulfill any
+general education requirement, including First-Year Seminar, Liberal
+Arts Core, Diverse Cultural Perspectives, the writing emphasis
+requirement, credit in transfer to reduce the number writing emphasis
+courses required, or academic practicum. Each AP exam may earn 1.0
+course credit up to a maximum of eight course credits towards
+graduation. Credit is granted upon receipt of the results of the
+examination, which must be received directly from the Educational
+Testing Service. Further information regarding Advanced Placement
+examination reporting to the College may be obtained in the Office of
+the Registrar and on Coe's website. If an equivalent course is taken at
+Coe College, the AP credit is removed from the transcript.
 
 \hypertarget{international-baccalaureate-ib}{%
 \section{International Baccalaureate
 (IB)}\label{international-baccalaureate-ib}}
 
+Coe College credit may be awarded for International Baccalaureate work.
+Students may earn 1.0 course credit for each higher-level examination
+score of 5, 6, or 7 to a maximum of eight course credits. No credit is
+granted for standard level examinations. Students may not receive
+college credit for both AP and IB in areas of similar content. IB credit
+cannot be used to fulfill any general education requirement, including
+First-Year Seminar, Liberal Arts Core, Diverse Cultural Perspectives,
+the writing emphasis requirement, credit in transfer to reduce the
+number of writing emphasis courses required, or academic practicum.
+Credit is granted upon receipt of the results of the examination, which
+must be received directly from IB. Further information regarding
+International Baccalaureate examination reporting to the College may be
+obtained in the Office of the Registrar and on Coe's website. If an
+equivalent course is taken at Coe College, the IB credit is removed from
+the transcript.
+
 \hypertarget{class-attendance}{%
 \section{Class Attendance}\label{class-attendance}}
 
+Regular class attendance is expected, although the instructor of each
+course sets the standard expected to be met by the students. The College
+expects attendance on all scheduled days, including the first and last
+day of a term, as well as the class days immediately preceding and
+following College holidays. Students officially representing the College
+are excused as necessary prior to the absence. Students on academic
+probation are not excused from attending class to participate in
+extra-curricular activities.
+
 \hypertarget{final-exams}{%
 \section{Final Exams}\label{final-exams}}
+
+The final exam schedule is published by the Registrar. It is expected
+that final exams will be given during the time scheduled for each
+course. There may be extraordinary cases when an individual student has
+a compelling reason for taking an exam at a time other than that
+scheduled. In such cases the instructor may properly decide to let that
+individual take the exam at another time. Having more than two exams
+scheduled on one day would justify allowing a student to take a third
+exam on another day. The instructor of the course with the highest
+course number will move the exam, for that student only, to a mutually
+convenient time.
 
 \hypertarget{participation-in-commencement}{%
 \section{Participation In
 Commencement}\label{participation-in-commencement}}
 
+Students can participate in Commencement when they have met all the
+requirements for graduation for one of Coe's degrees, their financial
+obligations to Coe College are met, and they have completed their Intent
+to Graduate form and it has been approved. In addition, all students,
+unless excused in writing by the Provost, must complete a survey
+assessing their educational experience at Coe. All pending graduates
+must participate in Commencement exercises unless excused in writing by
+the Registrar..
+
 \hypertarget{pending-graduates}{%
 \section{Pending Graduates}\label{pending-graduates}}
+
+Students who need to earn no more than 2.0 course credits to complete
+all graduation requirements may be permitted to participate in
+Commencement exercises as long as the remaining course credits are
+scheduled to be completed by August 15 of that year. Pending graduates
+will be listed in the Commencement booklet, but since Latin honors (see
+p.~36) are bestowed only after all graduation requirements are met, they
+cannot be listed in the Commencement booklet for Latin honors, although
+any earned honors will be listed on their diploma and transcript.
 
 \hypertarget{student-notification-of-rights-under-ferpa}{%
 \chapter{STUDENT NOTIFICATION OF RIGHTS UNDER
 FERPA}\label{student-notification-of-rights-under-ferpa}}
 
-\part{COURSES OF INSTRUCTION}
+The Family Educational Rights and Privacy Act (FERPA) affords students
+certain rights with respect to their education records. They are:
 
-\hypertarget{courses-of-instruction-1}{%
-\chapter{COURSES OF INSTRUCTION}\label{courses-of-instruction-1}}
+\begin{itemize}
+\tightlist
+\item
+  the right to inspect and review the student's education records within
+  45 days of the day the College receives a request for access. Students
+  should submit to the Office of the Registrar written requests that
+  identify the record(s) they wish to inspect. The Registrar will make
+  arrangements for access and notifies the student of the time and place
+  where the records may be inspected. If the records are not maintained
+  by the Office of the Registrar, the Registrar shall advise the student
+  of the correct official to whom the request should be addressed.
+\item
+  the right to request the amendment of the student's education records
+  that the student believes are inaccurate or misleading. Students may
+  ask the College to amend records that they believe are inaccurate or
+  misleading. They should write the College official responsible for the
+  records, clearly identify the part of the record they want changed,
+  and specify why it is inaccurate or misleading. FERPA was not intended
+  to provide a process to be used to question substantive judgments
+  which are correctly recorded. The rights of challenge are not intended
+  to allow students to contest, for example, a grade in a course because
+  they felt a higher grade should have been assigned. If the College
+  decides not to amend the record as requested by the student, the
+  College will notify the student of the decision and advise the student
+  of his or her right to a hearing regarding the request for amendment.
+  Additional information regarding the hearing procedures will be
+  provided to the student when notified of the right to a hearing.
+\item
+  the right to consent to disclosures of personally identifiable
+  information contained in the student's education records, except to
+  the extent that FERPA authorized disclosure without consent. One
+  exception which permits disclosure without consent is disclosure to
+  school officials with legitimate educational interests. A school
+  official is a person employed by the College in an administrative,
+  supervisory, academic or research, or support staff position
+  (including law enforcement unit personnel and health staff); a person
+  or company with whom the College has contracted (such as an attorney,
+  auditor, collection agent, or official of the National Student
+  Clearinghouse); or a student serving on an official committee, such as
+  an admission, petitions, retention, honors recognition, disciplinary,
+  or grievance committee, or assisting another school official in
+  performing his or her tasks. A school official has a legitimate
+  educational interest if the official needs to review an education
+  record in order to fulfill his or her professional responsibility.
+\item
+  the right to file a complaint with the U.S. Department of Education
+  concerning alleged failures by the College to comply with the
+  requirements of FERPA.
+\end{itemize}
+
+A student is a person who attends or has attended Coe College, as
+determined by matriculation and enrollment by the first date of an
+academic term. Coe College obtains written permission from the student
+before releasing any information from a student's educational record in
+most cases. However, as the law allows, on a case-by-case basis,
+appropriate parts of a student record may be disclosed, without consent
+of the student, to the following parties:
+
+\begin{itemize}
+\tightlist
+\item
+  college employees who have a legitimate need to know.
+\item
+  persons who need to know in cases of health and safety emergencies.
+\item
+  accrediting organizations to carry out accrediting functions.
+\item
+  appropriate parties in connection with financial aid to a student.
+\item
+  federal, state, and local governmental officials for purposes
+  authorized by law.
+\item
+  individuals who have lawfully obtained court orders or subpoenas.
+\item
+  organizations conducting educational studies for the College.
+\item
+  courts during litigation between the College and the student or
+  parent.
+\item
+  victim of crime of violence after final results of a disciplinary
+  hearing.
+\item
+  public after disciplinary proceedings determine student committed
+  crime of violence.
+\end{itemize}
+
+In many situations, complaints relative to FERPA can be resolved with
+the College on an informal basis by contacting the Registrar, in the
+lower level of Voorhees Hall.
+
+\textbf{To file a FERPA complaint} with the U.S. Department of
+Education, contact the office that administers FERPA at: Family Policy
+Compliance Office, U.S. Dept. of Education, 400 Maryland Avenue SW,
+Washington, DC 20202-4605.
+
+\part{COURSES OF INSTRUCTION}
 
 \hypertarget{academic-programs}{%
 \chapter{ACADEMIC PROGRAMS}\label{academic-programs}}
 
+\hypertarget{asia-term-1}{%
+\subsection{Asia Term}\label{asia-term-1}}
+
+ASC-195 Asian Tonal Languages An introduction to Thai, Vietnamese, and
+other tonal Asian languages. Emphasis is on basic communication as well
+as the distinguishing features of languages that use tones as part of
+their linguistic system. ASC-196 Modern South East Asia An introduction
+to several Asian cultures such as Thai, Cambodian, and Vietnamese. This
+course varies depending on the field of the supervising Coe faculty
+member. ASC-444 Independent Study A student-designed study of some
+feature of Asian culture, arranged in consultation with the supervising
+Coe faculty member. May be taken more than once for a maximum of 2.0
+credits. Prerequisite: consent of instructor.
+
+\hypertarget{community-based-project}{%
+\subsection{Community-Based Project}\label{community-based-project}}
+
+CBP-325 Community-Based Project Supervised work on service projects
+proposed by external constituencies such as non-profit institutions,
+community agencies, and government organizations. Students learn about
+the issues, problems, and techniques associated with developing,
+organizing, and participating in projects that address and solve
+real-world problems, as well as provide services and benefits to
+community and project sponsors. Authorization for the community-based
+project is determined by the supervising faculty member. May be taken
+more than once. A minimum of 140 hours of work is required. P/NP basis
+only.
+
+\hypertarget{first-year-seminar}{%
+\subsection{First-Year Seminar}\label{first-year-seminar}}
+
+FS-110 First-Year Seminar Required of all first-year students. The
+First-Year Seminar introduces students to college-level study with
+emphasis on critical thinking, writing, speaking, and research skills.
+Faculty offer first-year-only topics courses exploring issues from
+multiple perspectives within or across disciplines. Students in all
+sections prepare portfolios of their written work and attend a variety
+of cultural events on and off campus. Seminar instructors also serve as
+the primary academic advisors for first-year students in their
+respective sections. First-Year Seminars are writing emphasis and cannot
+fulfill any distributional, cultural perspective, or major requirements.
+
+\hypertarget{world-language}{%
+\subsection{World Language}\label{world-language}}
+
+FSA-100 Foreign Study Abroad Study abroad during May Term supervised by
+a Coe College faculty member, with site visits to places of historical
+and cultural interest. When appropriate, may count as a course in the
+major. May be taken more than once if offered in different locations.
+Prerequisite: consent of instructor. (Offered May Term only) FSA-146
+Turkey: History and Culture Study abroad course on the history and
+culture of Turkey. An exploration of a unique secular-Muslim society.
+Particular historical focus is on Istanbul and ancient cities on Aegean
+coast. Prerequisite: consent of instructor. (Offered May Term only)
+
+\hypertarget{internships}{%
+\subsection{Internships}\label{internships}}
+
+INT-494 Interdisciplinary Internship Supervised work or volunteer
+experience related to a student's career interests. A minimum of 140
+hours on-site or remote work experience is required. Authorization and
+evaluation of the course credit for the internship is determined by the
+department through which the student is completing the internship. P/NP
+basis only. With departmental approval, credit may be applied to a major
+only with consent of department chair. Prerequisites: consent of the
+Internship Faculty Advisor. INT-499 Summer Internship -- Non-Credit
+Bearing\\
+Is a supervised summer work or volunteer experience related to a
+student's career interests. The internship is not credit-bearing;
+however, it can meet the practicum requirement. A minimum of 140 hours
+on-site experience is required. The internship must be approved by the
+Faculty Internship Advisor prior to registration. Students are required
+to abide by the same guidelines as students completing credit-bearing
+internships. Satisfactory completion determined by the supervising
+faculty member. P/NP basis only. May be taken more than once.
+Prerequisites: consent of the department in which the student is
+completing the internship and completion of the Internship request form
+housed on the College's online platform for internships.
+
+\hypertarget{new-york-term-1}{%
+\subsection{New York Term}\label{new-york-term-1}}
+
+See description, p.~40 New York Term is offered every other Spring Term
+in odd-numbered years. There is an extra fee for New York Term. All Coe
+financial aid applies, and students are eligible to apply for additional
+financial aid based on the additional costs of the term. NYT-250 Fine
+Arts in New York City Consists of five 0.4-credit courses: art, film,
+music, theatre, and dance. Students attend approximately 35 concerts,
+plays, and dance performances and make frequent visits to museums,
+galleries, and artists' studios. Each of these events is accompanied by
+discussion and seminar sessions with members of the resident New York
+Term faculty. (0.4 course credit for each course. Total of 2.0 course
+credits upon completion of the five courses.) NYT-394 Internship in New
+York City Investigates a student's career interests through work or
+volunteer experience. The internship is supervised by a faculty member
+of the relevant department, in consultation with Coe's Center for
+Creativity and Careers. P/NP basis only. Normally earns 2.0 credits, but
+may be taken for 1.0 credits when combined with NYT-444. NYT-444
+Independent Study A plan of study designed by the student in
+consultation with the student's faculty advisor, and supervised by the
+on-campus faculty advisor. Subject must be particularly appropriate for
+study in New York City. Prerequisite: consent of instructor.
+(Corequisite: NYT-394 for 1.0 credit.)
+
 \hypertarget{occasional-courses}{%
 \section{Occasional Courses}\label{occasional-courses}}
 
-\hypertarget{departmental-programs}{%
-\chapter{DEPARTMENTAL PROGRAMS}\label{departmental-programs}}
+Additional courses, not found in the Catalog, may be offered
+occasionally and serve one or more of the following purposes: 1) to
+provide the opportunity for research, creative, or other scholarly
+activity for an instructor jointly with interested students; 2) to
+explore and develop intellectual pursuits which are attractive to
+members of the faculty; 3) to respond to student requests for courses
+which are distinctive, unusual, or meet specific needs; 4) to bridge
+between two or more disciplines or curricular categories; 5) to serve as
+one means of developing and testing a possible permanent course.
 
-\hypertarget{sec-dance}{%
-\section{Dance (Courses Only)}\label{sec-dance}}
+The courses listed in the following section are ones approved by the
+College but without plans of being offered in the next few years. The
+approved list of courses includes, but is not limited to, the following:
 
-Rezabek, Wolverton.
+CHM-104 Introduction to Forensic Science An introduction to all aspects
+of forensic science from obtaining specimens to identifying the criminal
+with accurate forensic tests. The course teaches students a basic
+understanding of the laboratory tests and processes of forensic science.
+CHM-105 Food Chemistry An introductory course that introduces chemical
+concepts in the context of cooking. Topics include the makeup, shape,
+and behavior of the four major classes of food molecules, effects of
+chemical structure on physical properties, the role of vitamins and
+nutrients, and basic principles of energy. Three class meetings per
+week. CHM-442 Materials Chemistry Study of the structure and properties
+of modern materials, including glasses, polymers, metals,
+semiconductors, and superconductors. Mechanical, thermal, optical,
+magnetic, and electrical properties are examined and related to
+structure. Prerequisite: Electromagnetism (PHY-265) or Physical
+Chemistry I (CHM-341) or consent of instructor. Corequisite: Materials
+Physics and Chemistry Laboratory (CHM-442L). CHM-442L Materials
+Chemistry Laboratory Measurement of structure/property characteristics
+of materials using a variety of instrumentation. Materials studied
+include glasses, polymers, metals, semiconductors, and superconductors.
+Prerequisite: previous or concurrent registration in Materials Physics
+and Chemistry (CHM-442). Corequisite: Materials Physics and Chemistry
+Laboratory (CHM-442L). (0.2 course credit) CHM-471 Advanced Chemistry
+Laboratory II Spectroscopic investigations of chemical systems and
+applications of chemical instrumentation for analysis based on current
+chemical literature. One class period and two laboratories per week.
+Prerequisite: Physical Chemistry I (CHM-341). EDU-405 Understanding
+Early Adolescence An extension of the study of human development,
+focusing on the growth and development of the middle school age child.
+Special attention is given to the emotional, physical, and cognitive
+characteristics and needs of middle school age children for teachers in
+grades five through eight. EDU-415 Middle School Curriculum and
+Instruction Introduction to the organization, structure, and sequence of
+learning experiences for middle grade students. Addresses such issues as
+curriculum integration, teaching teams, pedagogical practices for middle
+school, and developmental appropriateness across the range of school
+subjects. Prerequisite: Practicum in Education (WE) (EDU-215). EDU-430
+Middle School Social Studies Overview of the middle school social
+studies curriculum. A content course with a primary focus on geography
+and its relation to U.S. and world history. Prerequisite: Practicum in
+Education (WE) (EDU-215). (0.5 course credit) EDU-440 Middle School
+Mathematics Overview of the middle school mathematics curriculum. A
+content course with a primary focus on algebra, problem solving, and
+number theory. Prerequisite: Practicum in Education (WE) (EDU-215). (0.5
+course credit) INT-115 May Term in Southern Africa Provides
+opportunities for students to interact with a wide variety of
+communities in southern Africa, all of which are currently stressed by
+impacts of the HIV/AIDS pandemic and climate change. Students learn how
+communities provide health care delivery, nutritional support and access
+to clean water, which are needed to sustain the quality of human life in
+the region. Experiences provide hands-on opportunities for students to
+assist community change in these areas. Prerequisite: consent of
+instructor. (Offered May Term only) NUR-255 Topics in Health Care Offers
+selected topics on specific health care and/or nursing issues, problems,
+interventions, and theories. Content varies as determined by the
+instructor. May be taken more than once for credit, provided the topics
+are substantially different. Prerequisite: sophomore standing. (Offered
+on an occasional basis) PHY-111 Musical Acoustics An exploration of the
+physical principles involved in the production, propagation, and
+perception of musical sounds. Topics include simple vibrating systems,
+properties of waves, and Fourier analysis. The primary emphasis is on
+musical instruments, including the voice, but some consideration is also
+given to room acoustics and human perception of sound. Previous musical
+experience is helpful, but not necessary. This course satisfies the
+non-lab science course requirement.\\
+PHY-112/-112L Holography and Optics \& Laboratory The making and
+understanding of holograms are used as the focus for a basic physics
+course in waves and optics. Includes one two-hour, (0.0 course credit)
+lab per week. This course satisfies the general education laboratory
+science requirement. PHY-325/-325L Digital Electronics \& Laboratory
+Integrated circuit devices and their applications: the basic logic
+gates, counters, displays, flip-flops, multiplexers, memories. Some
+acquaintance with DC circuit concepts and with the binary number system
+desirable. Includes one two-hour, (0.0 course credit) lab weekly. This
+course satisfies the general education laboratory science requirement.
+REL-240 Intertestamental Literature A survey of literature composed by
+Jews during the Hellenistic and early Roman periods essential for
+understanding the emergence and development of Rabbinic Judaism, early
+Christianity and Islam (Apocrypha and Pseudepigrapha, Josephus, Philo
+and the Dead Sea Scrolls). Prerequisite: Introduction to Hebrew Bible
+(WE) (REL-105) or consent of instructor. REL-278 Mysticism A survey of
+mystical literature in the world's religious traditions. This course
+also addresses the question of the nature of mystical experience as well
+as that of the relation between the mystical element of religion and
+religion as a whole. REL-306 Comparative Religion A comparative study of
+the recurring themes and patterns found in various religions, past and
+present. Particular attention is paid to the meaning of religious ritual
+and myth, and the nature of religious experience. This course surveys
+several of the currently most influential theories regarding the nature
+of religion. Prerequisite: Eastern Religions (REL-106), Western
+Religions (WE) (REL-108), or consent of instructor. SOC-499 Career
+Related Independent Investigation Investigation of a career opportunity
+through field placement and directed reading. This course does not
+satisfy any of the requirements for a major or minor in sociology.
+Prerequisite: declared major in sociology, second term sophomore
+standing, or consent of department chair.
 
-\hypertarget{courses-in-dance}{%
-\subsection{Courses in Dance}\label{courses-in-dance}}
+\hypertarget{skills-development}{%
+\subsection{Skills Development}\label{skills-development}}
 
-\begin{itemize}
-\item
-  \textbf{DAN 101 Dance - Jazz I}
+SKD-115 Summer Bridge Engages students in a one-week course that takes
+place prior to Fall Orientation. Students participate in two
+mini-classes taught by college faculty. Each mini-class is followed by
+small group discussions regarding course content, learning strategies,
+college expectations, etc. Additional workshop sessions are held
+throughout Summer Bridge on topics such as: financial literacy, campus
+resources, goal setting and academic planning. Summer Bridge also offers
+opportunities to make social connections through a variety of informal
+and planned activities. P/NP basis only. (0.3 course credit) SKD-120
+Concepts of Individualized Learning Provides a weekly engagement with an
+academic coach to identify interests and explore strengths, applying
+this knowledge to the development of a personal academic plan. Topics
+include: learning strategies, self-regulation, personal and professional
+growth, goal setting, campus engagement and self-reflection. P/NP basis
+only. (0.0 course credit) SKD-125 College Foundations Familiarizes
+students with the skills and methods of study that lead to competence in
+college course work. Through self-assessment and reflection, students
+determine strategies that increase satisfaction and success in the
+college environment. P/NP basis only. (0.3 course credit)\\
+SKD-130 Personal Finance for College Students A study of managing
+finances and making financial decisions that college students encounter.
+Areas of study for this project-oriented course include student loans,
+credit cards, savings and investments, cars, living on campus versus
+apartment living, savings needed for life immediately following
+graduation, and travel. (0.5 course credit) INT-100 Professionalism and
+Self Presentation Introduces students to the fundamentals of job-seeking
+strategies and professional expectations. Students are guided through
+development of professional materials, networking techniques, and
+interviewing skills. This course does not satisfy Coe's practicum
+requirement.
 
-  A beginning-level course designed to introduce the student to basic
-  jazz dance techniques and skills. Emphasis on alignment and precise
-  execution of jazz movements. Class includes functional kinesiology and
-  injury prevention techniques, and presentations place jazz dance in
-  socio-historical context. (0.2 course credit)
-\item
-  \textbf{DAN 102 Dance - Jazz II}
+\hypertarget{washington-term-1}{%
+\subsection{Washington Term}\label{washington-term-1}}
 
-  An intermediate-level course designed to increase the student's
-  knowledge and skill in jazz dance techniques. May include Hatchett,
-  Giordano, Luigi, and contemporary styles. Class continues functional
-  kinesiology, and presentations place jazz dance in socio-historical
-  context. Prerequisite: Jazz I (DAN-101). (0.2 course credit)
-\item
-  \textbf{DAN 111 Dance-Modern I}
-
-  A beginning-level class focusing on fundamental modern dance
-  techniques. Emphasis on placement of the spine and quality of
-  movement. Features the techniques of Doris Humphrey, Jose Limon, and
-  Erick Hawkins. Presentations discuss modernisms and postmodernism and
-  place modern dance in socio-historical context. (0.2 course credit)
-\item
-  \textbf{DAN 112 Dance-Modern II}
-
-  An intermediate-level class offering more complex modern dance styles
-  and skills. May include Graham, Horton, and Cunningham techniques.
-  Presentations continue the discussion of modernism and postmodernism
-  and place modern dance in socio-historical context. Prerequisite:
-  Modern I (DAN-111). (0.2 course credit)
-\item
-  \textbf{DAN 131 Dance-Ballet I}
-
-  Classical ballet is based on traditional positions and movements of
-  the body emphasizing harmonious lines in space. It is the technical
-  basis of many forms of dance. This course offers a working vocabulary
-  of basic ballet movement skills and terminology. Presentations discuss
-  the history and theory of ballet. (0.2 course credit)
-\item
-  \textbf{DAN 132 Dance-Ballet II}
-
-  This course continues Ballet I, offering more complex ballet movement
-  skills and terminology. Prerequisite: Ballet I (DAN-131). (0.2 course
-  credit)
-\item
-  \textbf{DAN 141 Dance - Tap I}
-
-  Simple tap steps and combinations, including adequate background to
-  survive an audition. The course progresses to more complicated
-  movement sequences, with emphasis on speed and clarity. (0.2 course
-  credit)
-\item
-  \textbf{DAN 142 Dance - Tap II}
-
-  More complex steps, styles, and rhythms. Emphasis on speed, clarity,
-  strength, and dexterity. Prerequisite: Tap I (DAN-141). (0.2 course
-  credit)
-\item
-  \textbf{DAN 151 Dance-Choreography I}
-
-  Introduction to the choreographic craft, concentrating on generating
-  original movement through short studies focusing on body, space, and
-  time. (0.2 course credit)
-\item
-  \textbf{DAN 152 Dance-Choreography II}
-
-  Further exploration of choreographic techniques, culminating in a
-  short performance of student's work. Prerequisite: Choreography I
-  (DAN-151). (0.2 course credit)
-\end{itemize}
-
-\hypertarget{data-science}{%
-\section{Data Science}\label{data-science}}
-
-Here is a description of the major.
-
-And the major requirments: - abcd - abcd - abcd
-
-\hypertarget{courses-in-data-science}{%
-\subsection{Courses in Data Science}\label{courses-in-data-science}}
-
-\begin{itemize}
-\item
-  \textbf{DS 230 Data-Centric Computing}
-
-  Provides a programming experience with applications that focus on data
-  handling tasks. Students examine programming techniques to acquire and
-  manage data from a variety of sources and formats; use relational
-  databases to store and query data; and explore techniques to work with
-  semi-structured and unstructured data sets. Prerequisite: Introduction
-  to Programming (CS-125) or consent of instructor
-\item
-  \textbf{DS 260 Data Analysis and Visualization}
-
-  Studies intermediate data analytic techniques and concepts to
-  visualize quantitative data. This course expands the mathematical
-  background of students, with topics from statistical analysis and
-  linear algebra. Students will learn advanced visualization techniques,
-  with particular emphasis on creating graphics and animations using
-  visualization libraries. Prerequisite: Data-Centric Computing (DS-230)
-\end{itemize}
-
-\hypertarget{sec-economics}{%
-\section{Economics}\label{sec-economics}}
-
-See \textbf{?@sec-business-administration-and-economics}
+WSH-284 Topics in Washington, D.C. Experiential learning, study,
+writing, and discussion dealing with various subjects related to the
+nation's capital. Examples of recent and proposed topics include Art and
+Architecture, Campaigns and Elections, Congressional Relations, and
+Politics and Communications. WSH-286 Topics in Washington, D.C.:
+Non-Western Perspectives Same as Topics in Washington, D.C. (WSH-284)
+except the course focuses on topics related to non-Western cultures.
+Examples of recent and proposed topics include Globalization and the
+U.S.; and People, Politics and Cultures of the Middle East.\\
+WSH-464 Washington Term Internship Seminar Group discussion of
+internship experiences. Students are exposed to various research
+methodologies, readings and guest speakers for understanding Washington
+politics. The goal of the course is to expose students to
+generalizations about politics and how their internships are either
+confirming or challenging those generalizations. WSH-494 The Washington
+Experience Internship with an organization related to national or
+international politics in Washington, D.C., supervised by one of the
+resident staff of the Washington Term. Students establish learning goals
+and prepare a portfolio that documents their learning and places it in
+the larger context of the literature on American or international
+politics. P/NP basis only. One course credit may be counted toward a
+major in political science with consent of department, if credit has not
+already been received for Internship in Political Science (POL-494).
+(2.0 course credits)
 
 \hypertarget{reserve-officer-training-corps}{%
 \chapter{RESERVE OFFICER TRAINING
@@ -1712,127 +4744,65 @@ tuition, books, fees, and between \$300-\$500 tax-free monthly stipend.
 
 \begin{itemize}
 \item
-  \textbf{MSA 110 Air Force Heritage and Values I}
+  \textbf{\textbf{?var:c.msa110.long}}
 
-  A survey course designed to introduce students to the United States
-  Air Force (USAF) and Air Force Reserve Officer Training Corps
-  (AFROTC). Featured topics include: structure of the U.S. Air Force,
-  the Air Force's capabilities, career opportunities, benefits, Air
-  Force installations, core values, leadership, teambuilding, and
-  communication skills. Prerequisite: first-year or sophomore standing.
-  (0.25 course credit)
+  \textbf{?var:c.msa110.desc}
 \item
-  \textbf{MSA 110L AFROTC Leadrshp Lab I}
+  \textbf{\textbf{?var:c.msa110l.long}}
 
-  A progression of experiences designed to develop leadership ability;
-  includes military customs and courtesies, drill and ceremonies,
-  military professional development, and the life and work of a junior
-  officer; leadership skills in a practical, supervised military lab
-  setting. Corequisite: Foundations of the U.S. Air Force I (MSA-110);
-  Prerequisite: first-year or sophomore standing. (0.25 course credit)
+  \textbf{?var:c.msa110l.desc}
 \item
-  \textbf{MSA 120 Air Force Heritage and Values II}
+  \textbf{\textbf{?var:c.msa120.long}}
 
-  A survey course designed to introduce students to the United States
-  Air Force (USAF) and Air Force Reserve Officer Training Corps
-  (AFROTC). Spring semester featured topics include: Evolution of the
-  U.S. Air Force/Air Force history, Principles of War/Tenets of Air
-  Power, What the Air Force Brings to the Joint Fight and a look at the
-  Department of the Air Force and Air Force Major Commands. It will also
-  introduce several leadership concepts, to include ethical
-  decision-making, communication, and professional speaking
-  opportunities. Prerequisite: first-year or sophomore standing. (0.25
-  course credit)
+  \textbf{?var:c.msa120.desc}
 \item
-  \textbf{MSA 120L AFROTC Leadrshp Lab II}
+  \textbf{\textbf{?var:c.msa120l.long}}
 
-  See MSA-110L. Corequisite: Air Force Heritage and Values II (MSA-120)
-  (0.25 course credit)
+  \textbf{?var:c.msa120l.desc}
 \item
-  \textbf{MSA 210 Team and Leadership Fundamentals I}
+  \textbf{\textbf{?var:c.msa210.long}}
 
-  Provide the foundation for both leadership and team building. The
-  concepts will be applied in team building activities and class
-  discussion to include demonstration of basic verbal and written
-  communication. Featured topics include: listening, followership, and
-  problem solving efficiently. (0.25 course credit)
+  \textbf{?var:c.msa210.desc}
 \item
-  \textbf{MSA 210L AFROTC Leadrshp Lab ASP I}
+  \textbf{\textbf{?var:c.msa210l.long}}
 
-  See MSA-110L. Corequisite: Team and Leadership Fundamentals I
-  (MSA-210). (0.25 course credit)
+  \textbf{?var:c.msa210l.desc}
 \item
-  \textbf{MSA 220 Team and Leadership Fundamentals II}
+  \textbf{\textbf{?var:c.msa220.long}}
 \item
-  \textbf{MSA 220L AFROTC Leadrshp Lab ASP II}
+  \textbf{\textbf{?var:c.msa220l.long}}
 \item
-  \textbf{MSA 310 Leadership Studies: I}
+  \textbf{\textbf{?var:c.msa310.long}}
 
-  Course is designed to build on the leadership fundamentals taught in
-  AERO 2100 and AERO 2200. The class studies leadership and leadership
-  skills to use in your future Air Force environment. You will study the
-  profession of arms, communications skills, and ethics. Case studies
-  will be used to examine Air Force leadership situations, and to
-  demonstrate and exercise practical application of the concepts you
-  study. (0.75 course credit)
+  \textbf{?var:c.msa310.desc}
 \item
-  \textbf{MSA 310L AFROTC Leadrshp Lab AFLS I}
+  \textbf{\textbf{?var:c.msa310l.long}}
 
-  See MSA-110L. Corequisite: Leadership Studies: Leading People and
-  Effective Communication I (MSA-310). (0.25 course credit)
+  \textbf{?var:c.msa310l.desc}
 \item
-  \textbf{MSA 320 Air Force Leadership Studies II}
+  \textbf{\textbf{?var:c.msa320.long}}
 
-  Class studies leadership and leadership skills used in your future Air
-  Force environment. You will continue to study the profession of arms,
-  communications skills, and ethics taught in AERO 3100, in addition to
-  learning more about creating a vision, mentoring, and other leadership
-  fundamentals. Additionally, you will continue to hone your reading,
-  writing, and speaking skills via several communication studies
-  applications. Case studies will be used to examine Air Force
-  leadership situations, and to demonstrate and exercise practical
-  application of the concepts you study. The goal is to instill a more
-  in-depth understanding of how to effectively lead people and
-  organizations. (0.75 course credit)
+  \textbf{?var:c.msa320.desc}
 \item
-  \textbf{MSA 320L AFROTC leadrshp Lab AFLS II}
+  \textbf{\textbf{?var:c.msa320l.long}}
 
-  See MSA-110L. Corequisite: Leadership Studies: Leading People and
-  Effective Communication II (MSA-320). (0.25 course credit)
+  \textbf{?var:c.msa320l.desc}
 \item
-  \textbf{MSA 410 National Security / Leadership I}
+  \textbf{\textbf{?var:c.msa410.long}}
 
-  Class will introduce you to the national security process, regional
-  studies, advanced leadership ethics, and Air Force doctrine. It will
-  focus specifically on current Air Force organization, leadership and
-  practical knowledge needed for your future as an Air Force officer.
-  Additionally, you will improve your oral and written communication
-  skills and delve into military professionalism and ethics. (0.75
-  course credit)
+  \textbf{?var:c.msa410.desc}
 \item
-  \textbf{MSA 410L National Security Leadership I}
+  \textbf{\textbf{?var:c.msa410l.long}}
 
-  See MSA-110L. Corequisite: National Security / Leadership
-  Responsibilities and Commissioning Preparation I (MSA-410). (0.25
-  course credit)
+  \textbf{?var:c.msa410l.desc}
 \item
-  \textbf{MSA 420 National Security / Lead II}
+  \textbf{\textbf{?var:c.msa420.long}}
 
-  National Security / Leadership Responsibilities and Commissioning
-  Preparation I (MSA-340) introduced the national security process,
-  regional studies, advanced leadership ethics, and Air Force doctrine.
-  This class will expand your knowledge to comprehend the
-  responsibility, authority, and functions of an Air Force commander and
-  selected provisions of the military justice system. It is designed to
-  prepare cadets for life as a second lieutenant. Additionally, you will
-  continue to improve your oral and written communication skills. (0.75
-  course credit)
+  \textbf{?var:c.msa420.desc}
 \item
-  \textbf{MSA 420L National Security Lab}
+  \textbf{\textbf{?var:c.msa420l.long}}
 
-  See MSA-110L. Corequisite: National Security / Leadership
-  Responsibilities and Commissioning Preparation II (MSA-420). (0.25
-  course credit)
+  \textbf{?var:c.msa420l.desc}
 \end{itemize}
 
 \hypertarget{military-science}{%
@@ -1877,63 +4847,21 @@ junior years of college.
 
 \begin{itemize}
 \item
-  \textbf{MIL 101 Leadership \& Pers Devel}
+  \textbf{\textbf{?var:c.mil101.long}}
 
-  Introduces students to the personal challenges and competencies that
-  are critical for effective leadership. Students learn how the personal
-  development of life skills such as critical thinking, goal setting,
-  time management, physical fitness, and stress management relate to
-  leadership, officership, and the Army profession. The focus is on
-  developing basic knowledge and comprehension of Army leadership
-  dimensions while gaining a big picture understanding of the ROTC
-  program, its purpose in the Army, and its advantages for the student.
-  (0.25 course credit) (Offered Fall Term; Spring Term by arrangement)
+  \textbf{?var:c.mil101.desc}
 \item
-  \textbf{MIL 102 Intro Tactical Leadership}
+  \textbf{\textbf{?var:c.mil102.long}}
 
-  Overviews leadership fundamentals such as setting direction,
-  problem-solving, listening, presenting briefs, providing feedback, and
-  using effective writing skills. Students explore dimensions of
-  leadership values, attributes, skills, and actions in the context of
-  practical, hands-on, and interactive exercises. Continued emphasis is
-  placed on recruitment and retention of cadets. Cadre role models and
-  the building of stronger relationships among the students through
-  common experience and practical interaction are critical aspects of
-  the class. (0.25 course credit) (Offered Spring Term; Fall Term by
-  arrangement)
+  \textbf{?var:c.mil102.desc}
 \item
-  \textbf{MIL 103 Innovative Team Leadership}
+  \textbf{\textbf{?var:c.mil103.long}}
 
-  Explores the dimensions of creative and innovative tactical leadership
-  strategies and styles by examining team dynamics and historical
-  leadership theories that form the basis of the Army leadership
-  framework (trait and behavior theories). Students practice aspects of
-  personal motivation and team building in the context of planning,
-  executing, and assessing team exercises and participating in
-  leadership labs. Focus is on continued development of the knowledge of
-  leadership values and attributes through an understanding of Army
-  rank, structure, and duties and basic aspects of land navigation and
-  squad tactics. Case studies provide tangible context for learning the
-  Soldier's Creed and Warrior Ethos as they apply in the contemporary
-  operating environment (COE). Prerequisites: MIL-101, MIL-102, or
-  consent of instructor. (0.5 course credit) (Offered Fall Term; Spring
-  Term by arrangement)
+  \textbf{?var:c.mil103.desc}
 \item
-  \textbf{MIL 104 Foundations of Tactical Leadership}
+  \textbf{\textbf{?var:c.mil104.long}}
 
-  Examines the challenges of leading tactical teams in the complex
-  contemporary operating environment (COE). The course highlights
-  dimensions of terrain analysis, patrolling, and operation orders.
-  Further study of the theoretical basis of the Army leadership
-  framework explores the dynamics of adaptive leadership in the context
-  of military operations. This course provides a smooth transition into
-  Adaptive Tactical Leadership (MIL-105). Students develop greater
-  self-awareness as they assess their own leadership styles and practice
-  communication and team building skills. COE case studies give insight
-  into the importance and practice of teamwork and tactics in real-world
-  scenarios. Prerequisites: MIL-101, MIL-102, and MIL-103 or consent of
-  instructor. (0.5 course credit) (Offered Spring Term; Fall Term by
-  arrangement)
+  \textbf{?var:c.mil104.desc}
 \end{itemize}
 
 \hypertarget{advanced-courses}{%
@@ -1957,13 +4885,12 @@ instruction. The course may be delayed until the summer following the
 final ROTC class with permission of the professor of military science.
 
 Students in the Advanced Course complete the following list of courses:
-- MIL 209 Leadership Lab - MIL 220 Adaptive Tactical Leadership - MIL
-305 Leadership in Changing Environs - MIL 350 Developing Adaptive Ldrshp
-- MIL 360 Leadership in Complex World In addition, students choose
-\textbf{one} course in history from the following list: - HIS 145
-History of United States to 1865 - HIS 155 History of United States
-since 1865 - HIS 217 American War in Vietnam - HIS 227 American Civil
-War - HIS 387 American Colonial History
+- \textbf{?var:c.mil209.long} - \textbf{?var:c.mil220.long} -
+\textbf{?var:c.mil305.long} - \textbf{?var:c.mil350.long} -
+\textbf{?var:c.mil360.long} In addition, students choose \textbf{one}
+course in history from the following list: - \textbf{?var:c.his145.long}
+- \textbf{?var:c.his155.long} - \textbf{?var:c.his217.long} -
+\textbf{?var:c.his227.long} - \textbf{?var:c.his387.long}
 
 Students earning a degree in nursing normally are exempt from this
 requirement, and students may, with the approval of the professor of
@@ -1971,114 +4898,33 @@ military science, use other courses to meet the requirement.
 
 \begin{itemize}
 \item
-  \textbf{MIL 209 Leadership Lab}
+  \textbf{\textbf{?var:c.mil209.long}}
 
-  Hands-on training of basic soldier skills, such as customs and
-  courtesies, drill and ceremony, first aid, weapons employment, and
-  troop movement techniques. In addition, students learn the application
-  of leadership dimensions to improve students' abilities to perform as
-  officers in the U.S. Army. This course is designed to enhance the
-  training received in the classroom. (0.0 course credit).
+  \textbf{?var:c.mil209.desc}
 \item
-  \textbf{MIL 215 Adv Military Fitness Training}
+  \textbf{\textbf{?var:c.mil215.long}}
 
-  Developed around the army physical fitness training program. This
-  course covers aerobics and running, muscular strength and endurance,
-  flexibility, and nutrition. Students also learn how to evaluate and
-  measure fitness improvement. This course models the use of ability
-  groups to improve the fitness levels of all individuals from the unfit
-  to the tri-athlete or bodybuilder. Lab fee required. Course may be
-  repeated up to three times. (0.5 course credit)
+  \textbf{?var:c.mil215.desc}
 \item
-  \textbf{MIL 220 Adaptive Tactical Leadership}
+  \textbf{\textbf{?var:c.mil220.long}}
 
-  Challenges students to study, practice, and evaluate adaptive
-  leadership skills as they are presented with challenging scenarios
-  related to squad tactical operations. Students receive systematic and
-  specific feedback on their leadership attributes and actions. Based on
-  such feedback, as well as their own self-evaluations, students
-  continue to develop their leadership and critical thinking abilities.
-  Students' tactical leadership abilities are developed to enable them
-  to succeed at ROTC's summer Leadership Development and Assessment
-  Course (LDAC). Corequisite: Leadership Laboratory (MIL-209).
-  Prerequisites: Leadership and Personal Development (MIL-101),
-  Introduction to Tactical Leadership (MIL-102), Innovative Team
-  Leadership (MIL-103) and Foundations of Tactical Leadership (MIL-104)
-  or completion of Army Basic Training or the Leaders Training Course.
-  (0.75 course credit) (Offered Fall Term; Spring Term by arrangement)
+  \textbf{?var:c.mil220.desc}
 \item
-  \textbf{MIL 305 Leadership in Changing Environs}
+  \textbf{\textbf{?var:c.mil305.long}}
 
-  Uses increasingly intense situational leadership challenges to build
-  student awareness and skills in leading tactical operations up to
-  platoon level. Students review aspects of combat, stability, and
-  support operations Military briefings are conducted and proficiency is
-  developed in garrison operation orders. The focus is on exploring,
-  evaluating, and developing skills in decision-making, persuading, and
-  motivating team members in the contemporary operating environment
-  (COE). Students are evaluated on what they know and do as leaders as
-  they prepare to attend the ROTC summer Leader Development Assessment
-  Course (LDAC). Corequisite: Leadership Laboratory (MIL-209).
-  Prerequisites: Leadership and Personal Development MIL-101,
-  Introduction to Tactical Leadership MIL-102, Innovative Team
-  Leadership (MIL-103), and Foundations of Tactical Leadership
-  (MIL-104), or completion of Army Basic Training or the Leaders
-  Training Course (LTC) and Adaptive Tactical Leadership (MIL-220).
-  (0.75 course credit) (Offered Spring Term; Fall Term by arrangement.)
+  \textbf{?var:c.mil305.desc}
 \item
-  \textbf{MIL 350 Developing Adaptive Ldrshp}
+  \textbf{\textbf{?var:c.mil350.long}}
 
-  Develops student proficiency in planning, executing, and assessing
-  complex operations, functioning as a member of a staff, and providing
-  performance feedback to subordinates. Students assess risk, make
-  ethical decisions, and lead fellow ROTC cadets. Lessons on military
-  justice and personnel processes prepare students to make the
-  transition to Army officers. Students in this course analyze,
-  evaluate, and instruct students at lower levels. Both the classroom
-  and battalion leadership experiences are designed to prepare students
-  for their first unit of assignment. Responsibilities of key staff are
-  identified, staff roles are coordinated, and situational opportunities
-  are used to teach, train, and develop subordinates. Corequisite:
-  Leadership Laboratory (MIL-209). Prerequisites: Adaptive Tactical
-  Leadership (MIL-220) and Leadership in Changing Environs (MIL-305).
-  (0.75 course credit) (Offered Fall Term; Spring Term by arrangement)
+  \textbf{?var:c.mil350.desc}
 \item
-  \textbf{MIL 360 Leadership in Complex World}
+  \textbf{\textbf{?var:c.mil360.long}}
 
-  Explores the dynamics of leading in the complex situations of current
-  military operations in the contemporary operating environment (COE).
-  Students examine differences in customs and courtesies, military law,
-  principles of war, and rules of engagement in the face of
-  international terrorism. Aspects of interacting with non-government
-  organizations, civilians on the battlefield, and host nation support
-  are also explored. Significant emphasis is placed on preparing
-  students for their first unit of assignment. Case studies, scenarios,
-  and ``What now, Lieutenant?'' exercises are used to prepare students
-  to face the complex ethical and practical demands of leading as
-  commissioned officers in the United States Army. Corequisite:
-  Leadership Laboratory (MIL-209). Prerequisites: Adaptive Tactical
-  Leadership (MIL-220), Leadership in Changing Environs (MIL-305),
-  Developing Adaptive Leaders (MIL-350). (0.75 course credit) (Offered
-  Spring Term; Fall Term by arrangement)
+  \textbf{?var:c.mil360.desc}
 \item
-  \textbf{MIL 380 Readings Contmp Miitary Issues}
+  \textbf{\textbf{?var:c.mil380.long}}
 
-  Designed for cadets with an interest and experience in military
-  science and to generate interest in the participating students'
-  knowledge of current military and worldwide events. Students prepare
-  novel reviews from a reading list provided by the instructor. The list
-  contains topics ranging from historical battles and campaigns to the
-  global impact of US political policies. Students may opt to write an
-  operations order (OPORD) as it relates to an ROTC event or similar
-  project as it relates to the historical significance of the ROTC
-  Department (the student must work in conjunction with instructor).
-  This course can be taken for 0.25 to 0.75 credit hours based upon the
-  number of reviews completed or the length and value of the final
-  project. Prerequisites: : Leadership and Personal Development
-  (MIL-101), Introduction to Tactical Leadership (MIL-102), Innovative
-  Team Leadership (MIL-103), and Foundations of Tactical Leadership
-  (MIL-104), or completion of Army Basic Training or the Leader's
-  Training Course. (0.25 to 0.75 course credit)
+  \textbf{?var:c.mil380.desc}
 \end{itemize}
 
 \part{FINANCIAL RESOURCES}
