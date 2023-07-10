@@ -112,7 +112,6 @@
 {{< include departmental_programs/_SE_courses.qmd >}}
 
 {{< include departmental_programs/_SMT_courses.qmd >}}
--->
 
 {{< include departmental_programs/_SOC_courses.qmd >}}
 
@@ -121,6 +120,7 @@
 {{< include departmental_programs/_STA_courses.qmd >}}
 
 {{< include departmental_programs/_THE_courses.qmd >}}
+-->
 
 {{< include departmental_programs/_WKS_courses.qmd >}}
 
