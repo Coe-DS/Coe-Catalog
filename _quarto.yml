@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: docs
     #  pre-render: create_variable_list.py
 
 execute:
