@@ -1,20 +1,26 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[4]:
+import os, re, json
 
 
-import os
-import re
-import json
+def clean_rendered_files():
+    current_directory = os.getcwd()
+    qmd_directory = os.path.join(current_directory, 'catalog_sections')
+    
+    rendered_qmd_files = []
+    for root, dirs, files in os.walk(qmd_directory):
+        for file in files:
+            if file.endswith("_rendered.qmd"):
+                rendered_qmd_files.append(os.path.join(root, file))
 
+    for file in rendered_qmd_files:
+        os.remove(file)
 
-# In[5]:
-
-
+    
 def process_qmd_files():
     current_directory = os.getcwd()
-    qmd_directory = os.path.join(current_directory, 'Coe-Catalog', 'catalog_sections')
+    qmd_directory = os.path.join(current_directory, 'catalog_sections')
     
     qmd_files = find_qmd_files(qmd_directory)
     
@@ -38,7 +44,7 @@ def find_qmd_files(qmd_directory):
     return qmd_files
 
 def replace_variables(qmd_file, current_directory):
-    course_dir = os.path.join(current_directory, 'Coe-Catalog','courses.json')
+    course_dir = os.path.join(current_directory,'courses.json')
     
     with open(course_dir, 'r', encoding='utf-8') as json_file:
         course_data = json.load(json_file)
@@ -64,13 +70,16 @@ def replace_variables(qmd_file, current_directory):
         return text
 
 
-# In[6]:
 
 
+# Delete the old rendered files first
+clean_rendered_files()
+
+# Process and create the new rendered files
 process_qmd_files()
 
 
-# In[ ]:
+
 
 
 
