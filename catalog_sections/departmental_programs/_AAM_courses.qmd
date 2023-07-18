@@ -1,0 +1,92 @@
+## African American Studies
+Rodgers (Administrative Coordinator). 
+
+The African American Studies major offers students the opportunity to study African American culture through an interdisciplinary approach.  Students take courses in areas such as literature, history, and sociology in order to gain a more complete understanding of the major figures and movements that helped define the culture.
+
+### African American Studies Major 
+
+A major in African American studies requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+
+1. {{< var c.aam107.long >}} 
+2. {{< var c.aam/eng137.long >}} 
+3. {{< var c.his347.long >}} 
+4. One of the following: 
+
+  - {{< var c.his145.long >}} 
+  - {{< var c.his155.long >}} 
+  - {{< var c.his227.long >}} 
+    
+5. Five additional courses, at least three of which are numbered 200 or above, chosen from the following: 
+  -**(a)** Elective courses:
+    - {{< var c.aam217.long >}} 
+    - {{< var c.aam287.long >}} 
+    - {{< var c.aam367.long >}} 
+    - {{< var c.aam387.long >}} 
+    - {{< var c.aam447/457.long >}} 
+    - {{< var c.aam467.long >}} 
+    - {{< var c.aam494.long >}} 
+    - {{< var c.com236.long >}} 
+    - {{< var c.com357.long >}} 
+    - {{< var c.edu187.long >}} 
+    - {{< var c.his145.long >}} 
+    - {{< var c.his155.long >}} 
+    - {{< var c.his227.long >}} 
+    - {{< var c.mu157.long >}} 
+    - {{< var c.soc247.long >}} 
+
+  -**(b)** Elective courses (when topic is appropriate):
+	These courses can count toward the major or minor as determined by the African American Studies administrative coordinator. 
+    - {{< var c.arh297.long >}} 
+    - {{< var c.com157.long >}} 
+    - {{< var c.com161.long >}} 
+    - {{< var c.com361.long >}} 
+    - {{< var c.eng107.long >}} 
+    - {{< var c.eng207.long >}} 
+    - {{< var c.eng347.long >}} 
+    - {{< var c.eng394.long >}} 
+    - {{< var c.his297.long >}} 
+    - {{< var c.his444.long >}} 
+    - {{< var c.his472.long >}} 
+    - {{< var c.his473.long >}} 
+    - {{< var c.soc237.long >}} 
+    - {{< var c.soc464.long >}} 
+    - {{< var c.the488.long >}} 
+
+6. {{< var c.aam444.long >}} (completed during the senior year)
+
+### African American Studies Minor 
+1. {{< var c.aam107.long >}}     
+2. {{< var c.aam/eng137.long >}} 
+3. {{< var c.his347.long >}}     
+4. One of the following:
+
+  - {{< var c.his145.long >}} 
+  - {{< var c.his155.long >}} 
+  - {{< var c.his227.long >}} 
+
+5. Two additional courses from either list **5a** or, when appropriate, **5b** as listed above for the major 
+
+### COURSES IN AFRICAN AMERICAN STUDIES
+
+- **{{< var c.aam107.long >}}** 
+{{< var c.aam107.desc >}}
+- **{{< var c.aam137.long >}}** 
+{{< var c.aam137.desc >}}
+- **{{< var c.aam217.long >}}** 
+{{< var c.aam217.desc >}}
+- **{{< var c.aam227.long >}}** 
+{{< var c.aam227.desc >}}
+- **{{< var c.aam287.long >}}** 
+{{< var c.aam287.desc >}}
+- **{{< var c.aam367.long >}}** 
+{{< var c.aam367.desc >}}
+- **{{< var c.aam387.long >}}** 
+{{< var c.aam387.desc >}}
+- **{{< var c.aam444.long >}}** 
+{{< var c.aam444.desc >}}
+- **{{< var c.aam447/457.long >}}** 
+{{< var c.aam447/457.desc >}}
+- **{{< var c.aam467.long >}}** 
+{{< var c.aam467.desc >}}
+- **{{< var c.aam494.long >}}** 
+{{< var c.aam494.desc >}} 
