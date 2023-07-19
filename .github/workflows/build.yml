@@ -30,6 +30,12 @@ jobs:
         uses: quarto-dev/quarto-actions/setup@v2
         with:
           tinytex: true
+      
+      # Run build scripts before render
+      - name: "Run Build scripts"
+        run: |
+          quarto run variable_replacement.py
+          quarto run create_department_page.py
         
      # Render output
       - name: Render Quarto Project
