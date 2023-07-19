@@ -1,0 +1,18 @@
+## Data Science
+
+Here is a description of the major.
+
+And the major requirments:
+- abcd
+- abcd
+- abcd
+
+### Courses in Data Science
+
+- **DS 230 Data-Centric Computing**
+  Provides a programming experience with applications that focus on data handling tasks. Students examine programming techniques to acquire and manage data from a variety of sources and formats; use relational databases to store and query data; and explore techniques to work with semi-structured and unstructured data sets. Prerequisite: Introduction to Programming (CS-125) or consent of instructor  
+- **DS 260 Data Analysis and Visualization**
+  Studies intermediate data analytic techniques and concepts to visualize quantitative data. This course expands the mathematical background of students, with topics from statistical analysis and linear algebra. Students will learn advanced visualization techniques, with particular emphasis on creating graphics and animations using visualization libraries. Prerequisite: Data-Centric Computing (DS-230)
+
+
+

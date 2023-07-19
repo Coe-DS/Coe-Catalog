@@ -1,0 +1,77 @@
+## Environmental Studies (Collateral Major) {#sec-environmental-studies}
+St. Clair (Administrative Coordinator).
+
+The Environmental Studies Major is a collateral, interdisciplinary program which requires students to study environmental issues using the techniques and perspectives from a variety of academic disciplines.
+In the sophomore or junior year, a student intending to complete an environmental studies collateral submits a proposal to the Environmental Studies administrative coordinator, outlining the plan of study for the major and describing plans for independent research, internship, or off-campus study. Students seeking this collateral major should submit this document prior to enrollment in EVS-484 Topics in Environmental Studies. 
+In addition to the requirements listed below, before undertaking a practicum experience, each student is strongly encouraged to consult with the Environmental Studies administrative coordinator to identify a practicum experience that supports his or her study of environmental issues.
+Students choosing a collateral major in environmental studies may not select the collateral major in environmental science. 
+
+
+### Collateral Major in Environmental Studies
+A major in environmental studies requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+Concurrent completion of any of the majors listed under [Areas of Study](catalog_sections/areas_of_study.qmd#Areas Of Study) of the Catalog is required.  
+
+1. BIO105 Introductory Biology
+2. BIO 155 Organismal & Ecological Biology and +++MISSING INFO: c.bio155L.long +++
+3. ECO 175 Principles of Macroeconomics
+4. ECO 195 Prin of Environmental Economics
+5. **One** of the following:
+	+++MISSING INFO: c.evs112.long +++
+	PHL 205 Environmental Ethics
+6. **One** of the following:
+	BUS 190 Statistical Analysis
+	BUS 340 Applied Regression Analysis
+	PSY 300 Stat Methods and Data Analysis
+	SOC 235 Methods of Sociological Research
+	STA 100 Statistical Reasoning I-Foundations **and** STA 110 Stats IIA: Inferential Reasoning
+	STA 100 Statistical Reasoning I-Foundations **and** STA 130 Stats IIB: Experimental Design
+	STA 315 Probability & Statistics I
+7. EVS 484 Topics in Environmental Studies
+8. **Four** courses to be chosen as indicated from the three lists below. Courses with a substantial focus on environmental content and relevant to a student’s particular course of study may be substituted to fulfill this category, subject to prior approval by the Environmental Studies administrative coordinator.
+	a.  **One or more** of the following **Natural Science** courses:
+		BIO 165 Ecology and Biology of Birds
+		BIO 175 Field Botany
+		BIO 185 Entomology
+		BIO 285 Animal Behavior (**NOTE:** *Taught at the Wilderness Field Station*)
+		BIO 295 Spatial Ecology and +++MISSING INFO: c.bio295L.long +++
+		CHM 103 Selected Concepts in Chemistry and +++MISSING INFO: c.chm103L.long +++ **OR** CHM 121 General Chemistry I and +++MISSING INFO: c.chm121L.long +++
+	b. **One or more** of the following **Social Science** courses:
+		BUS 170 Bus Sustainability & Environment
+		ECO 155 Econ/Ethics of Alternative Energy
+		ECO 215 Prin Microeconomics
+		+++MISSING INFO: c.evs112.long +++ (if not used to satisfy #5)
+		+++MISSING INFO: c.evs137.long +++
+		POL 115 American National Gov & Pol
+		POL 386 International Development
+		SOC 328 Urban Sociology
+	c. **One or more** of the following **Humanities** courses:
+		PHL 205 Environmental Ethics (if not used to satisfy #5)
+		RHE 135 Writers Colony (when topic is appropriate to major)
+		RHE 257 Environmental Rhetoric
+		RHE 345 Writing Wilderness
+
+
+### Courses in Environmental Studies (Collateral Major) 
+- **BUS 170 Bus Sustainability & Environment**
+  Examines the global trend of the increasing attention organizations are giving to environmental and sustainability issues, including evaluation of successful business practices being pursued by leading corporations. Consideration is given to why and how corporations are embracing such trends. Topics covered include eco-labeling, corporate environmental strategies, NGO-business partnerships, and emerging markets for environmental goods and services. Significant attention is given to global warming concerns and the emerging strategies for measuring and reducing the carbon footprint of business. 
+- **ECO 195 Prin of Environmental Economics**
+  An introduction to the economics of the environment and natural resource allocation. This course is focused on optimal resource allocation and the problems associated with externalities and public goods in the context of a market economy. Environmental issues and policy are analyzed using standard economic models. This course may be used to satisfy the requirements for a major in Environmental Studies but does not satisfy any of the requirements for a major or minor in economics. Prerequisite: Principles of Macroeconomics (ECO-175). 
+- **+++MISSING INFO: c.evs112.long +++**
+  +++MISSING INFO: c.evs112.desc +++ 
+- **+++MISSING INFO: c.evs137.long +++**
+  +++MISSING INFO: c.evs137.desc +++ 
+- **EVS 484 Topics in Environmental Studies**
+  An intensive examination of selected works and subjects dealing with environmental issues. Specific topics vary from year to year. Prerequisite: junior standing or permission of instructor. May be taken more than once for credit with permission of instructor. 
+
+
+
+
+
+
+
+
+
+
+
+
+

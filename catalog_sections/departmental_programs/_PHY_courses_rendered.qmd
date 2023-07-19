@@ -1,0 +1,120 @@
+## Physics 
+Affatigato (Chair), Akgun, Baehr, Bragatto, Duru, Feller, Wetzel
+
+The physics department serves a variety of students with a balanced program, giving equal emphasis to the needs of the technically and the non-technically oriented. 
+
+### Physics Major
+
+A major in physics requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+
+1. +++MISSING INFO: c.phy185_185l.long +++
+ 
+2. +++MISSING INFO: c.phy195_195l.long +++ 
+
+3. PHY 231 Mathematical Methods for Physicists 
+
+4. +++MISSING INFO: c.phy235_235l.long +++ 
+
+5. PHY 265 Electromagnetism 
+
+6. **Two** of the following courses:
+	PHY 275 Mechanics Formulations
+	PHY 315 Thermodynamics & Stat Mech
+	PHY 335 Quantum Mechanics
+	PHY 425 Solid State Physics
+
+7. **Four** additional physics courses, all of which must be numbered 150 or above. 
+
+8.	Comprehensive evaluation
+	Satisfactory completion of written and oral examinations
+
+***Recommended:***
+	CS 125 Computer Science I
+	+++MISSING INFO: c.chm121_121l.long +++
+
+### Physics Major
+A minor in Physics requires a cumulative 2.0 GPA in all courses counted toward the major.
+
+1. +++MISSING INFO: c.phy185_185l.long +++ or +++MISSING INFO: c.phy165_165l.long +++
+
+2. +++MISSING INFO: c.phy195_195l.long +++ or +++MISSING INFO: c.phy175_175l.long +++
+
+3. +++MISSING INFO: c.phy235_235l.long +++
+
+4. PHY 265 Electromagnetism 
+
+5. **Two** additional physics course approved by the department, both of which must be numbered 150 and above. 
+
+### Courses in Physics 
+- **PHY 105 Physics: An Historical Approach**
+  A course emphasizing important developments in physics from the time of Aristotle to the 20th century. Special attention is given to significant conceptual developments and major technological advances. Readings are selected from writings of some of the major figures in the history of physics, as well as modern commentators. The class experience includes reenactments of some historically significant experiments. 
+- **PHY 114 Modern Astronomy**
+  An introduction to the objects and phenomena found in the universe, including the solar system, planets, moons, comets, meteors, the sun, stars, birth and death of stars, neutron stars, pulsars, black holes, galaxies, quasars, and cosmological evolution. Laboratory activities required. This course satisfies the general education laboratory science requirement. Prerequisite: competence in algebra.  
+- **PHY 121 Everyday Physics**
+  Covers the principle of physics we use in our daily life. Examples from everyday experience are used to explain the fundamental principles of linear and rotational motion, momentum, forces, energy, as well as electricity, magnetism, and medical applications.
+- **+++MISSING INFO: c.phy155_155l.long +++**
+  +++MISSING INFO: c.phy155_155l.desc +++ 
+- **PHY 161 Energy: Science and Technology**
+  The physics and technology of energy generation, consumption, and conservation. Covers a wide range of energy sources, including fossil fuels, hydropower, solar energy, wind energy, bioenergy, and nuclear energy. Surveys the efficiencies and environmental impacts of energy use in transportation, manufacturing, and buildings.  
+- **+++MISSING INFO: c.phy165_165l.long +++**
+  +++MISSING INFO: c.phy165_165l.desc +++
+- **+++MISSING INFO: c.phy175_175l.long +++**
+  +++MISSING INFO: c.phy175_175l.desc +++
+- **PHY 181 Materials Science I**
+  Introduces the relationship of atomic arrangement with microscopic and macroscopic material properties using fundamental of physics and chemistry. Covers the crystalline and amorphous structures, the defects and grain boundaries. The emphasis is placed on relating the chemical composition, structure, and the material properties. 
+- **+++MISSING INFO: c.phy185_185l.long +++**
+  +++MISSING INFO: c.phy185_185l.desc +++  
+- **+++MISSING INFO: c.phy195_195l.long +++**
+  +++MISSING INFO: c.phy195__195l.desc +++
+- **PHY 201 Materials Science 2**
+  Incorporates the time dependent phenomena in solids: phase transformation, crystal nucleation and growth. Strong focus is placed on the phase diagrams and the technical methods on instrumental analysis of solid materials. Common material properties presented with focus on practical measurements: mechanical, thermal, optical, magnetic, and electrical properties. Prerequisite: Materials Science 1 (PHY-181) or consent of instructor.
+- **PHY 211 Glass Science**
+  Introduces the physics and chemistry behind the formation and study of glassy materials. The course covers glass making, glass structure and surfaces, property characterization, a wide array of industrial and scientific applications, as well as modern experimental techniques. It is especially suitable in preparation for glass research, and for students interested in a possible career in materials research and/or condensed matter physics. Prerequisite: General Physics II & Laboratory (PHY-195/-195L), or consent of instructor. 
+- **+++MISSING INFO: c.phy221.long +++**
+  +++MISSING INFO: c.phy221.desc +++  
+- **PHY 231 Mathematical Methods for Physicists**
+  Studies areas of mathematics which are of fundamental importance in the physical sciences. Topics include complex variables, Fourier analysis, eigenvalue problems, and vector calculus. Includes one computer laboratory session per week. Previous experience in calculus recommended. Prerequisite: Calculus II (MTH-145), or consent of instructor.
+- **PHY 235 Modern Physics**
+  Introductory study of the phenomena, techniques, and models of modern physics including quantum phenomena, special relativity physics, and their interpretive models. Laboratory activities required. Prerequisites: Calculus II (MTH-145) and General Physics II (PHY-225) or consent of instructor.
+- **PHY 235L Modern Physics Lab**
+  Introductory study of the phenomena, techniques, and models of modern physics including quantum phenomena, special relativity physics, and their interpretive models. Laboratory activities required. Prerequisites: Calculus II (MTH-145) and General Physics II & Laboratory (PHY-195/-195L) or consent of instructor.
+- **PHY 241 Introduction to Astrophysics**
+  Covers the fundamental concepts in astrophysics: The tools of astronomy, celestial mechanics, interaction of light and matter, telescopes, nature of the stars and their classifications. Other topics include the general overview of the solar system, and the binary systems. Prerequisite: General Physics II & Laboratory (PHY-195/-195L) or consent of instructor.
+- **PHY 251 Stars & Galaxies**
+  Focuses on the star formation and evolution, as well as the galactic evolution. The formation of the solar system and its implications, the degenerate remnants, and the Milky Way galaxy are covered. Prerequisite: General Physics II & Laboratory (PHY-195/-195L) or consent of instructor.
+- **+++MISSING INFO: c.phy255_355.long +++**
+  +++MISSING INFO: c.phy255_355.desc +++
+- **PHY 265 Electromagnetism**
+  Electromagnetic phenomena at the intermediate level, including circuits, static and quasi-static fields, Maxwell 2019s equations, radiation, and selected topics in properties of materials. Special topics in vector algebra, scalar and vector point functions, and differential vector calculus are developed and used. Prerequisites: General Physics II & Laboratory (PHY-195/-195L) and Calculus II (MTH-145) or consent of instructor.
+- **PHY 275 Mechanics Formulations**
+  The Newtonian, Lagrangian, and Hamiltonian formulations of the laws of motion. Applications to systems of particles, extended objects, and oscillatory systems. Prerequisites: General Physics II & Laboratory (PHY-195/-195L) and Calculus II (MTH-145) or consent of instructor.
+- **PHY 301 Optics & Waves**
+  A treatment of the theory of modern optics, wave theory, as well as mechanical and electromagnetic oscillations. Introducing a variety of topics, including geometrical and physical optics, mathematics of wave motion, propagation, reflection, refraction, phenomenon of resonance in oscillations, and Fourier formalism. Prerequisites: Electromagnetism (PHY-265) or consent of instructor.
+- **PHY 311 Renewable Energy (WE)**
+  Reviews the scientific fundamentals of renewable energy production. Basic thermodynamic principles of the heat engines, the hydrogen production and storage methods are covered. Renewable energy sources including solar, biomass, wind, and ocean engine designs are discussed in detail. Also includes some hands-on experiments on solar, wind, and fuel cell systems. Prerequisite: General Physics II & Laboratory (PHY-195/-195L), or consent of instructor.
+- **PHY 315 Thermodynamics & Stat Mech**
+  An introduction to fundamental concepts such as temperature, phase transitions, the First, Second, and Third Laws of thermodynamics, and the work/ entropy relationship. The Statistical Mechanics half covers a mathematical treatment of partition functions, thermal properties of solids, and critical-point transitions. Prerequisites: General Physics II (PHY-225) and Calculus III (MTH-255) or consent of instructor.
+- **PHY 321 Health Physics**
+  Studies the use of physics in medicine. The basic principles of the medical physics applications, such as radiation therapy, dosimetry, computed tomography (CT), positron emission tomography (PET), single photon emission spectroscopy (SPECT), Magnetic Resonance Imaging (MRI), Nuclear Magnetic Resonance (NMR), and crystallography are covered. Prerequisite: General Physics II & Laboratory (PHY-195/-195L), or consent of instructor.
+- **PHY 335 Quantum Mechanics**
+  An introduction to the formal treatment of quantum mechanics. This course covers the Schrodinger wave equation, the Dirac Braket notation, operator formalism, spin and angular momentum, the wave equation in one and three dimensions, and perturbation theory. Prerequisites: Modern Physics (PHY-235) and Calculus III (MTH-255) or consent of instructor.
+- **PHY 341 Space Plasma Physics**
+  Focuses on the behavior of plasma in space environment. Covers the plasma parameters, waves, the planetary atmospheres, ionospheres, and magnetospheres. Prerequisite: Introduction to Astrophysics (PHY-241) or consent of instructor.
+- **PHY 411 Robotics & Advanced Electronics**
+  Covers both software and hardware techniques in physics. The software portion includes sophisticated operations datasets, such as Fourier transforms, nonlinear fits, residual analysis, statistical and characterization. Most of the course is dedicated to advanced electronics, microcontrollers, and computer-control of data acquisition. This hardware portion starts with discussions of operational amplifiers, bandpass filters, transducers, and other advanced analog electronic concepts. The course then moves on to the use of microcontrollers to acquire data and to perform actions in response to the inputs. Stepping and servo motors, sensors, and other input/output devices are some of the topics that are covered during this stage. Project-based work is an important part of the course. Electronics (PHY-125) and some background in programming are also recommended. Prerequisite: General Physics II & Laboratory (PHY-195/-195L),
+- **PHY 425 Solid State Physics**
+  Study of the structure and properties of crystalline and amorphous solids. The main topics include crystal structure and quantized vibrations (phonons); electronic band structure and its relation to electrical, thermal, and optical behavior; semiconductors and superconductors. Prerequisites: Modern Physics & Laboratory (PHY-235/-235L) and Calculus III (MTH-255) or consent of instructor.
+- **PHY 441 Relativity and Cosmology**
+  An introduction to Einstein 2019s general theory of relativity, as well as the intervals, geodesics, black holes, and close binary star systems. The course starts with an introduction to tensor calculus, then covers the Newtonian, relativistic and observational cosmology, and the physics of the early Universe. Prerequisite: Modern Physics (PHY-235) and Mathematical Methods for Physical Sciences (PHY-365), or consent of instructor.
+- **PHY 444 Ind Study-Physics**
+  Independent study of topics under the guidance of the department: experimental or pedagogical research on a problem predefined by the student in consultation with the department. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisites: demonstrated initiative and self-discipline, four courses in physics, and consent of department chair.
+- **PHY 451 Particle Physics**
+  Reviews the Standard Model, particle detection techniques, and the particle physics experiments. The nuclear weak, strong, and the electromagnetic interactions, Feynman diagrams, quark model, relativistic kinematics are also covered. Prerequisite: Modern Physics PHY-235, or consent of instructor.
+- **PHY 454 Summer Research**
+  May be taken more than once for credit for a maximum of 2.0 credits. Prerequisite: consent of instructor.
+- **PHY 464 Junior-Senior Seminar I**
+  Presentations and discussions of advanced topics unavailable through the regular catalog offerings, and appropriate to students enrolled. Prerequisites: Electromagnetism (PHY-265) and consent of instructor.
+- **PHY 484 Advanced Topics in Physics**
+  Covers several instructional modules. The content corresponds to material usually covered in the second-semester of an advanced, year-long course. Core modules include quantum mechanics (e.g., Bell 2019s theorem) and electromagnetism (e.g., stress tensor). The four remaining modules are chosen from topics that include optics, fluid dynamics, experimental techniques, nuclear physics, geophysics, advanced classical mechanics, waves, statistical mechanics, and atomic physics. Prerequisite: Quantum Mechanics (PHY-335) and Electromagnetism (PHY-265), or consent of instructor.
+- **OCC 365 Study & Research at Oak Ridge Lab**
+  See description, p. 28

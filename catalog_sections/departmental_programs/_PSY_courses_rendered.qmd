@@ -1,0 +1,109 @@
+## Psychology {#sec-psychology}
+Baker, Brown, Castillo, Chihak, Farrell (Chair, Fall), Kelly (Chair, Spring), Lee, Recker, Stephenson
+
+Psychology is the scientific study of behavior and mental processes—the basis for both a field of scientific knowledge and of professional application. Both required and elective courses in psychology are grounded in the scientific approach. As an important tool for the understanding of both theory and data, the study of basic statistical and methodological concepts is included among courses required of all students majoring in psychology.  
+
+In addition to a major in **Psychology**, the College also offers collateral majors in **Neuroscience** (see @sec-neuroscience ) and **Organizational Science** (see @sec-organizational-science ). 
+
+### Secondary Education Certification in Psychology
+Students seeking certification to teach psychology at the secondary level are strongly encouraged to speak with an advisor in Education as early as possible in their program of studies. 
+
+### Psychology Major 
+A major in Psychology requires a cumulative 2.0 GPA in all courses counted toward the major.
+1. PSY 100 Introductory Psychology
+
+2. PSY 200 Research Methods
+ 
+3. PSY 215 Topics in Diversity & Inclusion (7 weeks) (0.5 credits)
+
+4. PSY 295 Applied Contemporary Psychology 
+
+5. PSY 300 Stat Methods and Data Analysis 
+ 
+6. PSY 464 Seminar in Psychology 
+
+7. **One**of the following:
+	PSY 455 Advanced Experimental Psychology 
+	PSY 494 Internship in Psychology 
+
+8. **One** of the following:
+	PSY 205 Developmental Psychology 
+	PSY 235 Abnormal Psychology 
+
+9. **One** of the following:
+	PSY 245 Organizational Psychology 
+	PSY 255 Social Psychology 
+
+10. **One** of the following:
+	PSY 205 Developmental Psychology 
+	PSY 260 Cognitive Psychology 
+ 
+11. **One** of the following:
+	+++MISSING INFO: c.psy325_325l.long +++
+	+++MISSING INFO: c.psy335_335l.long +++
+	+++MISSING INFO: c.psy355_355l.long +++
+
+12. **One** of the following:
+	PSY 315 Learning & Behavior
+	PSY 350 Drugs & Behavior
+	PSY 415 Counseling Psychology
+	PSY 450 Behavioral Neuroscience
+	PSY 465 Industrial Psychology
+	PSY 475 Testing & Measurement
+
+### Courses in Psychology
+
+- **PSY 100 Introductory Psychology**
+  Basic concepts, theories, and methods in the study of behavior and mental processes. Provides a basic understanding of psychology for interested students, who may take this as their only course in psychology, as well as for future majors.  
+- **PSY 137 Human Sexuality**
+  See also Nursing (NUR-137), p. 154 This course does not satisfy any of the requirements for a major in psychology.
+- **PSY 200 Research Methods**
+  Discussion of and experience in designing research studies, collecting and analyzing data, and preparing research reports in psychology. Coverage includes descriptive, correlational, quasi-experimental, and experimental methods, and basic statistical analysis using SPSS. Prerequisites: Introductory Psychology (PSY-115).  
+- **PSY 205 Developmental Psychology**
+  Consideration of the major principles of maturation from conception to death. Critical evaluation of contemporary theories in physical, sensory, cognitive, emotional, and social development. Special attention to empirical, experimental, and theoretical literature related to the developmental process. Prerequisite: Introductory Psychology (PSY-100).
+- **PSY 208 Gender Psychology**
+  Psychological perspectives on the differences and similarities between females and males. Examination of theory and research includes topics such as: hormones and brain structure, intelligence, education, social roles, stereotypes, emotion, health, employment, and relationships. Prerequisite: Introductory Psychology (PSY-100). (Offered on an occasional basis)  
+- **PSY 215 Topics in Diversity & Inclusion**
+  Introduces the critical role of socio-cultural context in the understanding of human behavior, emotion, and thought processes. Addresses issues related to diversity and inclusion within a particular subfield of psychology. Topics may include sexuality, health, power & prejudice, discrimination, and cultural development. May only be taken once for credit. Prerequisite: Introductory Psychology (PSY-100).
+- **PSY 235 Abnormal Psychology**
+  Study of the diagnosis, etiology, explanation, and treatment of major mental disorders. Focus is on understanding the interplay of biological and psychological forces in the development and treatment of disorders, with emphasis on research findings. Appropriate for first-year students and sophomores. Prerequisite: Introductory Psychology (PSY-115).  
+- **PSY 245 Organizational Psychology**
+  Scientific study of how human attitudes and behavior are affected by organizational characteristics. Involves the application of psychological research and theories in organizational settings. Major topics include motivation, leadership, team performance, job attitudes, organizational justice, and organizational culture. Prerequisite: Introductory Psychology (PSY-115).
+- **PSY 250 Biopsychology**
+  Introduces students to the biological bases of behavior and mental processes. This course emphasizes the cell biology of neurons, neural communication, and the organization of the nervous system. The neurological basis of psychological processes such as sensation, learning, memory, and cognition are discussed. Prerequisite: Introductory Psychology (PSY-100).  
+- **PSY 255 Social Psychology**
+  Examination of individual human behavior as it is influenced by social variables. Topics covered include person perception, conformity, attitudes, prejudice, persuasion, helping, aggression, and group processes. Experimental research methods and findings are given emphasis. Prerequisite: Research Methods (PSY-200) or consent of instructor.
+- **+++MISSING INFO: c.psy60.long +++**
+  Explores current theories, research findings, and applications in the areas of attention, perception, consciousness, knowledge representation, memory processes, language comprehension and production, inductive and deductive reasoning, evaluation and decision making, human and artificial intelligence, problem solving and creativity, and cross-cultural cognition. Prerequisite: Introductory Psychology (PSY-100).
+- **PSY 295 Applied Contemporary Psychology**
+  Addresses complex interpersonal, cultural, ethical, and legal issues that may arise in psychology-related professional settings, using established theoretical and practical frameworks. Taken prior to Internship in Psychology (PSY-494), this course allows students to explore various psychology-related careers and develop some of the applied knowledge necessary for entry into such careers. Prerequisites: Introductory Psychology (PSY-100), a declared major in psychology, or consent of instructor.  
+- **PSY 300 Stat Methods and Data Analysis**
+  Core topics include the theoretical foundations of estimation, variability, and inferential statistics critical for statistical literacy. Focus is on the development of proficiency in data analysis using SPSS, interpretation of analyses, graphical representation of data, and written communication of results. Prerequisite: Research Methods (PSY-200).
+- **PSY 315 Learning & Behavior**
+  Discussion of how behavior changes as a result of our experiences. The course focuses on roles of respondent and operant learning in the development and expression of adaptive and maladaptive behaviors and emotional responses. Students are provided opportunities to discover how learning principles are applied in contemporary behavior modification and behavior therapy. The role of learning is discussed in contexts such as health-related behaviors, sex and love, self-control, drug addiction, and psychological disorders. Prerequisites: Introductory Psychology (PSY-100) and sophomore standing.  
+- **PSY 325 Health Psychology**
+  An introduction to scientific research and theory on the relationship between physical health and mental processes, emotion, and behavior. Topics include stress, coping, compliance with medical advice, health promotion, disease prevention, pain, chronic illness (e.g., cardiovascular disease, cancer, AIDS), and health behaviors (e.g., smoking, diet, exercise). Prerequisites: Research Methods (PSY-200) and Introduction to Biopsychology (PSY-250) or consent of instructor.
+- **PSY 335 Sensation & Perception**
+  Explores current theories, research findings, and laboratory applications related to how individuals detect and perceive sensory information in the environment. An overarching theme is how organisms appear to generate accurate percepts despite the limited and ambiguous nature of incoming sensory information. While the primary focus is on human vision, the most extensively studied of the senses, other systems are discussed. Course material covers basic biological structures (e.g. photoreceptors) that detect and transduce environmental energy into electrical impulses transmitted throughout the nervous system. Three hours of lecture and three hours of laboratory per week. Prerequisites: Statistical Methods and Data Analysis (PSY-300).  
+- **PSY 350 Drugs & Behavior**
+  Explores how psychoactive drugs affect the nervous system. Concepts particularly relevant to a wide variety of psychological, sociological, and health-related careers in which clients are commonly taking drugs, therapeutically or recreationally. Course focuses on factors that influence the variability of drug effects, including neural, pharmacological, and psychological mechanisms. Major topics include the problem and implications of categorizing drugs, basic neural function, principles of pharmacology, and physiological and psychological aspects of addiction. Selected psychotherapeutic drugs and legal and illegal drugs of abuse are surveyed. Prerequisite: Introduction to Biopsychology (PSY-250) or Integrated Human Physiology (BIO-375).
+- **PSY 354 Research Participation**
+  Research and investigation of an area of interest supervised by a faculty member of the department. The student must obtain approval of a specific plan and complete the necessary arrangements prior to the term of registration for the course. S/U basis only. Prerequisites: Research Methods (PSY-200) and consent of instructor.
+- **PSY 355 Personality**
+  Explores current theories, research findings, and laboratory applications related to the structure, development, and dynamic processes underlying the differences in how people act, think, and feel. Includes methods of constructing and evaluating personality assessment techniques. Three hours of lecture and three hours of laboratory per week. Prerequisite: Statistical Methods and Data Analysis (PSY-300).  
+- **PSY 415 Counseling Psychology**
+  A general introduction to the field of counseling. Topics include ethical principles of the counseling profession, legal issues and licensing, counseling in a diverse and multicultural society, and effectiveness of various forms of therapy. Major theoretical approaches including psychoanalytic, humanistic, existential, cognitive-behavioral, couples and family systems are covered. Prerequisite: Abnormal Psychology (PSY-235).
+- **PSY 444 Ind Study-Psychology**
+  Independent reading and the preparation of a proposal, with consent of psychology department faculty required prior to the term of registration. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisites: Research Methods (PSY-200), a declared major in psychology and consent of instructor.  
+- **PSY 450 Behavioral Neuroscience**
+  Further explores relationship between the nervous system and behavior begun in Introduction to Biopsychology (PSY-225). The course provides a more in-depth study of neural function and explores many new areas. Focuses on development of the nervous system, neural communication, neuroanatomy, hierarchical and parallel organization, neural plasticity, sensorimotor function, and neurohormonal influences on sexual development and behavior. Prerequisites: junior standing and either Introduction to Biopsychology (PSY-250) or Integrated Human Physiology (BIO-375).
+- **PSY 455 Advanced Experimental Psychology**
+  A capstone course for students interested in conducting psychological research. Topics include legal and ethical responsibilities in psychological research, conducting literature reviews, research design, use of statistical software (e.g., SPSS and SAS), interpretation of statistical results, and clear communication and presentation of scientific information. Students also present their research findings in a public forum. S/U basis only. May be taken more than once for credit. A maximum of one course credit may be counted toward a major in psychology.  Prerequisites: Research Methods (PSY-200) and a declared major in psychology.
+- **PSY 464 Seminar in Psychology**
+  Intensive study of a topic selected by the instructor. May be taken more than once for credit, provided the topics are substantially different. Prerequisites: Statistical Methods and Data Analysis (PSY-300) or consent of instructor.  
+- **PSY 465 Industrial Psychology**
+  The scientific study of making decisions about and developing people within organizations. Examines psychological perspective, procedures aimed at improving productivity and fairness in work settings. Students in the course complete multiple applied projects. Major topics include job analysis, employee selection, performance evaluation, and employee training and development. Prerequisite: junior standing and Research Methods (PSY-200), or one term of college-level statistics.
+- **PSY 475 Testing & Measurement**
+  Investigation of classical measurement theory, focusing on issues of reliability, validity, and item characteristics, and of some of the most commonly used tests in educational, industrial, and clinical settings. Covers appropriate methods of constructing and evaluating classroom measurement instruments and explores ethical, legal, and financial issues in testing. Prerequisite: Research Methods (PSY-200) or one term of college-level statistics.
+- **PSY 494 Internship in Psychology**
+  On-site work experience in psychology under the direction of the on-site supervisor and a faculty member of the department. A minimum of 140 hours on-site experience is required. S/U basis only. One course credit of Internship in Psychology may be counted toward a major in psychology. Prerequisites: Applied Contemporary Psychology (PSY-295), a declared major in psychology, and consent of instructor.  

@@ -1,0 +1,20 @@
+## Statistics (Courses Only)
+
+Cross. 
+
+### Courses in Statistics 
+
+- **STA 100 Statistical Reasoning I-Foundations**
+  A hands-on introduction to the use of statistical techniques. Provides a foundation for statistical analysis and introduces the basic concepts involved in data collection and presentation. (0.5 course credit) (Offered first 7 weeks of Term)  
+- **STA 105 Probability: A World of Chance**
+  An introduction to probability and its applications in our world. This hands-on course examines how probability techniques can be used to understand topics in science, government, recreation, and communication. Bizarre events in everyday life are also discussed. This course is appropriate for a varied audience. Some ability in arithmetic and elementary algebra is assumed. This course does not satisfy any of the requirements for a major or minor in the mathematical sciences.
+- **STA 110 Stats IIA: Inferential Reasoning**
+  A continuation of Statistical Reasoning I (STA-100), presenting a broad range of data analysis techniques. Topics covered include hypothesis testing, confidence intervals, Chi-square tests, and regression. Emphasis is on a project-based approach to analyzing data. Prerequisite: Statistical Reasoning I (STA-100) or consent of instructor. (0.5 course credit) (Offered second seven weeks of Term)
+- **STA 130 Stats IIB: Experimental Design**
+  +++MISSING INFO: c.smt130.desc +++
+- **STA 315 Probability & Statistics I**
+  A calculus-based introduction to the mathematical theory of probability and statistics. Topics include enumeration techniques, Bayes 2019 theorem, random variables, discrete and continuous distributions, expectation, moment-generating functions, and sampling distribution theory. Prerequisites: Calculus II (MTH-145) and Foundations of Advanced Mathematics (MTH-215) or consent of instructor.
+- **STA 325 Probability & Statistics II**
+  +++MISSING INFO: c.smt325.desc +++
+
+
