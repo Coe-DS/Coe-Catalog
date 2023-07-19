@@ -1,6 +1,5 @@
 # DEPARTMENTAL PROGRAMS 
 
-<!--
 {{< include departmental_programs/_AccMan_courses.qmd >}}
 
 {{< include departmental_programs/_AccPub_courses.qmd >}}
@@ -120,7 +119,6 @@
 {{< include departmental_programs/_STA_courses.qmd >}}
 
 {{< include departmental_programs/_THE_courses.qmd >}}
--->
 
 {{< include departmental_programs/_WKS_courses.qmd >}}
 

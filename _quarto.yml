@@ -1,7 +1,6 @@
 project:
   type: book
   output-dir: docs
-  pre-render: Variable_replacement.py
 
 execute:
   warning: false
@@ -53,70 +52,7 @@ book:
     - part: "COURSES OF INSTRUCTION"
       chapters:
       - catalog_sections/26_academic_programs.qmd
-      - catalog_sections/departmental_programs/_AAM_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_ACC_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_ANT_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_ARH_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_ART_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_ASC_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_DAN_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_AT_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_AccMan_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_AccPub_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_BIO_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_BUS_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_BioChe_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_CHM_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_CLA_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_COM_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_CRW_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_CS_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_DAN_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_DS_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_ECO_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_EDU_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_ENG_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_EVS_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_EcoSec_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_FLM_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_FRE_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_GRK_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_GS_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_GenSci_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_HIS_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_HSS_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_INT_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_IS_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_IntBus_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_IntEco_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_IntStu_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_JPN_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_KIN_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_LIT_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_LTN_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_MTH_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_MU_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_MolBio_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_NUR_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_Neuro_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_OS_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_PE_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_PHL_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_PHY_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_POL_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_PR_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_PSY_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_REL_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_RHE_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_SCJ_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_SE_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_SMT_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_SOC_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_SPA_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_STA_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_THE_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_WKS_courses_rendered.qmd
-      - catalog_sections/departmental_programs/_WRI_courses_rendered.qmd
+      - catalog_sections/27_departmental_programs_rendered.qmd
       - catalog_sections/28_reserve_officer_training_corps_rendered.qmd
     - part: "FINANCIAL RESOURCES"
       chapters:
@@ -124,8 +60,8 @@ book:
       - catalog_sections/30_financial_aid_and_scholarship_rendered.qmd
     - catalog_sections/references_rendered.qmd
 
-bibliography: references.bib
-suppress-bibliography: true
+#bibliography: references.bib
+#suppress-bibliography: true
 
 toc: true
 toc-depth: 2
