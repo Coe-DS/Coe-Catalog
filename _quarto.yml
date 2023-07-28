@@ -61,6 +61,9 @@ book:
       chapters:
       - catalog_sections/29_financial_information_rendered.qmd
       - catalog_sections/30_financial_aid_and_scholarship_rendered.qmd
+    - part: "MISCELLANEOUS RESOURCES"
+      chapters:
+      - catalog_sections/31_directories_rendered.qmd
     #- catalog_sections/references_rendered.qmd
 
 #bibliography: references.bib
