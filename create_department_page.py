@@ -29,7 +29,7 @@ def process_departmental_files():
                 qmd_files.append(os.path.join(root, file))
 
     # Make sure there is only one file to work on
-    assert len(qmd_files) > 1, "Too many departmental_programs.qmd files detected!"
+    assert len(qmd_files) == 1, "Too many departmental_programs.qmd files detected!"
 
     with open(qmd_files[0],"r") as fid:
         dept_text = fid.read().strip().split("\n")
