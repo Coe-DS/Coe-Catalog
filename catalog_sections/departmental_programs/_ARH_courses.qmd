@@ -1,0 +1,90 @@
+## Art History
+
+### Art History Major 
+
+A grade of “C” (2.0) or higher must be earned in all courses counted toward a major in art history.
+An Art History major may also complete an Art minor, but only two courses may count toward both the major and the minor.
+
+
+1. {{< var c.arh128.long >}}    
+2. Two 200-level ARH courses  
+3. Two additional courses approved by the department, chosen from the following:  
+    - Courses in Art History (ARH-___)  
+    - {{< var c.ant125.long >}}  
+    - {{< var c.his318.long >}}  
+    - {{< var c.com161.long >}}  
+    - {{< var c.flm225.long >}}  
+    - {{< var c.com357.long >}}  
+4. One of the following  
+    - {{< var c.arh307.long >}}  
+    - {{< var c.arh310.long >}}  
+5. {{< var c.arh464.long >}}  
+6. {{< var c.arh474.long >}}   
+7. One 100- ART course  
+8. One 300-level ART course  
+
+note: Scheduling may be planned to allow at least one term of study off-campus at one of the approved foreign or domestic programs. With departmental approval, up to three courses from these programs may count toward either the two 200-level courses in item 2 or the two additional courses in item 3.
+
+Students interested in art history or visual culture at the graduate level should complete Intermediate French I (FRE-215).
+
+### Art History Minor
+
+A grade of “C” (2.0) or higher must be earned in all courses counted toward a minor in art history.
+
+
+1. {{< var c.arh128.long >}}  
+2. Three additional art history courses, one of which must be ARH-200 or above.  Can also include one of the following:  
+   - {{< var c.ant125.long >}}  
+   - {{< var c.his318.long >}}  
+   - {{< var c.com161.long >}}  
+   - {{< var c.flm225.long >}}  
+   - {{< var c.com357.long >}}  
+3. One of the following  
+   - {{< var c.arh307.long >}}
+   - {{< var c.arh310.long >}}  
+4. One 100- or 300-level ART- course
+
+### COURSES IN ART HISTORY
+
+- {{< var c.arh106.long >}}   
+  {{< var c.arh106.desc >}}   
+- {{< var c.arh107.long >}}   
+  {{< var c.arh107.desc >}}   
+- {{< var c.arh128.long >}}   
+  {{< var c.arh128.desc >}}   
+- {{< var c.arh191.long >}}   
+  See also {{< var c.art91.short >}}   
+  {{< var c.arh191.desc >}}   
+- {{< var c.arh201.long >}}  
+  {{< var c.arh201.desc >}}  
+- {{< var c.arh218.long >}}  
+  {{< var c.arh218.desc >}}  
+- {{< var c.arh231.long >}}  
+  {{< var c.arh231.desc >}}  
+- {{< var c.arh248.long >}}  
+  {{< var c.arh248.desc >}}  
+- {{< var c.arh268.long >}}  
+  {{< var c.arh268.desc >}}  
+- {{< var c.arh296.long >}}  
+  {{< var c.arh296.desc >}}  
+- {{< var c.arh297.long >}}  
+  {{< var c.arh297.desc >}}  
+- {{< var c.arh298.long >}}  
+  {{< var c.arh298.desc >}}  
+- {{< var c.arh307.long >}}  
+  {{< var c.arh307.desc >}}  
+- {{< var c.arh310.long >}}  
+  {{< var c.arh310.desc >}}  
+- {{< var c.arh391.long >}}  
+  See also {{< var.art291.short >}}  
+  {{< var c.arh391.desc >}}  
+- {{< var c.arh394.long >}}  
+  {{< var c.arh394.desc >}}  
+- {{< var c.arh444.long >}}  
+  {{< var c.arh444.desc >}}  
+- {{< var c.arh464.long >}}  
+  {{< var c.arh464.desc >}}  
+- {{< var c.arh474.long >}}  
+  {{< var c.arh474.desc >}}  
+- {{< var c.arh494.long >}}  
+  {{< var c.arh494.desc >}}  
