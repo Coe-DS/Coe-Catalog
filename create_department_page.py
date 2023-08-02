@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-import os, re, json
+import os
 
 
 def clean_department_file():
@@ -28,8 +28,8 @@ def process_departmental_files():
             if file.endswith("departmental_programs.qmd"):
                 qmd_files.append(os.path.join(root, file))
 
-    if len(qmd_files) > 1:
-        error("Too many departmental_programs.qmd files detected!")
+    # Make sure there is only one file to work on
+    assert len(qmd_files) > 1, "Too many departmental_programs.qmd files detected!"
 
     with open(qmd_files[0],"r") as fid:
         dept_text = fid.read().strip().split("\n")
