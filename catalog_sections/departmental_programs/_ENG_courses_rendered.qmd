@@ -24,17 +24,18 @@ The minor in English consists of five course credits, including ENG 111 Introduc
 ### Courses in Literature
 
 - **ENG105 Composition I**
-  nan  
+  None  
 - **ENG 107 Exploring Literature:US Pluralism**
   Explores works by writers from one or more subgroups in American culture with the purposes of stimulating the appreciation of literary art and considering the various functions of literature in the contemporary world.  
 - **ENG105 Composition I**
-  nan  
+  None  
 - **ENG 108 Exp Lit:Diverse Western Perspective**
   Explores works by writers from one or more subgroups in Western Civilization outside the United States with the purposes of stimulating the appreciation of literary art and considering the various functions of literature in the contemporary world.  
 - **ENG 110 Ancient Mythology**
   Study of the myths of the ancient Greeks and Romans, while briefly touching on their Near Eastern predecessors as a way of investigating the character of myth and the purpose it plays in society. We examine these myths not only through the ancient texts, but by studying theoretical models and approaches to mythology.  
 - **ENG 111 Introduction to Literary Studies**
-  The Art of Reading and Writing (WE). Study of selected works of fiction, poetry, and drama with an emphasis on close reading and expository writing. This course introduces terms and skills necessary for further literary study.  
+  The Art of Reading and Writing (WE). Study of selected works of fiction, poetry, and drama with an emphasis on close reading
+and expository writing. This course introduces terms and skills necessary for further literary study.  
 - **ENG 112 Environmental Humanities**
   Introduces fundamental issues, questions, and methods relating to humans and our environment. This course explores how human cultures may participate in the response to environmental challenges through an analysis of various literary works and other forms of cultural production.  
 - **ENG 115 The Classical Tradition**
@@ -48,7 +49,7 @@ The minor in English consists of five course credits, including ENG 111 Introduc
 - **ENG 146 Intro Postcolonial Literature**
   Study of twentieth-century prose and poetry arising out of the cultural, social, economic, and legal harms of imperialism and colonization.  
 - **ENG 157 Latinx/Chicanx Literature**
-  Explores the lived experiences and cultures of Latinx and Chicanx communities in the U.S. through fiction, poetry, and non-fiction by Latina/os and Chicana/os. This course examines cultural works from dominant U.S. sub-groups 2014 such as Mexican-Americans 2014and from communities with roots in South America, Central America, and the Caribbean. It interprets these works in relation to cultural, historical, and sociopolitical contexts.  
+  Explores the lived experiences and cultures of Latinx and Chicanx communities in the U.S. through fiction, poetry, and non-fiction by Latina/os and Chicana/os. This course examines cultural works from dominant U.S. sub-groups— such as Mexican-Americans—and from communities with roots in South America, Central America, and the Caribbean. It interprets these works in relation to cultural, historical, and sociopolitical contexts.  
 - **ENG 175 Contemporary Literature**
   Study of American or British literature from 1945 to the present.  
 - **ENG 206 Gender and Literature: NWP**
@@ -56,7 +57,7 @@ The minor in English consists of five course credits, including ENG 111 Introduc
 - **ENG 207 Gender & Lit:US Pluralism**
   Examination of a particular author, theme, region, or genre in the context of gender and sexuality studies. Course focuses on topics related to United States pluralism, such as American Women Writers or Gender and Race in American Literature.  
 - **ENG 208 Gender & Lit:DWP**
-  Examination of a particular author, theme, region, or genre in the context of gender and sexuality studies. Course focuses on topics related to Western cultural diversity, such as Gender Identity in Literature, Renaissance Women Writers, Women 2019s Autobiography.  
+  Examination of a particular author, theme, region, or genre in the context of gender and sexuality studies. Course focuses on topics related to Western cultural diversity, such as Gender Identity in Literature, Renaissance Women Writers, Women’s Autobiography.  
 - **ENG 281 Literatures in English to 1800**
   Charts literary developments and transformations before 1800 in relation to changing historical conditions, from the history of books and writing to the wider histories of social, political, and cultural movements. An excursion into the literary, social, and cultural histories of the English speaking world, this course may include works by Bristish, American, or Anglophone writers.  
 - **ENG 291 Literatures in English after 1800**
@@ -74,7 +75,8 @@ The minor in English consists of five course credits, including ENG 111 Introduc
 - **ENG 357 Studies in Latinx/ChicanxLiterature**
   Reviews selected works of literature by Latina/os and Chicana/os. Students explore through reading and discussion methods and concepts relating to human rights, coloniality, diaspora, Latinidad and/or linguistic philosophy to better understand the lived experiences, identities, and cultures of Latinx and Chicanx communities in the U.S. Specific topics vary from year to year.  
 - **ENG 367 Studies in African Am Literature**
-  See also African American Studies (AAM-367),  Course focuses on specific literary genres or time periods and functions as an intermediate course between the introductory African American Literature (AAM/ENG-267) and the advanced English seminar (particularly Seminar in Literature: United States Pluralism (ENG-707)). Students read and discuss both primary and secondary sources in an effort to gain a fuller understanding and appreciation of the artistic values and of the social and cultural significance of these writings. Specific topics vary from year to year. Possible topics include African American Historical Fiction, African American Speculative Fiction, Literature of the Civil Rights Era, and the African American Bildungsroman. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
+  See also African American Studies (AAM-367), 
+Course focuses on specific literary genres or time periods and functions as an intermediate course between the introductory African American Literature (AAM/ENG-267) and the advanced English seminar (particularly Seminar in Literature: United States Pluralism (ENG-707)). Students read and discuss both primary and secondary sources in an effort to gain a fuller understanding and appreciation of the artistic values and of the social and cultural significance of these writings. Specific topics vary from year to year. Possible topics include African American Historical Fiction, African American Speculative Fiction, Literature of the Civil Rights Era, and the African American Bildungsroman. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
 - **ENG 375 Study in European Literature**
   Study of selected works in English or translation by major European writers. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
 - **ENG 378 Studies in Transatlantic Literature**
@@ -82,9 +84,9 @@ The minor in English consists of five course credits, including ENG 111 Introduc
 - **ENG 380 The Age of Chaucer**
   Reading and discussion of literature of the later Middle Ages, with some emphasis on the work of Geoffrey Chaucer. This course may count toward the upper-level early British literature requirement for the English major. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
 - **ENG 382 Shakespeare:Com/Rom**
-  Reading, viewing, and discussion of comedies and romances spanning Shakespeare 2019s career. This course may count toward the upper-level early British literature requirement for the English major. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
+  Reading, viewing, and discussion of comedies and romances spanning Shakespeare’s career. This course may count toward the upper-level early British literature requirement for the English major. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
 - **ENG 383 Shakespeare:Tragedies & Histories**
-  Reading, viewing, and discussion of history plays and tragedies, with some emphasis on the middle period of Shakespeare 2019s career, including the major tragedies. This course may count toward the upper-level early British literature requirement for the English major. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
+  Reading, viewing, and discussion of history plays and tragedies, with some emphasis on the middle period of Shakespeare’s career, including the major tragedies. This course may count toward the upper-level early British literature requirement for the English major. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
 - **ENG 384 British Renaissance Literature**
   Study of the development of English literature in the sixteenth and seventeenth centuries. Typically the focus is on either poetry or drama. This course may count toward the upper-level early British literature requirement for the English major. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
 - **ENG 385 Restoration &18th Cntry British Lit**
@@ -92,9 +94,9 @@ The minor in English consists of five course credits, including ENG 111 Introduc
 - **ENG 388 Romantic Literature**
   Study of major works from 1780 to 1830, with emphasis on writings by Blake, Wollstonecraft, Wordsworth, Coleridge, Austen, Byron, Keats, P. Shelley, and M. Shelley. This course may count toward the upper-level early British literature requirement for the English major. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
 - **ENG 390 Victorian Literature**
-  Study of poetry and prose of the Victorian era from 1832 through the fin-de-si 00e8cle, including such writers as Tennyson, Browning, Barrett Browning, Arnold, Mill, Ruskin, C. Rossetti, D. G. Rossetti, Swinburne, Hopkins, and Wilde. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
+  Study of poetry and prose of the Victorian era from 1832 through the fin-de-siècle, including such writers as Tennyson, Browning, Barrett Browning, Arnold, Mill, Ruskin, C. Rossetti, D. G. Rossetti, Swinburne, Hopkins, and Wilde. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
 - **ENG 392 19th Century British Novel**
-  Study of major British novelists such as Austen, Scott, Dickens, C. Bront 00eb, E. Bront 00eb, Eliot, Collins, and Hardy. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
+  Study of major British novelists such as Austen, Scott, Dickens, C. Brontë, E. Brontë, Eliot, Collins, and Hardy. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
 - **ENG 393 Study in Cont/Mod British Fiction**
   Study of novels, short fiction, and poetry by British writers of the twentieth and twenty-first centuries, or of an author, topic, or genre of the period. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
 - **ENG 394 Directed Learning in English**

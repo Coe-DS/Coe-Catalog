@@ -111,7 +111,8 @@ Statistics 	+++MISSING INFO: c.sta300.long +++ **or**
   +++MISSING INFO: c.dsnur100.desc +++  
 - **NUR 137 Human Sexuality**
 See also PSY 137 Human Sexuality , @sec-psychology
-  See also Psychology (PSY-137), p. 170 Examines human sexuality from the psychosocial, biophysiological, and cultural perspective. Topics include, but are not limited to, cultural and historical influences on our current understanding and attitudes toward the human sexual experience; the development of gender roles as they impact upon political, work, and social relationships; cultural aspects of sexuality including intimacy, courtship, marriage, and procreation; and sexuality during developmental changes and alterations in health such as infertility, pregnancy, abortion, cancer, AIDS, and others. Prerequisite: sophomore standing. 
+  See also Psychology (PSY-137), p. 170
+Examines human sexuality from the psychosocial, biophysiological, and cultural perspective. Topics include, but are not limited to, cultural and historical influences on our current understanding and attitudes toward the human sexual experience; the development of gender roles as they impact upon political, work, and social relationships; cultural aspects of sexuality including intimacy, courtship, marriage, and procreation; and sexuality during developmental changes and alterations in health such as infertility, pregnancy, abortion, cancer, AIDS, and others. Prerequisite: sophomore standing. 
 - **NUR 200 Nursing Issues II**
   An introduction to the nursing profession. The seminar provides an opportunity for pre-nursing students to explore the profession of nursing through discussions regarding the domains of nursing knowledge, nursing roles, and nursing skills. May be taken for credit twice. Prerequisite: Nursing Issues (NUR-100) or sophomore standing. (0.2 course credits)
 - **NUR 215 Devel Relationship**

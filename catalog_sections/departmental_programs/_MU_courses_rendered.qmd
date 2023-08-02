@@ -417,7 +417,7 @@ Credit for participation in these regularly-offered ensembles is available under
 - **MU 161 Hip Hop Workshop**
   Blend of seminar and studio sessions focusing on hip-hop repertoire, beat arrangement, and lyrical structure. Additional emphasis on vocal recording and editing proficiency, as well as active listening exercises to better apply music production techniques to original student works. Participation in the creative process is required, and collaboration among students is encouraged. 
 - **MU 166 Topics in Music:Non-Western Perspct**
-  Same as Topics in Music (MU-165) except the course focuses on topics related to non-Western cultures. 
+  A topics course that explores the music of one of more non-Western cultures, largely from a musicological viewpoint. Topics could include survey courses, such as World Music, or courses focused on the music of one particular continent, country, or sub-group. Prerequisite: consent of instructor. (Offered on an occasional basis) 
 - **MU 195 Music Production**
   Exploration of audio engineering and recording practices, with special attention to electronic and popular music. Overview of intellectual property in the arts, the evolution of audio technology, and cultural movements that influenced new forms of experimental and commercial music. Students are introduced to the fundamentals of acoustics and sound design through audio production software, with hands-on projects detailing methods for producing music in a variety of genres. 
 - **MU 202 Arts Administration**
@@ -433,9 +433,13 @@ Credit for participation in these regularly-offered ensembles is available under
 - **MU 255 Music History & Literature I**
   Study of the evolution of western music and musical systems, forms, styles, and media from ancient Near East, Greece, and Rome through the first half of the 18th century. Prerequisite: Theory of Music II (MU- 125) or consent of instructor. 
 - **MU 270 Musical Theatre Acting**
-  A performance-based studio course focusing on the development of basic skills necessary for musical theatre performance. Students become familiar with the specialized requirements necessary for the merging of singing with dramatic action. Periodic performance projects (solos, duets, and ensemble numbers 2014some including dialogue) are supplemented by student research projects. The course is also designed to introduce students to a wide-ranging repertoire of available audition material. Additional rehearsal time outside of class is required. 
+  A performance-based studio course focusing on the development of basic skills necessary for musical theatre
+performance. Students become familiar with the specialized requirements necessary for the merging of singing
+with dramatic action. Periodic performance projects (solos, duets, and ensemble numbers—some including
+dialogue) are supplemented by student research projects. The course is also designed to introduce students to a
+wide-ranging repertoire of available audition material. Additional rehearsal time outside of class is required. 
 - **MU 284 Topics in Music**
-  A course of selected focus that centers on a particular musical issue, problem, theory, or methodology. Topics vary, and they include, but are not limited to, Advanced Form and Analysis, Rock and Roll History, Music of the 1960 2019s, and Modern Musical Theatre. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: consent of instructor. (Offered on an occasional basis) 
+  A course of selected focus that centers on a particular musical issue, problem, theory, or methodology. Topics vary, and they include, but are not limited to, Advanced Form and Analysis, Rock and Roll History, Music of the 1960’s, and Modern Musical Theatre. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: consent of instructor. (Offered on an occasional basis) 
 - **MU 285 Conducting I**
   Basic conducting techniques: reading, analysis, and interpretation of choral, band, and orchestral literature. Laboratory experience with college ensembles. Prerequisite: Theory of Music III (MU-215) or consent of instructor. 
 - **MU 309 Theory of Music III**
@@ -467,7 +471,7 @@ Credit for participation in these regularly-offered ensembles is available under
 - **MU 444 Ind Study-Music**
   Independent work on a selected project in music under the direction of a faculty member of the department. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisites: background courses and consent of department chair. 
 - **MU 458 Music History & Literature III**
-  Study of the composers and musical developments in Europe and America in the 20th-century, together with the influences of music from other world cultures. Prerequisite: Theory of Music II (MU-125) or consent of instructor. 
+  Study of the composers and musical developments in Europe and America in the 20th and 21st centuries, together with the influences of music from other world cultures. Prerequisite: Theory of Music II (MU-209) or consent of instructor. 
 
 **MUA Prefix**
 - **MUA 100 Concert Band**
@@ -481,7 +485,7 @@ Credit for participation in these regularly-offered ensembles is available under
 - **MUA 104 Concert Choir**
   Membership determined by audition. The ensemble offers students the opportunity to perform a wide variety of repertoire covering many styles from the Renaissance through the 21st centuries. The Concert Choir also occasionally combines with the Symphony Orchestra to present large masterworks, and tours on a regular basis. (0.3 course credit) 
 - **MUA 105 Crimson Singers**
-  Presents concerts each term, on and off campus. Open to all interested musicians who sing. The Crimson Singers is a small auditioned, mixed singing ensemble. Previous singing experience is preferable, it is not required. Students in the Crimson Singers are also encouraged to be members of the Concert Choir. Registration for this course is by audition and the consent of the instructor. (0.2 course credit) 
+  Presents concerts each term, on and off campus. Open to all interested musicians who sing. The Crimson Singers is a small auditioned, mixed singing ensemble focusing on Broadway, jazz, and popular music styles. Some selections will be choreographed. Participants will gain experience in show choir, jazz, and a cappella singing and performing styles. Previous show choir is preferable; it is not required. Students in the Crimson Singers are also encouraged to enroll in the Concert Choir. Registration for this course is by audition and the consent of the instructor. (0.3 course credit) 
 - **MUA 110 Vocal Jazz Ensemble**
   Membership determined by audition. The Vocal Jazz Ensemble offers students the opportunity to perform in a wide variety of vocal and choral styles, with an emphasis on repertoire for smaller vocal ensemble including vocal jazz, madrigals, pop, and music of other cultures. The Vocal Jazz Ensemble may perform either on or off campus and tours on an occasional basis. (0.2 course credit) 
 - **MUA 111 Coe Handbell Ensemble**
@@ -499,9 +503,9 @@ Credit for participation in these regularly-offered ensembles is available under
 - **MUA 284 Applied Music: Special Topics**
   Private study in Applied Music topics not offered in MUA course listings for music majors or other interested and qualified students. The course provides extended, yet tangible, instruction and/or research pertaining to the student's specific applied music specialty or related music interest area. Prerequisites: consent of instructor and department chair. (0.3 and 0.6 course credit) 
 - **MUA 413 Orchestration**
-  nan 
+  None 
 - **MUA 423 Saxophone (Adv Std)**
-  nan 
+  None 
 - **MUA 490 Senior Recital**
   A full-length senior recital in composition or performance area. S/U basis only. Prerequisite: consent of instructor. 
 

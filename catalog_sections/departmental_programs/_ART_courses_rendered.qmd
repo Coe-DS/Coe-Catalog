@@ -13,7 +13,7 @@ A grade of "C" (2.0) or higher must be earned in all courses counted toward a ma
   - ART 201 Focus Course: Creative Process 
   - ART 202 Focus Course: Portfolio Development 
   - ART 203 Focus: ContemporaryArtisticPractice 
-  - ART 211 Focus:ArtistStatements/Artist Talks 
+  - ART 211 Focus:ArtistStatements 
   - ART 212 Focus Course: Artist Websites 
   - ART 213 Focus Course: Critique 
   - ART 291 Focus Course: Topics in Studio Art 
@@ -53,33 +53,38 @@ Further information for all these requirements and programs is available from th
 **100-level courses** (except ART-130, see below) are open to any student and may offer the opportunity to explore two or more areas of art making in a studio environment.  ART-130 Art in the Elementary Classroom does not satisfy any of the requirements for a major or minor in Art or Art History.  It also does not count as a 100-level art course needed for some courses as a prerequisite.
 
 - **ART101 Art Appreciation**
-nan
+None
 - **ART 102 Sculpture: Material Investigations**
 Focuses on how material choices inform meaning. Students will use a variety of traditional and non-traditional materials to make sculptural art objects.
 - **ART 103 Ceramic Sculpture**
-Provides instruction on the creation of hand-built ceramic sculptures. Projects will utilize pinch, coil building, soft and stiff slab construction, and additive and subtractive processes.
+Provides instruction on the creation of hand-built ceramic sculptures. Projects will utilize
+pinch, coil building, soft and stiff slab construction, and additive and subtractive
+processes.
 - **ART 105 Narrative Ceramics**
 Studies the history and evolution of ceramics as a storytelling medium. Projects will include tile-making, coil-building, surface decoration, and sculptural techniques as a means to explore how artists have used clay to create compelling narratives.
-- **ART 115 Drawing: Observation and Interpret**
-Introduces a variety of drawing media. Students are challenged to observe the visual world around them and to respond to that observation with interpretive choices in mark-making and composition to produce visual expression. Media may include graphite, charcoal, brush and ink, pastels, and collage.
-- **ART 125 Painting: Representation & Express**
-Provides instruction in the use of painting media to represent, amplify, and interpret the world around them. Students are also encouraged to discover the expressive possibilities in relationships of color, shape, texture and mark-making through work with oil paint and other painting materials and surfaces.
+- **ART 115 Drawing**
+Introduces a variety of drawing media, including graphite, charcoal, brush and ink, pastels, and collage. Students are challenged to observe the visual world around them and to respond to that observation with interpretive choices in mark-making and composition to produce visual expression. Media may include graphite, charcoal, brush and ink, pastels, and collage.
+- **ART 125 Painting**
+Introduces paint media to represent, amplify, and interpret the world. Students are also encouraged to discover the possibilities of color, shape, texture and mark-making.
 - **ART 130 Art in the Elementary Classroom**
-Provides an overview of the role of art in the elementary curriculum. Students learn to incorporate art activities into other content areas and gain an understanding of the objective of elementary classes taught by elementary art specialist teachers. This course does not satisfy the College 2019s general education fine arts core group requirement nor does it satisfy major or minor requirements or prerequisites for Art or Art History. Prerequisite: admission to the Education Program or approval of the education department. (0.5 course credit)
+Provides an overview of the role of art in the elementary curriculum. Students learn to incorporate art activities into other content areas and gain an understanding of the objective of elementary classes taught by elementary art specialist teachers. This course does not satisfy the College’s general education fine arts core group requirement nor does it satisfy major or minor requirements or prerequisites for Art or Art History. Prerequisite: admission to the Education Program or approval of the education department. (0.5 course credit)
 - **ART 131 Scultpure: Do, Undo, Redo**
 Practices the inherent creative aspects of making, unmaking and remaking in response to these various states of transformation. Artworks are made using clay and other sculptural materials while documenting the exploratory processes through drawing, photography and more.
 - **ART 135 Ceramics: Form, Function & Meaning**
 Focuses on the creation of wheel thrown and handbuilt objects within the context of a social and cultural lens. Explores the relationship between making and meaning in the 21st century. Projects focus on fuctional work and its uses.
 - **ART 145 Digital Studio**
-Explores contemporary digital imaging and design. Students produce a series of studio projects ranging from digital photography, collage, gif animation, vector graphics, and two-dimensional design. Includes introductory-level instruction of digital cameras and Adobe Creative Suite: Lightroom, Photoshop, Illustrator.
+Explores contemporary digital imaging and design. Students produce a series of studio
+projects ranging from digital photography, collage, gif animation, vector graphics, and
+two-dimensional design. Includes introductory-level instruction of digital cameras and
+Adobe Creative Suite: Lightroom, Photoshop, Illustrator.
 - **ART 150 Time Based Media**
-Explores the aesthetic and experiential qualities of time. Course includes readings, discussions, screenings of historical and contemporary works plus hands-on studio projects using video, sound, performance, installation, and more. Includes introductory-level instruction of digital cameras and Adobe Lightroom and Premiere Pro. Through media production, students cultivate a range of technical skills plus a critical understanding of media culture.
+Explores the aesthetic and experiential qualities of time. The course includes readings, discussions, and screenings of historical and contemporary works plus hands-on studio projects using video, sound, performance, installation, and more. Includes introductory-level instruction in digital cameras and Adobe Lightroom and Premiere Pro. Through media production, students cultivate a range of technical skills plus a critical understanding of media culture.
 - **ART 151 Layers of Meaning**
 Pursues meaning through multiplicity of imagery. Some work may be done in collage, but other materials and techniques, such as drawing, painting, and digital art, are used to juxtapose and layer imagery and meaning.
 - **ART 155 Photography: Light Writing**
 Examines the ways that a photographic image can be viewed and interpreted. The course includes readings and research on the masters of photography. Technical skills include historic black and white analog photography including manual camera controls, film and print processing.
-- **ART 175 Printmaking: A Graphic Art Form**
-Studies the highly experimental medium of printmaking. The print holds a unique place in the stusio arts in that it allows artists to work with multiples of an image, records states of development and uses the process itself as a way of exploring the transformation and evolution of ideas. Technical skills include: drawing, monotype, drypoint, intaglio, woodcut, and collagraph.
+- **ART 175 Printmaking**
+Focuses on traditional and contemporary printmaking techniques, introducing students to the fundamentals of materials including paper, ink, presses, and image processing. This course explores the development of technical, compositional, and conceptual skills through the evolution of printmaking’s history of multiplicity.
 - **ART 191 Topics in Studio Art**
 Focuses on a specific theme or topic. Topics vary. May be taken more than once for credit, provided the topics are substantially different.
 

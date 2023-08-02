@@ -16,7 +16,7 @@ A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses coun
 5. KIN 175 Prevention & Care Ath Inj
 6. KIN 225 Motor Learning
 7. KIN 347 Adapted Physical Education
-8. KIN 365 Measurement/Eval/Prescription in PE
+8. KIN 365 Measurement/Eval/Prescription KIN
 9. KIN 415 Meth Secondary School PE & Health
 10. KIN 440 Org-Admin of PE, Health & Athl
 11. KIN 442 Physiology of Exercise
@@ -30,7 +30,7 @@ A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses coun
 3. KIN 105 Foundations of Physical Movement
 4. KIN 115 Fundamentals:Exercise & Nutrition
 5. KIN 175 Prevention & Care Ath Inj
-6. KIN 365 Measurement/Eval/Prescription in PE
+6. KIN 365 Measurement/Eval/Prescription KIN
 7. KIN 440 Org-Admin of PE, Health & Athl
 8. KIN 442 Physiology of Exercise
 9. **All** of the following courses in the **Strength and Conditioning Group**: 
@@ -74,7 +74,7 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
 4. KIN 105 Foundations of Physical Movement
 5. KIN 115 Fundamentals:Exercise & Nutrition
 6. KIN 175 Prevention & Care Ath Inj
-7. KIN 365 Measurement/Eval/Prescription in PE
+7. KIN 365 Measurement/Eval/Prescription KIN
 8. KIN 442 Physiology of Exercise
 9. KIN 495 Kinesiology
 **All** of the following courses in the Athletic Training Group 
@@ -98,7 +98,7 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
 - **KIN 115 Fundamentals:Exercise & Nutrition**
   Study and evaluation of existing health patterns, which are tested to elicit positive behavior changes. Principles of exercise physiology and fitness, weight control and human nutrition, and problems associated with malnutrition and overnutrition are included to provide students with concepts for an enhanced lifestyle. 
 - **KIN 125 Public and Consumer Health**
-  Philosophy and practice of public and community health, including economic, sociological, and legal justification. Examination of health care products, services and consumer protection vehicles in today 2019s marketplace. Information and guidelines enable individuals to select health care products and services intelligently. 
+  Philosophy and practice of public and community health, including economic, sociological, and legal justification. Examination of health care products, services and consumer protection vehicles in today’s marketplace. Information and guidelines enable individuals to select health care products and services intelligently. 
 - **KIN 135 Concepts of Individual Wellness**
   Examination of personal health and positive lifestyle through the enhancement of physical, social, and mental/emotional wellness. 
 - **KIN 155 Substance Abuse**
@@ -116,7 +116,7 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
 - **KIN 205 Theory of Coaching**
   Sports treated from the standpoint of theory and practice. Topics vary from term to term and include, but are not limited to, football, basketball, baseball and softball, wrestling, track, swimming, and volleyball. May be taken more than once for credit, provided the topics are substantially different. (0.5 course credit) 
 - **KIN 210 Athletic Injury Evaluation**
-  Introduces students to the procedures used in the examination of injuries involving both the upper and lower extremity. This course will develop a student 2019s systematic ability to identify, evaluate, and monitor commonly experienced orthopedic injuries in athletics. Investigation into surface palpation, goniometry, manual muscle, and special testing will be developed. Prerequisite: Prevention and Care of Athletic Injuries & Laboratory (KIN-175). 
+  Introduces students to the procedures used in the examination of injuries involving both the upper and lower extremity. This course will develop a student’s systematic ability to identify, evaluate, and monitor commonly experienced orthopedic injuries in athletics. Investigation into surface palpation, goniometry, manual muscle, and special testing will be developed. Prerequisite: Prevention and Care of Athletic Injuries & Laboratory (KIN-175). 
 - **KIN 215 Psychology of Coaching**
   An introduction to the area of sport psychology, which focuses on the underlying psychological and psychophysiological factors that influence performance in sports and physical activity. The following topics are emphasized: motivation, positive mental attitude (goal setting, self talk, mental imagery), anxiety/stress, self confidence, concentration, communication skills, sportsmanship, and psychological preparation for competition. 
 - **KIN 225 Motor Learning**
@@ -125,10 +125,11 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
   Analysis of the program of physical education and health for the elementary school. Selection of activities, teaching methods, program planning, equipment and facilities, class management, and evaluation is examined. Prerequisite: Practicum in Education (EDU-215) or consent of department chair. 
 - **KIN 347 Adapted Physical Education**
   A program of activities adapted for individuals with physical disabilities. Development of a rehabilitative exercise program for correction of physical handicaps or deviations. 
-- **KIN 365 Measurement/Eval/Prescription in PE**
+- **KIN 365 Measurement/Eval/Prescription KIN**
   Study of various methods of measurement and evaluation of motor skills and motor performance in physical activity. Construction of skills tests, proper testing procedures, and basic statistics used in evaluating the results covered. Assessment of physical fitness components followed by prescribed activity to improve those components is studied. 
 - **KIN 385 Methods Strength Trng & Condition**
-  Application of resistance and movement training techniques. Topics include methods of teaching progressions for resistance training, flexibility, speed/agility training, stretching, plyometrics, safety, successful routines, and exercise prescription for beginning to advanced trainees. Prerequisites: Organismal and Ecological Biology (BIO-155), either Human Anatomy (BIO-215) or Anatomy and Physiology (BIO-103), and junior standing. NOTE: Students are encouraged to complete Advanced Weight Training (PE-103/-104) and Movement Training (PE-103/-104) before enrolling in KIN-385. 
+  Application of resistance and movement training techniques. Topics include methods of teaching progressions for resistance training, flexibility, speed/agility training, stretching, plyometrics, safety, successful routines, and exercise prescription for beginning to advanced trainees. Prerequisites: Organismal and Ecological Biology (BIO-155), either Human Anatomy (BIO-215) or Anatomy and Physiology (BIO-103), and junior standing.
+NOTE: Students are encouraged to complete Advanced Weight Training (PE-103/-104) and Movement Training (PE-103/-104) before enrolling in KIN-385. 
 **NOTE:**  *Students are encouraged to complete Advanced Weight Training (PE-103/-104) and Movement Training (PE-103/-104) before enrolling in KIN-385.*
 - **KIN 405 Program Design**
   A theory-based course that discusses different strength and conditioning techniques used to program workouts for students, athletes, and members of the community. The course examines physiological factors, such as volume, intensity, rest, frequency, duration, and the acute and chronic effects of exercise. Students design and evaluate their own strength and conditioning programs based on the needs of the individual. Prerequisite: Methods of Teaching Strength Training and Conditioning (KIN-385). 
@@ -140,8 +141,8 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
   Objectives, principles, and methods of organization and administration of physical education, health education, recreation, and athletics in elementary and secondary schools, as well as colleges. Prerequisite: sophomore standing. 
 - **KIN 442 Physiology of Exercise**
   The study and evaluation of the effects of exercise upon the biological control systems of the human body. Topics include bioenergetics, exercise metabolism, endocrine function during and cardiopulmonary response to exercise, neuromuscular function, acid-base regulation, temperature regulation, and the effect of endurance training on various organ systems. Prerequisites: Organismal and Ecological Biology (BIO-155), and either both Human Anatomy (BIO-215) and Human Physiology (BIO-225), or Anatomy and Physiology (BIO-103). 
-- **KIN 444 Ind Study-Phys Ed**
-  Independent investigation of a selected project in Physical Education under the direction of a faculty member of the department. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisites: consent of instructor and department chair. 
+- **KIN 444 Ind Study-KIN**
+  Independent investigation of a selected project in Kinesiology under the direction of a faculty member of the department. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisites: consent of instructor and department chair. 
 - **KIN 494 Internship in Kin, Health & Rec**
   Investigation of kinesiology, health, or recreation through voluntary field placement supervised by a faculty member of the department. Not available to prospective teachers in physical education. A minimum of 140 hours on-site experience is required. S/U basis only. One credit may be counted toward a major in kinesiology. Prerequisites: declared major in kinesiology or interdisciplinary major and consent of department chair. 
 - **KIN 495 Kinesiology**

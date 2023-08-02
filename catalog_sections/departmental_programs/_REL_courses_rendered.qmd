@@ -83,7 +83,7 @@ Recommended beginning courses for those contemplating a major in religion are: R
 	REL 338 Modern Religious Thought
 	REL 385 Advanced Topics in Religion
 	+++MISSING INFO: c.rel386.long +++
-	REL 394 Directed Readings in Religion
+	REL 394 Directed Learning in Religion
 	REL 444 Ind Study-Relig
 	REL 494 Internship in Religion 
 :::
@@ -124,7 +124,7 @@ Recommended beginning courses for those contemplating a major in religion are: R
 	REL 338 Modern Religious Thought
 	REL 385 Advanced Topics in Religion
 	+++MISSING INFO: c.rel386.long +++
-	REL 394 Directed Readings in Religion
+	REL 394 Directed Learning in Religion
 	REL 444 Ind Study-Relig
 	REL 494 Internship in Religion 
  
@@ -132,7 +132,7 @@ Recommended beginning courses for those contemplating a major in religion are: R
 - **REL 101 Introduction to Religion**
   Introduces students to thinking about religion as a category of human experience, both in terms of foundational beliefs and how those beliefs are situated in practice. The course examines methods of studying religion as well as essential questions regarding the nature of religion.  
 - **REL 103 Belief & Unbelief**
-  Discussion oriented course focusing on the dynamics of faith and of atheism. Special attention to traditional proofs for God 2019s existence, the problems of evil and the afterlife, and the nature of religious experience.
+  Discussion oriented course focusing on the dynamics of faith and of atheism. Special attention to traditional proofs for God’s existence, the problems of evil and the afterlife, and the nature of religious experience.
 - **REL 105 Introduction to Hebrew Bible**
   A literary and theological overview of the first five books of the Hebrew Bible (the Pentateuch or Torah) in the context of their historical development and their formative impact on the rest of Israelite scripture (the Prophets and Writings). It is recommended that this course be taken prior to other Biblical studies courses.  
 - **REL 106 Eastern Religions**
@@ -183,9 +183,9 @@ Recommended beginning courses for those contemplating a major in religion are: R
   Seminar examining a selected topic in religious studies. Content varies from year to year. May be taken for credit more than once. Prerequisite: one course in religion or consent of instructor.  
 - **+++MISSING INFO: c.rel386.long +++**
   +++MISSING INFO: c.rel386.desc +++
-- **REL 394 Directed Readings in Religion**
-  A course of directed readings designed by the student and instructor to fit the individual student 2019s particular interests and educational needs. Prerequisite: consent of instructor.
+- **REL 394 Directed Learning in Religion**
+  A course of directed learning designed by the student and instructor to fit the individual student’s particular interests and educational needs. Prerequisite: consent of instructor.
 - **REL 444 Ind Study-Relig**
   Independent study under the direction of a faculty member of the department in an area selected by the student. May be taken for an X status grade with consent of instructor prior to registration. Prerequisite: consent of instructor.
 - **+++MISSING INFO: c.re494.long +++**
-  Exploration of a career area related to the student 2019s interest in religion supervised by a Religion faculty member in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major in Religion. Prerequisites: declared major in Religion, junior standing, and consent of department chair.
+  Exploration of a career area related to the student’s interest in religion supervised by a Religion faculty member in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major in Religion. Prerequisites: declared major in Religion, junior standing, and consent of department chair.

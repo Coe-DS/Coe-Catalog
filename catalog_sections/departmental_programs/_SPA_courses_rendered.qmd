@@ -39,7 +39,10 @@ The Spanish Studies major requires: 1) successful completion of four courses bey
 - **SPA 325 Spanish Language & Literature**
   Continuation of Spanish Composition and Conversation, with an emphasis on speaking and writing. A wide range of short literary texts is also studied. Prerequisite: Intermediate Spanish II (SPA-315).
 - **SPA 330 Spanish for Heritage Speakers**
-  Focuses on the specific linguistic and communicative needs of heritage speakers of Spanish in the context of exploring issues of identity, immigration and community in contemporary Latino communities in the U.S. Assessments based on an exit interview and a portfolio of formal writing. Prerequisite: Spanish placement test or approval of the instructor.  
+  Focuses on the specific linguistic and communicative needs of heritage speakers of Spanish in the context of
+exploring issues of identity, immigration and community in contemporary Latino communities in the U.S.
+Assessments based on an exit interview and a portfolio of formal writing. Prerequisite: Spanish placement test or
+approval of the instructor.  
 - **SPA 336 Hispanic Life/Cult-Latin America**
   An interdisciplinary overview of the culture and civilization of Latin America as portrayed in literature, art, architecture, and film. Particular attention is given to the way the past has created and shaped contemporary Hispanic culture in Latin America. Prerequisite: Spanish Composition and Conversation (SPA-325).
 - **SPA 338 Hispanic Life/Culture:Europe**
@@ -50,7 +53,7 @@ The Spanish Studies major requires: 1) successful completion of four courses bey
   An introduction to the study of Peninsular and Spanish-American literary works, with an emphasis on basic critical concepts, terminology, and methods. A wide range of texts is studied, beginning with poems and short narratives, and ending with longer works. Prerequisite: Spanish Composition and Conversation (SPA-315) or Spanish Language and Literature (SPA-325). (Offered alternate years)  
 - **SPA 349 Business Spanish**
   Focuses on providing Spanish language proficiency for students planning careers in business. Emphasis is placed on the different cultures of Spanish-speaking countries in the business world. Local outreach is a required component of this course. Students visit local businesses, where they learn about the culture of the Spanish-speaking business world. Prerequisite: Intermediate Spanish II (SPA-225) or consent of instructor.
-- **SPA 394 Directed Reading**
+- **SPA 394 Directed Learning: Spanish**
   For students wishing to investigate a particular aspect of Spanish literature unavailable through the regular sequence of courses offered. Periodic conferences and papers are required. May be taken more than once for credit. Prerequisite: Spanish Composition and Conversation (SPA-315) or Spanish Language and Literature (SPA-325).  
 - **SPA 412 Ecologies:Latin America Environ Lit**
   Ecologies: Latin American Environmental Literature and Cultural Works (WE) Examines Latin American writers and artists who have long focused on nature as a means to address pressing political, social, and ethical issues through literature, ethnographic texts, film and the visual arts. Readings in this class will trace connections between environmental thought and the region's long and multi-layered history of colonialism. Prerequisite: Introduction to Hispanic Literature (SPA-345) or Hispanic Life and Culture (SPA-336 / SPA-338).
@@ -63,7 +66,10 @@ The Spanish Studies major requires: 1) successful completion of four courses bey
 - **SPA 431 Hispanic Graphic Novel:Theory& Prac**
   Focuses on providing students with the knowledge to understand cartoons and graphic novels produced in Spanish as a particular medium in relation to a historical context. The class will study theory of comics, the tradition of Hispanic comics, and will hold a workshop where the students learn techniques to develop their own story in a comic format. Prerequisite: Introduction to Hispanic Literature (WE) (SPA-345) or Hispanic Life and Culture (SPA-336 / SPA-338)
 - **SPA 432 Representations of Violence**
-  Explores the relationships between a variety of cultural productions (film, literature, poetry, painting, theater, performance, TV productions, etc.) and specific accounts of personal and collective violence in socio-political conflicts in the Hispanic world. Concepts such as memory, trauma, mourning, and pain will be a central part of this course. Prerequisite: Introduction to Hispanic Literature (SPA-345) or Hispanic Life and Culture (SPA-336 / SPA338).
+  Explores the relationships between a variety of cultural productions (film, literature, poetry, painting, theater,
+performance, TV productions, etc.) and specific accounts of personal and collective violence in socio-political
+conflicts in the Hispanic world. Concepts such as memory, trauma, mourning, and pain will be a central part of this
+course. Prerequisite: Introduction to Hispanic Literature (SPA-345) or Hispanic Life and Culture (SPA-336 / SPA338).
 - **SPA 442 Popular Culture, Media, & Cultural**
   Focuses on popular culture with an emphasis on the role of visual and material culture in the Hispanic world as contested territory between power structures and resistance movements. A variety of cultural productions may be included: film, literature, music, internet blogs, YouTube videos, publicity, folklore, dance, TV productions, comic strips, etc. This class will focus on a selected time period and/or geographical region of the Spanish-speaking world. May be taken more than once for credit, if focused on a different region or period. Prerequisite: Introduction to Hispanic Literature (WE) (SPA-345) or Hispanic Life and Culture (SPA-336 / SPA-338).
 - **SPA 443 Cinema & Politics of Representation**
@@ -73,9 +79,10 @@ The Spanish Studies major requires: 1) successful completion of four courses bey
 - **SPA 446 Latin Am. & Spanish Short Stories**
   Focuses on the rich and varied literary production of the short story in Latin America and/or Spain. Readings may include a wide range of short narratives with an emphasis on those of the 20th and 21st century. Prerequisite: Introduction to Hispanic Literature (SPA-345) or Hispanic Life and Culture (SPA-336 / SPA-338).
 - **SPA 451 Hispanic Cross-Over Literature**
-  Focuses on literature that is designed for children or for both adults and children. Texts for this class will intersect with notions of memory, education, censorship, and the dialogue between image and written text. The class will emphasize the picture-book ( 00e1lbum ilustrado), and it will hold a workshop where the students learn techniques to develop their own. Prerequisite: Introduction to Hispanic Literature (WE) (SPA-345) or Hispanic Life and Culture (SPA-336 / SPA-338).
+  Focuses on literature that is designed for children or for both adults and children. Texts for this class will intersect with notions of memory, education, censorship, and the dialogue between image and written text. The class will emphasize the picture-book (álbum ilustrado), and it will hold a workshop where the students learn techniques to develop their own. Prerequisite: Introduction to Hispanic Literature (WE) (SPA-345) or Hispanic Life and Culture (SPA-336 / SPA-338).
 - **SPA 455 Spanish Drama**
-  Same as Hispanic Drama (SPA-455) except focus of course is Latin American theatre. An introduction to Spanish theatre and the various techniques, themes, and images used to express, criticize, or romanticize Hispanic society and life. Prerequisite: Spanish Composition and Conversation (SPA-315) or Spanish Language and Literature (SPA-325).
+  Same as Hispanic Drama (SPA-455) except focus of course is Latin American theatre.
+An introduction to Spanish theatre and the various techniques, themes, and images used to express, criticize, or romanticize Hispanic society and life. Prerequisite: Spanish Composition and Conversation (SPA-315) or Spanish Language and Literature (SPA-325).
 - **SPA 457 US LatinX Literature**
   Focuses on the major trends of LatinX literature that highlight the experiences of LatinX people within the US. Topics will include bilingualism, code-switching, identity, borders, immigration, and exile in LatinX groups such as Chicano/a, Nuyorican, Boricuas, Dominicans, etc. Their cultural productions will be analyzed within their social and political context and texts assigned will be in English, Spanish or mixed. Prerequisite: Introduction to Hispanic Literature (SPA-345) or Hispanic Life and Culture (SPA-336 / SPA-338).
 - **SPA 458 Travel Writing & Transatlantic Lit**

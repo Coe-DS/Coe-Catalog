@@ -25,7 +25,7 @@ Concurrent completion of any of the majors listed under [Areas of Study](catalog
 	SOC 235 Methods of Sociological Research
 	STA 100 Statistical Reasoning I-Foundations **and** STA 110 Stats IIA: Inferential Reasoning
 	STA 100 Statistical Reasoning I-Foundations **and** STA 130 Stats IIB: Experimental Design
-	STA 315 Probability & Statistics I
+	STA 315 Mathematical Probability
 7. EVS 484 Topics in Environmental Studies
 8. **Four** courses to be chosen as indicated from the three lists below. Courses with a substantial focus on environmental content and relevant to a student’s particular course of study may be substituted to fulfill this category, subject to prior approval by the Environmental Studies administrative coordinator.
 	a.  **One or more** of the following **Natural Science** courses:

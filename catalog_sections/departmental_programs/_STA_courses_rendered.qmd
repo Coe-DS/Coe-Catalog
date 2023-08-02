@@ -12,9 +12,9 @@ Cross.
   A continuation of Statistical Reasoning I (STA-100), presenting a broad range of data analysis techniques. Topics covered include hypothesis testing, confidence intervals, Chi-square tests, and regression. Emphasis is on a project-based approach to analyzing data. Prerequisite: Statistical Reasoning I (STA-100) or consent of instructor. (0.5 course credit) (Offered second seven weeks of Term)
 - **STA 130 Stats IIB: Experimental Design**
   +++MISSING INFO: c.smt130.desc +++
-- **STA 315 Probability & Statistics I**
-  A calculus-based introduction to the mathematical theory of probability and statistics. Topics include enumeration techniques, Bayes 2019 theorem, random variables, discrete and continuous distributions, expectation, moment-generating functions, and sampling distribution theory. Prerequisites: Calculus II (MTH-145) and Foundations of Advanced Mathematics (MTH-215) or consent of instructor.
-- **STA 325 Probability & Statistics II**
+- **STA 315 Mathematical Probability**
+  A calculus-based introduction to the mathematical theory of probability. Topics include enumeration techniques, Bayes’ theorem, random variables, discrete and continuous distributions, expectation, moment-generating functions, sampling distribution theory, and simulation techniques. Prerequisites: Computational Linear Algebra (MTH-165) and Calculus II (MTH-145), or consent of instructor.
+- **STA 325 Mathematical Statistics**
   +++MISSING INFO: c.smt325.desc +++
 
 

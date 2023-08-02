@@ -38,7 +38,7 @@ The Non-Western Perspectives (NWP) group includes courses in which a preponderan
 - ANT 116 Cultural Anthropology
 - ANT 286 Topics in Anthropology:NWP
 - ARH 106 World Art
-- ARH 296 Topics in Art History:NWP
+- ARH 296 Topics in Art History:Global Persp
 - ASC 106 May Term in Asia
 - ASC 176 China and Japan
 - ASC 186 Modern South Asia
@@ -335,7 +335,7 @@ Depending upon the type selected, some practica are graded A–F, while others a
 - BUS 454 Research in Business
 - CHM 444 Independent Study Chemistry
 - CHM 454 Undergraduate Summer Research
-- COM 394 Directed Studies in Communication
+- COM 394 Directed Learning  in Communication
 - COM 444 Independent Study in Comm Studies
 - CRW 112 Advanced Literary Magazine Editing
 - CRW 394 Directed Studies in Creative Writin
@@ -360,10 +360,10 @@ Depending upon the type selected, some practica are graded A–F, while others a
 - ENG 454 Honors Research
 - FLM 442 Independent Study in Film
 - FLM 464 Seminar in Film II:  (0.5 cc) and FLM 474 Senior Seminar II in Film & Senior (0.5 cc)
-- FRE 394 Directed Readings in French
+- FRE 394 Directed Learning  in French
 - FRE 444 Ind Study-French
 - HIS 444 Ind Study-History
-- KIN 444 Ind Study-Phys Ed
+- KIN 444 Ind Study-KIN
 - MTH 444 Ind Study-Math
 - MTH 454 Research in Mathematics
 - MU 421 Student Teaching Elementary Music
@@ -372,7 +372,7 @@ Depending upon the type selected, some practica are graded A–F, while others a
 - MUA 490 Senior Recital
 - NUR 444 Ind Study-Nursing
 - NUR 455 Leadership & Cont Issues in Nursing
-- PHL 394 Directed Readings in Philosophy
+- PHL 394 Directed Learning in Philosophy
 - PHL 444 Ind Study-Philos
 - PHL 490 Philosophy Colloquium (0.0 cc)
 - PHY 255 Advanced Laboratory I
@@ -382,15 +382,15 @@ Depending upon the type selected, some practica are graded A–F, while others a
 - PSY 354 Research Participation
 - PSY 444 Ind Study-Psychology
 - PSY 455 Advanced Experimental Psychology
-- REL 394 Directed Readings in Religion
+- REL 394 Directed Learning in Religion
 - REL 444 Ind Study-Relig
-- RHE 394 Drtd Readings in Writing & Rhetoric
+- RHE 394 Drtd Learning in Writing & Rhetoric
 - RHE 444 Independent Study in Writing (WE)
 - RHE 490 Publications Practicum
 - SCJ 444 Independent Study in Social and Cri
 - SOC 365 Research Participation I
 - SOC 444 Ind Study-Soc
-- SPA 394 Directed Reading
+- SPA 394 Directed Learning: Spanish
 - SPA 444 Ind Study-Spanish
 - THE 442 Adv Proj-Design/Tech Production
 - THE 444 Ind Study-Theatre
