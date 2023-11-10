@@ -63,7 +63,6 @@ The Non-Western Perspectives (NWP) group includes courses in which a preponderan
 - HIS 256 History of Modern Japan
 - HIS 276 The "Discovery" of America: Clash
 - HIS 286 Modern Middle East
-  
 - HIS 306 Revolution, Social Struggle, Testim
 - HIS 316 Topics in History:Non-Western Persp
 - HIS 466 Seminar Modern East Asian History
@@ -209,7 +208,7 @@ The Diverse Western Perspectives (DWP) group includes courses in which a prepond
 - HIS 308 Legacies of the Cold War inLatin Am
 - HIS 318 Topics in History :Div West Persp
 - HIS 328 Modern France
-- +++MISSING INFO: c.mu458 .long +++
+- MU 458 Music History & Literature III
 - NUR 268 Cult Diver & Health
 - PHL 128 Morality & Moral Controversies
 - PHL 138 Freedom, State, and Society
