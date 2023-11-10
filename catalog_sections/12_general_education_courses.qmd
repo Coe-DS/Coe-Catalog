@@ -63,7 +63,6 @@ The Non-Western Perspectives (NWP) group includes courses in which a preponderan
 - {{< var c.his256.long >}}
 - {{< var c.his276.long >}}
 - {{< var c.his286.long >}}
-  
 - {{< var c.his306.long >}}
 - {{< var c.his316.long >}}
 - {{< var c.his466.long >}}
@@ -209,7 +208,7 @@ The Diverse Western Perspectives (DWP) group includes courses in which a prepond
 - {{< var c.his308.long >}}
 - {{< var c.his318.long >}}
 - {{< var c.his328.long >}}
-- {{< var c.mu458 .long >}}
+- {{< var c.mu458.long >}}
 - {{< var c.nur268.long >}}
 - {{< var c.phl128.long >}}
 - {{< var c.phl138.long >}}
