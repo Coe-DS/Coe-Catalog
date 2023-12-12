@@ -153,7 +153,7 @@
 \frontmatter
 \maketitle
 
-\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[interior hidden, sharp corners, borderline west={3pt}{0pt}{shadecolor}, enhanced, frame hidden, boxrule=0pt, breakable]}{\end{tcolorbox}}\fi
+\ifdefined\Shaded\renewenvironment{Shaded}{\begin{tcolorbox}[boxrule=0pt, enhanced, breakable, borderline west={3pt}{0pt}{shadecolor}, interior hidden, frame hidden, sharp corners]}{\end{tcolorbox}}\fi
 
 \renewcommand*\contentsname{Table of contents}
 {
@@ -2379,11 +2379,20 @@ of 3.98 or higher who have completed an honors project.
 Special recognition is given to students who show exceptional academic
 performance during Fall and Spring Terms. The designation ``Dean's
 List'' is awarded a student if, at the end of a given grade reporting
-period, the student: 1) was enrolled as a full-time, degree-seeking
-student; 2) earned at least a 3.5 GPA for the grading period, having no
-incomplete marks, no repeat courses, and at least three letter graded
-courses; and 3) ranked in the top ten percent of the student body for
-that grading period.
+period, the student:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  was enrolled as a full-time, degree-seeking student;
+\item
+  earned at least a 3.5 GPA for the grading period, having no incomplete
+  marks, no repeat courses, and at least three letter graded courses;
+  and
+\item
+  ranked in the top ten percent of the student body for that grading
+  period.
+\end{enumerate}
 
 \hypertarget{cross-registration-with-mount-mercy-university}{%
 \section{Cross-Registration with Mount Mercy

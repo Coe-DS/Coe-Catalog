@@ -68,7 +68,13 @@ Summa cum laude is awarded to graduating seniors with a cumulative GPA of 3.98 o
 
 ### Dean’s List 
 
-Special recognition is given to students who show exceptional academic performance during Fall and Spring Terms. The designation “Dean’s List” is awarded a student if, at the end of a given grade reporting period, the student: 1) was enrolled as a full-time, degree-seeking student; 2) earned at least a 3.5 GPA for the grading period, having no incomplete marks, no repeat courses, and at least three letter graded courses; and 3) ranked in the top ten percent of the student body for that grading period. 
+Special recognition is given to students who show exceptional academic performance during Fall and Spring Terms. The designation “Dean’s List” is awarded a student if, at the end of a given grade reporting period, the student: 
+
+1. was enrolled as a full-time, degree-seeking student; 
+
+2. earned at least a 3.5 GPA for the grading period, having no incomplete marks, no repeat courses, and at least three letter graded courses; and 
+
+3. ranked in the top ten percent of the student body for that grading period. 
 
 
 
