@@ -10,3 +10,5 @@ This is a digital version of the course catalog for Coe College.  It was created
 ### Acknowledgements
 
 This project was started by Data Science professor Michael Stobb and worked on as a summer project by students Emmalee Torson and Thanh Tran.
+
+This project was worked on again in 2024 by Rebecca Havel, Isaac Hinze, and Graham Atz.
