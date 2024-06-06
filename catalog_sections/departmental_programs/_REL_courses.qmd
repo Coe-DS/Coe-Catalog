@@ -32,7 +32,7 @@ A grade of “C” (2.0) or higher must be earned in all courses counted toward 
 
 2. **Four** additional religion courses 
 
-### Courses in Religion by Content area 
+### Courses in Religion by Content Area 
 Special attention should be given to the numerical ordering of the courses listed below: 
 1. Courses numbered between 100 and 199 include general introductions to religion ({{< var c.rel101.long >}} , {{< var c.rel103.long >}} , {{< var c.rel106.long >}} , and {{< var c.rel108.long >}} as well as introductory courses focused on specific traditions.
 2. Courses numbered 200-299 are topical courses especially suitable for sophomore level and above.
