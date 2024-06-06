@@ -10,6 +10,7 @@ Students seeking certification to teach psychology at the secondary level are st
 
 ### Psychology Major 
 A major in Psychology requires a cumulative 2.0 GPA in all courses counted toward the major.
+
 1. {{< var c.psy100.long >}}
 
 2. {{< var c.psy200.long >}}
@@ -23,33 +24,33 @@ A major in Psychology requires a cumulative 2.0 GPA in all courses counted towar
 6. {{< var c.psy464.long >}} 
 
 7. **One**of the following:
-	{{< var c.psy455.long >}} 
-	{{< var c.psy494.long >}} 
+	* {{< var c.psy455.long >}} 
+	* {{< var c.psy494.long >}} 
 
 8. **One** of the following:
-	{{< var c.psy205.long >}} 
-	{{< var c.psy235.long >}} 
+	* {{< var c.psy205.long >}} 
+	* {{< var c.psy235.long >}} 
 
 9. **One** of the following:
-	{{< var c.psy245.long >}} 
-	{{< var c.psy255.long >}} 
+	* {{< var c.psy245.long >}} 
+	* {{< var c.psy255.long >}} 
 
 10. **One** of the following:
-	{{< var c.psy205.long >}} 
-	{{< var c.psy260.long >}} 
+	* {{< var c.psy205.long >}} 
+	* {{< var c.psy260.long >}} 
  
 11. **One** of the following:
-	{{< var c.psy325_325l.long >}}
-	{{< var c.psy335_335l.long >}}
-	{{< var c.psy355_355l.long >}}
+	* {{< var c.psy325_325l.long >}}
+	* {{< var c.psy335_335l.long >}}
+	* {{< var c.psy355_355l.long >}}
 
 12. **One** of the following:
-	{{< var c.psy315.long >}}
-	{{< var c.psy350.long >}}
-	{{< var c.psy415.long >}}
-	{{< var c.psy450.long >}}
-	{{< var c.psy465.long >}}
-	{{< var c.psy475.long >}}
+	* {{< var c.psy315.long >}}
+	* {{< var c.psy350.long >}}
+	* {{< var c.psy415.long >}}
+	* {{< var c.psy450.long >}}
+	* {{< var c.psy465.long >}}
+	* {{< var c.psy475.long >}}
 
 ### Courses in Psychology
 
