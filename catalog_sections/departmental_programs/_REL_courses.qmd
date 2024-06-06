@@ -5,30 +5,31 @@ The philosophy and religion department offer courses designed to lead students t
 
 ### Religion Major 
 A grade of “C” (2.0) or higher must be earned in all courses counted toward a major in religion. 
+
 1. **One** of the following:
-	{{< var c.rel101.long >}}
-	{{< var c.rel103.long >}}
+	* {{< var c.rel101.long >}}
+	* {{< var c.rel103.long >}}
 
 2. {{< var c.rel106.long >}}
 
 3. {{< var c.rel108.long >}}
 
 4. **One** of the following:
-	{{< var c.rel105.long >}}
-	{{< var c.rel115.long >}} 
+	* {{< var c.rel105.long >}}
+	* {{< var c.rel115.long >}} 
 
 5. **One** of the following:
-	{{< var c.rel116.long >}} 
-	{{< var c.rel136.long >}} 
-	{{< var c.rel196.long >}} 
+	* {{< var c.rel116.long >}} 
+	* {{< var c.rel136.long >}} 
+	* {{< var c.rel196.long >}} 
 
 6. **Five** additional religion courses, at least three of which are numbered 300 or above 
 
 ### Religion Minor 
 
 1. **One** of the following:
-	{{< var c.rel106.long >}}
-	{{< var c.rel108.long >}}
+	* {{< var c.rel106.long >}}
+	* {{< var c.rel108.long >}}
 
 2. **Four** additional religion courses 
 
