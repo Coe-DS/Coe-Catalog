@@ -13,30 +13,30 @@ A major in political science requires ten courses, including at least three 300-
 2. {{< var c.pol115.long >}}
 
 3. **One** political theory course:
-	{{< var c.pol405.long >}}
-	{{< var c.pol435.long >}}
-	{{< var c.pol445.long >}} 
+	- {{< var c.pol405.long >}}
+	- {{< var c.pol435.long >}}
+	- {{< var c.pol445.long >}} 
 
 4. **One** additional American government course:
-	{{< var c.pol207.long >}} 
-	{{< var c.pol245.long >}}
-	{{< var c.pol277.long >}}
-	{{< var c.pol325.long >}}
-	{{< var c.pol345.long >}}
-	{{< var c.pol350.long >}}
+	- {{< var c.pol207.long >}} 
+	- {{< var c.pol245.long >}}
+	- {{< var c.pol277.long >}}
+	- {{< var c.pol325.long >}}
+	- {{< var c.pol345.long >}}
+	- {{< var c.pol350.long >}}
 
 5. **Two** comparative or international politics courses:
-	{{< var c.pol248.long >}}
-	{{< var c.pol258.long >}}
-	{{< var c.pol266.long >}}
-	{{< var c.pol276.long >}}
-	{{< var c.pol286.long >}}
-	{{< var c.pol298.long >}}
-	{{< var c.pol305.long >}}
-	{{< var c.pol310.long >}}         
-	{{< var c.pol365.long >}}
-	{{< var c.pol386.long >}}
-	{{< var c.pol398.long >}}
+	- {{< var c.pol248.long >}}
+	- {{< var c.pol258.long >}}
+	- {{< var c.pol266.long >}}
+	- {{< var c.pol276.long >}}
+	- {{< var c.pol286.long >}}
+	- {{< var c.pol298.long >}}
+	- {{< var c.pol305.long >}}
+	- {{< var c.pol310.long >}}         
+	- {{< var c.pol365.long >}}
+	- {{< var c.pol386.long >}}
+	- {{< var c.pol398.long >}}
 
 6. **Four** additional political science courses
 
@@ -51,30 +51,30 @@ A minor in political science requires six courses, including at least two 300- o
 2. {{< var c.pol115.long >}}
 
 3. **One** political theory course:
-	{{< var c.pol405.long >}}
-	{{< var c.pol435.long >}}
-	{{< var c.pol445.long >}}
+	- {{< var c.pol405.long >}}
+	- {{< var c.pol435.long >}}
+	- {{< var c.pol445.long >}}
  	 
 4. **One** additional American government course: 
-	{{< var c.pol207.long >}} 
-	{{< var c.pol245.long >}}
-	{{< var c.pol277.long >}}
-	{{< var c.pol325.long >}}
-	{{< var c.pol345.long >}}
-	{{< var c.pol350.long >}}
+	- {{< var c.pol207.long >}} 
+	- {{< var c.pol245.long >}}
+	- {{< var c.pol277.long >}}
+	- {{< var c.pol325.long >}}
+	- {{< var c.pol345.long >}}
+	- {{< var c.pol350.long >}}
 
 5. **One** comparative or international politics course:
-	{{< var c.pol248.long >}}
-	{{< var c.pol258.long >}}
-	{{< var c.pol266.long >}}
-	{{< var c.pol276.long >}}
-	{{< var c.pol286.long >}}
-	{{< var c.pol298.long >}}
-	{{< var c.pol305.long >}}
-	{{< var c.pol310.long >}}
-	{{< var c.pol365.long >}}
-	{{< var c.pol386.long >}}
-	{{< var c.pol398.long >}}
+	- {{< var c.pol248.long >}}
+	- {{< var c.pol258.long >}}
+	- {{< var c.pol266.long >}}
+	- {{< var c.pol276.long >}}
+	- {{< var c.pol286.long >}}
+	- {{< var c.pol298.long >}}
+	- {{< var c.pol305.long >}}
+	- {{< var c.pol310.long >}}
+	- {{< var c.pol365.long >}}
+	- {{< var c.pol386.long >}}
+	- {{< var c.pol398.long >}}
 		
 6. **One** additional political science course
 
