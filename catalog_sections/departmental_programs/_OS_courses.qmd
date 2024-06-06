@@ -11,34 +11,34 @@ A major in organizational science requires a minimum cumulative 2.0 GPA in all c
 Concurrent completion of a primary major in psychology is required. 
  
 1. **All** of the following quantitative/methodological core courses:
-	{{< var c.bus340.long >}}
-	{{< var c.psy475.long >}}	
+	- {{< var c.bus340.long >}}
+	- {{< var c.psy475.long >}}	
 2. **All** of the following organizational core courses: 
-	{{< var c.bus300.long >}}
-	{{< var c.bus315.long >}}
-	{{< var c.psy245.long >}}
-	{{< var c.psy465.long >}}
+	- {{< var c.bus300.long >}}
+	- {{< var c.bus315.long >}}
+	- {{< var c.psy245.long >}}
+	- {{< var c.psy465.long >}}
 
 3. **Four** elective courses to be chosen as indicated from the two lists below. 
  
-a. **At least two** of the following courses:
-	{{< var c.bus250.long >}}
-	{{< var c.bus375.long >}}
-	{{< var c.bus387.long >}}
-	{{< var c.bus395.long >}}
-	{{< var c.bus410.long >}} 
-	{{< var c.bus437.long >}}
-	{{< var c.bus457.long >}}
-	{{< var c.bus464.long >}}
+	a. **At least two** of the following courses:
+		- {{< var c.bus250.long >}}
+		- {{< var c.bus375.long >}}
+		- {{< var c.bus387.long >}}
+		- {{< var c.bus395.long >}}
+		- {{< var c.bus410.long >}} 
+		- {{< var c.bus437.long >}}
+		- {{< var c.bus457.long >}}
+		- {{< var c.bus464.long >}}
 
-b. **No more than two** of the following courses:
-	{{< var c.psy255.long >}}
-	{{< var c.psy315.long >}}
-	{{< var c.psy355_355l.long >}}
-	{{< var c.psy464.long >}} (if topic is appropriate)
+	b. **No more than two** of the following courses:
+		- {{< var c.psy255.long >}}
+		- {{< var c.psy315.long >}}
+		- {{< var c.psy355_355l.long >}}
+		- {{< var c.psy464.long >}} (if topic is appropriate)
 	
 4. **One** of the following, subject to prior approval by the Organizational Science administrative coordinator:
-	{{< var c.bus454.long >}} (with business administration departmental approval)
-	{{< var c.bus494.long >}} (with business administration departmental approval)
-	{{< var c.psy455.long >}} 
-	{{< var c.psy494.long >}}
+	- {{< var c.bus454.long >}} (with business administration departmental approval)
+	- {{< var c.bus494.long >}} (with business administration departmental approval)
+	- {{< var c.psy455.long >}} 
+	- {{< var c.psy494.long >}}
