@@ -7,33 +7,33 @@ A major in Writing requires a cumulative 2.0 GPA in all courses counted toward t
 1. {{< var c.rhe200.long >}}
 
 2. **One** of the following:
-   {{< var c.rhe225.long >}} 
-   {{< var c.rhe255.long >}} 
+   - {{< var c.rhe225.long >}} 
+   - {{< var c.rhe255.long >}} 
 
 3. **One** of the following:
-	{{< var c.rhe377.long >}}
-	{{< var c.com382.long >}} **or** {{< var c.rhe382.long >}}
+	- {{< var c.rhe377.long >}}
+	- {{< var c.com382.long >}} **or** {{< var c.rhe382.long >}}
 
 4. **Six** credits, including any course with an RHE prefix not already fulfilling another requirement, or any of the courses from the list below. No more than two courses with the CRW or COM prefix may count toward the major.
-	{{< var c.com241.long >}}
-	{{< var c.com341.long >}}
-	{{< var c.com361.long >}}
-	{{< var c.com362.long >}}
-	{{< var c.com382.long >}} or {{< var c.rhe382.long >}} (if not used to fulfill requirement #3)
-	{{< var c.com462.long >}}
-	{{< var c.com115.long >}}
-	{{< var c.com255.long >}}
-	{{< var c.com280.long >}}
-	{{< var c.com290.long >}}
-	{{< var c.com355.long >}}
-	{{< var c.com380.long >}}
-	{{< var c.com390.long >}}
+	- {{< var c.com241.long >}}
+	- {{< var c.com341.long >}}
+	- {{< var c.com361.long >}}
+	- {{< var c.com362.long >}}
+	- {{< var c.com382.long >}} or {{< var c.rhe382.long >}} (if not used to fulfill requirement #3)
+	- {{< var c.com462.long >}}
+	- {{< var c.com115.long >}}
+	- {{< var c.com255.long >}}
+	- {{< var c.com280.long >}}
+	- {{< var c.com290.long >}}
+	- {{< var c.com355.long >}}
+	- {{< var c.com380.long >}}
+	- {{< var c.com390.long >}}
 
 5. **One** of the following:
-	{{< var c.rhe415.long >}} (If not used to satisfy requirement #4)
-	{{< var c.rhe425.long >}} (if not used to satisfy requirement #4)
-	{{< var c.rhe444.long >}}
-	An Honors Thesis 
+	- {{< var c.rhe415.long >}} (If not used to satisfy requirement #4)
+	- {{< var c.rhe425.long >}} (if not used to satisfy requirement #4)
+	- {{< var c.rhe444.long >}}
+	- An Honors Thesis 
 
 6. A portfolio of works completed in the major (minimum 3, maximum 4), preceded by a preface that synthesizes major threads/themes of learning, and reflects on programmatic learning outcomes and on what takeaways from the major the student anticipates being most important as they prepare for their post-baccalaureate life. The portfolio should be submitted by the end of the term prior to the student’s intended graduation date, unless circumstances suggest it should be submitted later (confer with advisor and department chair).
 
