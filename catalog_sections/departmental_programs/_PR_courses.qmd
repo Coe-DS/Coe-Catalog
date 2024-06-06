@@ -13,10 +13,10 @@ A major in Public Relations requires a cumulative 2.0 GPA in all courses counted
 Concurrent completion of any of the majors listed on p.  of the Catalog is required.  
 
 1. **One** of the following:
-	{{< var c.art101.long >}}
-	{{< var c.art145.long >}}
-	{{< var c.art155.long >}}
-	{{< var c.art363.long >}}
+	- {{< var c.art101.long >}}
+	- {{< var c.art145.long >}}
+	- {{< var c.art155.long >}}
+	- {{< var c.art363.long >}}
 
 2. {{< var c.pr205.long >}}
  
@@ -25,37 +25,37 @@ Concurrent completion of any of the majors listed on p.  of the Catalog is requi
 4. {{< var c.bus460.long >}} 
 
 5. **One** of the following:
-	{{< var c.com241.long >}}
-	{{< var c.rhe225.long >}}
+	- {{< var c.com241.long >}}
+	- {{< var c.rhe225.long >}}
 
 6. **One** of the following (producing a portfolio of writings related to the field of public relations):
-	{{< var c.bus461.long >}}
-	{{< var c.rhe415.long >}}
+	- {{< var c.bus461.long >}}
+	- {{< var c.rhe415.long >}}
 
 7. **One** of the following:
-	{{< var c.bus494.long >}} (with public relations or advertising as a major component
-	{{< var c.int499.long >}} (0.0 credit) (with public relations as a major component
-	{{< var c.pr494.long >}} 
+	- {{< var c.bus494.long >}} (with public relations or advertising as a major component
+	- {{< var c.int499.long >}} (0.0 credit) (with public relations as a major component
+	- {{< var c.pr494.long >}} 
 
 8. **Three** of the following. No more than two courses may be selected from within any one department. (Students majoring in Business Administration may select no more than one course with either a BUS or an ACC prefix. Students majoring in Communication Studies or in Writing may select no more than one course with either a COM or an RHE prefix.)
-	{{< var c.acc171.long >}} 
-	{{< var c.art101.long >}} (if not used to satisfy #1)
-	{{< var c.art145.long >}} (if not used to satisfy #1)
-	{{< var c.art155.long >}} (if not used to satisfy #1)
-	{{< var c.art363.long >}} (if not used to satisfy #1)
-	{{< var c.bus250.long >}} 
-	{{< var c.bus250.long >}}
-	{{< var c.bus375.long >}}
-	{{< var c.bus461.long >}} (if not used to satisfy #6)
-	{{< var c.bus464.long >}} , subject to topic approval by PR administrative coordinator
-	{{< var c.bus465.long >}} , subject to topic approval by PR administrative coordinator
-	{{< var c.com125.long >}}
-	{{< var c.com157.long >}}
-	{{< var c.com337.long >}}
-	{{< var c.com341.long >}}
-	{{< var c.rhe225.long >}} (if not used to satisfy #5)
-	{{< var c.rhe265.long >}}
-	{{< var c.rhe415.long >}} (if not used to satisfy #6)
+	- {{< var c.acc171.long >}} 
+	- {{< var c.art101.long >}} (if not used to satisfy #1)
+	- {{< var c.art145.long >}} (if not used to satisfy #1)
+	- {{< var c.art155.long >}} (if not used to satisfy #1)
+	- {{< var c.art363.long >}} (if not used to satisfy #1)
+	- {{< var c.bus250.long >}} 
+	- {{< var c.bus250.long >}}
+	- {{< var c.bus375.long >}}
+	- {{< var c.bus461.long >}} (if not used to satisfy #6)
+	- {{< var c.bus464.long >}} , subject to topic approval by PR administrative coordinator
+	- {{< var c.bus465.long >}} , subject to topic approval by PR administrative coordinator
+	- {{< var c.com125.long >}}
+	- {{< var c.com157.long >}}
+	- {{< var c.com337.long >}}
+	- {{< var c.com341.long >}}
+	- {{< var c.rhe225.long >}} (if not used to satisfy #5)
+	- {{< var c.rhe265.long >}}
+	- {{< var c.rhe415.long >}} (if not used to satisfy #6)
 
 ### Courses in Public Relations 
 - **{{< var c.pr205.long >}}**
