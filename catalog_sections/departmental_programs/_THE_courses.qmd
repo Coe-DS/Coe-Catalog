@@ -15,6 +15,7 @@ For the campus community at large, as audience members or as occasional particip
 A major in Theatre Arts requires a cumulative 2.0 GPA in all courses counted toward the major.
 
 **Theatre Arts Core Courses** (required of all students majoring in theatre arts):
+
 1. {{< var c.the102.long >}} 
 
 2. {{< var c.the130.long >}}
@@ -51,17 +52,17 @@ Theatre Arts students select one of the following **emphases**: general, acting,
 3. {{< var c.the250.long >}} 
 
 4. **One** of the following:
-	{{< var c.the160.long >}} 
-	{{< var c.the260.long >}} 
-	{{< var c.the270.long >}} 
-	{{< var c.the350.long >}}
+	- {{< var c.the160.long >}} 
+	- {{< var c.the260.long >}} 
+	- {{< var c.the270.long >}} 
+	- {{< var c.the350.long >}}
  
 *Strongly recommended:*
-	Any dance course (DAN-101 through DAN-152)
-	{{< var c.the162.long >}} 
-	{{< var c.the452.long >}} 
-	{{< var c.phl105.long >}} 
-	{{< var c.psy100.long >}} 
+	- Any dance course (DAN-101 through DAN-152)
+	- {{< var c.the162.long >}} 
+	- {{< var c.the452.long >}} 
+	- {{< var c.phl105.long >}} 
+	- {{< var c.psy100.long >}} 
 
 **Directing**
 
@@ -74,14 +75,14 @@ Theatre Arts students select one of the following **emphases**: general, acting,
 4. **One** additional course in acting or design
 
 *Strongly recommended:*
-	{{< var c.arh118.long >}} 
-	{{< var c.com237.long >}}
-	{{< var c.the220.long >}}  
-	{{< var c.the242.long >}} 
-	{{< var c.the280.long >}} 
-	{{< var c.the350.long >}} 
-	{{< var c.the462.long >}}
-	Any other art history course 
+	- {{< var c.arh118.long >}} 
+	- {{< var c.com237.long >}}
+	- {{< var c.the220.long >}}  
+	- {{< var c.the242.long >}} 
+	- {{< var c.the280.long >}} 
+	- {{< var c.the350.long >}} 
+	- {{< var c.the462.long >}}
+	- Any other art history course 
 
 **Musical Theatre**
 
@@ -96,9 +97,9 @@ Theatre Arts students select one of the following **emphases**: general, acting,
 5. **Four** terms of {{< var c.mua202v.long >}} (0.6 cc) 
 
 6. **One** additional course credit in practical musical theatre chosen from a combination of the following:
-	{{< var c.mua130v.long >}} (0.5 cc)
-	{{< var c.mua131v.long >}} (0.2 cc)
-	A musical theatre internship approved by the Music or Theatre Arts department
+	- {{< var c.mua130v.long >}} (0.5 cc)
+	- {{< var c.mua131v.long >}} (0.2 cc)
+	- A musical theatre internship approved by the Music or Theatre Arts department
 
 7. **Six** seven-week dance courses (DAN-101 through DAN-142) (0.2 cc)
 
@@ -107,21 +108,21 @@ Theatre Arts students select one of the following **emphases**: general, acting,
 1. **Eight** core courses (see @sec-theatre-arts-major )
 
 2. **Three*** of the following: 
-	{{< var c.the220.long >}} 
-	{{< var c.the230.long >}} 
-	{{< var c.the232.long >}} 
-	{{< var c.the242.long >}} 
-	{{< var c.the280.long >}}
-	{{< var c.the288.long >}} 
+	- {{< var c.the220.long >}} 
+	- {{< var c.the230.long >}} 
+	- {{< var c.the232.long >}} 
+	- {{< var c.the242.long >}} 
+	- {{< var c.the280.long >}}
+	- {{< var c.the288.long >}} 
 
 *Strongly recommended:* 
-	{{< var c.arh118.long >}} 
-	Any other Art History course 
-	{{< var c.art115.long >}} 
-	{{< var c.art145.long >}} 
-	{{< var c.art364.long >}} 
-	{{< var c.phy155.long >}} and {{< var c.phy155l.long >}}  
-	{{< var c.the442.long >}} 
+	- {{< var c.arh118.long >}} 
+	- Any other Art History course 
+	- {{< var c.art115.long >}} 
+	- {{< var c.art145.long >}} 
+	- {{< var c.art364.long >}} 
+	- {{< var c.phy155.long >}} and {{< var c.phy155l.long >}}  
+	- {{< var c.the442.long >}} 
 
 ### Courses in Theatre Arts 
 
