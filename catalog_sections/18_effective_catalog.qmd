@@ -14,8 +14,8 @@ Students ordinarily are graduated under the provisions of the catalog of their m
 | B  | Above average                     | 3.0 grade points per course credit |
 | B- |                                   | 2.7 grade points per course credit |
 | C+ |                                   | 2.3 grade points per course credit |
-| C  | Satisfactory, minimum expectation | 2.0 grade points per course credit |
-|    | credit                            |                                    |
+| C  | Satisfactory, minimum expectation credit | 2.0 grade points per course credit |
+|    |                             |                                    |
 | C- |                                   | 1.7 grade points per course credit |
 | D+ |                                   | 1.3 grade points per course credit |
 | D  | Passing, below expectation        | 1.0 grade points per course credit |
