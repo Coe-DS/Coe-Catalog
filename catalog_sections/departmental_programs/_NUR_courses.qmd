@@ -25,7 +25,7 @@ In order to successfully complete a course and be promoted to successive courses
 
 Candidates for the **Bachelor of Science in Nursing** degree must satisfactorily complete: 
 
-1. The general education requirements (see @sec-general-education-requirement ).
+1. The general education requirements (see @sec-general-education-courses ).
 
 2. **Eight** required supporting courses:
 
