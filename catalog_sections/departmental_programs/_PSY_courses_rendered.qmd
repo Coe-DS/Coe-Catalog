@@ -10,6 +10,7 @@ Students seeking certification to teach psychology at the secondary level are st
 
 ### Psychology Major 
 A major in Psychology requires a cumulative 2.0 GPA in all courses counted toward the major.
+
 1. PSY 100 Introductory Psychology
 
 2. PSY 200 Research Methods
@@ -23,33 +24,33 @@ A major in Psychology requires a cumulative 2.0 GPA in all courses counted towar
 6. PSY 464 Seminar in Psychology 
 
 7. **One**of the following:
-	PSY 455 Advanced Experimental Psychology 
-	PSY 494 Internship in Psychology 
+	* PSY 455 Advanced Experimental Psychology 
+	* PSY 494 Internship in Psychology 
 
 8. **One** of the following:
-	PSY 205 Developmental Psychology 
-	PSY 235 Abnormal Psychology 
+	* PSY 205 Developmental Psychology 
+	* PSY 235 Abnormal Psychology 
 
 9. **One** of the following:
-	PSY 245 Organizational Psychology 
-	PSY 255 Social Psychology 
+	* PSY 245 Organizational Psychology 
+	* PSY 255 Social Psychology 
 
 10. **One** of the following:
-	PSY 205 Developmental Psychology 
-	PSY 260 Cognitive Psychology 
+	* PSY 205 Developmental Psychology 
+	* PSY 260 Cognitive Psychology 
  
 11. **One** of the following:
-	+++MISSING INFO: c.psy325_325l.long +++
-	+++MISSING INFO: c.psy335_335l.long +++
-	+++MISSING INFO: c.psy355_355l.long +++
+	* +++MISSING INFO: c.psy325_325l.long +++
+	* +++MISSING INFO: c.psy335_335l.long +++
+	* +++MISSING INFO: c.psy355_355l.long +++
 
 12. **One** of the following:
-	PSY 315 Learning & Behavior
-	PSY 350 Drugs & Behavior
-	PSY 415 Counseling Psychology
-	PSY 450 Behavioral Neuroscience
-	PSY 465 Industrial Psychology
-	PSY 475 Testing & Measurement
+	* PSY 315 Learning & Behavior
+	* PSY 350 Drugs & Behavior
+	* PSY 415 Counseling Psychology
+	* PSY 450 Behavioral Neuroscience
+	* PSY 465 Industrial Psychology
+	* PSY 475 Testing & Measurement
 
 ### Courses in Psychology
 

@@ -19,12 +19,13 @@ The nursing department Admission, Promotion, and Retention committee reviews app
 ### Departmental Notes: 
 
 In order to successfully complete a course and be promoted to successive courses, students must:
-	+ Achieve a minimum grade of C (2.0) in all nursing courses; a grade of C- (1.7) or lower requires the student to repeat the course.
-	+ Achieve a cumulative average of 72% on all exams in a given course.
+	
+	- Achieve a minimum grade of C (2.0) in all nursing courses; a grade of C- (1.7) or lower requires the student to repeat the course.
+	- Achieve a cumulative average of 72% on all exams in a given course.
 
 Candidates for the **Bachelor of Science in Nursing** degree must satisfactorily complete: 
 
-1. The general education requirements (see @sec-general-education-requirement ).
+1. The general education requirements (see @sec-general-education-courses ).
 
 2. **Eight** required supporting courses:
 

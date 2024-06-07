@@ -13,30 +13,30 @@ A major in political science requires ten courses, including at least three 300-
 2. POL 115 American National Gov & Pol
 
 3. **One** political theory course:
-	POL 405 Contemporary Political Theory
-	POL 435 Ancient & Medieval Pol Thry
-	POL 445 Modern Political Theory 
+	- POL 405 Contemporary Political Theory
+	- POL 435 Ancient & Medieval Pol Thry
+	- POL 445 Modern Political Theory 
 
 4. **One** additional American government course:
-	POL 207 Religion & American Politics 
-	POL 245 Political Parties & Elections
-	POL 277 Women & Poltics in US
-	POL 325 The American Congress
-	POL 345 American Presidency
-	POL 350 US Social Policy Process
+	- POL 207 Religion & American Politics 
+	- POL 245 Political Parties & Elections
+	- POL 277 Women & Poltics in US
+	- POL 325 The American Congress
+	- POL 345 American Presidency
+	- POL 350 US Social Policy Process
 
 5. **Two** comparative or international politics courses:
-	POL 248 Political Violence and the Violent
-	POL 258 World Politics
-	POL 266 Latin American Politics
-	POL 276 African Politics
-	POL 286 Asian Politics
-	POL 298 European Politics
-	POL 305 Terrorism
-	POL 310 International Organizations         
-	POL 365 American Foreign Policy
-	POL 386 International Development
-	POL 398 Religion & World Politics
+	- POL 248 Political Violence and the Violent
+	- POL 258 World Politics
+	- POL 266 Latin American Politics
+	- POL 276 African Politics
+	- POL 286 Asian Politics
+	- POL 298 European Politics
+	- POL 305 Terrorism
+	- POL 310 International Organizations         
+	- POL 365 American Foreign Policy
+	- POL 386 International Development
+	- POL 398 Religion & World Politics
 
 6. **Four** additional political science courses
 
@@ -51,30 +51,30 @@ A minor in political science requires six courses, including at least two 300- o
 2. POL 115 American National Gov & Pol
 
 3. **One** political theory course:
-	POL 405 Contemporary Political Theory
-	POL 435 Ancient & Medieval Pol Thry
-	POL 445 Modern Political Theory
+	- POL 405 Contemporary Political Theory
+	- POL 435 Ancient & Medieval Pol Thry
+	- POL 445 Modern Political Theory
  	 
 4. **One** additional American government course: 
-	POL 207 Religion & American Politics 
-	POL 245 Political Parties & Elections
-	POL 277 Women & Poltics in US
-	POL 325 The American Congress
-	POL 345 American Presidency
-	POL 350 US Social Policy Process
+	- POL 207 Religion & American Politics 
+	- POL 245 Political Parties & Elections
+	- POL 277 Women & Poltics in US
+	- POL 325 The American Congress
+	- POL 345 American Presidency
+	- POL 350 US Social Policy Process
 
 5. **One** comparative or international politics course:
-	POL 248 Political Violence and the Violent
-	POL 258 World Politics
-	POL 266 Latin American Politics
-	POL 276 African Politics
-	POL 286 Asian Politics
-	POL 298 European Politics
-	POL 305 Terrorism
-	POL 310 International Organizations
-	POL 365 American Foreign Policy
-	POL 386 International Development
-	POL 398 Religion & World Politics
+	- POL 248 Political Violence and the Violent
+	- POL 258 World Politics
+	- POL 266 Latin American Politics
+	- POL 276 African Politics
+	- POL 286 Asian Politics
+	- POL 298 European Politics
+	- POL 305 Terrorism
+	- POL 310 International Organizations
+	- POL 365 American Foreign Policy
+	- POL 386 International Development
+	- POL 398 Religion & World Politics
 		
 6. **One** additional political science course
 

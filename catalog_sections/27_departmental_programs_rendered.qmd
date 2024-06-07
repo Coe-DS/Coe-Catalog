@@ -594,7 +594,7 @@ Students who received the highest degree more than 10 years prior to application
 
 
 ### Elementary Education/Non-Licensure
-The majority of students who major in elementary education intend to become licensed K–6 classroom teachers and complete one term of full-time student teaching after completing the major requirements. Occasionally, however, a student may wish to work with young children in settings other than those for which certification is required. Such students may complete all of the required course work for the elementary education major without student teaching and are advised on supplementary course work to support their goals.
+The majority of students who major in elementary education intend to become licensed K–6 classroom teachers and complete one term of full-time student teaching after completing the major requirements. Occasionally, however, a student may wish to work with young children in settings other than those for which certification is required. Such students may complete all of the required coursework for the elementary education major without student teaching and are advised on supplementary coursework to support their goals.
 
 
 ### REQUIREMENTS FOR STUDENTS PURSUING TEACHING LICENSES
@@ -756,15 +756,15 @@ Normally, students complete two seven- to eight-week placements, with each place
 
 
 ### Ninth-Term/Fifth-Year Programs
-Students who want to include more course work in their liberal arts and sciences curriculum in conjunction with completing requirements for elementary and/or secondary teacher licensure may apply for a Ninth-Term/Fifth-Year tuition reduction. Both options are open to all students who have been ***admitted*** to the Teacher Education Program and meet requirements for student teaching.
+Students who want to include more coursework in their liberal arts and sciences curriculum in conjunction with completing requirements for elementary and/or secondary teacher licensure may apply for a Ninth-Term/Fifth-Year tuition reduction. Both options are open to all students who have been ***admitted*** to the Teacher Education Program and meet requirements for student teaching.
 Students participating in the Ninth-Term/Fifth-Year Programs are eligible for a 60% discount on full-time tuition, if the following criteria are met:
 1. The student must be in good standing with the college (not on academic probation);
 2. The student must be registered as a full-time student;
 3. The student must have completed 32 course credits, sixteen of which were taken at Coe; and
 4. The student must not have previously received the age discount.
 5. The student submits the application by the appropriate deadline:
-Fall Term: April 1
-Spring Term: November 1
+Fall Term: April 1st
+Spring Term: November 1st
 Students who have satisfactorily completed four years of full-time registration at Coe may also apply for this reduction. Students continue to be eligible to apply for student loans and any available federal and state government grants. This reduction can only be given for a maximum of two terms and applies only to regular full-time tuition charges for undergraduate campus-based programs. Applications for tuition reduction are available from the Education Department.
 Exemptions from these requirements may be granted in unusual circumstances with the approval of the Provost and Dean of the Faculty and the Education department chair. A written request for such consideration, detailing the circumstances and rationale, should be made to the Education department chair.
 
@@ -2926,12 +2926,13 @@ The nursing department Admission, Promotion, and Retention committee reviews app
 ### Departmental Notes: 
 
 In order to successfully complete a course and be promoted to successive courses, students must:
-	+ Achieve a minimum grade of C (2.0) in all nursing courses; a grade of C- (1.7) or lower requires the student to repeat the course.
-	+ Achieve a cumulative average of 72% on all exams in a given course.
+	
+	- Achieve a minimum grade of C (2.0) in all nursing courses; a grade of C- (1.7) or lower requires the student to repeat the course.
+	- Achieve a cumulative average of 72% on all exams in a given course.
 
 Candidates for the **Bachelor of Science in Nursing** degree must satisfactorily complete: 
 
-1. The general education requirements (see @sec-general-education-requirement ).
+1. The general education requirements (see @sec-general-education-courses ).
 
 2. **Eight** required supporting courses:
 
@@ -3078,37 +3079,38 @@ A major in organizational science requires a minimum cumulative 2.0 GPA in all c
 Concurrent completion of a primary major in psychology is required. 
  
 1. **All** of the following quantitative/methodological core courses:
-	BUS 340 Applied Regression Analysis
-	PSY 475 Testing & Measurement	
+	- BUS 340 Applied Regression Analysis
+	- PSY 475 Testing & Measurement	
 2. **All** of the following organizational core courses: 
-	BUS 300 Human Resource Management
-	BUS 315 Business Law I
-	PSY 245 Organizational Psychology
-	PSY 465 Industrial Psychology
+	- BUS 300 Human Resource Management
+	- BUS 315 Business Law I
+	- PSY 245 Organizational Psychology
+	- PSY 465 Industrial Psychology
 
 3. **Four** elective courses to be chosen as indicated from the two lists below. 
  
-a. **At least two** of the following courses:
-	BUS 250 Principles of Management
-	BUS 375 Business Ethics
-	BUS 387 Adv Top:Human Res Mgt
-	BUS 395 Organizational Behavior
-	BUS 410 Business Law II 
-	BUS 437 Strategic Compensation
-	BUS 457 Employment and Discrimination Law
-	BUS 464 Seminar in Management
+	a. **At least two** of the following courses:
+		- BUS 250 Principles of Management
+		- BUS 375 Business Ethics
+		- BUS 387 Adv Top:Human Res Mgt
+		- BUS 395 Organizational Behavior
+		- BUS 410 Business Law II 
+		- BUS 437 Strategic Compensation
+		- BUS 457 Employment and Discrimination Law
+		- BUS 464 Seminar in Management
 
-b. **No more than two** of the following courses:
-	PSY 255 Social Psychology
-	PSY 315 Learning & Behavior
-	+++MISSING INFO: c.psy355_355l.long +++
-	PSY 464 Seminar in Psychology (if topic is appropriate)
+	b. **No more than two** of the following courses:
+		- PSY 255 Social Psychology
+		- PSY 315 Learning & Behavior
+		- +++MISSING INFO: c.psy355_355l.long +++
+		- PSY 464 Seminar in Psychology (if topic is appropriate)
 	
 4. **One** of the following, subject to prior approval by the Organizational Science administrative coordinator:
-	BUS 454 Research in Business (with business administration departmental approval)
-	BUS 494 Internship in Business (with business administration departmental approval)
-	PSY 455 Advanced Experimental Psychology 
-	PSY 494 Internship in Psychology
+	- BUS 454 Research in Business (with business administration departmental approval)
+	- BUS 494 Internship in Business (with business administration departmental approval)
+	- PSY 455 Advanced Experimental Psychology 
+	- PSY 494 Internship in Psychology
+
 
 ## Philosophy 
 
@@ -3120,10 +3122,10 @@ The philosophy and religion department offer courses designed to lead students t
 A grade of “C” (2.0) or higher must be earned in all courses counted toward a major in philosophy.
 
 1. **Two** of the following, one of which must be either PHL 240 Early Modern Philosophy or PHL 335 Late Modern Philosophy:
-	PHL 220 Ancient Greek Philosophy
-	PHL 230 Medieval Philosophy
-	PHL 240 Early Modern Philosophy
-	PHL 335 Late Modern Philosophy
+	- PHL 220 Ancient Greek Philosophy
+	- PHL 230 Medieval Philosophy
+	- PHL 240 Early Modern Philosophy
+	- PHL 335 Late Modern Philosophy
 
 2. **Three** additional 300-level philosophy courses 
 
@@ -3135,10 +3137,10 @@ A grade of “C” (2.0) or higher must be earned in all courses counted toward 
 
 ### Philosophy Minor 
 1. **Two** of the following, one of which must be either PHL 240 Early Modern Philosophy or PHL 335 Late Modern Philosophy :
-	PHL 220 Ancient Greek Philosophy
-	PHL 230 Medieval Philosophy
-	PHL 240 Early Modern Philosophy
-	PHL 335 Late Modern Philosophy
+	- PHL 220 Ancient Greek Philosophy
+	- PHL 230 Medieval Philosophy
+	- PHL 240 Early Modern Philosophy
+	- PHL 335 Late Modern Philosophy
 
 2. **One** additional 300-level philosophy course
 
@@ -3303,10 +3305,10 @@ A major in physics requires a minimum cumulative 2.0 GPA in all courses counted 
 5. PHY 265 Electromagnetism 
 
 6. **Two** of the following courses:
-	PHY 275 Mechanics Formulations
-	PHY 315 Thermodynamics & Stat Mech
-	PHY 335 Quantum Mechanics
-	PHY 425 Solid State Physics
+	- PHY 275 Mechanics Formulations
+	- PHY 315 Thermodynamics & Stat Mech
+	- PHY 335 Quantum Mechanics
+	- PHY 425 Solid State Physics
 
 7. **Four** additional physics courses, all of which must be numbered 150 or above. 
 
@@ -3314,8 +3316,8 @@ A major in physics requires a minimum cumulative 2.0 GPA in all courses counted 
 	Satisfactory completion of written and oral examinations
 
 ***Recommended:***
-	CS 125 Computer Science I
-	+++MISSING INFO: c.chm121_121l.long +++
+	- CS 125 Computer Science I
+	- +++MISSING INFO: c.chm121_121l.long +++
 
 ### Physics Major
 A minor in Physics requires a cumulative 2.0 GPA in all courses counted toward the major.
@@ -3422,30 +3424,30 @@ A major in political science requires ten courses, including at least three 300-
 2. POL 115 American National Gov & Pol
 
 3. **One** political theory course:
-	POL 405 Contemporary Political Theory
-	POL 435 Ancient & Medieval Pol Thry
-	POL 445 Modern Political Theory 
+	- POL 405 Contemporary Political Theory
+	- POL 435 Ancient & Medieval Pol Thry
+	- POL 445 Modern Political Theory 
 
 4. **One** additional American government course:
-	POL 207 Religion & American Politics 
-	POL 245 Political Parties & Elections
-	POL 277 Women & Poltics in US
-	POL 325 The American Congress
-	POL 345 American Presidency
-	POL 350 US Social Policy Process
+	- POL 207 Religion & American Politics 
+	- POL 245 Political Parties & Elections
+	- POL 277 Women & Poltics in US
+	- POL 325 The American Congress
+	- POL 345 American Presidency
+	- POL 350 US Social Policy Process
 
 5. **Two** comparative or international politics courses:
-	POL 248 Political Violence and the Violent
-	POL 258 World Politics
-	POL 266 Latin American Politics
-	POL 276 African Politics
-	POL 286 Asian Politics
-	POL 298 European Politics
-	POL 305 Terrorism
-	POL 310 International Organizations         
-	POL 365 American Foreign Policy
-	POL 386 International Development
-	POL 398 Religion & World Politics
+	- POL 248 Political Violence and the Violent
+	- POL 258 World Politics
+	- POL 266 Latin American Politics
+	- POL 276 African Politics
+	- POL 286 Asian Politics
+	- POL 298 European Politics
+	- POL 305 Terrorism
+	- POL 310 International Organizations         
+	- POL 365 American Foreign Policy
+	- POL 386 International Development
+	- POL 398 Religion & World Politics
 
 6. **Four** additional political science courses
 
@@ -3460,30 +3462,30 @@ A minor in political science requires six courses, including at least two 300- o
 2. POL 115 American National Gov & Pol
 
 3. **One** political theory course:
-	POL 405 Contemporary Political Theory
-	POL 435 Ancient & Medieval Pol Thry
-	POL 445 Modern Political Theory
+	- POL 405 Contemporary Political Theory
+	- POL 435 Ancient & Medieval Pol Thry
+	- POL 445 Modern Political Theory
  	 
 4. **One** additional American government course: 
-	POL 207 Religion & American Politics 
-	POL 245 Political Parties & Elections
-	POL 277 Women & Poltics in US
-	POL 325 The American Congress
-	POL 345 American Presidency
-	POL 350 US Social Policy Process
+	- POL 207 Religion & American Politics 
+	- POL 245 Political Parties & Elections
+	- POL 277 Women & Poltics in US
+	- POL 325 The American Congress
+	- POL 345 American Presidency
+	- POL 350 US Social Policy Process
 
 5. **One** comparative or international politics course:
-	POL 248 Political Violence and the Violent
-	POL 258 World Politics
-	POL 266 Latin American Politics
-	POL 276 African Politics
-	POL 286 Asian Politics
-	POL 298 European Politics
-	POL 305 Terrorism
-	POL 310 International Organizations
-	POL 365 American Foreign Policy
-	POL 386 International Development
-	POL 398 Religion & World Politics
+	- POL 248 Political Violence and the Violent
+	- POL 258 World Politics
+	- POL 266 Latin American Politics
+	- POL 276 African Politics
+	- POL 286 Asian Politics
+	- POL 298 European Politics
+	- POL 305 Terrorism
+	- POL 310 International Organizations
+	- POL 365 American Foreign Policy
+	- POL 386 International Development
+	- POL 398 Religion & World Politics
 		
 6. **One** additional political science course
 
@@ -3563,7 +3565,7 @@ See description, @washington-term
 
 Carstens (Administrative Coordinator).
  
-The Public Relations major prepares students for a career in public relations and related communication fields. The major integrates course work in business administration, professional writing, graphic arts, and other disciplines relevant to public relations. The curriculum encourages the development of skills and perspectives desirable for learning to manage the successful communication between an organization and its publics. 
+The Public Relations major prepares students for a career in public relations and related communication fields. The major integrates coursework in business administration, professional writing, graphic arts, and other disciplines relevant to public relations. The curriculum encourages the development of skills and perspectives desirable for learning to manage the successful communication between an organization and its publics. 
 
 Students wishing to complete this major must consult with the Public Relations administrative coordinator no later than the first term of their junior year. Students wishing to register for any of the art courses that count toward this major should consult with the art and art history department prior to course registration. 
 
@@ -3574,10 +3576,10 @@ A major in Public Relations requires a cumulative 2.0 GPA in all courses counted
 Concurrent completion of any of the majors listed on p.  of the Catalog is required.  
 
 1. **One** of the following:
-	ART101 Art Appreciation
-	ART 145 Digital Studio
-	ART 155 Photography: Light Writing
-	ART 363 Graphic Design Studio
+	- ART101 Art Appreciation
+	- ART 145 Digital Studio
+	- ART 155 Photography: Light Writing
+	- ART 363 Graphic Design Studio
 
 2. PR 205 Public Relations
  
@@ -3586,37 +3588,37 @@ Concurrent completion of any of the majors listed on p.  of the Catalog is requi
 4. BUS 460 Advertising 
 
 5. **One** of the following:
-	COM 241 Intro to Multimedia Journalism
-	RHE 225 Journalism/Media Wtg Wksp
+	- COM 241 Intro to Multimedia Journalism
+	- RHE 225 Journalism/Media Wtg Wksp
 
 6. **One** of the following (producing a portfolio of writings related to the field of public relations):
-	BUS 461 Marketing Decision Making/Analysis
-	RHE 415 How Writers Write
+	- BUS 461 Marketing Decision Making/Analysis
+	- RHE 415 How Writers Write
 
 7. **One** of the following:
-	BUS 494 Internship in Business (with public relations or advertising as a major component
-	INT 499 Summer Internship (0.0 credit) (with public relations as a major component
-	PR 494 Internship in Public Relations 
+	- BUS 494 Internship in Business (with public relations or advertising as a major component
+	- INT 499 Summer Internship (0.0 credit) (with public relations as a major component
+	- PR 494 Internship in Public Relations 
 
 8. **Three** of the following. No more than two courses may be selected from within any one department. (Students majoring in Business Administration may select no more than one course with either a BUS or an ACC prefix. Students majoring in Communication Studies or in Writing may select no more than one course with either a COM or an RHE prefix.)
-	ACC 171 Principles of Accounting I 
-	ART101 Art Appreciation (if not used to satisfy #1)
-	ART 145 Digital Studio (if not used to satisfy #1)
-	ART 155 Photography: Light Writing (if not used to satisfy #1)
-	ART 363 Graphic Design Studio (if not used to satisfy #1)
-	BUS 250 Principles of Management 
-	BUS 250 Principles of Management
-	BUS 375 Business Ethics
-	BUS 461 Marketing Decision Making/Analysis (if not used to satisfy #6)
-	BUS 464 Seminar in Management , subject to topic approval by PR administrative coordinator
-	BUS 465 Advanced Topics in Marketing , subject to topic approval by PR administrative coordinator
-	COM 125 Fundamentals of Public Speaking
-	COM 157 Introduction to Media Analysis
-	COM 337 Persuasion
-	COM 341 Digital Storytelling
-	RHE 225 Journalism/Media Wtg Wksp (if not used to satisfy #5)
-	RHE 265 Professional Writing
-	RHE 415 How Writers Write (if not used to satisfy #6)
+	- ACC 171 Principles of Accounting I 
+	- ART101 Art Appreciation (if not used to satisfy #1)
+	- ART 145 Digital Studio (if not used to satisfy #1)
+	- ART 155 Photography: Light Writing (if not used to satisfy #1)
+	- ART 363 Graphic Design Studio (if not used to satisfy #1)
+	- BUS 250 Principles of Management 
+	- BUS 250 Principles of Management
+	- BUS 375 Business Ethics
+	- BUS 461 Marketing Decision Making/Analysis (if not used to satisfy #6)
+	- BUS 464 Seminar in Management , subject to topic approval by PR administrative coordinator
+	- BUS 465 Advanced Topics in Marketing , subject to topic approval by PR administrative coordinator
+	- COM 125 Fundamentals of Public Speaking
+	- COM 157 Introduction to Media Analysis
+	- COM 337 Persuasion
+	- COM 341 Digital Storytelling
+	- RHE 225 Journalism/Media Wtg Wksp (if not used to satisfy #5)
+	- RHE 265 Professional Writing
+	- RHE 415 How Writers Write (if not used to satisfy #6)
 
 ### Courses in Public Relations 
 - **PR 205 Public Relations**
@@ -3640,6 +3642,7 @@ Students seeking certification to teach psychology at the secondary level are st
 
 ### Psychology Major 
 A major in Psychology requires a cumulative 2.0 GPA in all courses counted toward the major.
+
 1. PSY 100 Introductory Psychology
 
 2. PSY 200 Research Methods
@@ -3653,33 +3656,33 @@ A major in Psychology requires a cumulative 2.0 GPA in all courses counted towar
 6. PSY 464 Seminar in Psychology 
 
 7. **One**of the following:
-	PSY 455 Advanced Experimental Psychology 
-	PSY 494 Internship in Psychology 
+	* PSY 455 Advanced Experimental Psychology 
+	* PSY 494 Internship in Psychology 
 
 8. **One** of the following:
-	PSY 205 Developmental Psychology 
-	PSY 235 Abnormal Psychology 
+	* PSY 205 Developmental Psychology 
+	* PSY 235 Abnormal Psychology 
 
 9. **One** of the following:
-	PSY 245 Organizational Psychology 
-	PSY 255 Social Psychology 
+	* PSY 245 Organizational Psychology 
+	* PSY 255 Social Psychology 
 
 10. **One** of the following:
-	PSY 205 Developmental Psychology 
-	PSY 260 Cognitive Psychology 
+	* PSY 205 Developmental Psychology 
+	* PSY 260 Cognitive Psychology 
  
 11. **One** of the following:
-	+++MISSING INFO: c.psy325_325l.long +++
-	+++MISSING INFO: c.psy335_335l.long +++
-	+++MISSING INFO: c.psy355_355l.long +++
+	* +++MISSING INFO: c.psy325_325l.long +++
+	* +++MISSING INFO: c.psy335_335l.long +++
+	* +++MISSING INFO: c.psy355_355l.long +++
 
 12. **One** of the following:
-	PSY 315 Learning & Behavior
-	PSY 350 Drugs & Behavior
-	PSY 415 Counseling Psychology
-	PSY 450 Behavioral Neuroscience
-	PSY 465 Industrial Psychology
-	PSY 475 Testing & Measurement
+	* PSY 315 Learning & Behavior
+	* PSY 350 Drugs & Behavior
+	* PSY 415 Counseling Psychology
+	* PSY 450 Behavioral Neuroscience
+	* PSY 465 Industrial Psychology
+	* PSY 475 Testing & Measurement
 
 ### Courses in Psychology
 
@@ -3751,6 +3754,7 @@ Prerequisite: Statistical Methods and Data Analysis (PSY-300).
 - **PSY 494 Internship in Psychology**
   On-site work experience in psychology under the direction of the on-site supervisor and a faculty member of the department. A minimum of 140 hours on-site experience is required. S/U basis only. One course credit of Internship in Psychology may be counted toward a major in psychology. Prerequisites: Applied Contemporary Psychology (PSY-295), a declared major in psychology, and consent of instructor.  
 
+
 ## Religion {#sec-religion}
 Chaplin, Hatchell (Chair), Kensky. 
 
@@ -3758,37 +3762,41 @@ The philosophy and religion department offer courses designed to lead students t
 
 ### Religion Major 
 A grade of “C” (2.0) or higher must be earned in all courses counted toward a major in religion. 
+
 1. **One** of the following:
-	REL 101 Introduction to Religion
-	REL 103 Belief & Unbelief
+	* REL 101 Introduction to Religion
+	* REL 103 Belief & Unbelief
 
 2. REL 106 Eastern Religions
 
 3. REL 108 Western Religions
 
 4. **One** of the following:
-	REL 105 Introduction to Hebrew Bible
-	REL 115 Introduction to New Testament 
+	* REL 105 Introduction to Hebrew Bible
+	* REL 115 Introduction to New Testament 
 
 5. **One** of the following:
-	REL 116 Buddhism 
-	REL 136 Religions of China 
-	REL 196 Hinduism 
+	* REL 116 Buddhism 
+	* REL 136 Religions of China 
+	* REL 196 Hinduism 
 
 6. **Five** additional religion courses, at least three of which are numbered 300 or above 
 
 ### Religion Minor 
 
 1. **One** of the following:
-	REL 106 Eastern Religions
-	REL 108 Western Religions
+	* REL 106 Eastern Religions
+	* REL 108 Western Religions
 
 2. **Four** additional religion courses 
 
-### Courses in Religion by Content area 
+### Courses in Religion by Content Area 
 Special attention should be given to the numerical ordering of the courses listed below: 
+
 1. Courses numbered between 100 and 199 include general introductions to religion (REL 101 Introduction to Religion , REL 103 Belief & Unbelief , REL 106 Eastern Religions , and REL 108 Western Religions as well as introductory courses focused on specific traditions.
+
 2. Courses numbered 200-299 are topical courses especially suitable for sophomore level and above.
+
 3. Courses numbered 300-399 are advanced courses with prerequisites. 
 
 Recommended beginning courses for those contemplating a major in religion are: REL 101 Introduction to Religion , REL 103 Belief & Unbelief , REL 106 Eastern Religions , or REL 108 Western Religionsm. However, other courses numbered below 200 are also suitable introductory courses.
@@ -3796,25 +3804,25 @@ Recommended beginning courses for those contemplating a major in religion are: R
 :::: {.columns}
 
 ::: {.column width="45%"}
-**Survey courses**	
-	REL 101 Introduction to Religion
-	REL 103 Belief & Unbelief
-	REL 106 Eastern Religions
-	REL 108 Western Religions
+* **Survey courses**	
+	- REL 101 Introduction to Religion
+	- REL 103 Belief & Unbelief
+	- REL 106 Eastern Religions
+	- REL 108 Western Religions
 
-**Individual traditions**
-	REL 116 Buddhism
-	REL 128 Judaism
-	REL 136 Religions of China
-	REL 138 Modern Judaism
-	REL 148 Islam
-	REL 178 Christianity
-	REL 196 Hinduism
-	REL 206 Buddhist Thought
-	REL 215 The Rise of Christianity
-	REL 226 Religions of China:Daoism
-	REL 236 Zen Buddhism
-	REL 336 Tibetan Buddhist Cultrue
+* **Individual traditions**
+	- REL 116 Buddhism
+	- REL 128 Judaism
+	- REL 136 Religions of China
+	- REL 138 Modern Judaism
+	- REL 148 Islam
+	- REL 178 Christianity
+	- REL 196 Hinduism
+	- REL 206 Buddhist Thought
+	- REL 215 The Rise of Christianity
+	- REL 226 Religions of China:Daoism
+	- REL 236 Zen Buddhism
+	- REL 336 Tibetan Buddhist Cultrue
 :::
 
 ::: {.column width="10%"}
@@ -3822,64 +3830,64 @@ Recommended beginning courses for those contemplating a major in religion are: R
 :::
 
 ::: {.column width="45%"}
-**Judeo-Christian scriptures**
-	REL 105 Introduction to Hebrew Bible
-	REL 115 Introduction to New Testament
-	REL 310 Early Christian Gospels
-	REL 330 Topics in Hebrew Bible
-	REL 365 The Letter of Paul
+* **Judeo-Christian scriptures**
+	- REL 105 Introduction to Hebrew Bible
+	- REL 115 Introduction to New Testament
+	- REL 310 Early Christian Gospels
+	- REL 330 Topics in Hebrew Bible
+	- REL 365 The Letter of Paul
 
-**Topical courses**
-	REL 217 Religion in America
-	REL 295 Topics in Religion
-	REL 296 Topics in Religion NWP
-	REL 338 Modern Religious Thought
-	REL 385 Advanced Topics in Religion
-	+++MISSING INFO: c.rel386.long +++
-	REL 394 Directed Learning in Religion
-	REL 444 Ind Study-Relig
-	REL 494 Internship in Religion 
+* **Topical courses**
+	- REL 217 Religion in America
+	- REL 295 Topics in Religion
+	- REL 296 Topics in Religion NWP
+	- REL 338 Modern Religious Thought
+	- REL 385 Advanced Topics in Religion
+	- +++MISSING INFO: c.rel386.long +++
+	- REL 394 Directed Learning in Religion
+	- REL 444 Ind Study-Relig
+	- REL 494 Internship in Religion 
 :::
 
 ::::
 
-**Survey courses**	
-	REL 101 Introduction to Religion
-	REL 103 Belief & Unbelief
-	REL 106 Eastern Religions
-	REL 108 Western Religions
+* **Survey courses**	
+	- REL 101 Introduction to Religion
+	- REL 103 Belief & Unbelief
+	- REL 106 Eastern Religions
+	- REL 108 Western Religions
 
-**Individual traditions**
-	REL 116 Buddhism
-	REL 128 Judaism
-	REL 136 Religions of China
-	REL 138 Modern Judaism
-	REL 148 Islam
-	REL 178 Christianity
-	REL 196 Hinduism
-	REL 206 Buddhist Thought
-	REL 215 The Rise of Christianity
-	REL 226 Religions of China:Daoism
-	REL 236 Zen Buddhism
-	REL 336 Tibetan Buddhist Cultrue
+* **Individual traditions**
+	- REL 116 Buddhism
+	- REL 128 Judaism
+	- REL 136 Religions of China
+	- REL 138 Modern Judaism
+	- REL 148 Islam
+	- REL 178 Christianity
+	- REL 196 Hinduism
+	- REL 206 Buddhist Thought
+	- REL 215 The Rise of Christianity
+	- REL 226 Religions of China:Daoism
+	- REL 236 Zen Buddhism
+	- REL 336 Tibetan Buddhist Cultrue
  
-**Judeo-Christian scriptures**
-	REL 105 Introduction to Hebrew Bible
-	REL 115 Introduction to New Testament
-	REL 310 Early Christian Gospels
-	REL 330 Topics in Hebrew Bible
-	REL 365 The Letter of Paul
+* **Judeo-Christian scriptures**
+	- REL 105 Introduction to Hebrew Bible
+	- REL 115 Introduction to New Testament
+	- REL 310 Early Christian Gospels
+	- REL 330 Topics in Hebrew Bible
+	- REL 365 The Letter of Paul
 
-**Topical courses**
-	REL 217 Religion in America
-	REL 295 Topics in Religion
-	REL 296 Topics in Religion NWP
-	REL 338 Modern Religious Thought
-	REL 385 Advanced Topics in Religion
-	+++MISSING INFO: c.rel386.long +++
-	REL 394 Directed Learning in Religion
-	REL 444 Ind Study-Relig
-	REL 494 Internship in Religion 
+* **Topical courses**
+	- REL 217 Religion in America
+	- REL 295 Topics in Religion
+	- REL 296 Topics in Religion NWP
+	- REL 338 Modern Religious Thought
+	- REL 385 Advanced Topics in Religion
+	- +++MISSING INFO: c.rel386.long +++
+	- REL 394 Directed Learning in Religion
+	- REL 444 Ind Study-Relig
+	- REL 494 Internship in Religion 
  
 ### Courses in Religion
 - **REL 101 Introduction to Religion**
@@ -3943,6 +3951,7 @@ Recommended beginning courses for those contemplating a major in religion are: R
 - **+++MISSING INFO: c.re494.long +++**
   Exploration of a career area related to the student’s interest in religion supervised by a Religion faculty member in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major in Religion. Prerequisites: declared major in Religion, junior standing, and consent of department chair.
 
+
 ## Rhetoric
 Carr (Chair), Donofrio, Harmsen, J. Nesmith, Opayemi, Spikes 
 
@@ -3974,65 +3983,65 @@ A major in Social & Criminal Justice requires a cumulative 2.0 GPA in all course
 6. SOC 351 Criminology
  
 7. **One** of the following:
-	STA 100 Statistical Reasoning I-Foundations (7 weeks) **and** STA 110 Stats IIA: Inferential Reasoning (7 weeks)
-	STA 100 Statistical Reasoning I-Foundations (7 weeks) **and** STA 130 Stats IIB: Experimental Design (7 weeks)
-	+++MISSING INFO: c.sta190.long +++
-	PSY 300 Stat Methods and Data Analysis
+	- STA 100 Statistical Reasoning I-Foundations (7 weeks) **and** STA 110 Stats IIA: Inferential Reasoning (7 weeks)
+	- STA 100 Statistical Reasoning I-Foundations (7 weeks) **and** STA 130 Stats IIB: Experimental Design (7 weeks)
+	- +++MISSING INFO: c.sta190.long +++
+	- PSY 300 Stat Methods and Data Analysis
 
 8. **Three** courses, chosen from the following, in consultation with the student’s advisor and/or the Social & Criminal Justice administrative coordinator. No more than two courses may be selected from the same prefix.
-	ACC 313 Fraud Examination
-	ARH 107 Gender and Art
-	COM 237 Interpersonal Communication
-	COM 357 Sex, Race, & Gender in Media
-	COM 361 Communication & Social Change
-	COM 362 U.S. Public Address
-	ECO 115 Intro Political Econ
-	EDU 187 Human Relations
-	ENG 127 Social Justice and Literature
-	ENG 146 Intro Postcolonial Literature
-	GS 107 Intro Gender & Sexuality Studies
-	HIS 145 History of United States to 1865
-	HIS 155 History of United States since 1865
-	HIS 347 African American History
-	HIS 257 Native American History
-	HIS 297 Women in America
-	HIS 325 Recent American History I
-	IS 126 HumanRightsBurmeseMigrant
-	PHL 128 Morality & Moral Controversies
-	PHL 205 Environmental Ethics
-	PHL 265 Political Philosophy
-	PHL 270 Ethical Theory
-	PHL 277 Philosophy of Gender & Race
-	POL 305 Terrorism
-	POL 350 US Social Policy Process
-	POL 375 Constitution & Individual Liberties
-	PSY 235 Abnormal Psychology
-	PSY 245 Organizational Psychology
-	PSY 255 Social Psychology
-	PSY 315 Learning & Behavior
-	PSY 350 Drugs & Behavior
-	PSY 415 Counseling Psychology
-	REL 217 Religion in America
-	SCJ 190 Topics in Social & Criminal Justice
-	SCJ 220 Juvenile Delinq & the Justice Sys
-	SCJ 301 Criminal Law & the 4th, 5th & 6th
-	SCJ 390 Adv Topics in Soc & Crim Just
-	SOC 207 Sociology of the Family
-	SOC 247 Sociology of Race
-	SOC 207 Sociology of the Family
-	SOC 247 Sociology of Race
-	SOC 328 Urban Sociology
-	SOC 338 Political Sociology
-	SOC 355 Deviant Behavior
-	SOC 425 Social Change
-	A course approved by the Social & Criminal Justice administrative coordinator
+	- ACC 313 Fraud Examination
+	- ARH 107 Gender and Art
+	- COM 237 Interpersonal Communication
+	- COM 357 Sex, Race, & Gender in Media
+	- COM 361 Communication & Social Change
+	- COM 362 U.S. Public Address
+	- ECO 115 Intro Political Econ
+	- EDU 187 Human Relations
+	- ENG 127 Social Justice and Literature
+	- ENG 146 Intro Postcolonial Literature
+	- GS 107 Intro Gender & Sexuality Studies
+	- HIS 145 History of United States to 1865
+	- HIS 155 History of United States since 1865
+	- HIS 347 African American History
+	- HIS 257 Native American History
+	- HIS 297 Women in America
+	- HIS 325 Recent American History I
+	- IS 126 HumanRightsBurmeseMigrant
+	- PHL 128 Morality & Moral Controversies
+	- PHL 205 Environmental Ethics
+	- PHL 265 Political Philosophy
+	- PHL 270 Ethical Theory
+	- PHL 277 Philosophy of Gender & Race
+	- POL 305 Terrorism
+	- POL 350 US Social Policy Process
+	- POL 375 Constitution & Individual Liberties
+	- PSY 235 Abnormal Psychology
+	- PSY 245 Organizational Psychology
+	- PSY 255 Social Psychology
+	- PSY 315 Learning & Behavior
+	- PSY 350 Drugs & Behavior
+	- PSY 415 Counseling Psychology
+	- REL 217 Religion in America
+	- SCJ 190 Topics in Social & Criminal Justice
+	- SCJ 220 Juvenile Delinq & the Justice Sys
+	- SCJ 301 Criminal Law & the 4th, 5th & 6th
+	- SCJ 390 Adv Topics in Soc & Crim Just
+	- SOC 207 Sociology of the Family
+	- SOC 247 Sociology of Race
+	- SOC 207 Sociology of the Family
+	- SOC 247 Sociology of Race
+	- SOC 328 Urban Sociology
+	- SOC 338 Political Sociology
+	- SOC 355 Deviant Behavior
+	- SOC 425 Social Change
+	- A course approved by the Social & Criminal Justice administrative coordinator
 
 9. **One** of the following capstone projects:
-	SCJ 444 Independent Study in Social and Cri
-	SCJ 494 Internship in Social and Criminal J
-	OCC 323 OCC Chicago: Urban Studies (if internship/independent study has SCJ focus)
-	WSH 464 Internship Seminar (if internship has SCJ focus)
-	As a capstone experience, it is expected that students will carry out the project during the junior or senior year, after completing the majority of the required coursework. Students are expected to consult with the SCJ administrative coordinator prior to beginning their projects. 
+	- SCJ 444 Independent Study in Social and Cri
+	- SCJ 494 Internship in Social and Criminal J
+	- OCC 323 OCC Chicago: Urban Studies (if internship/independent study has SCJ focus)
+	- WSH 464 Internship Seminar (if internship has SCJ focus)
+	- As a capstone experience, it is expected that students will carry out the project during the junior or senior year, after completing the majority of the required coursework. Students are expected to consult with the SCJ administrative coordinator prior to beginning their projects. 
 
 10. SCJ 490 Social & Criminal Just Colloquium -- Non-Credit Bearing
 
@@ -4058,6 +4067,7 @@ A major in Social & Criminal Justice requires a cumulative 2.0 GPA in all course
   Majors discuss and present their work that is a requirement of their capstone projects. It is expected that Colloquium is taken during or following the completing of the capstone internship/independent study. Satisfactory completion of the Colloquium is required for graduation with a major in Social & Criminal Justice. S/U basis only. (0.0 course credit)
 - **SCJ 494 Internship in Social and Criminal J**
   Investigation of a career area related to the student’s interest in social and criminal justice supervised by a faculty member in cooperation with the Center for Creativity and Careers. A minimum 140 hours of on-site experience is required. S/U basis only. Prerequisites: junior standing, declared major in Social & Criminal Justice, and consent of Social & Criminal Justice administrative coordinator.  
+
 
 ## Secondary Education (Minor Only)
 See Education , @sec-education 
@@ -4101,8 +4111,8 @@ A major in Sociology requires a cumulative 2.0 GPA in all courses counted toward
 5. **Five** additional sociology courses, including at least one course numbered 400–449 (not including SOC-444 Independent Study, which does not count towards the major)
 
 6. **One** of the following:
-	STA 100 Statistical Reasoning I-Foundations (7weeks) and STA 110 Stats IIA: Inferential Reasoning (7 weeks)
-	+++MISSING INFO: c.staa100.long +++ (7weeks) and STA 130 Stats IIB: Experimental Design (7 weeks)
+	- STA 100 Statistical Reasoning I-Foundations (7weeks) and STA 110 Stats IIA: Inferential Reasoning (7 weeks)
+	- +++MISSING INFO: c.staa100.long +++ (7weeks) and STA 130 Stats IIB: Experimental Design (7 weeks)
 
 ### Sociology Minor
 1. SOC 107 Introductory Sociology
@@ -4113,11 +4123,11 @@ A major in Sociology requires a cumulative 2.0 GPA in all courses counted toward
 
 4. **Three** additional sociology courses, including at least one course numbered 400–449 (not including SOC 444 Ind Study-Soc , which does not count towards the major)
 	The following courses do not satisfy any of the requirements for a major or minor in sociology:
-	SOC 275 Directed Readings in Sociology
-	SOC 365 Research Participation I or SOC 375 Research Participation II
-	SOC 444 Ind Study-Soc
-	SOC 494 Internship in Sociology
-	SOC 499 Career Related Independent Invest
+	- SOC 275 Directed Readings in Sociology
+	- SOC 365 Research Participation I or SOC 375 Research Participation II
+	- SOC 444 Ind Study-Soc
+	- SOC 494 Internship in Sociology
+	- SOC 499 Career Related Independent Invest
 
 ### Courses in Sociology 
 
@@ -4196,7 +4206,7 @@ The minor in Spanish requires the completion of four courses beyond SPA 225 Inte
  
 A grade of “C” (2.0) or higher must be earned in all courses counted toward a major in Spanish Studies. 
 
-The Spanish Studies major requires: 1) successful completion of four courses beyond SPA 225 Intermediate Spanish II , with SPA 336 Hispanic Life/Cult-Latin America or SPA 338 Hispanic Life/Culture:Europe recommended as one of the four; and 2) successful completion of a departmentally approved list of five courses proposed by the student which exhibits both internal coherence and relevance to the course work in Spanish. Typically, application to the department for the approval of the interdisciplinary elected courses is to be made no later than the Spring Term of the junior year. SPA 115 Elementary Spanish I , SPA 125 Elementary Spanish II , SPA 135 Spanish Review & Preparation, SPA 215 Intermediate Spanish I , and SPA 225 Intermediate Spanish II are regarded as skill-building courses, and do not count toward the major in Spanish Studies.
+The Spanish Studies major requires: 1) successful completion of four courses beyond SPA 225 Intermediate Spanish II , with SPA 336 Hispanic Life/Cult-Latin America or SPA 338 Hispanic Life/Culture:Europe recommended as one of the four; and 2) successful completion of a departmentally approved list of five courses proposed by the student which exhibits both internal coherence and relevance to the coursework in Spanish. Typically, application to the department for the approval of the interdisciplinary elected courses is to be made no later than the Spring Term of the junior year. SPA 115 Elementary Spanish I , SPA 125 Elementary Spanish II , SPA 135 Spanish Review & Preparation, SPA 215 Intermediate Spanish I , and SPA 225 Intermediate Spanish II are regarded as skill-building courses, and do not count toward the major in Spanish Studies.
 
 ### Courses in Spanish
 - **+++MISSING INFO: c.spa115_125.long +++**
@@ -4313,6 +4323,7 @@ For the campus community at large, as audience members or as occasional particip
 A major in Theatre Arts requires a cumulative 2.0 GPA in all courses counted toward the major.
 
 **Theatre Arts Core Courses** (required of all students majoring in theatre arts):
+
 1. THE 102 Theatre Production Lab 
 
 2. THE 130 Technical Production I
@@ -4349,17 +4360,17 @@ Theatre Arts students select one of the following **emphases**: general, acting,
 3. THE 250 Acting II 
 
 4. **One** of the following:
-	THE 160 Movement for the Stage 
-	THE 260 Acting for the Camera 
-	THE 270 Musical Theatre Acting 
-	THE 350 Advanced Acting:Shakespeare
+	- THE 160 Movement for the Stage 
+	- THE 260 Acting for the Camera 
+	- THE 270 Musical Theatre Acting 
+	- THE 350 Advanced Acting:Shakespeare
  
 *Strongly recommended:*
-	Any dance course (DAN-101 through DAN-152)
-	THE 162 Stage Make-Up 
-	THE 452 Advanced Projects in Acting 
-	PHL 105 Introduction to Philosophy: 
-	PSY 100 Introductory Psychology 
+	- Any dance course (DAN-101 through DAN-152)
+	- THE 162 Stage Make-Up 
+	- THE 452 Advanced Projects in Acting 
+	- PHL 105 Introduction to Philosophy: 
+	- PSY 100 Introductory Psychology 
 
 **Directing**
 
@@ -4372,14 +4383,14 @@ Theatre Arts students select one of the following **emphases**: general, acting,
 4. **One** additional course in acting or design
 
 *Strongly recommended:*
-	ARH 118 History of Western Architecture 
-	COM 237 Interpersonal Communication
-	THE 220 Tech Theatre Lab  
-	THE 242 Scene Design 
-	THE 280 Costume Design 
-	THE 350 Advanced Acting:Shakespeare 
-	THE 462 Advanced Projects in Directing
-	Any other art history course 
+	- ARH 118 History of Western Architecture 
+	- COM 237 Interpersonal Communication
+	- THE 220 Tech Theatre Lab  
+	- THE 242 Scene Design 
+	- THE 280 Costume Design 
+	- THE 350 Advanced Acting:Shakespeare 
+	- THE 462 Advanced Projects in Directing
+	- Any other art history course 
 
 **Musical Theatre**
 
@@ -4394,9 +4405,9 @@ Theatre Arts students select one of the following **emphases**: general, acting,
 5. **Four** terms of MUA 202V Voice (0.6 cc) 
 
 6. **One** additional course credit in practical musical theatre chosen from a combination of the following:
-	MUA 130V MusicalTheatreProductionExperience (0.5 cc)
-	MUA 131V Song Interpretation Workshop (0.2 cc)
-	A musical theatre internship approved by the Music or Theatre Arts department
+	- MUA 130V MusicalTheatreProductionExperience (0.5 cc)
+	- MUA 131V Song Interpretation Workshop (0.2 cc)
+	- A musical theatre internship approved by the Music or Theatre Arts department
 
 7. **Six** seven-week dance courses (DAN-101 through DAN-142) (0.2 cc)
 
@@ -4405,21 +4416,21 @@ Theatre Arts students select one of the following **emphases**: general, acting,
 1. **Eight** core courses (see @sec-theatre-arts-major )
 
 2. **Three*** of the following: 
-	THE 220 Tech Theatre Lab 
-	THE 230 Technical Production II 
-	THE 232 Computer Aided Drafting and Design 
-	THE 242 Scene Design 
-	THE 280 Costume Design
-	THE 288 History of Dress 
+	- THE 220 Tech Theatre Lab 
+	- THE 230 Technical Production II 
+	- THE 232 Computer Aided Drafting and Design 
+	- THE 242 Scene Design 
+	- THE 280 Costume Design
+	- THE 288 History of Dress 
 
 *Strongly recommended:* 
-	ARH 118 History of Western Architecture 
-	Any other Art History course 
-	ART 115 Drawing 
-	ART 145 Digital Studio 
-	ART 364 The Human Form 
-	PHY 155 Electronics and PHY 155L Electronics Lab  
-	THE 442 Adv Proj-Design/Tech Production 
+	- ARH 118 History of Western Architecture 
+	- Any other Art History course 
+	- ART 115 Drawing 
+	- ART 145 Digital Studio 
+	- ART 364 The Human Form 
+	- PHY 155 Electronics and PHY 155L Electronics Lab  
+	- THE 442 Adv Proj-Design/Tech Production 
 
 ### Courses in Theatre Arts 
 
@@ -4548,33 +4559,33 @@ A major in Writing requires a cumulative 2.0 GPA in all courses counted toward t
 1. RHE 200 Rhetorical Theory and Practice
 
 2. **One** of the following:
-   RHE 225 Journalism/Media Wtg Wksp 
-   RHE 255 The Essay 
+   - RHE 225 Journalism/Media Wtg Wksp 
+   - RHE 255 The Essay 
 
 3. **One** of the following:
-	RHE 377 Cultural Studies
-	COM 382 ResearchMethods:Rhetorical/Critical **or** RHE 382 Research Methods:Rhetorical/Critica
+	- RHE 377 Cultural Studies
+	- COM 382 ResearchMethods:Rhetorical/Critical **or** RHE 382 Research Methods:Rhetorical/Critica
 
 4. **Six** credits, including any course with an RHE prefix not already fulfilling another requirement, or any of the courses from the list below. No more than two courses with the CRW or COM prefix may count toward the major.
-	COM 241 Intro to Multimedia Journalism
-	COM 341 Digital Storytelling
-	COM 361 Communication & Social Change
-	COM 362 U.S. Public Address
-	COM 382 ResearchMethods:Rhetorical/Critical or RHE 382 Research Methods:Rhetorical/Critica (if not used to fulfill requirement #3)
-	+++MISSING INFO: c.com462.long +++
-	+++MISSING INFO: c.com115.long +++
-	+++MISSING INFO: c.com255.long +++
-	+++MISSING INFO: c.com280.long +++
-	+++MISSING INFO: c.com290.long +++
-	+++MISSING INFO: c.com355.long +++
-	+++MISSING INFO: c.com380.long +++
-	+++MISSING INFO: c.com390.long +++
+	- COM 241 Intro to Multimedia Journalism
+	- COM 341 Digital Storytelling
+	- COM 361 Communication & Social Change
+	- COM 362 U.S. Public Address
+	- COM 382 ResearchMethods:Rhetorical/Critical or RHE 382 Research Methods:Rhetorical/Critica (if not used to fulfill requirement #3)
+	- +++MISSING INFO: c.com462.long +++
+	- +++MISSING INFO: c.com115.long +++
+	- +++MISSING INFO: c.com255.long +++
+	- +++MISSING INFO: c.com280.long +++
+	- +++MISSING INFO: c.com290.long +++
+	- +++MISSING INFO: c.com355.long +++
+	- +++MISSING INFO: c.com380.long +++
+	- +++MISSING INFO: c.com390.long +++
 
 5. **One** of the following:
-	RHE 415 How Writers Write (If not used to satisfy requirement #4)
-	RHE 425 AdvTop Writing & Rhetorical Studies (if not used to satisfy requirement #4)
-	RHE 444 Independent Study in Writing (WE)
-	An Honors Thesis 
+	- RHE 415 How Writers Write (If not used to satisfy requirement #4)
+	- RHE 425 AdvTop Writing & Rhetorical Studies (if not used to satisfy requirement #4)
+	- RHE 444 Independent Study in Writing (WE)
+	- An Honors Thesis 
 
 6. A portfolio of works completed in the major (minimum 3, maximum 4), preceded by a preface that synthesizes major threads/themes of learning, and reflects on programmatic learning outcomes and on what takeaways from the major the student anticipates being most important as they prepare for their post-baccalaureate life. The portfolio should be submitted by the end of the term prior to the student’s intended graduation date, unless circumstances suggest it should be submitted later (confer with advisor and department chair).
 

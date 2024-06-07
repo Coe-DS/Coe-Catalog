@@ -5,37 +5,41 @@ The philosophy and religion department offer courses designed to lead students t
 
 ### Religion Major 
 A grade of “C” (2.0) or higher must be earned in all courses counted toward a major in religion. 
+
 1. **One** of the following:
-	REL 101 Introduction to Religion
-	REL 103 Belief & Unbelief
+	* REL 101 Introduction to Religion
+	* REL 103 Belief & Unbelief
 
 2. REL 106 Eastern Religions
 
 3. REL 108 Western Religions
 
 4. **One** of the following:
-	REL 105 Introduction to Hebrew Bible
-	REL 115 Introduction to New Testament 
+	* REL 105 Introduction to Hebrew Bible
+	* REL 115 Introduction to New Testament 
 
 5. **One** of the following:
-	REL 116 Buddhism 
-	REL 136 Religions of China 
-	REL 196 Hinduism 
+	* REL 116 Buddhism 
+	* REL 136 Religions of China 
+	* REL 196 Hinduism 
 
 6. **Five** additional religion courses, at least three of which are numbered 300 or above 
 
 ### Religion Minor 
 
 1. **One** of the following:
-	REL 106 Eastern Religions
-	REL 108 Western Religions
+	* REL 106 Eastern Religions
+	* REL 108 Western Religions
 
 2. **Four** additional religion courses 
 
-### Courses in Religion by Content area 
+### Courses in Religion by Content Area 
 Special attention should be given to the numerical ordering of the courses listed below: 
+
 1. Courses numbered between 100 and 199 include general introductions to religion (REL 101 Introduction to Religion , REL 103 Belief & Unbelief , REL 106 Eastern Religions , and REL 108 Western Religions as well as introductory courses focused on specific traditions.
+
 2. Courses numbered 200-299 are topical courses especially suitable for sophomore level and above.
+
 3. Courses numbered 300-399 are advanced courses with prerequisites. 
 
 Recommended beginning courses for those contemplating a major in religion are: REL 101 Introduction to Religion , REL 103 Belief & Unbelief , REL 106 Eastern Religions , or REL 108 Western Religionsm. However, other courses numbered below 200 are also suitable introductory courses.
@@ -43,25 +47,25 @@ Recommended beginning courses for those contemplating a major in religion are: R
 :::: {.columns}
 
 ::: {.column width="45%"}
-**Survey courses**	
-	REL 101 Introduction to Religion
-	REL 103 Belief & Unbelief
-	REL 106 Eastern Religions
-	REL 108 Western Religions
+* **Survey courses**	
+	- REL 101 Introduction to Religion
+	- REL 103 Belief & Unbelief
+	- REL 106 Eastern Religions
+	- REL 108 Western Religions
 
-**Individual traditions**
-	REL 116 Buddhism
-	REL 128 Judaism
-	REL 136 Religions of China
-	REL 138 Modern Judaism
-	REL 148 Islam
-	REL 178 Christianity
-	REL 196 Hinduism
-	REL 206 Buddhist Thought
-	REL 215 The Rise of Christianity
-	REL 226 Religions of China:Daoism
-	REL 236 Zen Buddhism
-	REL 336 Tibetan Buddhist Cultrue
+* **Individual traditions**
+	- REL 116 Buddhism
+	- REL 128 Judaism
+	- REL 136 Religions of China
+	- REL 138 Modern Judaism
+	- REL 148 Islam
+	- REL 178 Christianity
+	- REL 196 Hinduism
+	- REL 206 Buddhist Thought
+	- REL 215 The Rise of Christianity
+	- REL 226 Religions of China:Daoism
+	- REL 236 Zen Buddhism
+	- REL 336 Tibetan Buddhist Cultrue
 :::
 
 ::: {.column width="10%"}
@@ -69,64 +73,64 @@ Recommended beginning courses for those contemplating a major in religion are: R
 :::
 
 ::: {.column width="45%"}
-**Judeo-Christian scriptures**
-	REL 105 Introduction to Hebrew Bible
-	REL 115 Introduction to New Testament
-	REL 310 Early Christian Gospels
-	REL 330 Topics in Hebrew Bible
-	REL 365 The Letter of Paul
+* **Judeo-Christian scriptures**
+	- REL 105 Introduction to Hebrew Bible
+	- REL 115 Introduction to New Testament
+	- REL 310 Early Christian Gospels
+	- REL 330 Topics in Hebrew Bible
+	- REL 365 The Letter of Paul
 
-**Topical courses**
-	REL 217 Religion in America
-	REL 295 Topics in Religion
-	REL 296 Topics in Religion NWP
-	REL 338 Modern Religious Thought
-	REL 385 Advanced Topics in Religion
-	+++MISSING INFO: c.rel386.long +++
-	REL 394 Directed Learning in Religion
-	REL 444 Ind Study-Relig
-	REL 494 Internship in Religion 
+* **Topical courses**
+	- REL 217 Religion in America
+	- REL 295 Topics in Religion
+	- REL 296 Topics in Religion NWP
+	- REL 338 Modern Religious Thought
+	- REL 385 Advanced Topics in Religion
+	- +++MISSING INFO: c.rel386.long +++
+	- REL 394 Directed Learning in Religion
+	- REL 444 Ind Study-Relig
+	- REL 494 Internship in Religion 
 :::
 
 ::::
 
-**Survey courses**	
-	REL 101 Introduction to Religion
-	REL 103 Belief & Unbelief
-	REL 106 Eastern Religions
-	REL 108 Western Religions
+* **Survey courses**	
+	- REL 101 Introduction to Religion
+	- REL 103 Belief & Unbelief
+	- REL 106 Eastern Religions
+	- REL 108 Western Religions
 
-**Individual traditions**
-	REL 116 Buddhism
-	REL 128 Judaism
-	REL 136 Religions of China
-	REL 138 Modern Judaism
-	REL 148 Islam
-	REL 178 Christianity
-	REL 196 Hinduism
-	REL 206 Buddhist Thought
-	REL 215 The Rise of Christianity
-	REL 226 Religions of China:Daoism
-	REL 236 Zen Buddhism
-	REL 336 Tibetan Buddhist Cultrue
+* **Individual traditions**
+	- REL 116 Buddhism
+	- REL 128 Judaism
+	- REL 136 Religions of China
+	- REL 138 Modern Judaism
+	- REL 148 Islam
+	- REL 178 Christianity
+	- REL 196 Hinduism
+	- REL 206 Buddhist Thought
+	- REL 215 The Rise of Christianity
+	- REL 226 Religions of China:Daoism
+	- REL 236 Zen Buddhism
+	- REL 336 Tibetan Buddhist Cultrue
  
-**Judeo-Christian scriptures**
-	REL 105 Introduction to Hebrew Bible
-	REL 115 Introduction to New Testament
-	REL 310 Early Christian Gospels
-	REL 330 Topics in Hebrew Bible
-	REL 365 The Letter of Paul
+* **Judeo-Christian scriptures**
+	- REL 105 Introduction to Hebrew Bible
+	- REL 115 Introduction to New Testament
+	- REL 310 Early Christian Gospels
+	- REL 330 Topics in Hebrew Bible
+	- REL 365 The Letter of Paul
 
-**Topical courses**
-	REL 217 Religion in America
-	REL 295 Topics in Religion
-	REL 296 Topics in Religion NWP
-	REL 338 Modern Religious Thought
-	REL 385 Advanced Topics in Religion
-	+++MISSING INFO: c.rel386.long +++
-	REL 394 Directed Learning in Religion
-	REL 444 Ind Study-Relig
-	REL 494 Internship in Religion 
+* **Topical courses**
+	- REL 217 Religion in America
+	- REL 295 Topics in Religion
+	- REL 296 Topics in Religion NWP
+	- REL 338 Modern Religious Thought
+	- REL 385 Advanced Topics in Religion
+	- +++MISSING INFO: c.rel386.long +++
+	- REL 394 Directed Learning in Religion
+	- REL 444 Ind Study-Relig
+	- REL 494 Internship in Religion 
  
 ### Courses in Religion
 - **REL 101 Introduction to Religion**

@@ -6,14 +6,14 @@ Student Life provides personalized support to students, enabling each to gain th
 
 This statement was written by students in order to address standards of civility and respect within the Coe College community. This statement is a living document and is intended to evolve over time. 
 
-- We, the members of the Coe College community, expect our campus climate to be safe, mutually supportive, academically encouraging, egalitarian, and tolerant of all its members: 
-- we expect the academic experience to extend beyond the classroom into our living environment. 
-- we expect a campus free of incidents that create a hostile living environment. 
-- we expect a healthy and responsible attitude to accompany all social gatherings. 
-- we expect that intoxication will not be an excuse for incidents that occur while under the influence. 
-- we expect that diversity of opinion should be cultivated and encouraged as well as respected within our community. 
-- we expect that everyone will have the right to be respected for his or her individuality.
-- we expect all campus community members to respect the rights of other persons regardless of their actual or perceived age, color, creed, disability, gender identity, national origin, race, religion, sex, or sexual orientation. 
+- We, the members of the Coe College community, expect our campus climate to be safe, mutually supportive, academically encouraging, egalitarian, and tolerant of all its members.
+- We expect the academic experience to extend beyond the classroom into our living environment. 
+- We expect a campus free of incidents that create a hostile living environment. 
+- We expect a healthy and responsible attitude to accompany all social gatherings. 
+- We expect that intoxication will not be an excuse for incidents that occur while under the influence. 
+- We expect that diversity of opinion should be cultivated and encouraged as well as respected within our community. 
+- We expect that everyone will have the right to be respected for his or her individuality.
+- We expect all campus community members to respect the rights of other persons regardless of their actual or perceived age, color, creed, disability, gender identity, national origin, race, religion, sex, or sexual orientation. 
 
 A community is made up of individuals who model these standards and hold each other accountable. In order for the community to encompass the goals outlined above, each individual must be responsible and accountable for her or his own actions and words. 
 
@@ -27,7 +27,7 @@ Student Senate is the representative government of Coe students and coordinates 
 
 ### Student Handbook 
 
-The College Policies and Student Handbook outlines the College’s expectations for responsible behavior reflecting maturity, mutual respect, and cooperation among all members of the Coe community. Student Life develops policies for conduct procedures, residence hall living, student organizations, and other areas of student affairs for approval by the Board of Trustees. The College Policies and Student Handbook is available online at https://www.coe.edu/student-life/student-development/college-policies-student-handbook. 
+The *College Policies and Student Handbook* outlines the College’s expectations for responsible behavior reflecting maturity, mutual respect, and cooperation among all members of the Coe community. Student Life develops policies for conduct procedures, residence hall living, student organizations, and other areas of student affairs for approval by the Board of Trustees. The College Policies and Student Handbook is available online at https://www.coe.edu/student-life/student-development/college-policies-student-handbook. 
 
 ### Committee Participation 
 
@@ -39,9 +39,9 @@ Students serve on various committees, which aid in making educational policy at 
 
 ### Residence Life
 
-Coe is a residential college, in that the residence experience is an integral part of the educational process. Students are expected to live on campus for four years and take meals in the College hall (see On-Campus and Off-Campus Resident Students, p. 263). The residence halls and apartments vary in style, size, and personality. All of the residential facilities have generous visitation policies, and campus life functions around the concept of the living units. 
+Coe is a residential college, in that the residence experience is an integral part of the educational process. Students are expected to live on campus for four years and take meals in the College hall (see On-Campus and Off-Campus Resident Students, Section 27.1.4). The residence halls and apartments vary in style, size, and personality. All of the residential facilities have generous visitation policies, and campus life functions around the concept of the living units. 
 
-Residence hall and apartment regulations are published in the Student Reference Book. As room charges do not include Winter Break or Spring Break, when residential facilities and the dining hall are closed, an additional fee is assessed to students staying on campus during those times. Information regarding housing is sent to students who have accepted admission to the College. 
+Residence hall and apartment regulations are published in the *Student Reference Book*. As room charges do not include Winter Break or Spring Break, when residential facilities and the dining hall are closed, an additional fee is assessed to students staying on campus during those times. Information regarding housing is sent to students who have accepted admission to the College. 
 
 ### Student Health Service
 

@@ -8,10 +8,10 @@ The philosophy and religion department offer courses designed to lead students t
 A grade of “C” (2.0) or higher must be earned in all courses counted toward a major in philosophy.
 
 1. **Two** of the following, one of which must be either PHL 240 Early Modern Philosophy or PHL 335 Late Modern Philosophy:
-	PHL 220 Ancient Greek Philosophy
-	PHL 230 Medieval Philosophy
-	PHL 240 Early Modern Philosophy
-	PHL 335 Late Modern Philosophy
+	- PHL 220 Ancient Greek Philosophy
+	- PHL 230 Medieval Philosophy
+	- PHL 240 Early Modern Philosophy
+	- PHL 335 Late Modern Philosophy
 
 2. **Three** additional 300-level philosophy courses 
 
@@ -23,10 +23,10 @@ A grade of “C” (2.0) or higher must be earned in all courses counted toward 
 
 ### Philosophy Minor 
 1. **Two** of the following, one of which must be either PHL 240 Early Modern Philosophy or PHL 335 Late Modern Philosophy :
-	PHL 220 Ancient Greek Philosophy
-	PHL 230 Medieval Philosophy
-	PHL 240 Early Modern Philosophy
-	PHL 335 Late Modern Philosophy
+	- PHL 220 Ancient Greek Philosophy
+	- PHL 230 Medieval Philosophy
+	- PHL 240 Early Modern Philosophy
+	- PHL 335 Late Modern Philosophy
 
 2. **One** additional 300-level philosophy course
 

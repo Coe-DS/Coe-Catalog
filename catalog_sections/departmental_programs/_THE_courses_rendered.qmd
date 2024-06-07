@@ -15,6 +15,7 @@ For the campus community at large, as audience members or as occasional particip
 A major in Theatre Arts requires a cumulative 2.0 GPA in all courses counted toward the major.
 
 **Theatre Arts Core Courses** (required of all students majoring in theatre arts):
+
 1. THE 102 Theatre Production Lab 
 
 2. THE 130 Technical Production I
@@ -51,17 +52,17 @@ Theatre Arts students select one of the following **emphases**: general, acting,
 3. THE 250 Acting II 
 
 4. **One** of the following:
-	THE 160 Movement for the Stage 
-	THE 260 Acting for the Camera 
-	THE 270 Musical Theatre Acting 
-	THE 350 Advanced Acting:Shakespeare
+	- THE 160 Movement for the Stage 
+	- THE 260 Acting for the Camera 
+	- THE 270 Musical Theatre Acting 
+	- THE 350 Advanced Acting:Shakespeare
  
 *Strongly recommended:*
-	Any dance course (DAN-101 through DAN-152)
-	THE 162 Stage Make-Up 
-	THE 452 Advanced Projects in Acting 
-	PHL 105 Introduction to Philosophy: 
-	PSY 100 Introductory Psychology 
+	- Any dance course (DAN-101 through DAN-152)
+	- THE 162 Stage Make-Up 
+	- THE 452 Advanced Projects in Acting 
+	- PHL 105 Introduction to Philosophy: 
+	- PSY 100 Introductory Psychology 
 
 **Directing**
 
@@ -74,14 +75,14 @@ Theatre Arts students select one of the following **emphases**: general, acting,
 4. **One** additional course in acting or design
 
 *Strongly recommended:*
-	ARH 118 History of Western Architecture 
-	COM 237 Interpersonal Communication
-	THE 220 Tech Theatre Lab  
-	THE 242 Scene Design 
-	THE 280 Costume Design 
-	THE 350 Advanced Acting:Shakespeare 
-	THE 462 Advanced Projects in Directing
-	Any other art history course 
+	- ARH 118 History of Western Architecture 
+	- COM 237 Interpersonal Communication
+	- THE 220 Tech Theatre Lab  
+	- THE 242 Scene Design 
+	- THE 280 Costume Design 
+	- THE 350 Advanced Acting:Shakespeare 
+	- THE 462 Advanced Projects in Directing
+	- Any other art history course 
 
 **Musical Theatre**
 
@@ -96,9 +97,9 @@ Theatre Arts students select one of the following **emphases**: general, acting,
 5. **Four** terms of MUA 202V Voice (0.6 cc) 
 
 6. **One** additional course credit in practical musical theatre chosen from a combination of the following:
-	MUA 130V MusicalTheatreProductionExperience (0.5 cc)
-	MUA 131V Song Interpretation Workshop (0.2 cc)
-	A musical theatre internship approved by the Music or Theatre Arts department
+	- MUA 130V MusicalTheatreProductionExperience (0.5 cc)
+	- MUA 131V Song Interpretation Workshop (0.2 cc)
+	- A musical theatre internship approved by the Music or Theatre Arts department
 
 7. **Six** seven-week dance courses (DAN-101 through DAN-142) (0.2 cc)
 
@@ -107,21 +108,21 @@ Theatre Arts students select one of the following **emphases**: general, acting,
 1. **Eight** core courses (see @sec-theatre-arts-major )
 
 2. **Three*** of the following: 
-	THE 220 Tech Theatre Lab 
-	THE 230 Technical Production II 
-	THE 232 Computer Aided Drafting and Design 
-	THE 242 Scene Design 
-	THE 280 Costume Design
-	THE 288 History of Dress 
+	- THE 220 Tech Theatre Lab 
+	- THE 230 Technical Production II 
+	- THE 232 Computer Aided Drafting and Design 
+	- THE 242 Scene Design 
+	- THE 280 Costume Design
+	- THE 288 History of Dress 
 
 *Strongly recommended:* 
-	ARH 118 History of Western Architecture 
-	Any other Art History course 
-	ART 115 Drawing 
-	ART 145 Digital Studio 
-	ART 364 The Human Form 
-	PHY 155 Electronics and PHY 155L Electronics Lab  
-	THE 442 Adv Proj-Design/Tech Production 
+	- ARH 118 History of Western Architecture 
+	- Any other Art History course 
+	- ART 115 Drawing 
+	- ART 145 Digital Studio 
+	- ART 364 The Human Form 
+	- PHY 155 Electronics and PHY 155L Electronics Lab  
+	- THE 442 Adv Proj-Design/Tech Production 
 
 ### Courses in Theatre Arts 
 

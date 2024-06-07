@@ -23,65 +23,65 @@ A major in Social & Criminal Justice requires a cumulative 2.0 GPA in all course
 6. SOC 351 Criminology
  
 7. **One** of the following:
-	STA 100 Statistical Reasoning I-Foundations (7 weeks) **and** STA 110 Stats IIA: Inferential Reasoning (7 weeks)
-	STA 100 Statistical Reasoning I-Foundations (7 weeks) **and** STA 130 Stats IIB: Experimental Design (7 weeks)
-	+++MISSING INFO: c.sta190.long +++
-	PSY 300 Stat Methods and Data Analysis
+	- STA 100 Statistical Reasoning I-Foundations (7 weeks) **and** STA 110 Stats IIA: Inferential Reasoning (7 weeks)
+	- STA 100 Statistical Reasoning I-Foundations (7 weeks) **and** STA 130 Stats IIB: Experimental Design (7 weeks)
+	- +++MISSING INFO: c.sta190.long +++
+	- PSY 300 Stat Methods and Data Analysis
 
 8. **Three** courses, chosen from the following, in consultation with the student’s advisor and/or the Social & Criminal Justice administrative coordinator. No more than two courses may be selected from the same prefix.
-	ACC 313 Fraud Examination
-	ARH 107 Gender and Art
-	COM 237 Interpersonal Communication
-	COM 357 Sex, Race, & Gender in Media
-	COM 361 Communication & Social Change
-	COM 362 U.S. Public Address
-	ECO 115 Intro Political Econ
-	EDU 187 Human Relations
-	ENG 127 Social Justice and Literature
-	ENG 146 Intro Postcolonial Literature
-	GS 107 Intro Gender & Sexuality Studies
-	HIS 145 History of United States to 1865
-	HIS 155 History of United States since 1865
-	HIS 347 African American History
-	HIS 257 Native American History
-	HIS 297 Women in America
-	HIS 325 Recent American History I
-	IS 126 HumanRightsBurmeseMigrant
-	PHL 128 Morality & Moral Controversies
-	PHL 205 Environmental Ethics
-	PHL 265 Political Philosophy
-	PHL 270 Ethical Theory
-	PHL 277 Philosophy of Gender & Race
-	POL 305 Terrorism
-	POL 350 US Social Policy Process
-	POL 375 Constitution & Individual Liberties
-	PSY 235 Abnormal Psychology
-	PSY 245 Organizational Psychology
-	PSY 255 Social Psychology
-	PSY 315 Learning & Behavior
-	PSY 350 Drugs & Behavior
-	PSY 415 Counseling Psychology
-	REL 217 Religion in America
-	SCJ 190 Topics in Social & Criminal Justice
-	SCJ 220 Juvenile Delinq & the Justice Sys
-	SCJ 301 Criminal Law & the 4th, 5th & 6th
-	SCJ 390 Adv Topics in Soc & Crim Just
-	SOC 207 Sociology of the Family
-	SOC 247 Sociology of Race
-	SOC 207 Sociology of the Family
-	SOC 247 Sociology of Race
-	SOC 328 Urban Sociology
-	SOC 338 Political Sociology
-	SOC 355 Deviant Behavior
-	SOC 425 Social Change
-	A course approved by the Social & Criminal Justice administrative coordinator
+	- ACC 313 Fraud Examination
+	- ARH 107 Gender and Art
+	- COM 237 Interpersonal Communication
+	- COM 357 Sex, Race, & Gender in Media
+	- COM 361 Communication & Social Change
+	- COM 362 U.S. Public Address
+	- ECO 115 Intro Political Econ
+	- EDU 187 Human Relations
+	- ENG 127 Social Justice and Literature
+	- ENG 146 Intro Postcolonial Literature
+	- GS 107 Intro Gender & Sexuality Studies
+	- HIS 145 History of United States to 1865
+	- HIS 155 History of United States since 1865
+	- HIS 347 African American History
+	- HIS 257 Native American History
+	- HIS 297 Women in America
+	- HIS 325 Recent American History I
+	- IS 126 HumanRightsBurmeseMigrant
+	- PHL 128 Morality & Moral Controversies
+	- PHL 205 Environmental Ethics
+	- PHL 265 Political Philosophy
+	- PHL 270 Ethical Theory
+	- PHL 277 Philosophy of Gender & Race
+	- POL 305 Terrorism
+	- POL 350 US Social Policy Process
+	- POL 375 Constitution & Individual Liberties
+	- PSY 235 Abnormal Psychology
+	- PSY 245 Organizational Psychology
+	- PSY 255 Social Psychology
+	- PSY 315 Learning & Behavior
+	- PSY 350 Drugs & Behavior
+	- PSY 415 Counseling Psychology
+	- REL 217 Religion in America
+	- SCJ 190 Topics in Social & Criminal Justice
+	- SCJ 220 Juvenile Delinq & the Justice Sys
+	- SCJ 301 Criminal Law & the 4th, 5th & 6th
+	- SCJ 390 Adv Topics in Soc & Crim Just
+	- SOC 207 Sociology of the Family
+	- SOC 247 Sociology of Race
+	- SOC 207 Sociology of the Family
+	- SOC 247 Sociology of Race
+	- SOC 328 Urban Sociology
+	- SOC 338 Political Sociology
+	- SOC 355 Deviant Behavior
+	- SOC 425 Social Change
+	- A course approved by the Social & Criminal Justice administrative coordinator
 
 9. **One** of the following capstone projects:
-	SCJ 444 Independent Study in Social and Cri
-	SCJ 494 Internship in Social and Criminal J
-	OCC 323 OCC Chicago: Urban Studies (if internship/independent study has SCJ focus)
-	WSH 464 Internship Seminar (if internship has SCJ focus)
-	As a capstone experience, it is expected that students will carry out the project during the junior or senior year, after completing the majority of the required coursework. Students are expected to consult with the SCJ administrative coordinator prior to beginning their projects. 
+	- SCJ 444 Independent Study in Social and Cri
+	- SCJ 494 Internship in Social and Criminal J
+	- OCC 323 OCC Chicago: Urban Studies (if internship/independent study has SCJ focus)
+	- WSH 464 Internship Seminar (if internship has SCJ focus)
+	- As a capstone experience, it is expected that students will carry out the project during the junior or senior year, after completing the majority of the required coursework. Students are expected to consult with the SCJ administrative coordinator prior to beginning their projects. 
 
 10. SCJ 490 Social & Criminal Just Colloquium -- Non-Credit Bearing
 
