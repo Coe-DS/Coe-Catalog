@@ -521,10 +521,10 @@ The Teacher Education Program at Coe College is approved by the Iowa Department 
 ### Elementary Education Major
 Teachers in elementary schools function as generalists who must draw upon a broad knowledge base from multiple disciplines. In recognition of this, the elementary teacher licensure program at Coe College consists of two components: content knowledge gained from the liberal arts classes and pedagogy learned in EDU courses. This program of undergraduate preparation to teach in elementary schools is intended to promote exploration and a balanced education drawn from a variety of fields. 
 
-1. At least one course in each of the four fields of mathematics, natural sciences, social sciences, and humanities. **Iowa Distribution Requirements** - a “C” or better in the following courses:
-	**One** mathematics course with a prefix of MTH or STA
-	**One** American History course
-	**One** lab science in BIO or PHY-114 Modern Astronomy
+1. At least one course in each of the four fields of mathematics, natural sciences, social sciences, and humanities. **Iowa Distribution Requirements** - a “C” or better in the following courses:  
+	**One** mathematics course with a prefix of MTH or STA  
+	**One** American History course  
+	**One** lab science in BIO or PHY-114 Modern Astronomy  
 	**One** social science course with a prefix of ANT, ECO, POL, PSY, or SOC
 
 2. A K–8 endorsement in Art, English/Language Arts, French, Spanish, Health, History, Mathematics, Music, Physical Education, Reading, Science, Social Studies, or Speech Communication and Theater.
