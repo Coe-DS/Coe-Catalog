@@ -2,11 +2,11 @@
 
 ### Asia Term
 
-ASC-195 Asian Tonal Languages
+**ASC-195** Asian Tonal Languages
 An introduction to Thai, Vietnamese, and other tonal Asian languages.  Emphasis is on basic communication as well as the distinguishing features of languages that use tones as part of their linguistic system. 
-ASC-196 Modern South East Asia
+**ASC-196** Modern South East Asia
 An introduction to several Asian cultures such as Thai, Cambodian, and Vietnamese.  This course varies depending on the field of the supervising Coe faculty member. 
-ASC-444 Independent Study
+**ASC-444** Independent Study
 A student-designed study of some feature of Asian culture, arranged in consultation with the supervising Coe faculty member. May be taken more than once for a maximum of 2.0 credits. Prerequisite: consent of instructor. 
 
 ### Community-Based Project
