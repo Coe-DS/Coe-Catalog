@@ -134,7 +134,8 @@ Candidates for the **BACHELOR OF ARTS** degree with a major in music must succes
 8. The Senior Assessment Examination in the final term prior to graduation 
 
 ### Jazz Emphasis
-Students completing a **BACHELOR OF ARTS** degree may choose to supplement their music major with an Emphasis in Jazz.  Concurrent completion of a major in music is required.  A minimum of 6.1 course credits must be taken that do not count toward a major in music. 
+Students completing a **BACHELOR OF ARTS** degree may choose to supplement their music major with an Emphasis in Jazz.  Concurrent completion of a major in music is required.  A minimum of 6.1 course credits must be taken that do not count toward a major in music.
+
 1. {{< var c.mu157.long >}}
 2. {{< var c.mu409.long >}}/{{< var c.mu409L.long >}}
 3. **Five** terms of {{< var c.mua102.long >}}
@@ -145,61 +146,65 @@ Students completing a **BACHELOR OF ARTS** degree may choose to supplement their
 
 ### Music Industry Emphasis
 Students completing a **BACHELOR OF ARTS** degree may choose to supplement their music major with an Emphasis in Music Industry.  Concurrent completion of a major in music is required.  A minimum of 6.5 course credits must be taken that do not count toward a major in music.
+
 1. {{< var c.mu195.long >}}
 2. {{< var c.mu202.long >}}
 3. **One** of the following:
-	{{< var c.pr205.long >}}
-	{{< var c.rhe265.long >}}
+	- {{< var c.pr205.long >}}
+	- {{< var c.rhe265.long >}}
 4. **One** of the following:
-	{{< var c.bus250.long >}}
-	{{< var c.bus330.long >}}
+	- {{< var c.bus250.long >}}
+	- {{< var c.bus330.long >}}
 5. **Three** terms of {{< var c.mu151.long >}}
 6. **Two** terms of {{< var c.mu251.long >}}
 
 ### Musical Theatre Emphasis
 Students completing a **BACHELOR OF ARTS** degree may choose to supplement their music major with an Emphasis in Musical Theatre.  Concurrent completion of a major in music with voice as the primary instrument is required.  A minimum of 6.4 course credits must be taken that do not count toward a major in music.
+
 1. {{< var c.the150.long >}}
 2. {{< var c.the170.long >}}
 3. {{< var c.the270.long >}}
 4. **Two** terms of {{< var c.mua202V.long >}} with musical theatre repertoire (may not be used to satisfy the requirement of #1) 
 5. **One** additional course credit in practical musical theatre chosen from a combination of the following:
-	{{< var c.mua130V.long >}}
-	{{< var c.mua131V.long >}}
-	A musical theatre internship approved by the music or theatre arts department
+	- {{< var c.mua130V.long >}}
+	- {{< var c.mua131V.long >}}
+	- A musical theatre internship approved by the music or theatre arts department
 6. **Six** seven-week dance courses (DAN-101 through DAN-142) (0.2 cc)
 
 ### Pre-Music Therapy Emphasis
 Students completing a **BACHELOR OF ARTS** degree may choose to supplement their music major with an Emphasis in Pre-Music Therapy.  Concurrent completion of a major in music is required.  
 The Bachelor of Arts in Music, Pre-Music Therapy Emphasis, is designed to prepare students to apply to a Music Therapy certification program. It is not a free-standing major, and it does not include music therapy courses. Rather, the courses listed below are intended to better prepare Bachelor of Arts in Music students for future study in Music Therapy at an academic program approved by the American Music Therapy Association. Students must complete all requirements for a Bachelor of Arts in Music, in addition to the courses listed below. These include 5 non-music course credits and 2 additional music course credits for a minimum total of 7 course credits that must be taken that do not count toward a major in music.  
-Courses taken to satisfy requirements in the Bachelor of Arts in Music may NOT also be used to satisfy the requirements of the Pre-Music Therapy Emphasis below, but all courses MAY be used towards general education requirements. 
+Courses taken to satisfy requirements in the Bachelor of Arts in Music may NOT also be used to satisfy the requirements of the Pre-Music Therapy Emphasis below, but all courses MAY be used towards general education requirements.
+
 1. {{< var c.psy100.long >}}
 2. {{< var c.bio103.long >}}
 3. {{< var c.bio155.long >}} & {{< var c.bio155L.long >}} (concurrent with BIO-155)
 4. **One** of the following:
-	{{< var c.edu117.long >}}
-	{{< var c.edu187.long >}}
-	{{< var c.edu195.long >}}
-	{{< var c.psy235.long >}}
-	{{< var c.psy315.long >}}
+	- {{< var c.edu117.long >}}
+	- {{< var c.edu187.long >}}
+	- {{< var c.edu195.long >}}
+	- {{< var c.psy235.long >}}
+	- {{< var c.psy315.long >}}
 5. **One** of the following:
-	{{< var c.the100.long >}}
-	{{< var c.the150.long >}}
-	{{< var c.the160.long >}}
-	{{< var c.the170.long >}}
-	{{< var c.the270.long >}}
+	- {{< var c.the100.long >}}
+	- {{< var c.the150.long >}}
+	- {{< var c.the160.long >}}
+	- {{< var c.the170.long >}}
+	- {{< var c.the270.long >}}
 6. **Two** credits (or more) from the following:
-	{{< var c.mu195.long >}}
-	{{< var c.mu285.long >}}
-	{{< var c.mu409.long >}}
-	{{< var c.mua102K.long >}}
-	Additional terms of ensemble participation, beyond those required for the Bachelor of Arts in Music: 
-		Concert Band (0.3 each), Jazz Band (0.2 each), Concert Choir (0.3 each), Chorale (0.2 each), Orchestra (0.3 each), or Handbells (0.2 each) 
-	Additional terms of hour lessons, beyond those required for the Bachelor of Arts in Music, on your primary instrument (0.6 each):  
-		{{< var c.mua104K.long >}}
-		{{< var c.mua151S.long >}}
-		{{< var c.mua300A.long >}}
+	- {{< var c.mu195.long >}}
+	- {{< var c.mu285.long >}}
+	- {{< var c.mu409.long >}}
+	- {{< var c.mua102K.long >}}
+	- Additional terms of ensemble participation, beyond those required for the Bachelor of Arts in Music: 
+		* Concert Band (0.3 each), Jazz Band (0.2 each), Concert Choir (0.3 each), Chorale (0.2 each), Orchestra (0.3 each), or Handbells (0.2 each) 
+	- Additional terms of hour lessons, beyond those required for the Bachelor of Arts in Music, on your primary instrument (0.6 each):  
+		* {{< var c.mua104K.long >}}
+		* {{< var c.mua151S.long >}}
+		* {{< var c.mua300A.long >}}
 
 Strongly recommended:
+
 - {{< var c.mu255.long >}} **or** {{< var c.mu355.long >}} (whichever is not taken to fulfill the BA in Music requirement) 
 - {{< var c.mu285.long >}} and {{< var c.mu385.long >}}
 - Additional music performance courses (ensembles and lessons) 
