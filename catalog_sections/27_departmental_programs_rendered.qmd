@@ -430,6 +430,76 @@ art and contextualizing visual culture). Prerequisite: Successful completion of 
   Investigates an area of interest related to the major, through voluntary field placement supervised by a faculty member of the Art and Art History department. A minimum of 140 hours on-site experience is required. P/NP basis only. Prerequisites: declared major in art history, junior standing, and consent of department chair.  
 
 
+## Asian Studies {#sec-asian-studies}
+
+Nordmann (Administrative Coordinator).
+
+The Asian Studies program is designed to acquaint students with the great cultures of Asia, primarily those of China, India and Japan.
+
+### Asian Studies Major
+
+A major in Asian studies requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+
+The major is interdisciplinary and requires that the students take courses in the areas of art history, history, literature, and religion, and suggests that they also take courses in economics, music, and political science.
+
+1.**One** of the following:
+    -{{<var c.asc186.long>}}
+    -{{<var c.his136.long>}}
+
+2.Participation in one overseas study program in Asia:
+    -an ACM overseas study program (India Studies or Japan Study)
+    -a Coe foreign exchange program (Chiang Mai University of Thailand, Nagoya Gakuin University of Japan, or Sookmyung University in South Korea)
+    -Coe’s Asia Term (see p. 30)
+
+3.**Four** courses, chosen from the following, in consultation with the Asian Studies administrative coordinator:
+    -{{<var c.asc106.long>}}
+    -{{<var c.asc176.long>}}
+    -{{<var c.eco436.long>}} or {{<var c.eco446.long>}}
+    -{{<var c.his217.long>}}
+    -{{<var c.his246.long>}}
+    -{{<var c.his256.long>}}
+    -{{<var c.his316.long>}} (when appropriate)
+    -{{<var c.his466.long>}}
+    -{{<var c.jpn115.long>}}
+    -{{<var c.jpn125.long>}}
+    -{{<var c.jpn215.long>}}
+    -{{<var c.jpn225.long>}}
+    -{{<var c.phl/rel206.long>}}
+    -{{<var c.pol286.long>}}
+    -{{<var c.rel106.long>}}
+    -A second term of an overseas study program
+
+### Asian Studies Minor
+
+1.**One** of the following:
+    -{{<var c.his316.long>}}
+    -{{<var c.asc186.long>}}
+
+2.**Five** courses, chosen from the following, in consultation with the Asian Studies administrative coordinator:
+    -{{<var c.asc176.long>}}
+    -{{<var c.eco436.long>}} or {{<var c.eco446.long>}}
+    -{{<var c.his217.long>}}
+    -{{<var c.his246.long>}}
+    -{{<var c.his256.long>}}
+    -{{<var c.his316.long>}} (when appropriate)
+    -{{<var c.his466.long>}}
+    -{{<var c.jpn115.long>}}
+    -{{<var c.jpn125.long>}}
+    -{{<var c.jpn215.long>}}
+    -{{<var c.jpn225.long>}}
+    -{{<var c.phl/rel206.long>}}
+    -{{<var c.pol286.long>}}
+    -{{<var c.rel106.long>}}
+
+### Courses in Asian Studies
+-**{{<var c.asc106.long>}}**
+{{<var c.asc106.desc>}}
+-**{{<var c.asc176.long>}}**
+{{<var c.asc176.desc>}}
+-**{{<var c.asc186.long>}}**
+{{<var c.asc186.desc>}}
+-**{{<var c.asc216.long>}}**
+See @sec-history
 
 
 
@@ -440,13 +510,206 @@ art and contextualizing visual culture). Prerequisite: Successful completion of 
 
 
 
+## Accounting {#sec-accounting}
+
+Students majoring in accounting have two options: the managerial accounting major and the public accounting major. The managerial accounting major is designed for students interested in pursuing a career in private industry or the not-for-profit sector. The public accounting major is designed for students interested in practicing public accounting and those desiring the Certified Public Accounting (CPA) designation. Because of the identical core course requirements in the managerial accounting and public accounting majors, only one of the two majors can be elected by a student. A student receiving a managerial accounting major may pursue a post-baccalaureate major in public accounting, but when completed, the public accounting major would replace the managerial accounting major in the student’s records. 
+
+Requirements for becoming a CPA differ from state to state. All states require that students pass the Uniform CPA examination and many require the completion of 150 semester hours of education prior to certification. The 150 hours can be completed in undergraduate or graduate programs. To become a CPA in Iowa, the Iowa State Board of Accountancy requires that students pass the CPA examination, complete 150 semester hours of education, and complete specified course work in accounting and business subjects. Students majoring in accounting, business, or economics are required to have a minimum of 24 of their 150 semester hours in financial accounting, auditing, taxation, and management accounting courses above the elementary level. If students majoring in any other field wish to become a CPA in Iowa, they must, in addition, complete at least 24 semester hours in business-related courses (not including internships). (One course credit completed at Coe is counted as four semester hours.)  Accounting students at Coe should work closely with faculty in the department to determine their plan of study. Students wishing to become a CPA should also check the state board’s education requirements for the state in which they wish to practice.
+
+### Managerial Accounting Major
+
+A major in managerial accounting requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+
+1.{{<var c.acc171.long>}}
+2.{{<var c.eco175.long>}}
+3.{{<var c.bus190.long>}}
+4.{{<var c.acc215.long>}}
+5.{{<var c.eco215.long>}}
+6.{{<var c.acc301.long>}}
+7.{{<var c.acc315.long>}}
+8.{{<var c.bus315.long>}}
+9.{{<var c.acc334.long>}}
+10.{{<var c.acc351.long>}}
+11.{{<var c.acc413.lonh>}}
+12.{{<var c.acc415.long>}}
+
+### Public Accounting Major
+
+A major in public accounting requires a minimum cumulative 2.0 GPA in all courses counted toward the major. Students wishing to prepare for the examination to become a Certified Public Accountant should select the Public Accounting major, which meets the guidelines for the breadth of business and accounting courses recommended by The American Institute of Certified Public Accountants. Students at Coe can meet the 150-semester hour requirement by completing 37.5 credits.
+
+If degree requirements are not completed by the end of four years, students pursuing a major in public accounting, who are in good academic standing, and who are full-time students, receive a 60% discount on tuition in the consecutive fifth year. They continue to be eligible to apply for student loans and any available federal and state government grants
+
+1.{{<var c.acc171.long>}}
+2.{{<var c.eco175.long>}}
+3.{{<var c.bus190.long>}}
+4.{{<var c.acc215.long>}}
+5.{{<var c.eco215.long>}}
+6.{{<var c.acc301.long>}}
+7.{{<var c.acc315.long>}}
+8.{{<var c.bus315.long>}}
+9.{{<var c.acc334.long>}}
+10.{{<var c.acc351.long>}}
+11.{{<var c.acc413.long>}}
+12.{{<var c.acc422.long>}}
+13.{{<var c.acc463.long>}}
+14.**One** of the following:
+
+    -{{<var c.bus410.long>}}
+    -{{<var c.bus412.long>}}
+    -{{<var c.bus464.long>}}
+    -{{<var c.bus470.long>}}
+
+15.**Three** of the following:
+
+    -{{<var c.acc313.long>}}
+    -{{<var c.acc401.long>}}
+    -{{<var c.acc451.long>}}
+    -{{<var c.acc472.long>}}
+
+### Courses in Accounting
+-**{{<var c.acc171.long>}}**
+{{<var c.aac171.desc>}}
+-**{{<var c.acc215.long>}}**
+{{<var c.acc215.desc>}}
+-**{{<var c.acc301.long>}}**
+{{<var c.acc301.desc>}}
+-**{{<var c.acc313.long>}}**
+{{<var c.acc313.desc>}}
+-**{{<var c.acc315.long>}}**
+{{<var c.acc315.desc>}
+-**{{<var c.acc334.long>}}**
+{{<var c.acc334.desc>}}
+-**{{<var c.acc351.long>}}**
+{{<var c.acc351.desc>}}
+-**{{<var c.acc401.long>}}**
+{{<var c.acc401.desc>}}
+-**{{<var c.acc413.long>}}**
+{{<var c.acc413.desc>}}
+-**{{<var c.acc415.long>}}**
+{{<var c.acc415.desc>}}
+-**{{<var c.acc422.long>}}**
+{{<var c.acc422.desc>}}
+-**{{<var c.acc473.long>}}**
+{{<var c.acc473.desc>}}
+
+### Courses in Business
+-**{{<var c.bus105.long>}}**
+{{<var c.bus105.desc>}}
+-**{{<var c.bus125.long>}}**
+{{<var c.bus125.desc>}}
+-**{{<var c.bus145.long>}}**
+{{<var c.bus145.desc>}}
+-**{{<var c.bus170.long>}}**
+{{<var c.bus170.desc>}}
+-**{{<var c.bus190.long>}}**
+{{<var c.bus190.desc>}}
+-**{{<var c.bus250.long>}}**
+{{<var c.bus250.desc>}}
+-**{{<var c.bus255.long>}}**
+{{<var c.bus255.desc>}}
+-**{{<var c.bus280.long>}}**
+{{<var c.bus280.desc>}}
+-**{{<var c.bus281.long>}}**
+{{<var c.bus281.desc>}}
+-**{{<var c.bus285.long>}}**
+{{<var c.bus285.desc>}}
+-**{{<var c.bus300.long>}}**
+{{<var c.bus300.desc>}}
+-**{{<var c.bus305.long>}}**
+{{<var c.bus305.desc>}}
+-**{{<var c.bus315.long>}}**
+{{<var c.bus315.desc>}}
+-**{{<var c.eco315.long>}}**
+See @sec-economics
+-**{{<var c.eco320.long>}}**
+See @sec-economics
+-**{{<var c.eco325.long>}}**
+See @sec-economics
+-**{{<var c.bus330.long>}}**
+{{<var c.bus330.desc>}}
+-**{{<var c.bus340.long>}}**
+{{<var c.bus340.desc>}}
+-**{{<var c.bus341.long>}}**
+{{<var c.bus341.desc>}}
+-**{{<var c.bus345.long>}}**
+{{<var c.bus345.desc>}}
+-**{{<var c.eco345.long>}}**
+See @sec-economics
+-**{{<var c.bus350.long>}}**
+{{<var c.bus350.desc>}}
+-**{{<var c.bus352.long>}}**
+{{<var c.bus352.desc>}}
+-**{{<var c.bus365.long>}}**
+{{<var c.bus365.desc>}}
+-**{{<var c.bus375.long>}}**
+{{<var c.bus375.desc>}}
+-**{{<var c.eco375.long>}}**
+See @sec-economics
+-**{{<var c.bus387.long>}}**
+{{<var c.bus387.desc>}}
+-**{{<var c.bus395.long>}}**
+{{<var c.bus395.desc>}}
+-**{{<var c.bus400.long>}}**
+{{<var c.bus400.desc>}}
+-**{{<var c.bus410.long>}}**
+{{<var c.bus410.desc>}}
+-**{{<var c.bus412.long>}}**
+{{<var c.bus412.desc>}}
+-**{{<var c.bus420.long>}}**
+{{<var c.bus420.desc>}}
+-**{{<var c.bus437.long>}}**
+{{<var c.bus437.desc>}}
+-**{{<var c.bus441.long>}}**
+{{<var c.bus441.desc>}}
+-**{{<var c.bus444.long>}}**
+{{<var c.bus444.desc>}}
+-**{{<var c.bus446.long>}}**
+{{<var c.bus446.desc>}}
+-**{{<var c.eco446.long>}}**
+See @sec-economics
+-**{{<var c.bus454.long>}}**
+{{<var c.bus454.desc>}}
+-**{{<var c.bus457.long>}}**
+{{<var c.bus457.desc>}}
+-**{{<var c.bus460.long>}}**
+{{<var c.bus460.desc>}}
+-**{{<var c.bus461.long>}}**
+{{<var c.bus461.desc>}}
+-**{{<var c.bus464.long>}}**
+{{<var c.bus464.desc>}}
+-**{{<var c.bus465.long>}}**
+{{<var c.bus465.desc>}}
+-**{{<var c.bus466.long>}}**
+{{<var c.bus466.desc>}}
+-**{{<var c.bus467.long>}}**
+{{<var c.bus467.desc>}}
+-**{{<var c.bus470.long>}}**
+{{<var c.bus470.desc>}}
+-**{{<var c.bus472.long>}}**
+{{<var c.bus472.desc>}}
+-**{{<var c.bus475.long>}}**
+{{<var c.bus475.desc>}}
+-**{{<var c.bus476.long>}}**
+{{<var c.bus476.desc>}}
+-**{{<var c.bus485.long>}}**
+{{<var c.bus485.desc>}}
+-**{{<var c.eco485.long>}}**
+See @sec-economics
+-**{{<var c.bus494.long>}}**
+{{<var c.bus494.desc>}}
+-**{{<var c.bus495.long>}}**
+{{<var c.bus495.desc>}}
+-**{{<var c.eco495.long>}}**
+See @sec-economics
 
 
 
 
 
 
-## Communications Studies {#sec-communications-studies}
+
+
+## Communications Studies {#sec-communication-studies}
 
 
 
@@ -4443,12 +4706,12 @@ Theatre Arts students select one of the following **emphases**: general, acting,
 - **THE 250 Acting II**
   A performance-based studio course designed to expand upon the work begun in Acting I by assisting students in the development of intermediate-level acting skills. Scenes and monologues progress beyond realism with an introduction to a number of other styles. Significant emphasis is placed on character development and on detailed analysis of dramatic action. Additional rehearsal time outside of class is required. Prerequisite: Acting I (THE-150). (Offered Spring Term)  
 - **THE 255 Playwriting Workshop I**
-See CRW 255 Playwriting Workshop I , @sec-couses-in-creative-writing
+See CRW 255 Playwriting Workshop I , @sec-courses-in-creative-writing
   Explores the basics of playwriting through the study of dramatic structure, creative exercises, and reading and analysis of existing play scripts, with emphasis on the one-act play. Students complete a one-act play script of their own creation.
 - **THE 260 Acting for the Camera**
   Development of basic acting techniques essential for work in film and television. The course is designed to help students become comfortable in front of the camera by way of breaking down their physical and internal inhibitions. The instructor helps the student find the most effective personal resources for the creation of truthful characters, given the unique pressures of a film or television shoot. The course also focuses on audition techniques and culminates in the shooting of a scripted scene. Additional rehearsal time outside of class is required. Prerequisite: Acting I (THE-150).  
 - **THE 270 Musical Theatre Acting**
-See MU 270 Musical Theatre Acting , @sec-couses-in-music
+See MU 270 Musical Theatre Acting , @sec-courses-in-music
   A performance-based studio course focusing on the development of basic skills necessary for musical theatre performance. Students become familiar with the specialized requirements necessary for the merging of singing with dramatic action. Periodic performance projects (solos, duets, and ensemble numbers—some including dialogue) are supplemented by student research projects. The course is also designed to introduce students to a wide-ranging repertoire of available audition material. Additional rehearsal time outside of class is required.
 - **THE 280 Costume Design**
   A study of the aesthetic, historical, and technical aspects of costume design. Projects emphasize research, character analysis, figure drawing, textile selection, and rendering. Class includes lecture-demonstration and practical application. Additional time outside of class is necessary to complete projects. Prerequisites: Technical Production I (THE-130) and Design for the Stage (THE-140) or consent of instructor.  
@@ -4459,7 +4722,7 @@ See MU 270 Musical Theatre Acting , @sec-couses-in-music
 - **THE 350 Advanced Acting:Shakespeare**
   A performance-based studio course aimed at the development of advanced-level acting skills specifi- cally related to performing the playtexts of William Shakespeare. An eclectic approach to this complex material is offered, with emphasis divided between its verbal, physical, and psychological demands. Students prepare and perform several scenes and monologues throughout the term. Exercises and improvisations related to characterization and written character analyses are also components of this course. Additional rehearsal time outside of class is required. Prerequisite: Acting I (THE-150).
 - **THE 355 Playwriting Workshop 2**
-See also CRW 355 Playwriting Workshop 2 , @sec-couses-in-creative-writing
+See also CRW 355 Playwriting Workshop 2 , @sec-courses-in-creative-writing
   Focuses on the analysis and creation of play scripts of two acts or more. Emphasis is placed on the writing and marketing of the student’s own creative work, culminating in the completion and public reading of a full-length script. Prerequisite: Beginning Playwriting (CRW/THE-255).  
 - **THE 390 Directing II  WE**
   An intermediate-level course or independent study expanding upon the work begun in Directing I by developing more complex analytical tools and deepening the work of conceptualization for production. Assigned readings guide the directing student to knowledge and understanding of a wide variety of 20th-century and contemporary directing theories and methodologies. The course culminates in the analysis and preparation with actors of a short one-act play or an extended scene from a full-length play that allows the student director to work in a non-realist style. Prerequisite: Directing I (THE-290). (Offered by arrangement)
@@ -4470,7 +4733,7 @@ See also CRW 355 Playwriting Workshop 2 , @sec-couses-in-creative-writing
 - **THE 452 Advanced Projects in Acting**
   A senior acting recital designed to demonstrate the proficiency level of majors with an acting emphasis. The recital may take the form of a one-person performance or a selection of scenes, monologues, and /or musical numbers demonstrating the student’s range and versatility. The project requires conceptualization, organization and selection of performance material, and adherence to a pre-arranged rehearsal process. Written components include a detailed proposal, a comprehensive statement of concept, thorough documentation of process, and analytical self-evaluation. Prerequisites: senior standing and consent of department chair. (Offered by arrangement)  
 - **THE 455 Playwriting Workshop 3**
-See also CRW 455 Playwriting Workshop 3 , @sec-couses-in-creative-writing
+See also CRW 455 Playwriting Workshop 3 , @sec-courses-in-creative-writing
   Continued advanced writing, with an emphasis on producing finished poems. Prerequisite: Poetry Workshop 2 (CRW-380).
 - **THE 462 Advanced Projects in Directing**
   The faculty-supervised staging of an extended one-act or a full-length play as an advanced project. The production is staged in the Mills Experimental Theatre and may receive modest technical and design support, when appropriate. Comprehensive playtext analysis and documentation of process are components of this course. Prerequisite: Design for the Stage (THE-140), Directing II (THE-390), or consent of department chair. (Offered by arrangement)  

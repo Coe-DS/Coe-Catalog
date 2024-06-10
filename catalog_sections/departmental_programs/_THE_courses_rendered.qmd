@@ -165,12 +165,12 @@ Theatre Arts students select one of the following **emphases**: general, acting,
 - **THE 250 Acting II**
   A performance-based studio course designed to expand upon the work begun in Acting I by assisting students in the development of intermediate-level acting skills. Scenes and monologues progress beyond realism with an introduction to a number of other styles. Significant emphasis is placed on character development and on detailed analysis of dramatic action. Additional rehearsal time outside of class is required. Prerequisite: Acting I (THE-150). (Offered Spring Term)  
 - **THE 255 Playwriting Workshop I**
-See CRW 255 Playwriting Workshop I , @sec-couses-in-creative-writing
+See CRW 255 Playwriting Workshop I , @sec-courses-in-creative-writing
   Explores the basics of playwriting through the study of dramatic structure, creative exercises, and reading and analysis of existing play scripts, with emphasis on the one-act play. Students complete a one-act play script of their own creation.
 - **THE 260 Acting for the Camera**
   Development of basic acting techniques essential for work in film and television. The course is designed to help students become comfortable in front of the camera by way of breaking down their physical and internal inhibitions. The instructor helps the student find the most effective personal resources for the creation of truthful characters, given the unique pressures of a film or television shoot. The course also focuses on audition techniques and culminates in the shooting of a scripted scene. Additional rehearsal time outside of class is required. Prerequisite: Acting I (THE-150).  
 - **THE 270 Musical Theatre Acting**
-See MU 270 Musical Theatre Acting , @sec-couses-in-music
+See MU 270 Musical Theatre Acting , @sec-courses-in-music
   A performance-based studio course focusing on the development of basic skills necessary for musical theatre performance. Students become familiar with the specialized requirements necessary for the merging of singing with dramatic action. Periodic performance projects (solos, duets, and ensemble numbers—some including dialogue) are supplemented by student research projects. The course is also designed to introduce students to a wide-ranging repertoire of available audition material. Additional rehearsal time outside of class is required.
 - **THE 280 Costume Design**
   A study of the aesthetic, historical, and technical aspects of costume design. Projects emphasize research, character analysis, figure drawing, textile selection, and rendering. Class includes lecture-demonstration and practical application. Additional time outside of class is necessary to complete projects. Prerequisites: Technical Production I (THE-130) and Design for the Stage (THE-140) or consent of instructor.  
@@ -181,7 +181,7 @@ See MU 270 Musical Theatre Acting , @sec-couses-in-music
 - **THE 350 Advanced Acting:Shakespeare**
   A performance-based studio course aimed at the development of advanced-level acting skills specifi- cally related to performing the playtexts of William Shakespeare. An eclectic approach to this complex material is offered, with emphasis divided between its verbal, physical, and psychological demands. Students prepare and perform several scenes and monologues throughout the term. Exercises and improvisations related to characterization and written character analyses are also components of this course. Additional rehearsal time outside of class is required. Prerequisite: Acting I (THE-150).
 - **THE 355 Playwriting Workshop 2**
-See also CRW 355 Playwriting Workshop 2 , @sec-couses-in-creative-writing
+See also CRW 355 Playwriting Workshop 2 , @sec-courses-in-creative-writing
   Focuses on the analysis and creation of play scripts of two acts or more. Emphasis is placed on the writing and marketing of the student’s own creative work, culminating in the completion and public reading of a full-length script. Prerequisite: Beginning Playwriting (CRW/THE-255).  
 - **THE 390 Directing II  WE**
   An intermediate-level course or independent study expanding upon the work begun in Directing I by developing more complex analytical tools and deepening the work of conceptualization for production. Assigned readings guide the directing student to knowledge and understanding of a wide variety of 20th-century and contemporary directing theories and methodologies. The course culminates in the analysis and preparation with actors of a short one-act play or an extended scene from a full-length play that allows the student director to work in a non-realist style. Prerequisite: Directing I (THE-290). (Offered by arrangement)
@@ -192,7 +192,7 @@ See also CRW 355 Playwriting Workshop 2 , @sec-couses-in-creative-writing
 - **THE 452 Advanced Projects in Acting**
   A senior acting recital designed to demonstrate the proficiency level of majors with an acting emphasis. The recital may take the form of a one-person performance or a selection of scenes, monologues, and /or musical numbers demonstrating the student’s range and versatility. The project requires conceptualization, organization and selection of performance material, and adherence to a pre-arranged rehearsal process. Written components include a detailed proposal, a comprehensive statement of concept, thorough documentation of process, and analytical self-evaluation. Prerequisites: senior standing and consent of department chair. (Offered by arrangement)  
 - **THE 455 Playwriting Workshop 3**
-See also CRW 455 Playwriting Workshop 3 , @sec-couses-in-creative-writing
+See also CRW 455 Playwriting Workshop 3 , @sec-courses-in-creative-writing
   Continued advanced writing, with an emphasis on producing finished poems. Prerequisite: Poetry Workshop 2 (CRW-380).
 - **THE 462 Advanced Projects in Directing**
   The faculty-supervised staging of an extended one-act or a full-length play as an advanced project. The production is staged in the Mills Experimental Theatre and may receive modest technical and design support, when appropriate. Comprehensive playtext analysis and documentation of process are components of this course. Prerequisite: Design for the Stage (THE-140), Directing II (THE-390), or consent of department chair. (Offered by arrangement)  
