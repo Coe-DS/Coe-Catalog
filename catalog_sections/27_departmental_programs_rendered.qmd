@@ -1227,31 +1227,32 @@ A grade of "C" (2.0) or higher must be earned in all courses counted toward a mi
 
 
 ### Courses Taught in English that can be used for credit in French & Francophone Studies
-	ARH 201 Art of the Middle Ages
-	ARH 218 The World of Renaissance Art
-	ARH 231 Romanticism, Realism, Impressionism
-	ARH 307 Modern and Contemporary Art
-	COM 236 Intercultural Communication
-	ENG 146 Intro Postcolonial Literature
-	FRE 145 French Literature in Translation
-	FRE 146 French Literature Translation:NWP
-	FRE 148 French Literature Translation:DWP
-	FRE 158 France & Francophone World
-	HIS 238 Modern France
-	HIS 248 The French Revolution
-	HIS 272 History of Medieval Europe
-	HIS 288 Renaissance & Reformation
-	HIS 355 19th Century Europe
-	HIS 365 20th Century Europe
-	HIS 372 Early Modern Europe
-	PHL 230 Medieval Philosophy
-	PHL 240 Early Modern Philosophy
-	PHL 255 Existentialism
-	PHL 305 Contemporary Continental Philosophy
-	PHL 345 Philosophy of Language
-	POL 298 European Politics
-	REL 148 Islam
-	REL 178 Christianity
+
+- ARH 201 Art of the Middle Ages
+- ARH 218 The World of Renaissance Art
+- ARH 231 Romanticism, Realism, Impressionism
+- ARH 307 Modern and Contemporary Art
+- COM 236 Intercultural Communication
+- ENG 146 Intro Postcolonial Literature
+- FRE 145 French Literature in Translation
+- FRE 146 French Literature Translation:NWP
+- FRE 148 French Literature Translation:DWP
+- FRE 158 France & Francophone World
+- HIS 238 Modern France
+- HIS 248 The French Revolution
+- HIS 272 History of Medieval Europe
+- HIS 288 Renaissance & Reformation
+- HIS 355 19th Century Europe
+- HIS 365 20th Century Europe
+- HIS 372 Early Modern Europe
+- PHL 230 Medieval Philosophy
+- PHL 240 Early Modern Philosophy
+- PHL 255 Existentialism
+- PHL 305 Contemporary Continental Philosophy
+- PHL 345 Philosophy of Language
+- POL 298 European Politics
+- REL 148 Islam
+- REL 178 Christianity
 
 
 ### Courses in French
