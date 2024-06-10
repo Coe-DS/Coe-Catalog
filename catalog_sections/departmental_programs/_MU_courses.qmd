@@ -107,29 +107,30 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 		**NOTE:** *A recital is not required to complete the music education area of study but may be given with the approval of the studio instructor. *
 
 ### BACHELOR OF ARTS: MUSIC MAJOR
-Candidates for the **BACHELOR OF ARTS** degree with a major in music must successfully complete: 
+Candidates for the **BACHELOR OF ARTS** degree with a major in music must successfully complete:
+
 1. {{< var c.mu109.long >}}/{{< var c.mu109L.long >}}
 2. {{< var c.mu209.long >}}/{{< var c.mu209L.long >}}
 3. {{< var c.mu309.long >}}/{{< var c.mu309L.long >}}
 4. {{< var c.mu458.long >}}
 5. **Four** terms of participation in the Applied Music Course with piano as the primary or secondary performing area. 
 6. **One** of the following: 
-	{{< var c.mu255.long >}}
-	{{< var c.mu355.long >}}
+	- {{< var c.mu255.long >}}
+	- {{< var c.mu355.long >}}
 7. **One** of the following (if not used to satisfy #6):
-	{{< var c.mua131V.long >}}
-	{{< var c.mu140.long >}}
-	{{< var c.mu151.long >}}
-	{{< var c.mu157.long >}}
-	{{< var c.mu195.long >}}
-	{{< var c.mu255.long >}}
-	{{< var c.mu270.long >}}
-	{{< var c.mu166/284.long >}}
-	{{< var c.mu285.long >}}
-	{{< var c.mu355.long >}}
-	{{< var c.mu409.long >}}
-	{{< var c.mua133V.long >}}
-	{{< var c.mua134V.long >}}
+	- {{< var c.mua131V.long >}}
+	- {{< var c.mu140.long >}}
+	- {{< var c.mu151.long >}}
+	- {{< var c.mu157.long >}}
+	- {{< var c.mu195.long >}}
+	- {{< var c.mu255.long >}}
+	- {{< var c.mu270.long >}}
+	- {{< var c.mu166/284.long >}}
+	- {{< var c.mu285.long >}}
+	- {{< var c.mu355.long >}}
+	- {{< var c.mu409.long >}}
+	- {{< var c.mua133V.long >}}
+	- {{< var c.mua134V.long >}}
 8. The Senior Assessment Examination in the final term prior to graduation 
 
 ### Jazz Emphasis
