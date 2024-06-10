@@ -339,71 +339,72 @@ Composition lessons and classes in keyboard, brass, woodwind, and string literat
 ### ENSEMBLES
 Ensembles are open, by audition, to all Coe students, as well as being required of all students pursuing a degree in music. 
 Credit for participation in these regularly-offered ensembles is available under the following schedule.  Students are encouraged to participate in these ensembles as often as possible. Additional ensembles, offered on a periodic basis, are listed in the *Coe College Music Department Faculty/Student Handbook*.
-	{{< var c.mua100.long >}}
-	{{< var c.mua101.long >}}
-	{{< var c.mua102.long >}}
-	{{< var c.mua103.long >}}
-	{{< var c.mua104.long >}}
-	{{< var c.mua105.long >}}
-	{{< var c.mua110.long >}}
-	{{< var c.mua111.long >}}
-	{{< var c.mua130V.long >}}
-	{{< var c.mua131V.long >}}
-	{{< var c.mua284.long >}}
+
+- {{< var c.mua100.long >}}
+- {{< var c.mua101.long >}}
+- {{< var c.mua102.long >}}
+- {{< var c.mua103.long >}}
+- {{< var c.mua104.long >}}
+- {{< var c.mua105.long >}}
+- {{< var c.mua110.long >}}
+- {{< var c.mua111.long >}}
+- {{< var c.mua130V.long >}}
+- {{< var c.mua131V.long >}}
+- {{< var c.mua284.long >}}
 
 ### GENERAL SURVEY COURSES
-	{{< var c.mu100.long >}}
-	{{< var c.mu101.long >}}
-	{{< var c.mu140.long >}}
-	{{< var c.mu151.long >}}
-	{{< var c.mu251.long >}}
-	{{< var c.mu157.long >}}
-	{{< var c.mu161.long >}}
-	{{< var c.mu166.long >}}
-	{{< var c.mu270.long >}}
-	{{< var c.mu284.long >}}
-	{{< var c.mua133V.long >}}
-	{{< var c.mua134V.long >}}
+- {{< var c.mu100.long >}}
+- {{< var c.mu101.long >}}
+- {{< var c.mu140.long >}}
+- {{< var c.mu151.long >}}
+- {{< var c.mu251.long >}}
+- {{< var c.mu157.long >}}
+- {{< var c.mu161.long >}}
+- {{< var c.mu166.long >}}
+- {{< var c.mu270.long >}}
+- {{< var c.mu284.long >}}
+- {{< var c.mua133V.long >}}
+- {{< var c.mua134V.long >}}
 
 ### THEORY COURSES 
-	{{< var c.mu109.long >}}
-	{{< var c.mu109L.long >}}
-	{{< var c.mu209.long >}}
-	{{< var c.mu209L.long >}}
-	{{< var c.mua211.long >}}
-	{{< var c.mu309.long >}}
-	{{< var c.mu309L.long >}}
-	{{< var c.mu409.long >}}
-	{{< var c.mu409L.long >}}
+- {{< var c.mu109.long >}}
+- {{< var c.mu109L.long >}}
+- {{< var c.mu209.long >}}
+- {{< var c.mu209L.long >}}
+- {{< var c.mua211.long >}}
+- {{< var c.mu309.long >}}
+- {{< var c.mu309L.long >}}
+- {{< var c.mu409.long >}}
+- {{< var c.mu409L.long >}}
 
 ### COMPOSITION COURSES 
-	{{< var c.mu195.long >}}
-	{{< var c.mua413.long >}}
-	{{< var c.mua423.long >}}
+- {{< var c.mu195.long >}}
+- {{< var c.mua413.long >}}
+- {{< var c.mua423.long >}}
 
 ### CONDUCTING COURSES 
-	{{< var c.mu285.long >}}
-	{{< var c.mu385.long >}}
+- {{< var c.mu285.long >}}
+- {{< var c.mu385.long >}}
 
 ### HISTORY COURSES 
-	{{< var c.mu255.long >}}
-	{{< var c.mu355.long >}}
-	{{< var c.mu458.long >}}
+- {{< var c.mu255.long >}}
+- {{< var c.mu355.long >}}
+- {{< var c.mu458.long >}}
 
 ### MUSIC EDUCATION COURSES 
-	{{< var c.mu205.long >}}
-	{{< var c.mu360.long >}}
-	{{< var c.mu361.long >}}
-	{{< var c.mu362.long >}}
-	{{< var c.mu363.long >}}
-	{{< var c.mu364.long >}}
-	{{< var c.mu421.long >}}
-	{{< var c.mu422.long >}}
-	{{< var c.mua104K.long >}}
+- {{< var c.mu205.long >}}
+- {{< var c.mu360.long >}}
+- {{< var c.mu361.long >}}
+- {{< var c.mu362.long >}}
+- {{< var c.mu363.long >}}
+- {{< var c.mu364.long >}}
+- {{< var c.mu421.long >}}
+- {{< var c.mu422.long >}}
+- {{< var c.mua104K.long >}}
 
 ### ADVANCED STUDY IN MUSIC 
-	{{< var c.mua490.long >}}
-	{{< var c.mu444.long >}}
+- {{< var c.mua490.long >}}
+- {{< var c.mu444.long >}}
 
 ### Courses in Music
 **MU Prefix**
