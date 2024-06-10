@@ -2717,7 +2717,7 @@ Credit for participation in these regularly-offered ensembles is available under
 - MUA 490 Senior Recital
 - MU 444 Ind Study-Music
 
-### Courses in Music {#sec-courses-in-music}
+### Courses in Music {##sec-courses-in-music}
 **MU Prefix**
 
 - **MU 100 Experiencing Music**
