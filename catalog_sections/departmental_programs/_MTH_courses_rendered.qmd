@@ -5,6 +5,7 @@ The department of mathematical sciences offers a complete range of courses, with
 
 ### Mathematics Major
 A major in mathematics requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+
 1. MTH 135 Calculus I
 2. MTH 145 Calculus II
 3. MTH 215 Foundations of Advanced Mathematics
@@ -13,21 +14,22 @@ A major in mathematics requires a minimum cumulative 2.0 GPA in all courses coun
 6. MTH 385 Modern Algebra I
 7. CS 125 Computer Science I
 8. **One** of the following:
-	MTH 415 Real Analysis I
-	MTH 445 Complex Analysis
+	- MTH 415 Real Analysis I
+	- MTH 445 Complex Analysis
 9. **Three** of the following:
-	STA 315 Mathematical Probability
-	STA 325 Mathematical Statistics
-	MTH 305 Advanced Geometry
-	MTH 325 Differential Equations WE
-	MTH 395 Modern Algebra II
-	MTH 415 Real Analysis I (if not used to satisfy #8)
-	MTH 425 Real Analysis II
-	MTH 444 Ind Study-Math
-	MTH 445 Complex Analysis (if not used to satisfy #8)
-	MTH 455 Mathematical Modeling
-	MTH 463 Set Theory & Toplogy
-	MTH 484 Special Topics
+	- STA 315 Mathematical Probability
+	- STA 325 Mathematical Statistics
+	- MTH 305 Advanced Geometry
+	- MTH 325 Differential Equations WE
+	- MTH 395 Modern Algebra II
+	- MTH 415 Real Analysis I (if not used to satisfy #8)
+	- MTH 425 Real Analysis II
+	- MTH 444 Ind Study-Math
+	- MTH 445 Complex Analysis (if not used to satisfy #8)
+	- MTH 455 Mathematical Modeling
+	- MTH 463 Set Theory & Toplogy
+	- MTH 484 Special Topics
+
 **NOTE:** *A course in statistics and a course in geometry are required for the Iowa teaching endorsement in mathematics at either the elementary or secondary school level. Students planning to teach should consult with faculty in the education department. *
 
 ### Mathematics Minor
@@ -35,21 +37,21 @@ A major in mathematics requires a minimum cumulative 2.0 GPA in all courses coun
 2. MTH 145 Calculus II
 3. MTH 215 Foundations of Advanced Mathematics
 4. **Three** of the following:
-	STA 315 Mathematical Probability
-	STA 325 Mathematical Statistics
-	MTH 255 Calculus III
-	MTH 265 Linear Algebra
-	MTH 305 Advanced Geometry
-	MTH 325 Differential Equations WE
-	MTH 385 Modern Algebra I
-	MTH 395 Modern Algebra II
-	MTH 415 Real Analysis I 
-	MTH 425 Real Analysis II
-	MTH 444 Ind Study-Math
-	MTH 445 Complex Analysis 
-	MTH 455 Mathematical Modeling
-	MTH 463 Set Theory & Toplogy
-	MTH 484 Special Topics
+	- STA 315 Mathematical Probability
+	- STA 325 Mathematical Statistics
+	- MTH 255 Calculus III
+	- MTH 265 Linear Algebra
+	- MTH 305 Advanced Geometry
+	- MTH 325 Differential Equations WE
+	- MTH 385 Modern Algebra I
+	- MTH 395 Modern Algebra II
+	- MTH 415 Real Analysis I 
+	- MTH 425 Real Analysis II
+	- MTH 444 Ind Study-Math
+	- MTH 445 Complex Analysis 
+	- MTH 455 Mathematical Modeling
+	- MTH 463 Set Theory & Toplogy
+	- MTH 484 Special Topics
 
 ### Courses in Mathematics
 - **MTH 105 Math for Social Justice**

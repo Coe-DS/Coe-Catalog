@@ -1,4 +1,4 @@
-# CLASS DESIGNATION
+# CLASS DESIGNATION {#sec-class-designation}
 
 Class Designation is determined by the number of course credits earned following the Fall and Spring Terms. 
 

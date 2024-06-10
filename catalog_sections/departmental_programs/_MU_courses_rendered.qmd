@@ -10,14 +10,15 @@ The *Coe College Music Department Faculty/Student Handbook* supplements the desc
 Students who major in music may select either the Bachelor of Arts degree or the Bachelor of Music degree. 
 
 ### BACHELOR OF MUSIC
-Candidates for the **BACHELOR OF MUSIC** degree must successfully complete: 
+Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
+
 1. **Six** theory and history courses with a grade of “C” (2.0) or higher:
-	MU 109 Theory of Music I/+++MISSING INFO: c.mu109L.long +++
-	MU 209 Theory of Music II/+++MISSING INFO: c.mu209L.long +++
-	MU 309 Theory of Music III/+++MISSING INFO: c.mu309L.long +++
-	MU 255 Music History & Literature I
-	MU 355 Music History & Literature II
-	MU 458 Music History & Literature III
+	- MU 109 Theory of Music I/+++MISSING INFO: c.mu109L.long +++
+	- MU 209 Theory of Music II/+++MISSING INFO: c.mu209L.long +++
+	- MU 309 Theory of Music III/+++MISSING INFO: c.mu309L.long +++
+	- MU 255 Music History & Literature I
+	- MU 355 Music History & Literature II
+	- MU 458 Music History & Literature III
 2. MU 285 Conducting I
 3. First-Year Experience requirements (see @sec-first-year-experience)
 4. The writing emphasis requirement of the general education requirements for the B.A. degree (see @sec-writing-emphasis-courses)
@@ -27,108 +28,114 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 7. The Senior Assessment Examination in the final term prior to graduation. 
 8. **One** of the four areas of study applicable towards the Bachelor of Music degree: 
 	
-	**Composition**
-	1. MU 195 Music Production
-	2. MU 409 Theory of Music IV/+++MISSING INFO: c.mu409L.long +++
-	3. MUA 413 Orchestration
-	4. MUA 423 Saxophone (Adv Std)
-	5. **Eight** terms of participation in the Applied Music Course, which must include four terms each of MUA-202C and MUA-303C
-	6. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements, but the two required language courses described below may not.) 
-	7. **Two** courses in French in consecutive terms (may not be used to satisfy the humanities requirement of #6) 
-	8. **Two** additional non-music courses 
-	9. MUA 490 Senior Recital
+		**Composition**
+
+		1. MU 195 Music Production
+		2. MU 409 Theory of Music IV/+++MISSING INFO: c.mu409L.long +++
+		3. MUA 413 Orchestration
+		4. MUA 423 Saxophone (Adv Std)
+		5. **Eight** terms of participation in the Applied Music Course, which must include four terms each of MUA-202C and MUA-303C
+		6. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements, but the two required language courses described below may not.) 
+		7. **Two** courses in French in consecutive terms (may not be used to satisfy the humanities requirement of #6) 
+		8. **Two** additional non-music courses 
+		9. MUA 490 Senior Recital
 	
-	**Keyboard and Instrumental Performance**
-	1. MU 409 Theory of Music IV/+++MISSING INFO: c.mu409L.long +++
-	2. **Four** of the following:
-		MU 140 Film Music
-		MU 151 Record Label
-		MU 157 Introduction to Jazz History
-		MU 195 Music Production
-		MU 270 Musical Theatre Acting
-		+++MISSING INFO: c.mu166/284.long +++
-		MU 385 Conducting II
-		MU 444 Ind Study-Music
-		+++MISSING INFO: c.mua133V.long +++
-		+++MISSING INFO: c.mua134V.long +++
-		+++MISSING INFO: c.mua413V.long +++
-		+++MISSING INFO: c.mua423V.long +++
-		One course credit in MUA-courses beyond those required in the Applied Music Course.
-	3. **Eight** terms of participation in the Applied Music Course. 
-	4. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements.) 
-	5. **Two** courses in French in consecutive terms (may not be used to satisfy the humanities requirement of #4)
-	6. MUA 490 Senior Recital
+		**Keyboard and Instrumental Performance**
 
-	**Vocal Performance**
-	1. +++MISSING INFO: c.mua133V.long +++
-	2. +++MISSING INFO: c.mua134V.long +++
-	3. MU 409 Theory of Music IV/+++MISSING INFO: c.mu409L.long +++
-	4. **Four** of the following:
-		MU 140 Film Music
-		MU 151 Record Label
-		MU 157 Introduction to Jazz History
-		MU 195 Music Production
-		MU 270 Musical Theatre Acting
-		+++MISSING INFO: c.mu166/284.long +++
-		MU 385 Conducting II
-		MU 444 Ind Study-Music
-		+++MISSING INFO: c.mua133V.long +++
-		MUA 413 Orchestration
-		MUA 423 Saxophone (Adv Std)
-		One course credit in MUA-courses beyond those required in the Applied Music Course. 
-	5. **Eight** terms of participation in the Applied Music Course. 
-	6. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements.) 
-	7. **Two** courses in French in consecutive terms (may not be used to satisfy the humanities requirement of #6) 
-	8. MUA 490 Senior Recital
+		1. MU 409 Theory of Music IV/+++MISSING INFO: c.mu409L.long +++
+		2. **Four** of the following:
+			- MU 140 Film Music
+			- MU 151 Record Label
+			- MU 157 Introduction to Jazz History
+			- MU 195 Music Production
+			- MU 270 Musical Theatre Acting
+			- +++MISSING INFO: c.mu166/284.long +++
+			- MU 385 Conducting II
+			- MU 444 Ind Study-Music
+			- +++MISSING INFO: c.mua133V.long +++
+			- +++MISSING INFO: c.mua134V.long +++
+			- +++MISSING INFO: c.mua413V.long +++
+			- +++MISSING INFO: c.mua423V.long +++
+			- One course credit in MUA-courses beyond those required in the Applied Music Course.
+		3. **Eight** terms of participation in the Applied Music Course. 
+		4. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements.) 
+		5. **Two** courses in French in consecutive terms (may not be used to satisfy the humanities requirement of #4)
+		6. MUA 490 Senior Recital
 
-	**Music Education (Vocal or Instrumental)**
-	To complete the Vocal or Instrumental Music Education area of study in four years, a student must begin the sequence of courses during the first year. A student entering either area of study as a sophomore should anticipate spending a fifth year to complete all degree requirements. 
-	In addition to the following requirements, according to state regulations, all teachers in Iowa “shall acquire a core of liberal arts knowledge including, but not limited to, mathematics, natural sciences, social sciences, and humanities.”  The Mathematics and Natural Science course requirements may be met through coursework at Coe, comparable courses from an accredited college, or a score of 4 or higher on AP examinations in mathematics or science.  Social Science and Humanities core are met with the required EDU courses and MU Music History and Literature courses.
-	1. EDU 105 Foundations of Education
-	2. EDU 117 Exceptional Learners
-	3. EDU 187 Human Relations
-	4. EDU 195 Educ Psychology & Development
-	5. EDU 219 Educational Technology Lab
-	6. MU 205 Practicum in Music Education
-	7. MU 360 Elementary & General Music Methods
-	8. **One** of the following:
-		MU 361 Choral Music Methods, MU 362 InstrMusMethChrlTeachr, and +++MISSING INFO: c.mua134.long +++ (for Vocal Music Education majors)
-		MU 363 Instrumental Music Methods and MU 364 ChrlMusMethInstTeach (for Instrumental Music Education majors)
-	9. MU 385 Conducting II
-	10. MU 421 Student Teaching Elementary Music
-	11. MU 422 Student Teaching Secondary Music
-	12. **Seven** terms of participation in the Applied Music Course.
-	13. Fulfillment of the general licensure grade point requirement (minimum 2.7 cumulative and in the major) 
-	**NOTE:** *A recital is not required to complete the music education area of study but may be given with the approval of the studio instructor. *
+		**Vocal Performance**
+
+		1. +++MISSING INFO: c.mua133V.long +++
+		2. +++MISSING INFO: c.mua134V.long +++
+		3. MU 409 Theory of Music IV/+++MISSING INFO: c.mu409L.long +++
+		4. **Four** of the following:
+			- MU 140 Film Music
+			- MU 151 Record Label
+			- MU 157 Introduction to Jazz History
+			- MU 195 Music Production
+			- MU 270 Musical Theatre Acting
+			- +++MISSING INFO: c.mu166/284.long +++
+			- MU 385 Conducting II
+			- MU 444 Ind Study-Music
+			- +++MISSING INFO: c.mua133V.long +++
+			- MUA 413 Orchestration
+			- MUA 423 Saxophone (Adv Std)
+			- One course credit in MUA-courses beyond those required in the Applied Music Course. 
+		5. **Eight** terms of participation in the Applied Music Course. 
+		6. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements.) 
+		7. **Two** courses in French in consecutive terms (may not be used to satisfy the humanities requirement of #6) 
+		8. MUA 490 Senior Recital
+
+		**Music Education (Vocal or Instrumental)**
+		To complete the Vocal or Instrumental Music Education area of study in four years, a student must begin the sequence of courses during the first year. A student entering either area of study as a sophomore should anticipate spending a fifth year to complete all degree requirements. 
+	
+		In addition to the following requirements, according to state regulations, all teachers in Iowa “shall acquire a core of liberal arts knowledge including, but not limited to, mathematics, natural sciences, social sciences, and humanities.”  The Mathematics and Natural Science course requirements may be met through coursework at Coe, comparable courses from an accredited college, or a score of 4 or higher on AP examinations in mathematics or science.  Social Science and Humanities core are met with the required EDU courses and MU Music History and Literature courses.
+		1. EDU 105 Foundations of Education
+		2. EDU 117 Exceptional Learners
+		3. EDU 187 Human Relations
+		4. EDU 195 Educ Psychology & Development
+		5. EDU 219 Educational Technology Lab
+		6. MU 205 Practicum in Music Education
+		7. MU 360 Elementary & General Music Methods
+		8. **One** of the following:
+			- MU 361 Choral Music Methods, MU 362 InstrMusMethChrlTeachr, and +++MISSING INFO: c.mua134.long +++ (for Vocal Music Education majors)
+			- MU 363 Instrumental Music Methods and MU 364 ChrlMusMethInstTeach (for Instrumental Music Education majors)
+		9. MU 385 Conducting II
+		10. MU 421 Student Teaching Elementary Music
+		11. MU 422 Student Teaching Secondary Music
+		12. **Seven** terms of participation in the Applied Music Course.
+		13. Fulfillment of the general licensure grade point requirement (minimum 2.7 cumulative and in the major) 
+		**NOTE:** *A recital is not required to complete the music education area of study but may be given with the approval of the studio instructor. *
 
 ### BACHELOR OF ARTS: MUSIC MAJOR
-Candidates for the **BACHELOR OF ARTS** degree with a major in music must successfully complete: 
+Candidates for the **BACHELOR OF ARTS** degree with a major in music must successfully complete:
+
 1. MU 109 Theory of Music I/+++MISSING INFO: c.mu109L.long +++
 2. MU 209 Theory of Music II/+++MISSING INFO: c.mu209L.long +++
 3. MU 309 Theory of Music III/+++MISSING INFO: c.mu309L.long +++
 4. MU 458 Music History & Literature III
 5. **Four** terms of participation in the Applied Music Course with piano as the primary or secondary performing area. 
 6. **One** of the following: 
-	MU 255 Music History & Literature I
-	MU 355 Music History & Literature II
+	- MU 255 Music History & Literature I
+	- MU 355 Music History & Literature II
 7. **One** of the following (if not used to satisfy #6):
-	+++MISSING INFO: c.mua131V.long +++
-	MU 140 Film Music
-	MU 151 Record Label
-	MU 157 Introduction to Jazz History
-	MU 195 Music Production
-	MU 255 Music History & Literature I
-	MU 270 Musical Theatre Acting
-	+++MISSING INFO: c.mu166/284.long +++
-	MU 285 Conducting I
-	MU 355 Music History & Literature II
-	MU 409 Theory of Music IV
-	+++MISSING INFO: c.mua133V.long +++
-	+++MISSING INFO: c.mua134V.long +++
+	- +++MISSING INFO: c.mua131V.long +++
+	- MU 140 Film Music
+	- MU 151 Record Label
+	- MU 157 Introduction to Jazz History
+	- MU 195 Music Production
+	- MU 255 Music History & Literature I
+	- MU 270 Musical Theatre Acting
+	- +++MISSING INFO: c.mu166/284.long +++
+	- MU 285 Conducting I
+	- MU 355 Music History & Literature II
+	- MU 409 Theory of Music IV
+	- +++MISSING INFO: c.mua133V.long +++
+	- +++MISSING INFO: c.mua134V.long +++
 8. The Senior Assessment Examination in the final term prior to graduation 
 
 ### Jazz Emphasis
-Students completing a **BACHELOR OF ARTS** degree may choose to supplement their music major with an Emphasis in Jazz.  Concurrent completion of a major in music is required.  A minimum of 6.1 course credits must be taken that do not count toward a major in music. 
+Students completing a **BACHELOR OF ARTS** degree may choose to supplement their music major with an Emphasis in Jazz.  Concurrent completion of a major in music is required.  A minimum of 6.1 course credits must be taken that do not count toward a major in music.
+
 1. MU 157 Introduction to Jazz History
 2. MU 409 Theory of Music IV/+++MISSING INFO: c.mu409L.long +++
 3. **Five** terms of MUA 102 Jazz & Improvisation Lab
@@ -139,61 +146,65 @@ Students completing a **BACHELOR OF ARTS** degree may choose to supplement their
 
 ### Music Industry Emphasis
 Students completing a **BACHELOR OF ARTS** degree may choose to supplement their music major with an Emphasis in Music Industry.  Concurrent completion of a major in music is required.  A minimum of 6.5 course credits must be taken that do not count toward a major in music.
+
 1. MU 195 Music Production
 2. MU 202 Arts Administration
 3. **One** of the following:
-	PR 205 Public Relations
-	RHE 265 Professional Writing
+	- PR 205 Public Relations
+	- RHE 265 Professional Writing
 4. **One** of the following:
-	BUS 250 Principles of Management
-	BUS 330 Principles of Marketing
+	- BUS 250 Principles of Management
+	- BUS 330 Principles of Marketing
 5. **Three** terms of MU 151 Record Label
 6. **Two** terms of MU 251 Record Label Seminar
 
 ### Musical Theatre Emphasis
 Students completing a **BACHELOR OF ARTS** degree may choose to supplement their music major with an Emphasis in Musical Theatre.  Concurrent completion of a major in music with voice as the primary instrument is required.  A minimum of 6.4 course credits must be taken that do not count toward a major in music.
+
 1. THE 150 Acting I
 2. THE 170 Voice & Diction
 3. THE 270 Musical Theatre Acting
 4. **Two** terms of +++MISSING INFO: c.mua202V.long +++ with musical theatre repertoire (may not be used to satisfy the requirement of #1) 
 5. **One** additional course credit in practical musical theatre chosen from a combination of the following:
-	+++MISSING INFO: c.mua130V.long +++
-	+++MISSING INFO: c.mua131V.long +++
-	A musical theatre internship approved by the music or theatre arts department
+	- +++MISSING INFO: c.mua130V.long +++
+	- +++MISSING INFO: c.mua131V.long +++
+	- A musical theatre internship approved by the music or theatre arts department
 6. **Six** seven-week dance courses (DAN-101 through DAN-142) (0.2 cc)
 
 ### Pre-Music Therapy Emphasis
 Students completing a **BACHELOR OF ARTS** degree may choose to supplement their music major with an Emphasis in Pre-Music Therapy.  Concurrent completion of a major in music is required.  
 The Bachelor of Arts in Music, Pre-Music Therapy Emphasis, is designed to prepare students to apply to a Music Therapy certification program. It is not a free-standing major, and it does not include music therapy courses. Rather, the courses listed below are intended to better prepare Bachelor of Arts in Music students for future study in Music Therapy at an academic program approved by the American Music Therapy Association. Students must complete all requirements for a Bachelor of Arts in Music, in addition to the courses listed below. These include 5 non-music course credits and 2 additional music course credits for a minimum total of 7 course credits that must be taken that do not count toward a major in music.  
-Courses taken to satisfy requirements in the Bachelor of Arts in Music may NOT also be used to satisfy the requirements of the Pre-Music Therapy Emphasis below, but all courses MAY be used towards general education requirements. 
+Courses taken to satisfy requirements in the Bachelor of Arts in Music may NOT also be used to satisfy the requirements of the Pre-Music Therapy Emphasis below, but all courses MAY be used towards general education requirements.
+
 1. PSY 100 Introductory Psychology
 2. BIO 103 Anatomy & Physiology
 3. BIO 155 Organismal & Ecological Biology & +++MISSING INFO: c.bio155L.long +++ (concurrent with BIO-155)
 4. **One** of the following:
-	EDU 117 Exceptional Learners
-	EDU 187 Human Relations
-	EDU 195 Educ Psychology & Development
-	PSY 235 Abnormal Psychology
-	PSY 315 Learning & Behavior
+	- EDU 117 Exceptional Learners
+	- EDU 187 Human Relations
+	- EDU 195 Educ Psychology & Development
+	- PSY 235 Abnormal Psychology
+	- PSY 315 Learning & Behavior
 5. **One** of the following:
-	THE 100 Introduction to Theatre
-	THE 150 Acting I
-	THE 160 Movement for the Stage
-	THE 170 Voice & Diction
-	THE 270 Musical Theatre Acting
+	- THE 100 Introduction to Theatre
+	- THE 150 Acting I
+	- THE 160 Movement for the Stage
+	- THE 170 Voice & Diction
+	- THE 270 Musical Theatre Acting
 6. **Two** credits (or more) from the following:
-	MU 195 Music Production
-	MU 285 Conducting I
-	MU 409 Theory of Music IV
-	+++MISSING INFO: c.mua102K.long +++
-	Additional terms of ensemble participation, beyond those required for the Bachelor of Arts in Music: 
-		Concert Band (0.3 each), Jazz Band (0.2 each), Concert Choir (0.3 each), Chorale (0.2 each), Orchestra (0.3 each), or Handbells (0.2 each) 
-	Additional terms of hour lessons, beyond those required for the Bachelor of Arts in Music, on your primary instrument (0.6 each):  
-		+++MISSING INFO: c.mua104K.long +++
-		+++MISSING INFO: c.mua151S.long +++
-		+++MISSING INFO: c.mua300A.long +++
+	- MU 195 Music Production
+	- MU 285 Conducting I
+	- MU 409 Theory of Music IV
+	- +++MISSING INFO: c.mua102K.long +++
+	- Additional terms of ensemble participation, beyond those required for the Bachelor of Arts in Music: 
+		* Concert Band (0.3 each), Jazz Band (0.2 each), Concert Choir (0.3 each), Chorale (0.2 each), Orchestra (0.3 each), or Handbells (0.2 each) 
+	- Additional terms of hour lessons, beyond those required for the Bachelor of Arts in Music, on your primary instrument (0.6 each):  
+		* +++MISSING INFO: c.mua104K.long +++
+		* +++MISSING INFO: c.mua151S.long +++
+		* +++MISSING INFO: c.mua300A.long +++
 
 Strongly recommended:
+
 - MU 255 Music History & Literature I **or** MU 355 Music History & Literature II (whichever is not taken to fulfill the BA in Music requirement) 
 - MU 285 Conducting I and MU 385 Conducting II
 - Additional music performance courses (ensembles and lessons) 
@@ -209,7 +220,8 @@ The minor in music consists of six course credits. At least four of these credit
 
 ### APPLIED MUSIC
 ### The Applied Music Course
-Intensive studies in performance and repertoire through lessons, ensembles, pedagogy, and techniques. The applied music course requirements are: 
+Intensive studies in performance and repertoire through lessons, ensembles, pedagogy, and techniques. The applied music course requirements are:
+
 1. An hour lesson each week, as specified in the *Coe College Music Department Faculty/Student Handbook* for each major, along with participation and attendance at the weekly Recital Hour and concerts as described above in *Departmental Notes*. (0.6 course credit)
 2. Participation in one of the following ensembles, as assigned by audition: Concert Band, Concert Choir, Orchestra, Chorale.
 3. Additional ensembles, lessons, or courses in pedagogy, techniques, and literature (0.1-0.6 course credit) that are required for any of the areas of study that lead to one of the music degrees. The *Coe College Music Department Faculty/Student Handbook* (see above) contains descriptions and additional information about these ensembles and courses.
@@ -222,184 +234,186 @@ Artist teachers in violin, viola, cello, string and electric bass, piano, piano 
 Composition lessons and classes in keyboard, brass, woodwind, and string literature are also available. Credit for applied music study is granted after the student has satisfactorily passed an examination by a faculty committee (jury exam) at the close of each term. Two hours daily practice per weekly hour lesson are expected of all students taking applied music. 
 
 ### APPLIED BRASSES--LESSONS
-	+++MISSING INFO: c.mua101B.long +++
-	+++MISSING INFO: c.mua202B.long +++
-	+++MISSING INFO: c.mua303B.long +++
-	+++MISSING INFO: c.mua111B.long +++
-	+++MISSING INFO: c.mua212B.long +++
-	+++MISSING INFO: c.mua313B.long +++
-	+++MISSING INFO: c.mua121B.long +++
-	+++MISSING INFO: c.mua222B.long +++
-	+++MISSING INFO: c.mua323B.long +++
-	+++MISSING INFO: c.mua131B.long +++
-	+++MISSING INFO: c.mua232B.long +++
-	+++MISSING INFO: c.mua333B.long +++
+- +++MISSING INFO: c.mua101B.long +++
+- +++MISSING INFO: c.mua202B.long +++
+- +++MISSING INFO: c.mua303B.long +++
+- +++MISSING INFO: c.mua111B.long +++
+- +++MISSING INFO: c.mua212B.long +++
+- +++MISSING INFO: c.mua313B.long +++
+- +++MISSING INFO: c.mua121B.long +++
+- +++MISSING INFO: c.mua222B.long +++
+- +++MISSING INFO: c.mua323B.long +++
+- +++MISSING INFO: c.mua131B.long +++
+- +++MISSING INFO: c.mua232B.long +++
+- +++MISSING INFO: c.mua333B.long +++
 
 ### APPLIED COMPOSITION--LESSONS
-	+++MISSING INFO: c.mua101C.long +++
-	+++MISSING INFO: c.mua202C.long +++
-	+++MISSING INFO: c.mua303C.long +++
-	MUA 413 Orchestration
-	MUA 423 Saxophone (Adv Std)
+- +++MISSING INFO: c.mua101C.long +++
+- +++MISSING INFO: c.mua202C.long +++
+- +++MISSING INFO: c.mua303C.long +++
+- MUA 413 Orchestration
+- MUA 423 Saxophone (Adv Std)
 
 ### APPLIED KEYBOARD--LESSONS
-	+++MISSING INFO: c.mua100K.long +++
-	+++MISSING INFO: c.mua101K.long +++
-	+++MISSING INFO: c.mua102K.long +++
-	+++MISSING INFO: c.mua103K.long +++
-	+++MISSING INFO: c.mua202K.long +++
-	+++MISSING INFO: c.mua303K.long +++
-	+++MISSING INFO: c.mua304K.long +++
-	+++MISSING INFO: c.mua111K.long +++
-	+++MISSING INFO: c.mua212K.long +++
-	+++MISSING INFO: c.mua313K.long +++
-	+++MISSING INFO: c.mua121K.long +++
-	+++MISSING INFO: c.mua222K.long +++
-	+++MISSING INFO: c.mua323K.long +++
+- +++MISSING INFO: c.mua100K.long +++
+- +++MISSING INFO: c.mua101K.long +++
+- +++MISSING INFO: c.mua102K.long +++
+- +++MISSING INFO: c.mua103K.long +++
+- +++MISSING INFO: c.mua202K.long +++
+- +++MISSING INFO: c.mua303K.long +++
+- +++MISSING INFO: c.mua304K.long +++
+- +++MISSING INFO: c.mua111K.long +++
+- +++MISSING INFO: c.mua212K.long +++
+- +++MISSING INFO: c.mua313K.long +++
+- +++MISSING INFO: c.mua121K.long +++
+- +++MISSING INFO: c.mua222K.long +++
+- +++MISSING INFO: c.mua323K.long +++
 
 ### APPLIED PERCUSSION--LESSONS
-	+++MISSING INFO: c.mua101P.long +++
-	+++MISSING INFO: c.mua202P.long +++
-	+++MISSING INFO: c.mua303P.long +++
+- +++MISSING INFO: c.mua101P.long +++
+- +++MISSING INFO: c.mua202P.long +++
+- +++MISSING INFO: c.mua303P.long +++
 
 ### APPLIED STRINGS--LESSONS
-	+++MISSING INFO: c.mua101S.long +++
-	+++MISSING INFO: c.mua202S.long +++
-	+++MISSING INFO: c.mua303S.long +++
-	+++MISSING INFO: c.mua111S.long +++
-	+++MISSING INFO: c.mua212S.long +++
-	+++MISSING INFO: c.mua313S.long +++
-	+++MISSING INFO: c.mua121S.long +++
-	+++MISSING INFO: c.mua222S.long +++
-	+++MISSING INFO: c.mua323S.long +++
-	+++MISSING INFO: c.mua131S.long +++
-	+++MISSING INFO: c.mua232S.long +++
-	+++MISSING INFO: c.mua333S.long +++
-	+++MISSING INFO: c.mua141S.long +++
-	+++MISSING INFO: c.mua242S.long +++
-	+++MISSING INFO: c.mua343S.long +++
-	+++MISSING INFO: c.mua151S.long +++
-	+++MISSING INFO: c.mua252S.long +++
-	+++MISSING INFO: c.mua353S.long +++
+- +++MISSING INFO: c.mua101S.long +++
+- +++MISSING INFO: c.mua202S.long +++
+- +++MISSING INFO: c.mua303S.long +++
+- +++MISSING INFO: c.mua111S.long +++
+- +++MISSING INFO: c.mua212S.long +++
+- +++MISSING INFO: c.mua313S.long +++
+- +++MISSING INFO: c.mua121S.long +++
+- +++MISSING INFO: c.mua222S.long +++
+- +++MISSING INFO: c.mua323S.long +++
+- +++MISSING INFO: c.mua131S.long +++
+- +++MISSING INFO: c.mua232S.long +++
+- +++MISSING INFO: c.mua333S.long +++
+- +++MISSING INFO: c.mua141S.long +++
+- +++MISSING INFO: c.mua242S.long +++
+- +++MISSING INFO: c.mua343S.long +++
+- +++MISSING INFO: c.mua151S.long +++
+- +++MISSING INFO: c.mua252S.long +++
+- +++MISSING INFO: c.mua353S.long +++
 
 ### APPLIED VOICE--LESSONS
 (Offerings vary each term and include sight singing and/or Alexander Technique.)
-	+++MISSING INFO: c.mua101V.long +++
-	+++MISSING INFO: c.mua110V.long +++
-	+++MISSING INFO: c.mua202V.long +++
-	+++MISSING INFO: c.mua303V.long +++
-	+++MISSING INFO: c.mua300A.long +++
+- +++MISSING INFO: c.mua101V.long +++
+- +++MISSING INFO: c.mua110V.long +++
+- +++MISSING INFO: c.mua202V.long +++
+- +++MISSING INFO: c.mua303V.long +++
+- +++MISSING INFO: c.mua300A.long +++
 
 ### APPLIED WOODWINDS--LESSONS
-	+++MISSING INFO: c.mua101W.long +++
-	+++MISSING INFO: c.mua202W.long +++
-	+++MISSING INFO: c.mua303W.long +++
-	+++MISSING INFO: c.mua111W.long +++
-	+++MISSING INFO: c.mua212W.long +++
-	+++MISSING INFO: c.mua313W.long +++
-	+++MISSING INFO: c.mua121W.long +++
-	+++MISSING INFO: c.mua222W.long +++
-	+++MISSING INFO: c.mua323W.long +++
-	+++MISSING INFO: c.mua131W.long +++
-	+++MISSING INFO: c.mua232W.long +++
-	+++MISSING INFO: c.mua333W.long +++
-	+++MISSING INFO: c.mua141W.long +++
-	+++MISSING INFO: c.mua242W.long +++
-	+++MISSING INFO: c.mua343W.long +++
+- +++MISSING INFO: c.mua101W.long +++
+- +++MISSING INFO: c.mua202W.long +++
+- +++MISSING INFO: c.mua303W.long +++
+- +++MISSING INFO: c.mua111W.long +++
+- +++MISSING INFO: c.mua212W.long +++
+- +++MISSING INFO: c.mua313W.long +++
+- +++MISSING INFO: c.mua121W.long +++
+- +++MISSING INFO: c.mua222W.long +++
+- +++MISSING INFO: c.mua323W.long +++
+- +++MISSING INFO: c.mua131W.long +++
+- +++MISSING INFO: c.mua232W.long +++
+- +++MISSING INFO: c.mua333W.long +++
+- +++MISSING INFO: c.mua141W.long +++
+- +++MISSING INFO: c.mua242W.long +++
+- +++MISSING INFO: c.mua343W.long +++
 
 ### APPLIED PEDAGOGY/ ENSEMBLE AND LITERATURE
-	+++MISSING INFO: c.mua133B.long +++
-	+++MISSING INFO: c.mua134B.long +++
-	+++MISSING INFO: c.mua133K.long +++
-	+++MISSING INFO: c.mua134K.long +++
-	+++MISSING INFO: c.mua133P.long +++
-	+++MISSING INFO: c.mua134P.long +++
-	+++MISSING INFO: c.mua133S.long +++
-	+++MISSING INFO: c.mua134S.long +++
-	+++MISSING INFO: c.mua133W.long +++
-	+++MISSING INFO: c.mua134W.long +++
-	+++MISSING INFO: c.mua134V.long +++
+- +++MISSING INFO: c.mua133B.long +++
+- +++MISSING INFO: c.mua134B.long +++
+- +++MISSING INFO: c.mua133K.long +++
+- +++MISSING INFO: c.mua134K.long +++
+- +++MISSING INFO: c.mua133P.long +++
+- +++MISSING INFO: c.mua134P.long +++
+- +++MISSING INFO: c.mua133S.long +++
+- +++MISSING INFO: c.mua134S.long +++
+- +++MISSING INFO: c.mua133W.long +++
+- +++MISSING INFO: c.mua134W.long +++
+- +++MISSING INFO: c.mua134V.long +++
 
 ### APPLIED TECHNIQUES
-	MUA 143 Instrumental Techniques:Strings
-	MUA 153 Instr Tech:Single Reeds & Flute
-	MUA 163 Instr Tech: Double Reeds
-	MUA 173 Instr Tech: High Brass
-	MUA 183 Instr Tech: Low Brass
-	MUA 193 Instr Tech: Percussion
+- MUA 143 Instrumental Techniques:Strings
+- MUA 153 Instr Tech:Single Reeds & Flute
+- MUA 163 Instr Tech: Double Reeds
+- MUA 173 Instr Tech: High Brass
+- MUA 183 Instr Tech: Low Brass
+- MUA 193 Instr Tech: Percussion
 
 ### COURSES IN MUSIC BY CATEGORY
 ### ENSEMBLES
 Ensembles are open, by audition, to all Coe students, as well as being required of all students pursuing a degree in music. 
 Credit for participation in these regularly-offered ensembles is available under the following schedule.  Students are encouraged to participate in these ensembles as often as possible. Additional ensembles, offered on a periodic basis, are listed in the *Coe College Music Department Faculty/Student Handbook*.
-	MUA 100 Concert Band
-	MUA 101 Jazz Ensemble
-	MUA 102 Jazz & Improvisation Lab
-	MUA 103 Symphony Orchestra
-	MUA 104 Concert Choir
-	MUA 105 Crimson Singers
-	MUA 110 Vocal Jazz Ensemble
-	MUA 111 Coe Handbell Ensemble
-	+++MISSING INFO: c.mua130V.long +++
-	+++MISSING INFO: c.mua131V.long +++
-	MUA 284 Applied Music: Special Topics
+
+- MUA 100 Concert Band
+- MUA 101 Jazz Ensemble
+- MUA 102 Jazz & Improvisation Lab
+- MUA 103 Symphony Orchestra
+- MUA 104 Concert Choir
+- MUA 105 Crimson Singers
+- MUA 110 Vocal Jazz Ensemble
+- MUA 111 Coe Handbell Ensemble
+- +++MISSING INFO: c.mua130V.long +++
+- +++MISSING INFO: c.mua131V.long +++
+- MUA 284 Applied Music: Special Topics
 
 ### GENERAL SURVEY COURSES
-	MU 100 Experiencing Music
-	MU 101 Music Fundamentals
-	MU 140 Film Music
-	MU 151 Record Label
-	MU 251 Record Label Seminar
-	MU 157 Introduction to Jazz History
-	MU 161 Hip Hop Workshop
-	MU 166 Topics in Music:Non-Western Perspct
-	MU 270 Musical Theatre Acting
-	MU 284 Topics in Music
-	+++MISSING INFO: c.mua133V.long +++
-	+++MISSING INFO: c.mua134V.long +++
+- MU 100 Experiencing Music
+- MU 101 Music Fundamentals
+- MU 140 Film Music
+- MU 151 Record Label
+- MU 251 Record Label Seminar
+- MU 157 Introduction to Jazz History
+- MU 161 Hip Hop Workshop
+- MU 166 Topics in Music:Non-Western Perspct
+- MU 270 Musical Theatre Acting
+- MU 284 Topics in Music
+- +++MISSING INFO: c.mua133V.long +++
+- +++MISSING INFO: c.mua134V.long +++
 
 ### THEORY COURSES 
-	MU 109 Theory of Music I
-	+++MISSING INFO: c.mu109L.long +++
-	MU 209 Theory of Music II
-	+++MISSING INFO: c.mu209L.long +++
-	MUA 211 Group Sight-Singing Lessons
-	MU 309 Theory of Music III
-	+++MISSING INFO: c.mu309L.long +++
-	MU 409 Theory of Music IV
-	+++MISSING INFO: c.mu409L.long +++
+- MU 109 Theory of Music I
+- +++MISSING INFO: c.mu109L.long +++
+- MU 209 Theory of Music II
+- +++MISSING INFO: c.mu209L.long +++
+- MUA 211 Group Sight-Singing Lessons
+- MU 309 Theory of Music III
+- +++MISSING INFO: c.mu309L.long +++
+- MU 409 Theory of Music IV
+- +++MISSING INFO: c.mu409L.long +++
 
 ### COMPOSITION COURSES 
-	MU 195 Music Production
-	MUA 413 Orchestration
-	MUA 423 Saxophone (Adv Std)
+- MU 195 Music Production
+- MUA 413 Orchestration
+- MUA 423 Saxophone (Adv Std)
 
 ### CONDUCTING COURSES 
-	MU 285 Conducting I
-	MU 385 Conducting II
+- MU 285 Conducting I
+- MU 385 Conducting II
 
 ### HISTORY COURSES 
-	MU 255 Music History & Literature I
-	MU 355 Music History & Literature II
-	MU 458 Music History & Literature III
+- MU 255 Music History & Literature I
+- MU 355 Music History & Literature II
+- MU 458 Music History & Literature III
 
 ### MUSIC EDUCATION COURSES 
-	MU 205 Practicum in Music Education
-	MU 360 Elementary & General Music Methods
-	MU 361 Choral Music Methods
-	MU 362 InstrMusMethChrlTeachr
-	MU 363 Instrumental Music Methods
-	MU 364 ChrlMusMethInstTeach
-	MU 421 Student Teaching Elementary Music
-	MU 422 Student Teaching Secondary Music
-	+++MISSING INFO: c.mua104K.long +++
+- MU 205 Practicum in Music Education
+- MU 360 Elementary & General Music Methods
+- MU 361 Choral Music Methods
+- MU 362 InstrMusMethChrlTeachr
+- MU 363 Instrumental Music Methods
+- MU 364 ChrlMusMethInstTeach
+- MU 421 Student Teaching Elementary Music
+- MU 422 Student Teaching Secondary Music
+- +++MISSING INFO: c.mua104K.long +++
 
 ### ADVANCED STUDY IN MUSIC 
-	MUA 490 Senior Recital
-	MU 444 Ind Study-Music
+- MUA 490 Senior Recital
+- MU 444 Ind Study-Music
 
-### Courses in Music
+### Courses in Music {#sec-courses-in-music}
 **MU Prefix**
+
 - **MU 100 Experiencing Music**
   Provides a framework for informed music listening and for developing an appreciation for a diverse variety of musical styles. Emphasis is on traditional classical music, with some attention to jazz, electronic, and avant-garde styles. Attendance at live concerts is an integral part of the course. This course does not satisfy any of the requirements for a major in music. 
 - **MU 101 Music Fundamentals**
@@ -474,6 +488,7 @@ wide-ranging repertoire of available audition material. Additional rehearsal tim
   Study of the composers and musical developments in Europe and America in the 20th and 21st centuries, together with the influences of music from other world cultures. Prerequisite: Theory of Music II (MU-209) or consent of instructor. 
 
 **MUA Prefix**
+
 - **MUA 100 Concert Band**
   Open to all woodwind, brass, and percussion players. The ensemble offers students the opportunity to perform some of the great band repertoire of the 20th and 21st centuries, as well as carefully selected transcriptions of orchestral repertoire. A select Wind Ensemble within the Concert Band occasionally performs additional selections from the contemporary repertoire. The Concert Band tours on a regular basis. (0.3 course credit) 
 - **MUA 101 Jazz Ensemble**

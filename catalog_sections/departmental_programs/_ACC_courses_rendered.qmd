@@ -1,0 +1,83 @@
+## Accounting {#sec-accounting}
+
+Students majoring in accounting have two options: the managerial accounting major and the public accounting major. The managerial accounting major is designed for students interested in pursuing a career in private industry or the not-for-profit sector. The public accounting major is designed for students interested in practicing public accounting and those desiring the Certified Public Accounting (CPA) designation. Because of the identical core course requirements in the managerial accounting and public accounting majors, only one of the two majors can be elected by a student. A student receiving a managerial accounting major may pursue a post-baccalaureate major in public accounting, but when completed, the public accounting major would replace the managerial accounting major in the student’s records. 
+
+Requirements for becoming a CPA differ from state to state. All states require that students pass the Uniform CPA examination and many require the completion of 150 semester hours of education prior to certification. The 150 hours can be completed in undergraduate or graduate programs. To become a CPA in Iowa, the Iowa State Board of Accountancy requires that students pass the CPA examination, complete 150 semester hours of education, and complete specified course work in accounting and business subjects. Students majoring in accounting, business, or economics are required to have a minimum of 24 of their 150 semester hours in financial accounting, auditing, taxation, and management accounting courses above the elementary level. If students majoring in any other field wish to become a CPA in Iowa, they must, in addition, complete at least 24 semester hours in business-related courses (not including internships). (One course credit completed at Coe is counted as four semester hours.)  Accounting students at Coe should work closely with faculty in the department to determine their plan of study. Students wishing to become a CPA should also check the state board’s education requirements for the state in which they wish to practice.
+
+### Managerial Accounting Major
+
+A major in managerial accounting requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+
+1.{{<var c.acc171.long>}}
+2.{{<var c.eco175.long>}}
+3.{{<var c.bus190.long>}}
+4.{{<var c.acc215.long>}}
+5.{{<var c.eco215.long>}}
+6.{{<var c.acc301.long>}}
+7.{{<var c.acc315.long>}}
+8.{{<var c.bus315.long>}}
+9.{{<var c.acc334.long>}}
+10.{{<var c.acc351.long>}}
+11.{{<var c.acc413.lonh>}}
+12.{{<var c.acc415.long>}}
+
+### Public Accounting Major
+
+A major in public accounting requires a minimum cumulative 2.0 GPA in all courses counted toward the major. Students wishing to prepare for the examination to become a Certified Public Accountant should select the Public Accounting major, which meets the guidelines for the breadth of business and accounting courses recommended by The American Institute of Certified Public Accountants. Students at Coe can meet the 150-semester hour requirement by completing 37.5 credits.
+
+If degree requirements are not completed by the end of four years, students pursuing a major in public accounting, who are in good academic standing, and who are full-time students, receive a 60% discount on tuition in the consecutive fifth year. They continue to be eligible to apply for student loans and any available federal and state government grants
+
+1.{{<var c.acc171.long>}}
+2.{{<var c.eco175.long>}}
+3.{{<var c.bus190.long>}}
+4.{{<var c.acc215.long>}}
+5.{{<var c.eco215.long>}}
+6.{{<var c.acc301.long>}}
+7.{{<var c.acc315.long>}}
+8.{{<var c.bus315.long>}}
+9.{{<var c.acc334.long>}}
+10.{{<var c.acc351.long>}}
+11.{{<var c.acc413.long>}}
+12.{{<var c.acc422.long>}}
+13.{{<var c.acc463.long>}}
+14.**One** of the following:
+
+    -{{<var c.bus410.long>}}
+    -{{<var c.bus412.long>}}
+    -{{<var c.bus464.long>}}
+    -{{<var c.bus470.long>}}
+
+15.**Three** of the following:
+
+    -{{<var c.acc313.long>}}
+    -{{<var c.acc401.long>}}
+    -{{<var c.acc451.long>}}
+    -{{<var c.acc472.long>}}
+
+### Courses in Accounting
+-**{{<var c.acc171.long>}}**
+{{<var c.aac171.desc>}}
+-**{{<var c.acc215.long>}}**
+{{<var c.acc215.desc>}}
+-**{{<var c.acc301.long>}}**
+{{<var c.acc301.desc>}}
+-**{{<var c.acc313.long>}}**
+{{<var c.acc313.desc>}}
+-**{{<var c.acc315.long>}}**
+{{<var c.acc315.desc>}
+-**{{<var c.acc334.long>}}**
+{{<var c.acc334.desc>}}
+-**{{<var c.acc351.long>}}**
+{{<var c.acc351.desc>}}
+-**{{<var c.acc401.long>}}**
+{{<var c.acc401.desc>}}
+-**{{<var c.acc413.long>}}**
+{{<var c.acc413.desc>}}
+-**{{<var c.acc415.long>}}**
+{{<var c.acc415.desc>}}
+-**{{<var c.acc422.long>}}**
+{{<var c.acc422.desc>}}
+-**{{<var c.acc451.long>}}**
+{{<var c.acc451.desc>}}
+-**{{<var c.acc463.long>}}**
+{{<var c.acc463.desc>}}
