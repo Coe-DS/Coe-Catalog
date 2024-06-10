@@ -53,3 +53,31 @@ If degree requirements are not completed by the end of four years, students purs
     -{{<var c.acc401.long>}}
     -{{<var c.acc451.long>}}
     -{{<var c.acc472.long>}}
+
+### Courses in Accounting
+-**{{<var c.acc171.long>}}**
+{{<var c.aac171.desc>}}
+-**{{<var c.acc215.long>}}**
+{{<var c.acc215.desc>}}
+-**{{<var c.acc301.long>}}**
+{{<var c.acc301.desc>}}
+-**{{<var c.acc313.long>}}**
+{{<var c.acc313.desc>}}
+-**{{<var c.acc315.long>}}**
+{{<var c.acc315.desc>}
+-**{{<var c.acc334.long>}}**
+{{<var c.acc334.desc>}}
+-**{{<var c.acc351.long>}}**
+{{<var c.acc351.desc>}}
+-**{{<var c.acc401.long>}}**
+{{<var c.acc401.desc>}}
+-**{{<var c.acc413.long>}}**
+{{<var c.acc413.desc>}}
+-**{{<var c.acc415.long>}}**
+{{<var c.acc415.desc>}}
+-**{{<var c.acc422.long>}}**
+{{<var c.acc422.desc>}}
+-**{{<var c.acc451.long>}}**
+{{<var c.acc451.desc>}}
+-**{{<var c.acc463.long>}}**
+{{<var c.acc463.desc>}}
