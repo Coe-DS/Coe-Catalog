@@ -10,14 +10,15 @@ The *Coe College Music Department Faculty/Student Handbook* supplements the desc
 Students who major in music may select either the Bachelor of Arts degree or the Bachelor of Music degree. 
 
 ### BACHELOR OF MUSIC
-Candidates for the **BACHELOR OF MUSIC** degree must successfully complete: 
+Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
+
 1. **Six** theory and history courses with a grade of “C” (2.0) or higher:
-	{{< var c.mu109.long >}}/{{< var c.mu109L.long >}}
-	{{< var c.mu209.long >}}/{{< var c.mu209L.long >}}
-	{{< var c.mu309.long >}}/{{< var c.mu309L.long >}}
-	{{< var c.mu255.long >}}
-	{{< var c.mu355.long >}}
-	{{< var c.mu458.long >}}
+	- {{< var c.mu109.long >}}/{{< var c.mu109L.long >}}
+	- {{< var c.mu209.long >}}/{{< var c.mu209L.long >}}
+	- {{< var c.mu309.long >}}/{{< var c.mu309L.long >}}
+	- {{< var c.mu255.long >}}
+	- {{< var c.mu355.long >}}
+	- {{< var c.mu458.long >}}
 2. {{< var c.mu285.long >}}
 3. First-Year Experience requirements (see @sec-first-year-experience)
 4. The writing emphasis requirement of the general education requirements for the B.A. degree (see @sec-writing-emphasis-courses)
