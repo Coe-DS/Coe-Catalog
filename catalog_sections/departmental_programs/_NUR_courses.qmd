@@ -20,8 +20,8 @@ The nursing department Admission, Promotion, and Retention committee reviews app
 
 In order to successfully complete a course and be promoted to successive courses, students must:
 	
-	- Achieve a minimum grade of C (2.0) in all nursing courses; a grade of C- (1.7) or lower requires the student to repeat the course.
-	- Achieve a cumulative average of 72% on all exams in a given course.
+- Achieve a minimum grade of C (2.0) in all nursing courses; a grade of C- (1.7) or lower requires the student to repeat the course.
+- Achieve a cumulative average of 72% on all exams in a given course.
 
 Candidates for the **Bachelor of Science in Nursing** degree must satisfactorily complete: 
 
@@ -85,21 +85,21 @@ Statistics 	{{< var c.sta300.long >}} **or**
 4. {{< var c.nur200.long >}} (0.2 course credit) (Pre-nursing students must enroll each term of the sophomore year. A maximum of two seminars may be counted for credit toward graduation.)
 
 5. **Nine** non-clinical theory course credits: 
-	{{< var c.nur300.long >}} 
-	{{< var c.nur305.long >}}
-	{{< var c.nur345_345l.long >}}
-	{{< var c.nur360.long >}}
-	{{< var c.nur375.long >}}
-	{{< var c.nur425.long >}}
-	{{< var c.nur430.long >}}
-	{{< var c.nur431.long >}}
-	{{< var c.nur495.long >}}
+	- {{< var c.nur300.long >}} 
+	- {{< var c.nur305.long >}}
+	- {{< var c.nur345_345l.long >}}
+	- {{< var c.nur360.long >}}
+	- {{< var c.nur375.long >}}
+	- {{< var c.nur425.long >}}
+	- {{< var c.nur430.long >}}
+	- {{< var c.nur431.long >}}
+	- {{< var c.nur495.long >}}
 
 6. **Four** two-course-credit clinical courses: 
-	{{< var c.nur315_315l.long >}}
-	{{< var c.nur355_355l.long >}}
-	{{< var c.nur415_415l.long >}}
-	{{< var c.nur455_455l.long >}}
+	- {{< var c.nur315_315l.long >}}
+	- {{< var c.nur355_355l.long >}}
+	- {{< var c.nur415_415l.long >}}
+	- {{< var c.nur455_455l.long >}}
 
 7. A formal NCLEX review course (at the student’s expense)
 
