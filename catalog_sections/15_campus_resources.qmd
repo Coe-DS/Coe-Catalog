@@ -28,7 +28,7 @@ More information about the Permanent Collection can be found on either the Perma
 
 ### Information Technology
 
-The Information Technology Office provides a wide range of technology support to students, faculty and staff. This includes management of computer labs, classroom technology, college-wide software licensing, wi-fi/internet, printers, cable TV, sound equipment, My Coe (my.coe.edu) and more. Coe's technology facilities include over 3,000 ethernet ports, full ethernet and wi-fi internet services within all campus buildings, 250 public/lab computers available for student use and full access to G-Suite services. The Office of Information Technology is located in Voorhees Hall. Assistance from the IT staff can be requested through a Help Desk/Spiceworks ticket (link found on my.coe.edu). 
+The Information Technology Office provides a wide range of technology support to students, faculty and staff. This includes management of computer labs, classroom technology, college-wide software licensing, wi-fi/internet, printers, cable TV, sound equipment, My Coe (my.coe.edu) and more. Coe's technology facilities include over 3,000 ethernet ports, full ethernet and wi-fi internet services within all campus buildings, 250 public/lab computers available for student use and full access to G-Suite services. The Office of Information Technology is located in Voorhees Hall. Assistance from the IT staff can be requested through a Help Desk/Spiceworks ticket (https://coecollege.on.spiceworks.com/portal/). 
 
 ### Public Events and Artists-in-Residence 
 
