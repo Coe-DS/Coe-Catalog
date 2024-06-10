@@ -2,13 +2,13 @@
 
 ### Asia Term
 
-**ASC-195** Asian Tonal Languages
+**ASC-195 Asian Tonal Languages**
 
 An introduction to Thai, Vietnamese, and other tonal Asian languages.  Emphasis is on basic communication as well as the distinguishing features of languages that use tones as part of their linguistic system. 
-**ASC-196** Modern South East Asia
+**ASC-196 Modern South East Asia**
 
 An introduction to several Asian cultures such as Thai, Cambodian, and Vietnamese.  This course varies depending on the field of the supervising Coe faculty member. 
-**ASC-444** Independent Study
+**ASC-444 Independent Study**
 
 A student-designed study of some feature of Asian culture, arranged in consultation with the supervising Coe faculty member. May be taken more than once for a maximum of 2.0 credits. Prerequisite: consent of instructor. 
 
@@ -19,7 +19,8 @@ Supervised work on service projects proposed by external constituencies such as 
 
 
 ### First-Year Seminar
-FS-110 First-Year Seminar 
+**FS-110 First-Year Seminar**
+
 Required of all first-year students. The First-Year Seminar introduces students to college-level study with emphasis on critical thinking, writing, speaking, and research skills. Faculty offer first-year-only topics courses exploring issues from multiple perspectives within or across disciplines. Students in all sections prepare portfolios of their written work and attend a variety of cultural events on and off campus. Seminar instructors also serve as the primary academic advisors for first-year students in their respective sections. First-Year Seminars are writing emphasis and cannot fulfill any distributional, cultural perspective, or major requirements. 
 
 ### World Language
