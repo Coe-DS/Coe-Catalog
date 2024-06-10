@@ -22,6 +22,8 @@
 
 {{< include departmental_programs/_BUS_courses.qmd >}}
 
+{{< include departmental_programs/_ACC_courses.qmd >}}
+
 {{< include departmental_programs/_ECO_courses.qmd >}}
 
 {{< include departmental_programs/_CHM_courses.qmd >}}
