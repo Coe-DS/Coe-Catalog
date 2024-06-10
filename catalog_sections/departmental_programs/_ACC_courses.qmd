@@ -40,4 +40,16 @@ If degree requirements are not completed by the end of four years, students purs
 11.{{<var c.acc413.long>}}
 12.{{<var c.acc422.long>}}
 13.{{<var c.acc463.long>}}
-14.
+14.**One** of the following:
+
+    -{{<var c.bus410.long>}}
+    -{{<var c.bus412.long>}}
+    -{{<var c.bus464.long>}}
+    -{{<var c.bus470.long>}}
+
+15.**Three** of the following:
+
+    -{{<var c.acc313.long>}}
+    -{{<var c.acc401.long>}}
+    -{{<var c.acc451.long>}}
+    -{{<var c.acc472.long>}}
