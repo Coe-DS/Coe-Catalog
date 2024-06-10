@@ -17,31 +17,32 @@ A grade of "C" (2.0) or higher must be earned in all courses counted toward a mi
 
 
 ### Courses Taught in English that can be used for credit in French & Francophone Studies
-	{{< var c.arh201.long >}}
-	{{< var c.arh218.long >}}
-	{{< var c.arh231.long >}}
-	{{< var c.arh307.long >}}
-	{{< var c.com236.long >}}
-	{{< var c.eng146.long >}}
-	{{< var c.fre145.long >}}
-	{{< var c.fre146.long >}}
-	{{< var c.fre148.long >}}
-	{{< var c.fre158.long >}}
-	{{< var c.his238.long >}}
-	{{< var c.his248.long >}}
-	{{< var c.his272.long >}}
-	{{< var c.his288.long >}}
-	{{< var c.his355.long >}}
-	{{< var c.his365.long >}}
-	{{< var c.his372.long >}}
-	{{< var c.phl230.long >}}
-	{{< var c.phl240.long >}}
-	{{< var c.phl255.long >}}
-	{{< var c.phl305.long >}}
-	{{< var c.phl345.long >}}
-	{{< var c.pol298.long >}}
-	{{< var c.rel148.long >}}
-	{{< var c.rel178.long >}}
+
+- {{< var c.arh201.long >}}
+- {{< var c.arh218.long >}}
+- {{< var c.arh231.long >}}
+- {{< var c.arh307.long >}}
+- {{< var c.com236.long >}}
+- {{< var c.eng146.long >}}
+- {{< var c.fre145.long >}}
+- {{< var c.fre146.long >}}
+- {{< var c.fre148.long >}}
+- {{< var c.fre158.long >}}
+- {{< var c.his238.long >}}
+- {{< var c.his248.long >}}
+- {{< var c.his272.long >}}
+- {{< var c.his288.long >}}
+- {{< var c.his355.long >}}
+- {{< var c.his365.long >}}
+- {{< var c.his372.long >}}
+- {{< var c.phl230.long >}}
+- {{< var c.phl240.long >}}
+- {{< var c.phl255.long >}}
+- {{< var c.phl305.long >}}
+- {{< var c.phl345.long >}}
+- {{< var c.pol298.long >}}
+- {{< var c.rel148.long >}}
+- {{< var c.rel178.long >}}
 
 
 ### Courses in French
