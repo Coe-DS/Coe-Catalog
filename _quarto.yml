@@ -45,7 +45,7 @@ book:
       - catalog_sections/16_student_life_rendered.qmd
     - part: "COLLEGE REGULATIONS"  
       chapters:
-      - catalog_sections/18_effective_catalog_rendered.qmd
+      - catalog_sections/17_effective_catalog_rendered.qmd
       - catalog_sections/19_class_designation_rendered.qmd
       - catalog_sections/20_registration_rendered.qmd
       - catalog_sections/21_academic_integrity_policy_rendered.qmd
