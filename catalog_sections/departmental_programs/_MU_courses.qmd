@@ -413,6 +413,7 @@ Credit for participation in these regularly-offered ensembles is available under
 
 ### Courses in Music {#sec-courses-in-music}
 **MU Prefix**
+
 - **{{< var c.mu100.long >}}**
   {{< var c.mu100.desc >}} 
 - **{{< var c.mu101.long >}}**
@@ -483,6 +484,7 @@ Credit for participation in these regularly-offered ensembles is available under
   {{< var c.mu458.desc >}} 
 
 **MUA Prefix**
+
 - **{{< var c.mua100.long >}}**
   {{< var c.mua100.desc >}} 
 - **{{< var c.mua101.long >}}**
