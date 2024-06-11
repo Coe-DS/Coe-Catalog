@@ -1,0 +1,131 @@
+## ECONOMICS
+Economics is a social science concerning the study of how economic agents make choices in the face of scarcity. Economists study a broad variety of topics ranging from the theory of the consumer to economic growth and the wealth of nations. Students majoring in economics have two options: the economics major and the international economics major (see p. 132). The economics major is designed to permit a broad enough selection of courses for students to develop a general competence in economics, and to prepare students for graduate work in economics or other disciplines, such as law or business. The international economics major is designed to allow students who are interested in international studies to explore issues of development, growth, and international finance, using the tools of economic analysis.  
+Because of significant overlap in the economics and the international economics requirements, only one of the two majors may be elected by a student. Students majoring in economics or international economics may not minor in either economics or international economics.  See p. 132 for the International Economics major and minor requirements.
+
+### Economics Major 
+A major in economics requires a minimum cumulative 2.0 GPA in all courses counted toward the major.  
+1. {{< var c.eco175.long >}}  
+2. {{< var c.eco215.long >}}  
+3. {{< var c.eco315.long >}}  
+4. {{< var c.eco345.long >}}  
+5. {{< var c.eco375.long >}}  
+6. One of the following Microeconomics Field courses:   
+  {{< var c.eco237.long >}}  
+  {{< var c.eco247.long >}}  
+  {{< var c.eco446.long >}}  
+  {{< var c.eco447.long >}}  
+7. One of the following Macroeconomics Field courses:  
+  {{< var c.eco225.long >}}  
+  {{< var c.eco336.long >}}  
+  {{< var c.eco422.long >}}  
+  {{< var c.eco465.long >}}  
+8.	One of the following Quantitative or History courses:  
+  Quantitative courses:  
+    {{< var c.eco435.long >}}  
+    {{< var c.eco445.long >}}  
+    {{< var c.eco485.long >}}  
+
+### Economics Minor 
+1. {{< var c.eco175 >}}
+2. {{< var c.eco215 >}}
+3. One of the following Microeconomics courses:   
+   {{< var c.eco237 >}}  
+   {{< var c.eco247 >}}  
+   {{< var c.eco345 >}}  
+   {{< var c.eco446 >}}  
+   {{< var c.eco447 >}}  
+4.	One of the following Macroeconomics courses:   
+   {{< var c.eco225 >}}  
+   {{< var c.eco315 >}}  
+   {{< var c.eco336 >}}  
+   {{< var c.eco422 >}}  
+   {{< var c.eco495 >}}  
+5. Two additional Economics courses numbered 200 or higher, with at least one of the two courses numbered 300 or higher.
+
+### Courses in Economics
+
+{{< var c.bus340 >}};  
+{{< var c.bus341 >}};  
+{{< var c.bus441 >}};  
+{{< var c.bus495 >}};  
+See Business Administration, Section 25.11
+
+**{{< var c.eco105.long >}}**   
+  {{< var c.eco105.desc >}}   
+**{{< var c.eco115.long >}}**   
+  {{< var c.eco115.desc >}}   
+**{{< var c.ds120.long >}}**   
+See Data Science, p. 99   
+**{{< var c.eco155.long >}}**    
+  {{< var c.eco155.desc >}}   
+**{{< var c.eco175.long >}}**  
+  {{< var c.eco175.desc >}}  
+**{{< var c.eco195.long >}}**  
+  {{< var c.eco195.desc >}}  
+**{{< var c.eco215.long >}}**  
+  {{< var c.eco215.desc >}}  
+**{{< var c.eco225.long >}}**  
+  {{< var c.eco225.desc >}}  
+**{{< var c.eco237.long >}}**  
+  {{< var c.eco237.desc >}}  
+**{{< var c.eco247.long >}}**  
+  {{< var c.eco247.desc >}}  
+**{{< var c.eco315.long >}}**  
+  {{< var c.eco315.desc >}}  
+**{{< var c.eco320.long >}}**  
+  {{< var c.eco320.desc >}}  
+**{{< var c.eco325.long >}}**  
+  {{< var c.eco325.desc >}}  
+**{{< var c.eco336.long >}}**  
+  {{< var c.eco336.desc >}}  
+**{{< var c.bus340.long >}}**  
+See Business Administration, Section 25.11  
+  {{< var c.bus341.long >}}  
+See Business Administration, Section 25.11   
+**{{< var c.eco345.long >}}**  
+  {{< var c.eco345.desc >}}  
+**{{< var c.bus350.long >}}**  
+See Business Administration, Section 25.11
+**{{< var c.eco355.long >}}**  
+  {{< var c.eco355.desc >}}  
+**{{< var c.eco365.long >}}**  
+  {{< var c.eco365.desc >}}  
+**{{< var c.eco375.long >}}**   
+  {{< var c.eco375.desc >}}   
+**{{< var c.eco395.long >}}**   
+  {{< var c.eco395.desc >}}      
+**{{< var c.eco401.long >}}**    
+  {{< var c.eco401.desc >}}   
+**{{< var c.eco402.long >}}**  
+  {{< var c.eco402.desc >}}  
+**{{< var c.bus441.long >}}**  
+See Business Administration, Section 25.11 
+**{{< var c.eco422.long >}}**  
+  {{< var c.eco422.desc >}}  
+**{{< var c.eco424.long >}}**  
+  {{< var c.eco424.desc >}}  
+**{{< var c.eco435.long >}}**  
+  {{< var c.eco435.desc >}}   
+**{{< var c.eco436.long >}}**  
+  {{< var c.eco436.desc >}}  
+**{{< var c.eco444.long >}}**  
+  {{< var c.eco444.desc >}}  
+**{{< var c.eco445.long >}}**   
+  {{< var c.eco445.desc >}}   
+**{{< var c.eco446.long >}}**   
+  {{< var c.eco446.desc >}}      
+**{{< var c.eco447.long >}}**    
+  {{< var c.eco447.desc >}}   
+**{{< var c.eco454.long >}}**  
+  {{< var c.eco454.desc >}}  
+**{{< var c.eco457.long >}}**  
+  {{< var c.eco457.desc >}}  
+**{{< var c.eco475.long >}}**  
+  {{< var c.eco475.desc >}}  
+**{{< var c.eco485.long >}}**  
+  {{< var c.eco485.desc >}}   
+**{{< var c.bus495.long >}}**  
+See Business Administration, Section 25.11  
+**{{< var c.eco495.long >}}**  
+  {{< var c.eco495.desc >}}  
+
