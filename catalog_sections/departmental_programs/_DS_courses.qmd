@@ -44,25 +44,25 @@ A major in data science requires a minimum cumulative 2.0 GPA in all courses cou
 
 ### Courses in Data Science
 
-- **{{< var c.ds100.long >}}**   
+ **{{< var c.ds100.long >}}**   
   {{< var c.ds100.desc >}}   
-- **{{< var c.ds120.long >}}**   
+ **{{< var c.ds120.long >}}**   
   {{< var c.ds120.desc >}}   
-- **{{< var c.ds230.long >}}**   
+ **{{< var c.ds230.long >}}**   
   {{< var c.ds230.desc >}}   
-- **{{< var c.ds260.long >}}**   
+ **{{< var c.ds260.long >}}**   
   {{< var c.ds260.desc >}}   
-- **{{< var c.ds315.long >}}**  
+ **{{< var c.ds315.long >}}**  
   {{< var c.ds315.desc >}}  
-- **{{< var c.ds370.long >}}**  
+ **{{< var c.ds370.long >}}**  
   {{< var c.ds370.desc >}}  
-- **{{< var c.ds415.long >}}**  
+ **{{< var c.ds415.long >}}**  
   {{< var c.ds415.desc >}}  
-- **{{< var c.ds444.long >}}**  
+ **{{< var c.ds444.long >}}**  
   {{< var c.ds444.desc >}}  
-- **{{< var c.ds454.long >}}**  
+ **{{< var c.ds454.long >}}**  
   {{< var c.ds454.desc >}}  
-- **{{< var c.ds484.long >}}**  
+ **{{< var c.ds484.long >}}**  
   {{< var c.ds484.desc >}}  
-- **{{< var c.ds494.long >}}**  
+ **{{< var c.ds494.long >}}**  
   {{< var c.ds494.desc >}}  
