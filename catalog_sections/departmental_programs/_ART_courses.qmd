@@ -7,26 +7,28 @@ An art major may also complete an art history minor, but only two courses may co
 
 ### Art Major 
 A grade of "C" (2.0) or higher must be earned in all courses counted toward a major in art.
+
 1. ARH-128 Introduction to Art History
 2. Two 100-level ART- courses
 3. Four of the following: 
-  - {{< var c.art201.long >}} 
-  - {{< var c.art202.long >}} 
-  - {{< var c.art203.long >}} 
-  - {{< var c.art211.long >}} 
-  - {{< var c.art212.long >}} 
-  - {{< var c.art213.long >}} 
-  - {{< var c.art291.long >}} 
+    - {{< var c.art201.long >}} 
+    - {{< var c.art202.long >}} 
+    - {{< var c.art203.long >}} 
+    - {{< var c.art211.long >}} 
+    - {{< var c.art212.long >}} 
+    - {{< var c.art213.long >}} 
+    - {{< var c.art291.long >}} 
 
 The Focus Course requirement is considered a coherent set of experiences that can be tailored to student needs.  The completion of four Focus Courses is considered as a single course credit with respect to Graduation Requirements (see @sec-graduation-requirements ).
 
 4. Two 300-level ART- Courses 
 5. One additional 200-level Art History course
 6. One of the following: 
-  - {{< var c.arh307.long >}} 
-  - {{< var c.arh310.long >}} 
+    - {{< var c.arh307.long >}} 
+    - {{< var c.arh310.long >}} 
 
 7. Junior Review
+
 A studio portfolio presentation for art majors that is assessed by the art and art
 history faculty. Students must complete 20 course credits to be eligible for the
 junior review, and it must be completed prior to enrolling in ART-464 Senior Seminar I.
@@ -40,6 +42,7 @@ In addition to the course requirements, a student must participate in a Junior R
 
 ### Art Minor 
 A grade of "C" (2.0) or higher must be earned in all courses counted toward a minor in art.
+
 1. {{< var c.arh128.long >}}
 2. Two 100-level ART- courses
 3. Two 300-level ART- courses
