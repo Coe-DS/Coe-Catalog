@@ -191,7 +191,7 @@ A grade of "C" (2.0) or higher must be earned in all courses counted toward a ma
   - ART 213 Focus Course: Critique 
   - ART 291 Focus Course: Topics in Studio Art 
 
-The Focus Course requirement is considered a coherent set of experiences that can be tailored to student needs.  The completion of four Focus Courses is considered as a single course credit with respect to Graduation Requirements (see Catalog, p. 16).
+The Focus Course requirement is considered a coherent set of experiences that can be tailored to student needs.  The completion of four Focus Courses is considered as a single course credit with respect to Graduation Requirements (see @sec-graduation-requirements ).
 
 4. Two 300-level ART- Courses 
 5. One additional 200-level Art History course
@@ -331,6 +331,7 @@ ART-474 Senior Seminar II & Senior Exhibition
 Prepares students for advanced research in studio art. Emphasis is on preparation of work toward the senior exhibit. Only art majors are admitted to this course. Materials fee (where applicable) should be discussed with instructor. Prerequisite: successful completion of Senior Seminar I (ART-464).
 ART-494 Internship in Art 
 Investigates an area of interest related to the major, through voluntary field placement supervised by a faculty member of the art and art history department. A minimum of 140 hours on-site experience is required. P/NP basis only. Prerequisites: declared major in art, junior standing, and consent of department chair.  
+
 
 ## Art History
 
