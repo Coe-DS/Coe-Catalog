@@ -1,6 +1,8 @@
 ## Business Administration and Economics   
 Baranowski, Carstens, Chen, J. Christensen, Crain, Eichhorn (Co-Chair), Hall, Hayes, D., Knudson, Kuennen, Melcher, Nguyen (Co-Chair), Perry, Trout, Westberg.
+
 The Stead Department of Business Administration and Economics offers majors in **ACCOUNTING**, **BUSINESS ADMINISTRATION**, **ECONOMICS**, **INTERNATIONAL BUSINESS**, and INTERNATIONAL ECONOMICS, and minors in economics and international economics. Students pursuing one or more of these are strongly encouraged to consult with departmental faculty to develop specific plans of study. 
+
 ### BUSINESS ADMINISTRATION  
 The study of business administration is designed to develop in its students a high degree of competence in the application of business theories and sound judgment to the solution of business operating problems. Graduates are able to contribute effectively to the activities of their organizations by applying business skills required to plan, analyze, and control company activities. Beyond enhancing the value of a firm, the graduate should have a firm knowledge from which to achieve professional growth in the workplace and/or graduate school. Students majoring in business administration have two options: the business administration major and the international business major (see p. 132). The business major is designed to prepare students in the core areas of business administration, with specific focus on management, finance, and marketing. Students are also provided the opportunity to specialize in a particular area through selection of elective courses. The international business major is designed to prepare students for specific challenges related to operating an organization in an international context.   
 Because of significant overlap in the business administration and the international business requirements, only one of the two majors may be elected by a student.  See p. 132 for the International Business major requirements.
@@ -9,28 +11,28 @@ Because of significant overlap in the business administration and the internatio
 
 A major in business administration requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 
-1. +++MISSING INFO: c.acc177.long +++
+1. ACC 171 Principles of Accounting I
 2. ECO 175 Principles of Macroeconomics
 3. BUS 190 Statistical Analysis
 4. ACC 215 Principles of Accounting II
 5. ECO 215 Prin Microeconomics
 6. BUS 315 Business Law I
 7. One of the following Management courses: 
-  - BUS 250 Principles of Management
-  - BUS 300 Human Resource Management
-  - BUS 387 Adv Top:Human Res Mgt
-  - BUS 470 Strategic Management
+   BUS 250 Principles of Management
+   BUS 300 Human Resource Management
+   BUS 387 Adv Top:Human Res Mgt
+   BUS 470 Strategic Management
 8. One of the following Marketing courses: 
-  - BUS 330 Principles of Marketing
-  - BUS 460 Advertising
-  - BUS 465 Advanced Topics in Marketing
-  - BUS 467 Consumer Behavior
+   BUS 330 Principles of Marketing
+   BUS 460 Advertising
+   BUS 465 Advanced Topics in Marketing
+   BUS 467 Consumer Behavior
 9. One of the following Finance courses
-  - ECO 225 Money & Banking
-  - BUS 350 Principles of Finance
-  - BUS 352 Corporate Finance
-  - BUS 495 Investment Analysis
-  - ECO 495 International Finance
+   ECO 225 Money & Banking
+   BUS 350 Principles of Finance
+   BUS 352 Corporate Finance
+   BUS 495 Investment Analysis
+   ECO 495 International Finance
 10. Two additional business courses numbered 200 or above
 
 Students planning to attend graduate school in business are strongly encouraged to take calculus, additional statistics courses, intermediate level macro/microeconomics, quantitative management courses, and strategic management. Students should also discuss their graduate school plans with a member of the department to determine other courses that may be expected for admission to specific graduate programs
@@ -46,35 +48,35 @@ Concentrations are offered in management, marketing, and sports management. To c
 ### Management Concentration in Business 
 1. {{< var c.bus250 >}}
 2. Four of the following:   
-   {{< var c.bus300 >}}      
-   {{< var c.bus375 >}}      
-   {{< var c.bus387 >}}      
-   {{< var c.bus395 >}}      
-   {{< var c.bus446 >}}      
-   {{< var c.bus464 >}}      
-   {{< var c.bus454 >}}      
-   {{< var c.bus470 >}}      
+   BUS 300 Human Resource Management      
+   BUS 375 Business Ethics      
+   BUS 387 Adv Top:Human Res Mgt      
+   BUS 395 Organizational Behavior      
+   BUS 446 International Business Management      
+   BUS 464 Seminar in Management      
+   BUS 454 Research in Business      
+   BUS 470 Strategic Management      
 
 ### Marketing Concentration in Business
-1. {{< var c.bus355 >}}  
+1. BUS 355 Principles of Marketing  
 2. Four of the following: 
-   +++MISSING INFO: c.bus280 >}} **and** {{< var c.bus281 +++  
-   {{< var c.bus420 >}}  
-   {{< var c.bus460 >}}  
-   {{< var c.bus461 >}}  
-   {{< var c.bus465 >}}  
-   {{< var c.bus470 >}}  
-   {{< var c.bus454 >}}  
-   {{< var c.pr205 >}}  
+   BUS 280 Business Websites **and** BUS 281 Social Media in Business  
+   BUS 420 Sports Marketing and Communications  
+   BUS 460 Advertising  
+   BUS 461 Marketing Decision Making/Analysis  
+   BUS 465 Advanced Topics in Marketing  
+   BUS 470 Strategic Management  
+   BUS 454 Research in Business  
+   PR 205 Public Relations  
 
 ### Sports Management Concentration in Business
-1. {{< var c.smt100 >}}  
+1. SMT 100 Introduction to Sports Management  
 2. Four of the following:   
-   {{< var c.bus400 >}}   
-   {{< var c.bus420 >}}  
-   {{< var c.bus454 >}}  
-   {{< var c.eco125 >}}  
-   {{< var c.smt300 >}}  
-   {{< var c.smt454 >}}  
-   {{< var c.smt494 >}}  
+   BUS 400 Legal Issues in Sports   
+   BUS 420 Sports Marketing and Communications  
+   BUS 454 Research in Business  
+   ECO 125 Sports Analytics  
+   SMT 300 Sport/Recreation Event Management  
+   SMT 454 Seminar in Sports Management  
+   SMT 494 Internship in Sports Management  
  

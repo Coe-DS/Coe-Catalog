@@ -25,7 +25,7 @@ A major in data science requires a minimum cumulative 2.0 GPA in all courses cou
   b. MTH 455 Mathematical Modeling  
   c. ECO 435 Time Series Analysis
   d. ECO 445 Econometrics II (WE)
-10. 10.	Three additional courses from a different discipline numbered 200+ with the same course prefix. These courses should be selected with advice from the Data Science faculty. 
+10.	Three additional courses from a different discipline numbered 200+ with the same course prefix. These courses should be selected with advice from the Data Science faculty. 
 
 ### Data Science Minor 
 

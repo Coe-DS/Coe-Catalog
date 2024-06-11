@@ -744,7 +744,9 @@ See @sec-ACM-and-international-programs
 
 ## Business Administration and Economics   
 Baranowski, Carstens, Chen, J. Christensen, Crain, Eichhorn (Co-Chair), Hall, Hayes, D., Knudson, Kuennen, Melcher, Nguyen (Co-Chair), Perry, Trout, Westberg.
+
 The Stead Department of Business Administration and Economics offers majors in **ACCOUNTING**, **BUSINESS ADMINISTRATION**, **ECONOMICS**, **INTERNATIONAL BUSINESS**, and INTERNATIONAL ECONOMICS, and minors in economics and international economics. Students pursuing one or more of these are strongly encouraged to consult with departmental faculty to develop specific plans of study. 
+
 ### BUSINESS ADMINISTRATION  
 The study of business administration is designed to develop in its students a high degree of competence in the application of business theories and sound judgment to the solution of business operating problems. Graduates are able to contribute effectively to the activities of their organizations by applying business skills required to plan, analyze, and control company activities. Beyond enhancing the value of a firm, the graduate should have a firm knowledge from which to achieve professional growth in the workplace and/or graduate school. Students majoring in business administration have two options: the business administration major and the international business major (see p. 132). The business major is designed to prepare students in the core areas of business administration, with specific focus on management, finance, and marketing. Students are also provided the opportunity to specialize in a particular area through selection of elective courses. The international business major is designed to prepare students for specific challenges related to operating an organization in an international context.   
 Because of significant overlap in the business administration and the international business requirements, only one of the two majors may be elected by a student.  See p. 132 for the International Business major requirements.
@@ -753,28 +755,28 @@ Because of significant overlap in the business administration and the internatio
 
 A major in business administration requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 
-1. +++MISSING INFO: c.acc177.long +++
+1. ACC 171 Principles of Accounting I
 2. ECO 175 Principles of Macroeconomics
 3. BUS 190 Statistical Analysis
 4. ACC 215 Principles of Accounting II
 5. ECO 215 Prin Microeconomics
 6. BUS 315 Business Law I
 7. One of the following Management courses: 
-  - BUS 250 Principles of Management
-  - BUS 300 Human Resource Management
-  - BUS 387 Adv Top:Human Res Mgt
-  - BUS 470 Strategic Management
+   BUS 250 Principles of Management
+   BUS 300 Human Resource Management
+   BUS 387 Adv Top:Human Res Mgt
+   BUS 470 Strategic Management
 8. One of the following Marketing courses: 
-  - BUS 330 Principles of Marketing
-  - BUS 460 Advertising
-  - BUS 465 Advanced Topics in Marketing
-  - BUS 467 Consumer Behavior
+   BUS 330 Principles of Marketing
+   BUS 460 Advertising
+   BUS 465 Advanced Topics in Marketing
+   BUS 467 Consumer Behavior
 9. One of the following Finance courses
-  - ECO 225 Money & Banking
-  - BUS 350 Principles of Finance
-  - BUS 352 Corporate Finance
-  - BUS 495 Investment Analysis
-  - ECO 495 International Finance
+   ECO 225 Money & Banking
+   BUS 350 Principles of Finance
+   BUS 352 Corporate Finance
+   BUS 495 Investment Analysis
+   ECO 495 International Finance
 10. Two additional business courses numbered 200 or above
 
 Students planning to attend graduate school in business are strongly encouraged to take calculus, additional statistics courses, intermediate level macro/microeconomics, quantitative management courses, and strategic management. Students should also discuss their graduate school plans with a member of the department to determine other courses that may be expected for admission to specific graduate programs
@@ -790,37 +792,37 @@ Concentrations are offered in management, marketing, and sports management. To c
 ### Management Concentration in Business 
 1. {{< var c.bus250 >}}
 2. Four of the following:   
-   {{< var c.bus300 >}}      
-   {{< var c.bus375 >}}      
-   {{< var c.bus387 >}}      
-   {{< var c.bus395 >}}      
-   {{< var c.bus446 >}}      
-   {{< var c.bus464 >}}      
-   {{< var c.bus454 >}}      
-   {{< var c.bus470 >}}      
+   BUS 300 Human Resource Management      
+   BUS 375 Business Ethics      
+   BUS 387 Adv Top:Human Res Mgt      
+   BUS 395 Organizational Behavior      
+   BUS 446 International Business Management      
+   BUS 464 Seminar in Management      
+   BUS 454 Research in Business      
+   BUS 470 Strategic Management      
 
 ### Marketing Concentration in Business
-1. {{< var c.bus355 >}}  
+1. BUS 355 Principles of Marketing  
 2. Four of the following: 
-   +++MISSING INFO: c.bus280 >}} **and** {{< var c.bus281 +++  
-   {{< var c.bus420 >}}  
-   {{< var c.bus460 >}}  
-   {{< var c.bus461 >}}  
-   {{< var c.bus465 >}}  
-   {{< var c.bus470 >}}  
-   {{< var c.bus454 >}}  
-   {{< var c.pr205 >}}  
+   BUS 280 Business Websites **and** BUS 281 Social Media in Business  
+   BUS 420 Sports Marketing and Communications  
+   BUS 460 Advertising  
+   BUS 461 Marketing Decision Making/Analysis  
+   BUS 465 Advanced Topics in Marketing  
+   BUS 470 Strategic Management  
+   BUS 454 Research in Business  
+   PR 205 Public Relations  
 
 ### Sports Management Concentration in Business
-1. {{< var c.smt100 >}}  
+1. SMT 100 Introduction to Sports Management  
 2. Four of the following:   
-   {{< var c.bus400 >}}   
-   {{< var c.bus420 >}}  
-   {{< var c.bus454 >}}  
-   {{< var c.eco125 >}}  
-   {{< var c.smt300 >}}  
-   {{< var c.smt454 >}}  
-   {{< var c.smt494 >}}  
+   BUS 400 Legal Issues in Sports   
+   BUS 420 Sports Marketing and Communications  
+   BUS 454 Research in Business  
+   ECO 125 Sports Analytics  
+   SMT 300 Sport/Recreation Event Management  
+   SMT 454 Seminar in Sports Management  
+   SMT 494 Internship in Sports Management  
  
 
 
@@ -1017,6 +1019,137 @@ See @sec-economics
 See @sec-economics
 
 
+## ECONOMICS
+Economics is a social science concerning the study of how economic agents make choices in the face of scarcity. Economists study a broad variety of topics ranging from the theory of the consumer to economic growth and the wealth of nations. Students majoring in economics have two options: the economics major and the international economics major (see p. 132). The economics major is designed to permit a broad enough selection of courses for students to develop a general competence in economics, and to prepare students for graduate work in economics or other disciplines, such as law or business. The international economics major is designed to allow students who are interested in international studies to explore issues of development, growth, and international finance, using the tools of economic analysis.  
+Because of significant overlap in the economics and the international economics requirements, only one of the two majors may be elected by a student. Students majoring in economics or international economics may not minor in either economics or international economics.  See p. 132 for the International Economics major and minor requirements.
+
+### Economics Major 
+A major in economics requires a minimum cumulative 2.0 GPA in all courses counted toward the major.  
+1. ECO 175 Principles of Macroeconomics  
+2. ECO 215 Prin Microeconomics  
+3. ECO 315 Intermediate Macroeconomic Theory  
+4. ECO 345 Intermediate Price Theory  
+5. ECO 375 Econometrics  
+6. One of the following Microeconomics Field courses:   
+  ECO 237 Labor Economics  
+  ECO 247 Health Economics  
+  ECO 446 International Econ  
+  ECO 447 Urban Economics  
+7. One of the following Macroeconomics Field courses:  
+  ECO 225 Money & Banking  
+  ECO 336 Divergent Economic Growth  
+  ECO 422 Macroeconomics Policy  
+  ECO 465 Public Finance  
+8.	One of the following Quantitative or History courses:  
+  Quantitative courses:  
+    ECO 435 Time Series Analysis  
+    ECO 445 Econometrics II (WE)  
+    ECO 485 Mathematical Economics  
+
+### Economics Minor 
+1. {{< var c.eco175 >}}
+2. {{< var c.eco215 >}}
+3. One of the following Microeconomics courses:   
+   {{< var c.eco237 >}}  
+   {{< var c.eco247 >}}  
+   {{< var c.eco345 >}}  
+   {{< var c.eco446 >}}  
+   {{< var c.eco447 >}}  
+4.	One of the following Macroeconomics courses:   
+   {{< var c.eco225 >}}  
+   {{< var c.eco315 >}}  
+   {{< var c.eco336 >}}  
+   {{< var c.eco422 >}}  
+   {{< var c.eco495 >}}  
+5. Two additional Economics courses numbered 200 or higher, with at least one of the two courses numbered 300 or higher.
+
+### Courses in Economics
+
+{{< var c.bus340 >}};  
+{{< var c.bus341 >}};  
+{{< var c.bus441 >}};  
+{{< var c.bus495 >}};  
+See Business Administration, Section 25.11
+
+**ECO 105 Econ & Public Int**   
+  Designed to give students the opportunity to learn the fundamentals of the economic approach to problems and enable them to apply elementary concepts such as supply and demand, marginal costs and benefits, and the national income identity to problems like the environment, public choice, the budget deficit, the trade deficit, etc. The core of the course consists of the analytics of the economic way of thinking; the applications change from time to time. This course does not satisfy any of the requirements for a major or minor in economics.   
+**ECO 115 Intro Political Econ**   
+  An introduction to political economy. A study of the roots of economics and the interaction between public policy debates and economic theory. The course explores the historical foundation and development of a variety of schools of thought, ranging from the classical liberalism of Adam Smith to the radical voice of Karl Marx. Emphasis is placed on understanding not only the historical progression of ideas, but also the relevance varied perspectives have on present political and economic issues. This course does not satisfy any of the requirements for a major or minor in economics.   
+**DS 120 Sports Analytics**   
+See Data Science, p. 99   
+**ECO 155 Econ/Ethics of Alternative Energy**    
+  Focuses on the economics and ethics of energy choices, with some emphasis on climate change and other concerns related to energy use, including the science behind climate change and various alternative energies. The course examines a broad array of issues related to energy and more specifically, alternatives to petroleum-based sources of energy such as biomass, wind, and solar. Energy choices and policies are analyzed using a variety of methods, such as benefit-cost, equity, program evaluation (both monetary and non-monetary), and social benefits versus economic impact. The course includes travel to regional organizations that develop and produce these technologies; guest lectures from national and state experts on the economics of energy, energy policy, and the science behind various energies; case studies; and class discussion. Students gain a broad understanding of factors considered in energy development and policy. This course may be used to satisfy the requirements for a major in Environmental Studies but does not satisfy any of the requirements for a major or minor in economics. (Offered May Term only)   
+**ECO 175 Principles of Macroeconomics**  
+  Theories of aggregate demand and supply applied to national income determination, business cycles, money, interest rates, inflation, and other macroeconomic questions.  
+**ECO 195 Prin of Environmental Economics**  
+  An introduction to the economics of the environment and natural resource allocation. This course is focused on optimal resource allocation and the problems associated with externalities and public goods in the context of a market economy. Environmental issues and policy are analyzed using standard economic models. This course may be used to satisfy the requirements for a major in Environmental Studies but does not satisfy any of the requirements for a major or minor in economics. Prerequisite: Principles of Macroeconomics (ECO-175).  
+**ECO 215 Prin Microeconomics**  
+  A study of demand and supply, theories of household and firm behavior, market structures, and pricing in output and factor markets under competitive and non-competitive conditions. Includes an economic analysis of the nature and consequences of market failure. Prerequisite: Principles of Macroeconomics (ECO-175).  
+**ECO 225 Money & Banking**  
+  A study of the role of financial intermediaries in a modern economy, financial institutions and markets, and money and interest rates. Topics include the role of financial institutions and the central bank in creating and regulating money supply, and monetary policy in economic stabilization. Prerequisites: Principles of Macroeconomics (ECO-175) and Principles of Microeconomics (ECO-215).  
+**ECO 237 Labor Economics**  
+  A study of the wage earner in modern economic society, of the development and operation of labor organizations and their policies, and of economic and social issues raised as a result of the existence of these organizations. Prerequisites: Principles of Macroeconomics (ECO-175) and Principles of Microeconomics (ECO-215).  
+**ECO 247 Health Economics**  
+  Examines the role of the government in health behaviors and health care. This course will examine the theoretical reasons for government intervention in health behaviors and health care, empirical evidence related to the theory, examples of government intervention, and effects of these interventions on health and economic outcomes.  
+**ECO 315 Intermediate Macroeconomic Theory**  
+  A study of national income accounting concepts and analysis of the determination of the levels of gross national product, national income and employment, and their control. Prerequisites: Principles of Macroeconomics (ECO-175) and Principles of Microeconomics (ECO-215).  
+**ECO 320 Public Finance**  
+  Consideration of optimal resource allocation and the role of the public sector, the concept of public and semi public goods, allocation of public goods, principles of taxation and tax incidence, the tax and expenditure system of the U.S., the budgetary process, and the theory and techniques of modern fiscal policy. Prerequisites: Principles of Macroeconomics (ECO-175) and Principles of Microeconomics (ECO-215).  
+**ECO 325 Collectve Bargaining**  
+  Traces the development of labor law and the legal interpretation of the statutes by the NLRB as they affect collective bargaining relationships. Public-sector implications for public employees because of state law and executive orders are also discussed. Major emphasis on the functioning of the grievance process to administer, interpret, and enforce the negotiated contract. Rules and principles of arbitration as the terminal step in the grievance process are taught via a case approach.  
+**ECO 336 Divergent Economic Growth**  
+  A combination of modern macroeconomic growth theory and its application to the underdeveloped economies of the world. The course begins with the basics of growth theory and identifies the commonly cited lessons for growth in order to analyze underdeveloped economies, especially those of Sub-Saharan Africa. A preponderance of content is aimed at investigating the growth-promoting and growth-inhibiting institutions currently in place in underdeveloped economies. Prerequisites: Principles of Macroeconomics (ECO-205) and Principles of Microeconomics (ECO-215).  
+**BUS 340 Applied Regression Analysis**  
+See Business Administration, Section 25.11  
+  BUS 341 Introductory Business Analytics  
+See Business Administration, Section 25.11   
+**ECO 345 Intermediate Price Theory**  
+  Concepts and methods of analysis, including analysis of demand, theory of production, costs, pricing under different market structures, and functional distribution. General equilibrium analysis serves to introduce welfare economics. Prerequisites: Principles of Macroeconomics (ECO-175) and Principles of Microeconomics (ECO-215).  
+**BUS 350 Principles of Finance**  
+See Business Administration, Section 25.11
+**ECO 355 Industrial Organization**  
+  An upper division course devoted to the environment that firms operate within, the tools to analyze market processes under imperfect competition, and the consequences for economic performance. Topics include the structure-conduct-performance paradigm and the fundamentals of game theory. Prerequisites: Principles of Macroeconomics (ECO-205) and Principles of Microeconomics (ECO-215).  
+**ECO 365 Law & Economics**  
+  A study of the Law and Economics school of jurisprudence, utilizing standard, elementary tools of microeconomics to analyze legal problems. The principal areas of property, contracts, crime, and tort law are evaluated from the economic perspective. Legal paradigms and rules of Western Europe and the New Zealand socialist tort program are also compared to the substantive laws of the United States. Prerequisites: Principles of Macroeconomics (ECO-205) and Principles of Microeconomics (ECO-215).  
+**ECO 375 Econometrics**   
+  Application of elementary statistical methods to test economic theory that has been stated in mathematical terms. It is recommended that students take Statistical Analysis (BUS-240) or Statistical Reasoning I-Statistical Foundations (STA-100) prior to taking this course. Prerequisites: Principles of Macroeconomics (ECO-175) and Principles of Microeconomics (ECO-215).   
+**ECO 395 History of Economic Thought**   
+  A history and comparison of the doctrines of various schools of economic thought from the Mercantilists to the present. Prerequisites: Principles of Macroeconomics (ECO-175), Principles of Microeconomics (ECO-215), and a nearly completed major in economics.      
+**ECO 401 Seminar in Macroeconomics**    
+  An advanced study of selected macroeconomic theories and practices. May be taken more than once for credit, provided the topics are substantially different. (See instructor for specific content.) Prerequisite: Intermediate Macroeconomic Theory (ECO-315) or consent of instructor.   
+**ECO 402 Seminar in Microeconomics**  
+  An advanced study of selected microeconomic theories and practices. May be taken more than once for credit, provided the topics are substantially different. (See instructor for specific content.) Prerequisite: Intermediate Price Theory (ECO-345) or consent of instructor.  
+**BUS 441 Advanced Business Analytics**  
+See Business Administration, Section 25.11 
+**ECO 422 Macroeconomics Policy**  
+  Investigates modern Macroeconomic schools of thought as they pertain to the conduct of Macroeconomic Policy following the Great Depression and Keynesian Revolution in Economics. This course will survey the significant contributions of influential thinkers in contemporary Macroeconomics. Prerequisite: Intermediate Macroeconomic Theory (ECO-315).  
+**ECO 424 Political Economy**  
+  Examines alternative approaches to economic theory. This course requires critical engagement with various theoretical frameworks ranging from Marxist to Austrian schools of thought, focusing primarily on the dominant models within each school of thought. Prerequisites: Principles of Macroeconomics (ECO-175) and Principles of Microeconomics (ECO-215).  
+**ECO 435 Time Series Analysis**  
+  An advanced econometrics course emphasizing the challenges of working with dynamic systems of economic variables. Modeling stationary and nonstationary processes for hypothesis testing, forecasting, and policy design and evaluation are emphasized. Prerequisite: Econometrics (ECO-375).   
+**ECO 436 Econ Development**  
+  The definition of development and underdevelopment in the modern context. A consideration of the process and problems of development in the presently less developed countries, strategies of planning for growth with distributional equity, the contribution of resources and capital, and the role of foreign trade and aid. Prerequisites: Principles of Macroeconomics (ECO-205) and Principles of Microeconomics (ECO-215).  
+**ECO 444 Ind Study-Economics**  
+  Independent studies under the direction of a faculty member in some area of business administration or economics. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisite: consent of instructor.  
+**ECO 445 Econometrics II (WE)**   
+  Explores the theory and applications of identification strategies used in applied econometrics. This course covers commonly used econometric techniques with cross sectional and panel data including instrumental variables, differences-in-differences, and regression discontinuity design. Prerequisite: Econometrics (ECO-375).   
+**ECO 446 International Econ**   
+  A study of the theories of international trade and the theoretical constructs needed to understand balance of payments, foreign exchange markets, commercial and trade policy, regional economic groupings, and foreign investments. Consideration of the nature of the emerging international monetary system. Prerequisites: Principles of Macroeconomics (ECO-205) and Principles of Microeconomics (ECO-215).      
+**ECO 447 Urban Economics**    
+  Studies the role of urban environments in the economic and social lives of individuals. The course will examine the historical evolution of the city, economic theories of urban formation, and the roles cities play in the contemporary economy. Emphasis will be placed on building, using, and extending core models in urban economic theory to evaluate and assess urban economic policy. Prerequisites: Principles of Macroeconomics (ECO- 175) and Principles of Microeconomics (ECO-215).   
+**ECO 454 Research in Economics**  
+  The student works on a research program in economics, independently or in participation with an economics department faculty member. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisites: Principles of Macroeconomics (ECO-175), Principles of Microeconomics (ECO-215), and consent of instructor.  
+**ECO 457 US Econ History**  
+  Analysis of the economic institutions, policies, and theories which influenced the development of the American economy from colonial times to the present. The course allows development of historical perspective in economic development; it also requires the application and analysis of the effects of economic theory, policy, and institutions in the developmental process. Prerequisites: Principles of Macroeconomics (ECO-205) and Principles of Microeconomics (ECO-215).  
+**ECO 475 Comparative Econ Sys**  
+  A study of economic systems and theoretical models of competitive market economies, socialist market economies, and command economies. Topics include actual world economies such as those of the United States, Japan, Germany, and China; the breakdown of hitherto socialist command economies and the problems of transition to mixed market economies; emergence and strength of regional groupings such as European Community; and problems of stabilization, growth, and planning in different economies. Prerequisites: Principles of Macroeconomics (ECO-205) and Principles of Microeconomics (ECO-215).  
+**ECO 485 Mathematical Economics**  
+  An introduction to mathematics as a tool to formulate economic models. Includes elementary matrix operations, use of derivatives in utility and production theory, and constrained optimization solutions. Little mathematical preparation required; familiarity with economics a necessity. Prerequisites: Intermediate Macroeconomic Theory (ECO-315), and Intermediate Price Theory (ECO-345) or equivalent.   
+**BUS 495 Investment Analysis**  
+See Business Administration, Section 25.11  
+**ECO 495 International Finance**  
+  A study of the theory of exchange rate determination and the balance of payments. Attention is given to how changes in the exchange rates affect international assets and portfolios. Prerequisites: Principles of Macroeconomics (ECO-205) and Principles of Microeconomics (ECO-215).  
+
 
 
 
@@ -1163,7 +1296,7 @@ A major in data science requires a minimum cumulative 2.0 GPA in all courses cou
   b. MTH 455 Mathematical Modeling  
   c. ECO 435 Time Series Analysis
   d. ECO 445 Econometrics II (WE)
-10. 10.	Three additional courses from a different discipline numbered 200+ with the same course prefix. These courses should be selected with advice from the Data Science faculty. 
+10.	Three additional courses from a different discipline numbered 200+ with the same course prefix. These courses should be selected with advice from the Data Science faculty. 
 
 ### Data Science Minor 
 
