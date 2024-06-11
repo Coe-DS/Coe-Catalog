@@ -18,7 +18,7 @@ A major in managerial accounting requires a minimum cumulative 2.0 GPA in all co
 8.{{<var c.bus315.long>}}
 9.{{<var c.acc334.long>}}
 10.{{<var c.acc351.long>}}
-11.{{<var c.acc413.lonh>}}
+11.{{<var c.acc413.long>}}
 12.{{<var c.acc415.long>}}
 
 ### Public Accounting Major
