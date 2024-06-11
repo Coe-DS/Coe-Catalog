@@ -1,0 +1,77 @@
+## Computer Science
+Hostetler, Hughes, Stobb.  
+
+Computer Science is the study of abstractions and algorithmic processes and how they can be applied to fulfill human information needs. The department of mathematical sciences offers a complete range of courses, with majors and minors available in COMPUTER SCIENCE, DATA SCIENCE, and MATHEMATICS, as well as courses in statistics for additional breadth. The department adheres to its belief that the mathematical sciences and the habits of mind that they engender are components of a fine liberal arts education
+
+### Computer Science Major
+
+A major in computer science requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+
+1. {{< var c.cs125.long >}}, or commensurate programming experience
+2. {{< var c.cs135.long >}}
+3. {{< var c.mth135.long >}}
+4. {{< var c.cs215.long >}}
+5. {{< var c.cs220.long >}}
+6. One of the following:
+  - {{< var c.cs235.long >}}
+  - {{< var c.ds230.long >}}
+7. {{< var c.cs245.long >}}
+8. {{< var c.mth215.long >}}
+9. One Software Development Course
+  - {{< var c.cs390.long >}}
+  - {{< var c.cs452.long >}}
+  - {{< var c.cs490.long >}}
+10. One Systems Course 
+  - {{< var c.cs320.long >}}
+  - {{< var c.cs340.long <}}
+11. One additional Computer Science or Data Science Course numbered 300 or higher
+
+### Computer Science Minor 
+
+1. {{< var c.cs125.long >}}
+2. {{< var c.cs135.long >}}
+3. {{< var c.cs215.long >}}
+4. {{< var c.cs245.long >}}
+5. One of the following:
+  - {{< var c.cs235.long >}}
+  - {{< var c.ds230.long >}}
+6. One additional Computer Science or Data Science Course numbered 300 or higher
+
+### Courses in Computer Science 
+
+- {{< var c.cs105.long >}}   
+  {{< var c.cs105.desc >}}   
+- {{< var c.cs125.long >}}   
+  {{< var c.cs125.desc >}}   
+- {{< var c.cs135.long >}}   
+  {{< var c.cs135.desc >}}   
+- {{< var c.cs215.long >}}   
+  {{< var c.cs215.desc >}}   
+- {{< var c.cs220.long >}}  
+  {{< var c.cs220.desc >}}  
+- {{< var c.cs235.long >}}  
+  {{< var c.cs235.desc >}}  
+- {{< var c.cs245.long >}}  
+  {{< var c.cs245.desc >}}  
+- {{< var c.cs320.long >}}  
+  {{< var c.cs320.desc >}}  
+- {{< var c.cs340.long >}}  
+  {{< var c.cs340.desc >}}  
+- {{< var c.cs390.long >}}  
+  {{< var c.cs390.desc >}}  
+- {{< var c.cs420.long >}}  
+  {{< var c.cs420.desc >}}  
+- {{< var c.cs444.long >}}  
+  {{< var c.cs444.desc >}}  
+- {{< var c.cs450.long >}}  
+  {{< var c.cs450.desc >}}  
+- {{< var c.cs452.long >}}  
+  {{< var c.cs452.desc >}}  
+- {{< var c.cs454.long >}}   
+  {{< var c.cs454.desc >}}  
+- {{< var c.cs484.long >}}  
+  {{< var c.cs484.desc >}}  
+- {{< var c.cs490.long >}}  
+  {{< var c.cs490.desc >}}  
+- {{< var c.cs494.long >}}  
+  {{< var c.cs494.desc >}}  
