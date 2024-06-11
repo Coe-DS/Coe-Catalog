@@ -1,18 +1,68 @@
 ## Data Science
+Baranowski, Cross, Eichhorn, Hughes, Stobb.
 
-Here is a description of the major.
+Data Science is an interdisciplinary study that couples programming skills, statistical methods, and domain specific knowledge to extract meaning, make predictions, and visually present quantitative data. The department of mathematical sciences offers a complete range of courses, with majors and minors available in **COMPUTER SCIENCE**, **DATA SCIENCE**, and **MATHEMATICS**, as well as courses in statistics for additional breadth. The department adheres to its belief that the mathematical sciences and the habits of mind that they engender are components of a fine liberal arts education.
 
-And the major requirments:
-- abcd
-- abcd
-- abcd
+### Data Science Major 
+A major in data science requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+
+1. {{< var c.ds100.long >}} or {{< var c.ds120.long >}}  
+2. {{< var c.cs125.long >}}, or commensurate programming experience  
+3. One of the following Statistical Foundations courses:  
+  a. {{< var c.bus190.long >}}  
+  b. {{< var c.bus340.long >}}  
+  c. {{< var c.psy300.long >}}  
+  d. {{< var c.sta100.long >}} (7 weeks) and {{< var c.sta110.long >}} (7 weeks)  
+  e. {{< var c.sta100.long >}} (7 weeks) and {{< var c.sta130.long >}} (7 weeks)  
+  f. {{< var c.sta315.long >}}  
+4. {{< var c.ds230.long >}}
+5. {{< var c.ds260.long >}}
+6. {{< var c.eco375.long >}}
+7. {{< var c.ds315.long >}}
+8. {{< var c.ds370.long >}}
+9. One of the following Modeling Courses:
+  a. {{< var c.ds415.long >}}  
+  b. {{< var c.mth455.long >}}  
+  c. {{< var c.eco435.long >}}
+  d. {{< var c.eco445.long >}}
+10. 10.	Three additional courses from a different discipline numbered 200+ with the same course prefix. These courses should be selected with advice from the Data Science faculty. 
+
+### Data Science Minor 
+
+1. {{< var c.ds100.long >}} or {{< var c.ds120.long >}}  
+2. {{< var c.cs125.long >}}, or commensurate programming experience  
+3. One of the following Statistical Foundations courses:  
+  a. {{< var c.bus190.long >}}  
+  b. {{< var c.bus340.long >}}  
+  c. {{< var c.psy300.long >}}  
+  d. {{< var c.sta100.long >}} (7 weeks) and {{< var c.sta110.long >}} (7 weeks)  
+  e. {{< var c.sta100.long >}} (7 weeks) and {{< var c.sta130.long >}} (7 weeks)  
+  f. {{< var c.sta315.long >}}  
+4. {{< var c.ds230.long >}}
+5. {{< var c.ds260.long >}}
+
 
 ### Courses in Data Science
 
-- **{{< var c.ds230.long >}}**
-  {{< var c.ds230.desc >}}  
-- **{{< var c.ds260.long >}}**
-  {{< var c.ds260.desc >}}
-
-
-
+- **{{< var c.ds100.long >}}**   
+  {{< var c.ds100.desc >}}   
+- **{{< var c.ds120.long >}}**   
+  {{< var c.ds120.desc >}}   
+- **{{< var c.ds230.long >}}**   
+  {{< var c.ds230.desc >}}   
+- **{{< var c.ds260.long >}}**   
+  {{< var c.ds260.desc >}}   
+- **{{< var c.ds315.long >}}**  
+  {{< var c.ds315.desc >}}  
+- **{{< var c.ds370.long >}}**  
+  {{< var c.ds370.desc >}}  
+- **{{< var c.ds415.long >}}**  
+  {{< var c.ds415.desc >}}  
+- **{{< var c.ds444.long >}}**  
+  {{< var c.ds444.desc >}}  
+- **{{< var c.ds454.long >}}**  
+  {{< var c.ds454.desc >}}  
+- **{{< var c.ds484.long >}}**  
+  {{< var c.ds484.desc >}}  
+- **{{< var c.ds494.long >}}**  
+  {{< var c.ds494.desc >}}  
