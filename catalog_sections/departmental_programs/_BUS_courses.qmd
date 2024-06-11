@@ -1,0 +1,80 @@
+## Business Administration and Economics   
+Baranowski, Carstens, Chen, J. Christensen, Crain, Eichhorn (Co-Chair), Hall, Hayes, D., Knudson, Kuennen, Melcher, Nguyen (Co-Chair), Perry, Trout, Westberg.
+The Stead Department of Business Administration and Economics offers majors in **ACCOUNTING**, **BUSINESS ADMINISTRATION**, **ECONOMICS**, **INTERNATIONAL BUSINESS**, and INTERNATIONAL ECONOMICS, and minors in economics and international economics. Students pursuing one or more of these are strongly encouraged to consult with departmental faculty to develop specific plans of study. 
+### BUSINESS ADMINISTRATION  
+The study of business administration is designed to develop in its students a high degree of competence in the application of business theories and sound judgment to the solution of business operating problems. Graduates are able to contribute effectively to the activities of their organizations by applying business skills required to plan, analyze, and control company activities. Beyond enhancing the value of a firm, the graduate should have a firm knowledge from which to achieve professional growth in the workplace and/or graduate school. Students majoring in business administration have two options: the business administration major and the international business major (see p. 132). The business major is designed to prepare students in the core areas of business administration, with specific focus on management, finance, and marketing. Students are also provided the opportunity to specialize in a particular area through selection of elective courses. The international business major is designed to prepare students for specific challenges related to operating an organization in an international context.   
+Because of significant overlap in the business administration and the international business requirements, only one of the two majors may be elected by a student.  See p. 132 for the International Business major requirements.
+
+### Business Administration Major  
+
+A major in business administration requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+
+1. {{< var c.acc177.long >}}
+2. {{< var c.eco175.long >}}
+3. {{< var c.bus190.long >}}
+4. {{< var c.acc215.long >}}
+5. {{< var c.eco215.long >}}
+6. {{< var c.bus315.long >}}
+7. One of the following Management courses: 
+  - {{< var c.bus250.long >}}
+  - {{< var c.bus300.long >}}
+  - {{< var c.bus387.long >}}
+  - {{< var c.bus470.long >}}
+8. One of the following Marketing courses: 
+  - {{< var c.bus330.long >}}
+  - {{< var c.bus460.long >}}
+  - {{< var c.bus465.long >}}
+  - {{< var c.bus467.long >}}
+9. One of the following Finance courses
+  - {{< var c.eco225.long >}}
+  - {{< var c.bus350.long >}}
+  - {{< var c.bus352.long >}}
+  - {{< var c.bus495.long >}}
+  - {{< var c.eco495.long >}}
+10. Two additional business courses numbered 200 or above
+
+Students planning to attend graduate school in business are strongly encouraged to take calculus, additional statistics courses, intermediate level macro/microeconomics, quantitative management courses, and strategic management. Students should also discuss their graduate school plans with a member of the department to determine other courses that may be expected for admission to specific graduate programs
+
+### Concentrations in Business
+
+Students completing a major in Business Administration may elect to also complete a concentration of courses within a specific discipline in the major. Courses taken to fulfill requirements in the business major may be used to also fulfill requirements in an area of concentration. Students may declare only one concentration. 
+
+Concentrations are offered in management, marketing, and sports management. To complete a concentration, a student must meet the following requirements:
+1.	Completion of a major in Business Administration
+2.	Completion of five additional courses in which a cumulative 2.0 GPA must be earned.  At least three of the five courses must be completed at Coe.
+
+### Management Concentration in Business 
+1. {{< var c.bus250 >}}
+2. Four of the following:   
+   {{< var c.bus300 >}}      
+   {{< var c.bus375 >}}      
+   {{< var c.bus387 >}}      
+   {{< var c.bus395 >}}      
+   {{< var c.bus446 >}}      
+   {{< var c.bus464 >}}      
+   {{< var c.bus454 >}}      
+   {{< var c.bus470 >}}      
+
+### Marketing Concentration in Business
+1. {{< var c.bus355 >}}  
+2. Four of the following: 
+   {{< var c.bus280 >}} **and** {{< var c.bus281 >}}  
+   {{< var c.bus420 >}}  
+   {{< var c.bus460 >}}  
+   {{< var c.bus461 >}}  
+   {{< var c.bus465 >}}  
+   {{< var c.bus470 >}}  
+   {{< var c.bus454 >}}  
+   {{< var c.pr205 >}}  
+
+### Sports Management Concentration in Business
+1. {{< var c.smt100 >}}  
+2. Four of the following:   
+   {{< var c.bus400 >}}   
+   {{< var c.bus420 >}}  
+   {{< var c.bus454 >}}  
+   {{< var c.eco125 >}}  
+   {{< var c.smt300 >}}  
+   {{< var c.smt454 >}}  
+   {{< var c.smt494 >}}  
+ 
