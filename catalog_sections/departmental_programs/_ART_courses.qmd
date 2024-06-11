@@ -53,7 +53,7 @@ Further information for all these requirements and programs is available from th
 
 ### Courses in Art 
 
-**100-level courses** (except ART-130, see below) are open to any student and may offer the opportunity to explore two or more areas of art making in a studio environment.  ART-130 Art in the Elementary Classroom does not satisfy any of the requirements for a major or minor in Art or Art History.  It also does not count as a 100-level art course needed for some courses as a prerequisite.
+**100-level courses** (*except ART-130, see below*) are open to any student and may offer the opportunity to explore two or more areas of art making in a studio environment.  ART-130 Art in the Elementary Classroom does not satisfy any of the requirements for a major or minor in Art or Art History.  It also does not count as a 100-level art course needed for some courses as a prerequisite.
 
 - **{{< var c.art101.long >}}**
 {{< var c.art101.desc >}}
