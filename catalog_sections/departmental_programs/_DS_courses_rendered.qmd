@@ -1,18 +1,73 @@
 ## Data Science
+Baranowski, Cross, Eichhorn, Hughes, Stobb.
 
-Here is a description of the major.
+Data Science is an interdisciplinary study that couples programming skills, statistical methods, and domain specific knowledge to extract meaning, make predictions, and visually present quantitative data. The department of mathematical sciences offers a complete range of courses, with majors and minors available in **COMPUTER SCIENCE**, **DATA SCIENCE**, and **MATHEMATICS**, as well as courses in statistics for additional breadth. The department adheres to its belief that the mathematical sciences and the habits of mind that they engender are components of a fine liberal arts education.
 
-And the major requirments:
-- abcd
-- abcd
-- abcd
+### Data Science Major 
+A major in data science requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+
+1. DS 100 Introduction to Data Science or DS 120 Sports Analytics  
+2. CS 125 Computer Science I, or commensurate programming experience  
+3. One of the following Statistical Foundations courses:  
+  a. BUS 190 Statistical Analysis  
+  b. BUS 340 Applied Regression Analysis  
+  c. PSY 300 Stat Methods and Data Analysis  
+  d. STA 100 Statistical Reasoning I-Foundations (7 weeks) and STA 110 Stats IIA: Inferential Reasoning (7 weeks)  
+  e. STA 100 Statistical Reasoning I-Foundations (7 weeks) and STA 130 Stats IIB: Experimental Design (7 weeks)  
+  f. STA 315 Mathematical Probability  
+4. DS 230 Data-Centric Computing
+5. DS 260 Data Analysis and Visualization
+6. ECO 375 Econometrics
+7. DS 315 Machine Learning
+8. DS 370 Database Systems and Data Managemen
+9. One of the following Modeling Courses:
+  a. DS 415 Deep Learning  
+  b. MTH 455 Mathematical Modeling  
+  c. ECO 435 Time Series Analysis
+  d. ECO 445 Econometrics II (WE)
+10. 10.	Three additional courses from a different discipline numbered 200+ with the same course prefix. These courses should be selected with advice from the Data Science faculty. 
+
+### Data Science Minor 
+
+1. DS 100 Introduction to Data Science or DS 120 Sports Analytics  
+2. CS 125 Computer Science I, or commensurate programming experience  
+3. One of the following Statistical Foundations courses:  
+  a. BUS 190 Statistical Analysis  
+  b. BUS 340 Applied Regression Analysis  
+  c. PSY 300 Stat Methods and Data Analysis  
+  d. STA 100 Statistical Reasoning I-Foundations (7 weeks) and STA 110 Stats IIA: Inferential Reasoning (7 weeks)  
+  e. STA 100 Statistical Reasoning I-Foundations (7 weeks) and STA 130 Stats IIB: Experimental Design (7 weeks)  
+  f. STA 315 Mathematical Probability  
+4. DS 230 Data-Centric Computing
+5. DS 260 Data Analysis and Visualization
+
 
 ### Courses in Data Science
 
-- **DS 230 Data-Centric Computing**
-  Provides a programming experience with applications that focus on data handling tasks. Students examine programming techniques to acquire and manage data from a variety of sources and formats; use relational databases to store and query data; and explore techniques to work with semi-structured and unstructured data sets. Prerequisite: Introduction to Programming (CS-125) or consent of instructor  
-- **DS 260 Data Analysis and Visualization**
-  Studies intermediate data analytic techniques and concepts to visualize quantitative data. This course expands the mathematical background of students, with topics from statistical analysis and linear algebra. Students will learn advanced visualization techniques, with particular emphasis on creating graphics and animations using visualization libraries. Prerequisite: Data-Centric Computing (DS-230)
-
-
-
+ **DS 100 Introduction to Data Science**   
+  Studies the theory and fundamentals of using data and statistics to make actionable decisions. This course will cover how to organize, process, and visualize data using computational tools. Case studies on the use, misuse, and impact of data on society will be reviewed, with emphasis placed on ethical privacy concerns.   
+ **DS 120 Sports Analytics**   
+  Studies the theory and fundamentals of using data and statistics to make decisions in sports. This course will cover
+how popular statistics are calculated, where they can be found, what they represent, and how they can be used for
+objective decision making. Students will be exposed to computer programming languages used in data science to
+build, clean, and analyze data sets. The four types of data analysis – descriptive, diagnostic, predictive, prescriptive –
+will be covered with an emphasis on data visualization.   
+ **DS 230 Data-Centric Computing**   
+  Provides a programming experience with applications that focus on data handling tasks. Students examine programming techniques to acquire and manage data from a variety of sources and formats; use relational databases to store and query data; and explore techniques to work with semi-structured and unstructured data sets. Prerequisite: Introduction to Programming (CS-125) or consent of instructor   
+ **DS 260 Data Analysis and Visualization**   
+  Studies intermediate data analytic techniques and concepts to visualize quantitative data. This course expands the mathematical background of students, with topics from statistical analysis and linear algebra. Students will learn advanced visualization techniques, with particular emphasis on creating graphics and animations using visualization libraries. Prerequisite: Data-Centric Computing (DS-230)   
+ **DS 315 Machine Learning**  
+  Provides an overview of computational algorithms for learning patterns from data. Students implement and work with a wide range of different algorithms to solve classification, regression, and clustering 
+problems. Topics will include linear and multiple regression, quadratic discriminant analysis, tree based methods, and support vector machines.  Prerequisite: Data Analysis and Visualization (DS-260)  
+ **DS 370 Database Systems and Data Managemen**  
+  Studies the concepts and structures necessary to design and implement a database management system. Students review the current literature concerning database technology and design and implement a simple database system with limited functions. Additional topics include managing unstructured data and data mining techniques. Prerequisites: Data-Centric Programming (DS-230).  
+ **DS 415 Deep Learning**  
+  Investigates how machine learning algorithms use artificial neural networks to detect highly non-linear patterns in data. This course will explore the foundation of deep learning methods and implement several modern algorithms, including convolutional and generative adversarial networks. Prerequisite: Machine Learning (DS-315)  
+ **DS 444 Independent Study in Data Science**  
+  Provides an opportunity for independent and intensive study in data science. May be taken for an X status grade with consent of the instructor prior to registration. Prerequisite: consent of supervising instructor. (Offered by arrangement).  
+ **DS 454 Research in Data Science**  
+  Provides students with an individual or group investigation with a data science faculty member on a research topic of mutual interest. The student must obtain approval for a specific project and make necessary arrangements prior to the term of registration for the course. This course is offered on a P/NP basis and does not satisfy any of the requirements for any major or minor. May be taken more than once for credit for a maximum of 2.0 credits. Prerequisites: Data Analysis and Visualization (DS-260) and consent of supervising instructor. (1.0 credit; Offered by arrangement)  
+ **DS 484 Special Topics**  
+  Provides an opportunity to study current and topical material unavailable through the regular catalog offerings. Prerequisite: Data Analysis and Visualization (DS-260) or consent of instructor.  
+ **DS 494 Internship in Data Science**  
+  Investigates a career area related to the student’s interest in data science supervised by a faculty member of the department in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for any major or minor. Prerequisites: junior standing and consent of supervising instructor. (Offered by arrangement)  
