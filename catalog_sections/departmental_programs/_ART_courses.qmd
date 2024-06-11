@@ -18,7 +18,7 @@ A grade of "C" (2.0) or higher must be earned in all courses counted toward a ma
   - {{< var c.art213.long >}} 
   - {{< var c.art291.long >}} 
 
-The Focus Course requirement is considered a coherent set of experiences that can be tailored to student needs.  The completion of four Focus Courses is considered as a single course credit with respect to Graduation Requirements (see Catalog, p. 16).
+The Focus Course requirement is considered a coherent set of experiences that can be tailored to student needs.  The completion of four Focus Courses is considered as a single course credit with respect to Graduation Requirements (see @sec-graduation-requirements ).
 
 4. Two 300-level ART- Courses 
 5. One additional 200-level Art History course
