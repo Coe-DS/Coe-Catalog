@@ -87,6 +87,7 @@ Further information for all these requirements and programs is available from th
 {{< var c.art191.desc >}}
 
 **Focus Courses**
+
 Focus Courses are seven-week courses designed to prepare the student for a serious artistic practice. 
 
 ART-201 Focus Course: Creative Process
