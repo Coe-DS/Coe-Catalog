@@ -46,7 +46,7 @@ Concentrations are offered in management, marketing, and sports management. To c
 2.	Completion of five additional courses in which a cumulative 2.0 GPA must be earned.  At least three of the five courses must be completed at Coe.
 
 ### Management Concentration in Business 
-1. {{< var c.bus250 >}}
+1. {{< var c.bus250.long >}}
 2. Four of the following:   
    {{< var c.bus300.long >}}      
    {{< var c.bus375.long >}}      
