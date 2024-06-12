@@ -23,7 +23,7 @@ A major in computer science requires a minimum cumulative 2.0 GPA in all courses
    {{< var c.cs490.long >}}  
 10. One Systems Course   
    {{< var c.cs320.long >}}  
-   {{< var c.cs340.long <}}  
+   {{< var c.cs340.long >}}  
 11. One additional Computer Science or Data Science Course numbered 300 or higher
 
 ### Computer Science Minor 
