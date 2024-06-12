@@ -448,8 +448,8 @@ A major in Asian studies requires a minimum cumulative 2.0 GPA in all courses co
 The major is interdisciplinary and requires that the students take courses in the areas of art history, history, literature, and religion, and suggests that they also take courses in economics, music, and political science.
 
 1.**One** of the following:
-    -{{<var c.asc186.long>}}
-    -{{<var c.his136.long>}}
+    -ASC 186 Modern South Asia
+    -HIS 136 East Asian Civilization
 
 2.Participation in one overseas study program in Asia:
     -an ACM overseas study program (India Studies or Japan Study)
@@ -457,53 +457,56 @@ The major is interdisciplinary and requires that the students take courses in th
     -Coe’s Asia Term (see p. 30)
 
 3.**Four** courses, chosen from the following, in consultation with the Asian Studies administrative coordinator:
-    -{{<var c.asc106.long>}}
-    -{{<var c.asc176.long>}}
-    -{{<var c.eco436.long>}} or {{<var c.eco446.long>}}
-    -{{<var c.his217.long>}}
-    -{{<var c.his246.long>}}
-    -{{<var c.his256.long>}}
-    -{{<var c.his316.long>}} (when appropriate)
-    -{{<var c.his466.long>}}
-    -{{<var c.jpn115.long>}}
-    -{{<var c.jpn125.long>}}
-    -{{<var c.jpn215.long>}}
-    -{{<var c.jpn225.long>}}
-    -{{<var c.phl/rel206.long>}}
-    -{{<var c.pol286.long>}}
-    -{{<var c.rel106.long>}}
+    -ASC 106 May Term in Asia
+    -ASC 176 China and Japan
+    -ECO 436 Econ Development or ECO 446 International Econ
+    -HIS 217 American War in Vietnam
+    -HIS 246 History of Modern China
+    -HIS 256 History of Modern Japan
+    -HIS 316 Topics in History:Non-Western Persp (when appropriate)
+    -HIS 466 Seminar Modern East Asian History
+    -JPN 115 Elementary Japanese I
+    -JPN 125 Elementary Japanese II
+    -JPN 215 Intermediate Japanese I
+    -JPN 225 Intermediate Japanese II
+    -+++MISSING INFO: c.phl/rel206.long +++
+    -POL 286 Asian Politics
+    -REL 106 Eastern Religions
     -A second term of an overseas study program
 
 ### Asian Studies Minor
 
 1.**One** of the following:
-    -{{<var c.his316.long>}}
-    -{{<var c.asc186.long>}}
+    -HIS 316 Topics in History:Non-Western Persp
+    -ASC 186 Modern South Asia
 
 2.**Five** courses, chosen from the following, in consultation with the Asian Studies administrative coordinator:
-    -{{<var c.asc176.long>}}
-    -{{<var c.eco436.long>}} or {{<var c.eco446.long>}}
-    -{{<var c.his217.long>}}
-    -{{<var c.his246.long>}}
-    -{{<var c.his256.long>}}
-    -{{<var c.his316.long>}} (when appropriate)
-    -{{<var c.his466.long>}}
-    -{{<var c.jpn115.long>}}
-    -{{<var c.jpn125.long>}}
-    -{{<var c.jpn215.long>}}
-    -{{<var c.jpn225.long>}}
-    -{{<var c.phl/rel206.long>}}
-    -{{<var c.pol286.long>}}
-    -{{<var c.rel106.long>}}
+    -ASC 176 China and Japan
+    -ECO 436 Econ Development or ECO 446 International Econ
+    -HIS 217 American War in Vietnam
+    -HIS 246 History of Modern China
+    -HIS 256 History of Modern Japan
+    -HIS 316 Topics in History:Non-Western Persp (when appropriate)
+    -HIS 466 Seminar Modern East Asian History
+    -JPN 115 Elementary Japanese I
+    -JPN 125 Elementary Japanese II
+    -JPN 215 Intermediate Japanese I
+    -JPN 225 Intermediate Japanese II
+    -+++MISSING INFO: c.phl/rel206.long +++
+    -POL 286 Asian Politics
+    -REL 106 Eastern Religions
 
 ### Courses in Asian Studies
--**{{<var c.asc106.long>}}**
-{{<var c.asc106.desc>}}
--**{{<var c.asc176.long>}}**
-{{<var c.asc176.desc>}}
--**{{<var c.asc186.long>}}**
-{{<var c.asc186.desc>}}
--**{{<var c.asc216.long>}}**
+-**ASC 106 May Term in Asia**
+Examines experientially the fast-changing nation of Vietnam through three weeks of study and travel in the country. Students will investigate and evaluate
+the contemporary nation, as well as the history and memory of its wartime experiences, through readings, written work, class discussions, and visits to
+important historical and cultural landmarks. Through these varied experiences, students will deepen their understandings of the cultural skills involved in
+overseas travel, the cultural differences and commonalities that shape human experiences, and the specific knowledge of Vietnam's culture and history.
+-**ASC 176 China and Japan**
+An interdisciplinary examination of themes and ideas central to understanding the cultures of China and Japan. Materials used include primary texts in Taoism, Confucianism, and Buddhism, as well as works of poetry, fiction, and visual art.
+-**ASC 186 Modern South Asia**
+India, Pakistan, Bangladesh, and Sri Lanka from a modern perspective. The preoccupation with identity, the reemergence of caste and religious conflicts, the strengths and weaknesses of political and economic development, and the implication of trends for the future. Includes selected topics on culture and history that provide insights to understanding the present.
+-**+++MISSING INFO: c.asc216.long +++**
 See @sec-history
 
 
@@ -514,24 +517,26 @@ Chandler, Libby (Chair).
 No students will be admitted to the Athletic Training Education Program after December 8, 2017
 
 ### Courses in Athletic Training
--**{{<var c.at100.long>}}**
-{{<var c.at100.desc>}}
--**{{<var c.at20_/30_/40_.long>}}**
-{{<var c.at20_/30_/40_.desc>}}
--**{{<var c.at225/220.long>}}**
-{{<var c.at225/220.desc>}}
--**{{<var c.at235/230.long>}}**
-{{<var c.at235/230.desc>}}
--**{{<var c.at375.long>}}**
-{{<var c.at375.desc>}}
--**{{<var c.at385.long>}}**
-{{<var c.at385.desc>}}
--**{{<var c.at395/390.long>}}**
-{{<var c.at395/390.desc>}}
--**{{<var c.at425.long>}}**
-{{<var c.at425.desc>}}
--**{{<var c.at494.long>}}**
-{{<var c.at494.desc>}}
+-**AT 100 Basic Athletic Training**
+An overview of the athletic training profession designed to lead student's knowledge of the profession from the general foundations to specific educational competencies. Included in this course are laboratory sessions used to instruct and practice athletic training competencies and proficiencies. Credit is given for Prevention and Care of Athletic Injuries & Laboratory (PE 175 OR Basic Athletic Training (AT-100), not both.
+
+Prerequisite: Application to the Athletic Training Education Program
+-**+++MISSING INFO: c.at20_/30_/40_.long +++**
++++MISSING INFO: c.at20_/30_/40_.desc +++
+-**+++MISSING INFO: c.at225/220.long +++**
++++MISSING INFO: c.at225/220.desc +++
+-**+++MISSING INFO: c.at235/230.long +++**
++++MISSING INFO: c.at235/230.desc +++
+-**AT 375 General Medical Conditions**
+Study of the etiology, clinical manifestations and management of common diseases/conditions that affect athletes and others involved in physical activity. Additional topics include pharmacology, counseling and psychosocial interventions. Prerequisites: Human Anatomy (BIO-215), Human Physiology (BIO-225), and admission to Athletic Training Education Program.
+-**AT 385 Therapeutic Modalities**
+Investigation into the concepts, indications/contraindications, physiological effects, and clinical implications of physical modalities used in a therapeutic setting. Prerequisite: Human Physiology (BIO-225).
+-**+++MISSING INFO: c.at395/390.long +++**
++++MISSING INFO: c.at395/390.desc +++
+-**AT 425 Administration of Athletic Training**
+Introduction to the organization and administration of an athletic training program including facility planning/design, information/resource management, legal/ethical considerations, risk management, insurance systems, and professional development. Prerequisite: senior standing in the Athletic Training Education Program.
+-**AT 494 Internship in Athletic Training**
+Comprehensive experience in athletic training through voluntary field placement supervised by a certified athletic trainer (ATC®). A minimum of 140 hours on-site experience is required. P/NP basis only. Prerequisite: senior standing in the Athletic Training Education Program.
 
 
 ## Biochemistry (Collateral Major)
@@ -543,15 +548,15 @@ Stead (Administrative Coordinator).
 A major in biochemistry requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 Concurrent completion of a primary major in chemistry, including Calculus II and two General Physics courses is required. Students choosing a collateral major in biochemistry may not select a collateral major in molecular biology
 
-1.{{<var c.bio145/145L.long>}}
-2.{{<var c.chm431/431L.long>}}
-3.{{<var c.chm432/432L.long>}}
+1.+++MISSING INFO: c.bio145/145L.long +++
+2.+++MISSING INFO: c.chm431/431L.long +++
+3.+++MISSING INFO: c.chm432/432L.long +++
 4.**Two** of the following:
 
-    -{{<var c.bio325/325L.long>}}
-    -{{<var c.bio345/345L.long>}}
-    -{{<var c.bio405.long>}}
-    -{{<var c.bio435/435L.long>}}
+    -+++MISSING INFO: c.bio325/325L.long +++
+    -+++MISSING INFO: c.bio345/345L.long +++
+    -BIO 405 Current Topics in Molecular Biology
+    -+++MISSING INFO: c.bio435/435L.long +++
 
 Genetics (BIO-235) and Laboratory (BIO-235L) and all of the courses under #4 are strongly encouraged, especially for those planning graduate study.
 
@@ -566,31 +571,31 @@ In addition to a major in biology, the college also offers collateral majors in 
 
 A major in biology requires a minimum cumulative 2.0 GPA over courses counted toward the major.
 
-1.{{<var c.bio145/145L.long>}}
-2.{{<var c.bio155/155L.long>}}
-3.{{<var c.bio202.long>}}
-4.{{<var c.bio205/205L.long>}}
-5.{{<var c.bio235/235L.long>}}
+1.+++MISSING INFO: c.bio145/145L.long +++
+2.+++MISSING INFO: c.bio155/155L.long +++
+3.BIO 202 Topics in Evolution
+4.+++MISSING INFO: c.bio205/205L.long +++
+5.+++MISSING INFO: c.bio235/235L.long +++
 6.**One** of the following:
 
-    -{{<var c.bio355/355L.long>}}
-    -{{<var c.bio375/375L.long>}}
+    -+++MISSING INFO: c.bio355/355L.long +++
+    -+++MISSING INFO: c.bio375/375L.long +++
 
 7.**Three** biology electives with the associated laboratories
-8.{{<var c.chm121/121L.long>}}
-9.{{<var c.chm122/122L.long>}}
+8.+++MISSING INFO: c.chm121/121L.long +++
+9.+++MISSING INFO: c.chm122/122L.long +++
 10.**One** of the following:
 
-    -{{<var c.mth132.long>}} (strongly recommended for students considering attending graduate school)
-    -{{<var c.sta100.long>}} and {{<var c.sta110.long>}}
-    -{{<var c.sta100.long>}} and {{<var c.sta130.long>}}
+    -+++MISSING INFO: c.mth132.long +++ (strongly recommended for students considering attending graduate school)
+    -STA 100 Statistical Reasoning I-Foundations and STA 110 Stats IIA: Inferential Reasoning
+    -STA 100 Statistical Reasoning I-Foundations and STA 130 Stats IIB: Experimental Design
 
 11.Attendance at research seminars in junior and senior years
 
 *Strongly recommended:*
     **One** of the following sequences:
-    -{{<var c.phy165/165L.long>}} and {{<var c.phy175/175L.long>}}
-    -{{<var c.phy185/185L.long>}} and {{<var c.phy195/195L.long>}}
+    -+++MISSING INFO: c.phy165/165L.long +++ and +++MISSING INFO: c.phy175/175L.long +++
+    -+++MISSING INFO: c.phy185/185L.long +++ and +++MISSING INFO: c.phy195/195L.long +++
 
 With consent of the department chair, other chemistry or mathematics courses may be substituted.
 
@@ -599,146 +604,149 @@ With consent of the department chair, other chemistry or mathematics courses may
 Laboratory and field experiences are essential to scientific understanding. They offer an introduction to the processes of science, emphasizing student participation in hypothesis formulation, experimental design, data collection, data analysis, and the composition of papers in a format conventional to science. Biology majors must complete the requisite laboratory courses for the major. Students not majoring in biology should enroll in a laboratory section of any course they plan to apply to the laboratory science requirement in general education.
 
 ### Courses in Biology
--**{{<var c.bio100.long>}}**
-{{<var c.bio100.desc>}}
--**{{<var c.bio100L.long>}}**
-{{<var c.bio100L.desc>}}
--**{{<var c.bio103.long>}}**
-{{<var c.bio103.desc>}}
--**{{<var c.bio103L.long>}}**
-{{<var c.bio103L.desc>}}
--**{{<var c.bio105.long>}}**
-{{<var c.bio105.desc>}}
--**{{<var c.bio111.long>}}**
-{{<var c.bio111.desc>}}
--**{{<var c.bio111L.long>}}**
-{{<var c.bio111L.desc>}}
--**{{<var c.bio115.long>}}**
-{{<var c.bio115.desc>}}
--**{{<var c.bio120.long>}}**
-{{<var c.bio120.desc>}}
--**{{<var c.bio145.long>}}**
-{{<var c.bio145.desc>}}
--**{{<var c.bio145L.long>}}**
-{{<var c.bio145L.desc>}}
--**{{<var c.bio155.long>}}**
-{{<var c.bio155.desc>}}
--**{{<var c.bio155L.long>}}**
-{{<var c.bio155L.desc>}}
--**{{<var c.bio165.long>}}**
-{{<var c.bio165.desc>}}
--**{{<var c.bio165L.long>}}**
-{{<var c.bio165L.desc>}}
--**{{<var c.bio175.long>}}**
-{{<var c.bio175.desc>}}
--**{{<var c.bio185.long>}}**
-{{<var c.bio185.desc>}}
--**{{<var c.bio185L.long>}}**
-{{<var c.bio185L.desc>}}
--**{{<var c.bio195.long>}}**
-{{<var c.bio195.desc>}}
--**{{<var c.bio195L.long>}}**
-{{<var c.bio195L.desc>}}
--**{{<var c.bio202.long>}}**
-{{<var c.bio202.desc>}}
--**{{<var c.bio205.long>}}**
-{{<var c.bio205.desc>}}
--**{{<var c.bio205L.long>}}**
-{{<var c.bio205L.desc>}}
--**{{<var c.bio215.long>}}**
-{{<var c.bio215.desc>}}
--**{{<var c.bio215L.long>}}**
-{{<var c.bio215L.desc>}}
--**{{<var c.bio225.long>}}**
-{{<var c.bio225.desc>}}
--**{{<var c.bio235.long>}}**
-{{<var c.bio235.desc>}}
--**{{<var c.bio235L.long>}}**
-{{<var c.bio235L.desc>}}
--**{{<var c.bio275.long>}}**
-{{<var c.bio275.desc>}}
--**{{<var c.bio275L.long>}}**
-{{<var c.bio275L.desc>}}
--**{{<var c.bio285.long>}}**
-{{<var c.bio285.desc>}}
--**{{<var c.bio285L.long>}}**
-{{<var c.bio285L.desc>}}
--**{{<var c.bio295.long>}}**
-{{<var c.bio295.desc>}}
--**{{<var c.bio295L.long>}}**
-{{<var c.bio295L.desc>}}
--**{{<var c.bio315.long>}}**
-{{<var c.bio315.desc>}}
--**{{<var c.bio315L.long>}}**
-{{<var c.bio315L.desc>}}
--**{{<var c.bio325.long>}}**
-{{<var c.bio325.desc>}}
--**{{<var c.bio325L.long>}}**
-{{<var c.bio325L.desc>}}
--**{{<var c.bio335.long>}}**
-{{<var c.bio335.desc>}}
--**{{<var c.bio335L.long>}}**
-{{<var c.bio335L.desc>}}
--**{{<var c.bio345.long>}}**
-{{<var c.bio345.desc>}}
--**{{<var c.bio345L.long>}}**
-{{<var c.bio345L.desc>}}
--**{{<var c.bio355.long>}}**
-{{<var c.bio355.desc>}}
--**{{<var c.bio355L.long>}}**
-{{<var c.bio355L.desc>}}
--**{{<var c.bio365.long>}}**
-{{<var c.bio365.desc>}}
--**{{<var c.bio365L.long>}}**
-{{<var c.bio365L.desc>}}
--**{{<var c.bio375.long>}}**
-{{<var c.bio375.desc>}}
--**{{<var c.bio375L.long>}}**
-{{<var c.bio375L.desc>}}
--**{{<var c.bio385.long>}}**
-{{<var c.bio385.desc>}}
--**{{<var c.bio385L.long>}}**
-{{<var c.bio385L.desc>}}
--**{{<var c.bio405.long>}}**
-{{<var c.bio405.desc>}}
--**{{<var c.bio415.long>}}**
-{{<var c.bio415.desc>}}
--**{{<var c.bio415L.long>}}**
-{{<var c.bio415L.desc>}}
--**{{<var c.bio425.long>}}**
-{{<var c.bio425.desc>}}
--**{{<var c.bio425L.long>}}**
-{{<var c.bio425L.desc>}}
--**{{<var c.bio435.long>}}**
-{{<var c.bio435.desc>}}
--**{{<var c.bio435L.long>}}**
-{{<var c.bio435L.desc>}}
--**{{<var c.bio444.long>}}**
-{{<var c.bio444.desc>}}
--**{{<var c.bio445.long>}}**
-{{<var c.bio445.desc>}}
--**{{<var c.bio445L.long>}}**
-{{<var c.bio445L.desc>}}
--**{{<var c.bio454.long>}}**
-{{<var c.bio454.desc>}}
--**{{<var c.bio455.long>}}**
-{{<var c.bio455.desc>}}
--**{{<var c.bio455L.long>}}**
-{{<var c.bio455L.desc>}}
--**{{<var c.bio462/463.long>}}**
-{{<var c.bio462/463.desc>}}
--**{{<var c.bio465.long>}}**
-{{<var c.bio465.desc>}}
--**{{<var c.bio465L.long>}}**
-{{<var c.bio465L.desc>}}
--**{{<var c.bio494.long>}}**
-{{<var c.bio494.desc>}}
+-**BIO 100 Human Biology**
+A study of Homo sapiens applying the same tools biologists use to study other organisms. Topics may include an overview of human evolution, reproduction, genetics, population genetics, adaptations of selected organs and organ systems, humans’ relationship to and impact on their environment, and other contemporary issues in human biology. Includes lecture and laboratory. This course does not satisfy any of the requirements for a major in biology.
+-**+++MISSING INFO: c.bio100L.long +++**
++++MISSING INFO: c.bio100L.desc +++
+-**BIO 103 Anatomy & Physiology**
+Introduces the student to the structure, function, and organization of the human body. Designed for non-majors as well as students with health-related career interests. This course does not satisfy any of the requirements for a major in biology or nursing.
+-**+++MISSING INFO: c.bio103L.long +++**
++++MISSING INFO: c.bio103L.desc +++
+-**BIO105 Introductory Biology**
+None
+-**BIO 111 Urban Ecology**
+Introduces the ecology of urban systems, investigating how humans and their built environments interact with and form ecosystems. Two main points of view will be represented: the city as an ecological system, and the responses and adaptations of organisms to this ecosystem. We will also investigate how humans respond to and interact with this biotic and abiotic environment. Labs will visit relevant areas of Cedar Rapids. One three hour workshop and one four-hour lab per week. (Offered alternate years.)
+-**+++MISSING INFO: c.bio111L.long +++**
++++MISSING INFO: c.bio111L.desc +++
+-**BIO 115 Marine Biology**
+Surveys marine organisms and communities with emphasis on tropical coral reef systems. The primary field analyses focus on the dynamics of coral reefs, tidal regions, and turtle grass meadows. An off campus course taught at an appropriate site and involving extensive field work. Includes lecture and laboratory. 
+Prerequisite: consent of instructor. (Offered May Term only)
+-**BIO 120 Biology, Health, & Society**
+Introduces the basic principles, terms, and technologies needed to understand the role of biology in our lives. This course centers around answering questions in healthcare and in contemporary society, using the application of biological knowledge. Study skills for mastering college biology are also taught. Three lectures and one co-curricular skills workshop per week. Counts as a non-lab science course. This course does not satisfy any of the requirements for a major in biology.
+-**BIO 145 Cellular & Molecular Biology**
+A study of biology at the cellular and molecular level, including cytology, metabolic, and genetic processes. Three lectures per week.
+-**+++MISSING INFO: c.bio145L.long +++**
++++MISSING INFO: c.bio145L.desc +++
+-**BIO 155 Organismal & Ecological Biology**
+The study of organ systems, reproduction, and embryology, with an emphasis on human biology. Principles of evolution, ecology, and animal behavior are also studied. Three lectures per week.
+-**+++MISSING INFO: c.bio155L.long +++**
++++MISSING INFO: c.bio155L.desc +++
+-**BIO 165 Ecology and Biology of Birds**
+An introduction to the behavior, ecology and biology of birds, emphasizing identification of local species and such species’ adaptations to their biotic and abiotic environments. Binoculars furnished. This course satisfies the lab science course requirement. Offered Spring Term on campus and Summer at the Wilderness Field Station.
+-**+++MISSING INFO: c.bio165L.long +++**
++++MISSING INFO: c.bio165L.desc +++
+-**BIO 175 Field Botany**
+Investigates tree and wildflower species encountered in Iowa’s forests, fields and prairies. Emphasizes hands-on description of structural characteristics,
+identification of species using a dichotomous key and characteristics of flowering plant families. A basic understanding of the distribution of plants
+within communities is also developed. A collection of local plants is required. (Offered in May Term)
+-**BIO 185 Entomology**
+Introduces the biology of insects and related arthropods, focusing on how homeostatic problems common to all organisms have been solved. Topics include physiology, morphology, systematics, and the relationship among insects, plants, and humans.
+-**+++MISSING INFO: c.bio185L.long +++**
++++MISSING INFO: c.bio185L.desc +++
+-**BIO 195 Introduction to Microbiology**
+An elementary-level study of the principles of microbiology. Special attention is given to the medical aspect of the subject. Three lectures and one three hour laboratory per week. Designed for students with allied health career interests. This course does not satisfy any of the requirements for a major in biology. Prerequisite: Human Biology (BIO-100) or Cellular and Molecular Biology (BIO-145).
+-**+++MISSING INFO: c.bio195L.long +++**
++++MISSING INFO: c.bio195L.desc +++
+-**BIO 202 Topics in Evolution**
+Investigates the roles of selective and non-selective evolutionary mechanisms, especially as they affect adaptation, speciation, and extinction. Selected aspects of the fossil record and current theories of hominid evolution are also part of the course. Counts as a non-lab science course. Prerequisites: Cellular and Molecular Biology (BIO-145). Note: Credit is given for either Topics in Evolution (BIO-202) or Organic Evolution (BIO-125), not both.
+-**BIO 205 General Botany**
+A study of the basic structure and functions of plants, with emphasis on seed plants. Functional aspects of structure and development on the cellular, tissue, and whole plant level receive equal emphasis. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-140) and Organismal and Ecological Biology (BIO-155).
+-**+++MISSING INFO: c.bio205L.long +++**
++++MISSING INFO: c.bio205L.desc +++
+-**BIO 215 Human Anatomy**
+A survey of gross and microscopic human anatomy, providing necessary background for students in physiology and body mechanics. Three lectures per week. Prerequisites: Human Biology (BIO-100) or Cellular and Molecular Biology (BIO-145) or Organismal and Ecological Biology (BIO-155). This course does not satisfy any of the requirements for a major in biology. Credit is given for Human Anatomy (BIO-215) or Integrated Human Anatomy (BIO-245), not both.
+-**+++MISSING INFO: c.bio215L.long +++**
++++MISSING INFO: c.bio215L.desc +++
+-**BIO 225 Human Physiology**
+The functional study of the various systems of the human body, including the application of physiological principles to the health professions. Three lectures and one two-hour recitation per week. This course does not satisfy any of the requirements for a major in biology. Prerequisites: Human Anatomy (BIO-215) and either Human Biology (BIO-100), Cellular and Molecular Biology (BIO-145), or Organismal and Ecological Biology (BIO-155).
+-**BIO 235 Genetics**
+An exploration of the three main branches of heredity: transmission (classical), molecular, and population genetics. Transmission genetics examines how genes and genetic traits are passed from generation to generation. Molecular genetics probes the structure, function, and regulation of genes, while population genetics investigates through mathematical models the distribution and behavior of genes in populations. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-140), and Organismal and Ecological Biology (BIO-155).
+-**+++MISSING INFO: c.bio235L.long +++**
++++MISSING INFO: c.bio235L.desc +++
+-**BIO 275 Aquatic Ecology**
+Study of the biota of lakes and streams in northern Minnesota and adjacent Ontario, and their abiotic environment. Extensive field sampling enables students to study predation, diel vertical migration, stream drift, induced morphological defenses, and food-web interactions. Regional and North American lake and stream biodiversity and the effects of introduced species and human intervention on aquatic ecosystems are reviewed. Prerequisites: Cellular and Molecular Biology (BIO-145) and Introduction to Biology Laboratory (BIO-140), or Organismal and Ecological Biology (BIO-155) and Laboratory (BIO-150). (Offered summers at the Wilderness Field Station)
+-**+++MISSING INFO: c.bio275L.long +++**
++++MISSING INFO: c.bio275L.desc +++
+-**BIO 285 Animal Behavior**
+Principles and methods in ethology are considered with emphasis on temporal and spatial patterns, adaptive significances, communication, aggression and territoriality, social organization, and the nature of regulatory mechanisms. Prerequisites: One of the following: Cellular and Molecular Biology (BIO-145) and Introduction to Biology Laboratory (BIO-140); Organismal and Ecological Biology (BIO-155) and Laboratory (BIO-150); or Statistical Methods and Data Analysis (PSY-301). (Offered summers at the Wilderness Field Station)
+-**+++MISSING INFO: c.bio285L.long +++**
++++MISSING INFO: c.bio285L.desc +++
+-**BIO 295 Spatial Ecology**
+Study of spatial patterns of organisms in natural, agricultural, and urban landscapes. Emphasis is on how the arrangements of organisms both reflect and feedback on underlying resources and geography. Students learn how to capture spatial characteristics of individuals, populations, species, communities, and landscapes sampled in the field, integrate them with satellite imagery, and analyze them statistically. Use of global positioning system hardware to provide spatial reference for field ecology surveys and use of ArcView as a data management, display, and analysis tool are important features of the course. Three lectures per week. Prerequisites: Organismal and Ecological Biology (BIO-155) and Laboratory (BIO-150).
+-**+++MISSING INFO: c.bio295L.long +++**
++++MISSING INFO: c.bio295L.desc +++
+-**BIO 315 Integrated Human Anatomy**
+Integrates macroscopic human anatomy at the organ and organ system levels with microscopic study of histology and development from an evolutionary and sometimes experimental perspective. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-145L), Organismal and Ecological Biology (BIO-155) and Laboratory (BIO-155L). Credit is given for Integrated Human Anatomy (BIO-315) or Human Anatomy (BIO-215), not both.
+-**+++MISSING INFO: c.bio315L.long +++**
++++MISSING INFO: c.bio315L.desc +++
+-**BIO 325 Microbiology**
+Study of major fields of microbiology with emphasis on bacteria and viruses. Topics include bacterial cell structure, genetics, and pathogenesis as well as immunology and epidemiology. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-145L), Organismal and Ecological Biology (BIO-155), Organic Chemistry I (CHM-221) and Organic Laboratory (CHM-322) or Genetics (BIO-235).
+-**+++MISSING INFO: c.bio325L.long +++**
++++MISSING INFO: c.bio325L.desc +++
+-**BIO 335 Conservation and Ecology of Mammals**
+The study of mammals of Minnesota and the natural history, form/function relations, behavior, distributions, and interaction with their environment and other organisms. Class activities include direct observations, reading tracks and "sign." Live-trap mark and recapture studies supplemented by readings, lectures, and discussions. (Offered summers at the Wilderness Field Station)
+-**+++MISSING INFO: c.bio335L.long +++**
++++MISSING INFO: c.bio335L.desc +++
+-**BIO 345 Techniques in Molecular Biology**
+An intensive introduction to biological molecular techniques. Students learn how to manipulate recombinant DNA and express and detect protein products in prokaryotic systems. Course methods include cloning, restriction, mapping, ligation, labeling, purification, elution, blotting, hybridization, agarose, and acrylamide gels, protein expression and detection, and immunological techniques. On completing the course, students should have a working knowledge of most methods used in molecular biology research. Course consists of two discussion sessions per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-140), Genetics (BIO-235) and Laboratory (BIO-230), General Chemistry I (CHM-1XX), and General Chemistry II (CHM-1XX).
+-**+++MISSING INFO: c.bio345L.long +++**
++++MISSING INFO: c.bio345L.desc +++
+-**BIO 355 Animal Physiology**
+Study of how organ systems in animal species solve the fundamental problems of staying alive. This includes how to obtain energy, how to procure the raw materials necessary for constructing their bodies, how to gain oxygen from the environment, how to get rid of unneeded substances and toxic materials. The course addresses how these ends are achieved through the cooperation of cells, tissues, organs, and organ systems in a variety of organisms including mammals, birds, reptiles, amphibians, and fish as well as selected invertebrates. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-140), Organismal and Ecological Biology (BIO-155).
+-**+++MISSING INFO: c.bio355L.long +++**
++++MISSING INFO: c.bio355L.desc +++
+-**BIO 365 Comparative Chordate Anat**
+A survey of the chordates and the development and evolution of form in vertebrates, using primarily the shark, mudpuppy, and cat in laboratory. Two lectures, one discussion recitation per week. Prerequisite: Cellular and Molecular Biology (BIO-145), Organismal and Ecological Biology (BIO-155) and Topics in Evolution (BIO-202).
+-**+++MISSING INFO: c.bio365L.long +++**
++++MISSING INFO: c.bio365L.desc +++
+-**BIO 375 Integrated Human Physiology**
+The study of function in terms of basic physical and chemical processes; an introduction to the principles of physiligy using the human organism as a model. Three lectures per week. Prerequisite: Cellular and Molecular Biology (BIO-145), Organismal and Ecological Biology (BIO-155), and Introduction to Biology Laboratory (BIO-140)
+-**+++MISSING INFO: c.bio375L.long +++**
++++MISSING INFO: c.bio375L.desc +++
+-**BIO 385 Behavior/Ecology of Vertebrates**
+Identification, evolutionary history, behavior and ecological relationships of local mammals, birds, reptiles, amphibians, and fish. Students learn and apply survey techniques appropriate for particular groups to understand species/habitat relationships, diversity within groups, and the impact of humans on diversity.  Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145) and Topics in Evolution (BIO-202).
+-**+++MISSING INFO: c.bio385L.long +++**
++++MISSING INFO: c.bio385L.desc +++
+-**BIO 405 Current Topics in Molecular Biology**
+An intensive exploration of Molecular Biology’s primary literature, focusing on recent advances in DNA, RNA and protein manipulation, characterization, and control. Students read research articles, critically evaluate published data, and communicate technical information effectively. Three lectures per week. Prerequisites: Techniques in Molecular Biology (BIO-345) and Genetics (BIO-235).
+-**BIO 415 Developmental Biology**
+An exploration of the developmental processes that occur as an organism grows from fertilized egg to adult organism. The actions and interactions of cells and tissues are examined in the living, growing, and rapidly changing environment of the body. Classical embryology is examined through modern genetic techniques, with special emphasis on how differential gene expression makes us who we are. Survey of research methodologies are a prominent topic. Three lectures per week. Prerequisites: Genetics (BIO-235) and Laboratory (BIO-230).
+-**+++MISSING INFO: c.bio415L.long +++**
++++MISSING INFO: c.bio415L.desc +++
+-**BIO 425 Ecology**
+Study of the interrelationship of living organisms with their environment. The structure and dynamics of populations, communities, and ecosystems are examined through lectures and laboratory or field observations. Three lectures per week. Prerequisites: General Botany (BIO-205) or consent of instructor.
+-**+++MISSING INFO: c.bio425L.long +++**
++++MISSING INFO: c.bio425L.desc +++
+-**BIO 435 Cell Physiology**
+The content, organization, and function of the cell and its components are studied. Other topics include the relationship of the cell to its environment, the cell membrane, enzymes, conversion of matter and energy, cell growth, and cell division. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-145L), Organismal and Ecological Biology (BIO-155), Genetics (BIO-235), and General Chemistry I and Laboratory (CHM-121/-121L).
+-**+++MISSING INFO: c.bio435L.long +++**
++++MISSING INFO: c.bio435L.desc +++
+-**BIO 444 Independent Study**
+Independent work on a selected project under direction of a member of the department. Students are limited to two registrations in Independent Study. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisites: Courses providing appropriate background for the project selected and consent of department chair.
+-**BIO 445 Environmental Microbiology**
+An examination of the role of microbes in the environment. Topics include microbial diversity, nutrient cycling including biogeochemistry, bioremediation, and biodegradation. The use of molecular methods and microsopy to study microbes in situ are special emphases of the course. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-145L), Organismal and Ecological Biology (BIO-155), Organic Chemistry I (CHM-221) with Organic Laboratory (CHM-322) or Genetics (BIO-235).
+-**+++MISSING INFO: c.bio445L.long +++**
++++MISSING INFO: c.bio445L.desc +++
+-**BIO 454 Research Participation**
+Participation in a research program designed and directed by a biology department faculty member, including some or all of the following: library research, research design, and field or laboratory investigations. Scheduled by arrangement with sponsoring professor with a time requirement of 10 hours per week minimum per course credit. P/NP basis only. May be taken for an X status grade with consent of instructor prior to registration.  Research participation credit does not satisfy any of the requirements for a major in biology. (0.2 – 1.0 course credit)
+-**BIO 455 Molecular Neurobiology**
+Study of the organization and function of the nervous system, focusing on both cellular physiology and functional neuroanatomy. Topics include the cellular and molecular properties of brain cells, the neurological basis of behavior, and disorders of the nervous system. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-140), Organismal and Ecological Biology (BIO-155), General Chemistry I (CHM-155), General Chemistry II (CHM-165) and Genetics (BIO-235) and Lab (BIO-230)
+-**+++MISSING INFO: c.bio455L.long +++**
++++MISSING INFO: c.bio455L.desc +++
+-**+++MISSING INFO: c.bio462/463.long +++**
++++MISSING INFO: c.bio462/463.desc +++
+-**BIO 465 Immunology**
+An integrated series of lectures designed to familiarize students with cellular, molecular and biochemical aspects of the development of the immune system and the immune response, including B-and T-cell function, antibody structure and function, complement, and major histocompatibility complex formation, with special emphasis on the integration of these parts during the response to infectious agents. Special topics include immunomodulation, vaccination, autoimmunity, and neuro-immune interactions. The laboratory component utilizes existing instrumentation in the biology department and cell culture to explore different aspects of the immune system. Three lectures and one three hour laboratory period per week. Prerequisites: General Chemistry II (CHM 122/122L), Genetics (BIO-235), and Integrated Human Physiology (BIO-375) (or concurrent enrollment in BIO-375).
+-**+++MISSING INFO: c.bio465L.long +++**
++++MISSING INFO: c.bio465L.desc +++
+-**BIO 494 Internship in Biology**
+Investigation of an area of interest through voluntary field placement supervised by a faculty member of the department. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a major in biology. Prerequisites: declared major in biology, junior standing, and consent of department chair.
 
--**{{<var c.occ365.long>}}**
+-**OCC 365 Oak Ridge Science Semester**
 See @sec-ACM-and-international-programs
 
--**{{<var c.hss494.long>}}**
-{{<var c.hss494.desc>}}
+-**HSS 494 Health Professions Externship**
+This capstone experience for qualified junior and senior students, could finalize a career decision or create an opportunity for a different career path. Using the academic knowledge already obtained through course work, the student will now apply it to real world situations as experiential learning with professional mentors in our community and will gain additional knowledge of what the daily activities and difficulties can, or may be present in their particular internship profession. They will increase their own communication skills, learn interpersonal skills with mentors, staff, clients/patients, gain professional ethics skills, and gain additional topic knowledge while working with their mentors. Some will gain "hands on" training while others will gain their knowledge thru observation of techniques, personal interactions, and through researching pertinent subject matters. Some may gain public speaking experiences, while others may increase their professional writing abilities. Each intern experience will have its own unique set of learning outcomes. Junior or Senior standing with appropriate GPA.
 
 
 
@@ -836,18 +844,18 @@ Requirements for becoming a CPA differ from state to state. All states require t
 
 A major in managerial accounting requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 
-1.{{<var c.acc171.long>}}
-2.{{<var c.eco175.long>}}
-3.{{<var c.bus190.long>}}
-4.{{<var c.acc215.long>}}
-5.{{<var c.eco215.long>}}
-6.{{<var c.acc301.long>}}
-7.{{<var c.acc315.long>}}
-8.{{<var c.bus315.long>}}
-9.{{<var c.acc334.long>}}
-10.{{<var c.acc351.long>}}
-11.{{<var c.acc413.long>}}
-12.{{<var c.acc415.long>}}
+1.ACC 171 Principles of Accounting I
+2.ECO 175 Principles of Macroeconomics
+3.BUS 190 Statistical Analysis
+4.ACC 215 Principles of Accounting II
+5.ECO 215 Prin Microeconomics
+6.ACC 301 Intermediate Accounting I
+7.ACC 315 Managerial Accounting
+8.BUS 315 Business Law I
+9.ACC 334 Computer Applications - Accounting
+10.ACC 351 Intermediate Accounting II
+11.ACC 413 Auditing
+12.ACC 415 Adv Managerial Accounting
 
 ### Public Accounting Major
 
@@ -855,167 +863,168 @@ A major in public accounting requires a minimum cumulative 2.0 GPA in all course
 
 If degree requirements are not completed by the end of four years, students pursuing a major in public accounting, who are in good academic standing, and who are full-time students, receive a 60% discount on tuition in the consecutive fifth year. They continue to be eligible to apply for student loans and any available federal and state government grants
 
-1.{{<var c.acc171.long>}}
-2.{{<var c.eco175.long>}}
-3.{{<var c.bus190.long>}}
-4.{{<var c.acc215.long>}}
-5.{{<var c.eco215.long>}}
-6.{{<var c.acc301.long>}}
-7.{{<var c.acc315.long>}}
-8.{{<var c.bus315.long>}}
-9.{{<var c.acc334.long>}}
-10.{{<var c.acc351.long>}}
-11.{{<var c.acc413.long>}}
-12.{{<var c.acc422.long>}}
-13.{{<var c.acc463.long>}}
+1.ACC 171 Principles of Accounting I
+2.ECO 175 Principles of Macroeconomics
+3.BUS 190 Statistical Analysis
+4.ACC 215 Principles of Accounting II
+5.ECO 215 Prin Microeconomics
+6.ACC 301 Intermediate Accounting I
+7.ACC 315 Managerial Accounting
+8.BUS 315 Business Law I
+9.ACC 334 Computer Applications - Accounting
+10.ACC 351 Intermediate Accounting II
+11.ACC 413 Auditing
+12.ACC 422 Tax Accounting
+13.ACC 463 Advanced Auditing
 14.**One** of the following:
 
-    -{{<var c.bus410.long>}}
-    -{{<var c.bus412.long>}}
-    -{{<var c.bus464.long>}}
-    -{{<var c.bus470.long>}}
+    -BUS 410 Business Law II
+    -BUS 412 Entrepreneurship & New Business Frm
+    -BUS 464 Seminar in Management
+    -BUS 470 Strategic Management
 
 15.**Three** of the following:
 
-    -{{<var c.acc313.long>}}
-    -{{<var c.acc401.long>}}
-    -{{<var c.acc451.long>}}
-    -{{<var c.acc472.long>}}
+    -ACC 313 Fraud Examination
+    -ACC 401 Fund Acctg & Adv Top
+    -ACC 451 Advanced Accounting
+    -ACC 472 Advanced Tax Accounting
 
 ### Courses in Accounting
--**{{<var c.acc171.long>}}**
-{{<var c.aac171.desc>}}
--**{{<var c.acc215.long>}}**
-{{<var c.acc215.desc>}}
--**{{<var c.acc301.long>}}**
-{{<var c.acc301.desc>}}
--**{{<var c.acc313.long>}}**
-{{<var c.acc313.desc>}}
--**{{<var c.acc315.long>}}**
-{{<var c.acc315.desc>}
--**{{<var c.acc334.long>}}**
-{{<var c.acc334.desc>}}
--**{{<var c.acc351.long>}}**
-{{<var c.acc351.desc>}}
--**{{<var c.acc401.long>}}**
-{{<var c.acc401.desc>}}
--**{{<var c.acc413.long>}}**
-{{<var c.acc413.desc>}}
--**{{<var c.acc415.long>}}**
-{{<var c.acc415.desc>}}
--**{{<var c.acc422.long>}}**
-{{<var c.acc422.desc>}}
--**{{<var c.acc473.long>}}**
-{{<var c.acc473.desc>}}
+-**ACC 171 Principles of Accounting I**
++++MISSING INFO: c.aac171.desc +++
+-**ACC 215 Principles of Accounting II**
+Continuation of the study of financial accounting, including the statement of cash flow. A study of managerial accounting and the analysis of financial information for management decision making. Prerequisite: Principles of Accounting I (ACC-171).
+-**ACC 301 Intermediate Accounting I**
+An in-depth study of financial accounting topics. Emphasis is on income determination, evaluation, and presentation of assets, liabilities, and owners’ equity. Prerequisite: Principles of Accounting II (ACC-215).
+-**ACC 313 Fraud Examination**
+An examination of real world cases that represent the many types of accounting fraud in order to gain an understanding of the behavioral and social factors that motivate offenders. Emphasis is placed on understanding the exposures to loss and the appropriate prevention, detection, and investigation approaches, including legal requirements for testifying as an expert witness. Prerequisites: Principles of Accounting II (ACC-215) or consent of instructor. (Offered alternate years)
+-**ACC 315 Managerial Accounting**
+{{< var c.acc315.desc >}
+-**ACC 334 Computer Applications - Accounting**
+An introduction to specialized accounting software used in financial accounting, tax accounting, and auditing. Application of generalized software to topics covered in managerial accounting and financial accounting. S/U basis only. Prerequisites: Computers in Business (BUS-125) or knowledge of Excel, junior standing, and completion of at least three upper-level accounting courses or consent of instructor. (0.5 course credit)
+-**ACC 351 Intermediate Accounting II**
+A continuation of Intermediate Accounting 1 ACC-301. Prerequisite: Principles of Accounting II (ACC-215).
+-**ACC 401 Fund Acctg & Adv Top**
+Fiduciary accounting, accounting for not-for-profit entities, consignment sales, and other advanced accounting topics. Prerequisite: Intermediate Accounting I (ACC-301) and Intermediate Accounting II (ACC-351). (Offered alternate years)
+-**ACC 413 Auditing**
+A study of the audit function primarily as it relates to the independent CPA. An integration of auditing theory and practice in an environment of legal liability and professional responsibility. Prerequisites: Principles of Accounting II (ACC-215) and junior standing, or consent of instructor. (Offered alternate years)
+-**ACC 415 Adv Managerial Accounting**
+A continuation of the study of managerial accounting and the methods of analyzing financial information. Topics covered include management control systems, pricing decisions, operations management, and regression analysis. Prerequisite: Managerial Accounting (ACC-315) or consent of instructor.
+-**ACC 422 Tax Accounting**
+A study of the federal income tax system with an emphasis on individual taxation. Development of a basic understanding of gross income, exclusions from gross income, and deductions which pertain to individuals, corporations, and partnerships. Prerequisite: Principles of Accounting II (ACC-215). (Offered alternate years)
+-**+++MISSING INFO: c.acc473.long +++**
++++MISSING INFO: c.acc473.desc +++
 
 ### Courses in Business
--**{{<var c.bus105.long>}}**
-{{<var c.bus105.desc>}}
--**{{<var c.bus125.long>}}**
-{{<var c.bus125.desc>}}
--**{{<var c.bus145.long>}}**
-{{<var c.bus145.desc>}}
--**{{<var c.bus170.long>}}**
-{{<var c.bus170.desc>}}
--**{{<var c.bus190.long>}}**
-{{<var c.bus190.desc>}}
--**{{<var c.bus250.long>}}**
-{{<var c.bus250.desc>}}
--**{{<var c.bus255.long>}}**
-{{<var c.bus255.desc>}}
--**{{<var c.bus280.long>}}**
-{{<var c.bus280.desc>}}
--**{{<var c.bus281.long>}}**
-{{<var c.bus281.desc>}}
--**{{<var c.bus285.long>}}**
-{{<var c.bus285.desc>}}
--**{{<var c.bus300.long>}}**
-{{<var c.bus300.desc>}}
--**{{<var c.bus305.long>}}**
-{{<var c.bus305.desc>}}
--**{{<var c.bus315.long>}}**
-{{<var c.bus315.desc>}}
--**{{<var c.eco315.long>}}**
+-**BUS 105 Colloquium in Business**
+A study of the dynamic world of business, with emphasis on the role of the individual as a consumer, a manager, an employee, and an investor. Such topics as the social responsibility of business, business environment, and the relationship of business to governments and to people are included.
+-**BUS 125 Computers in Business**
+An introduction to computers in business. Topics covered include the most commonly encountered software used for word processing, database management, and spreadsheets.
+-**BUS 145 Personal Financial Analysis & Plan**
+A study of important personal financial decisions made over an individual’s lifetime. This course provides the perspective and tools needed to make intelligent personal financial decisions. The course also challenges students to look at current events affecting personal finance from a public policy perspective, allowing them to develop informed opinions. Topics covered include understanding personal income taxes, buying a home, using credit wisely, and planning for retirement, among others. Open to all students. This course does not satisfy any of the requirements for a major in Business Administration.
+-**BUS 170 Bus Sustainability & Environment**
+Examines the global trend of the increasing attention organizations are giving to environmental and sustainability issues, including evaluation of successful business practices being pursued by leading corporations. Consideration is given to why and how corporations are embracing such trends. Topics covered include eco-labeling, corporate environmental strategies, NGO-business partnerships, and emerging markets for environmental goods and services. Significant attention is given to global warming concerns and the emerging strategies for measuring and reducing the carbon footprint of business.
+-**BUS 190 Statistical Analysis**
+Methods of statistical analysis and decision-making in business research and the behavioral sciences. Topics are selected from analysis of variance, regression analysis, factor analysis, time series analysis, and statistical decision theory. Prerequisite: The equivalent of three years of secondary school mathematics or consent of instructor.
+-**BUS 250 Principles of Management**
+A study of the general principles of management that are applicable to any organization with an established set of goals and objectives. This course analyzes the four major managerial functions of planning, organizing, leading, and controlling, and introduces the topics of international management and managerial ethics. Prerequisite: sophomore standing.
+-**BUS 255 Intro Management Science**
+The construction and use of mathematical models for making business decisions. Models studied include linear programming and related algorithms, project scheduling, waiting lines. Prerequisites: competency in algebra and junior standing or consent of instructor.
+-**BUS 280 Business Websites**
+An examination of the form, function, and creation of B2C (business-to-consumer) and B2B (business-to-business) websites. Students conduct research, develop a fictional business proposal, and build a basic website that promotes products and/or services to businesses or end-user consumers. This course does not, on its own or in combination with another 0.5 course, count as one of the two business electives required for a business major. (0.5 course credit)
+-**BUS 281 Social Media in Business**
+A survey of social media solutions utilized in the business environment with an emphasis on software usage. Learner-centered research and hands-on experience provide students with a solid understanding of current best practices. Applications explored include: LinkedIn, Skype, FaceTime, YouTube, Facebook, Yelp, Google+, Pinterest, Tumblr, Twitter, Instagram, and Kickstarter. This course does not, on its own or in combination with another 0.5 credit course, count as one of the two business electives required for a business major. (0.5 course credit)
+-**BUS 285 Computer Appl:Adv Top**
+Advanced computer applications courses on selected topics covered in business. Example topics: Management Science, Database Management, Marketing Publications. May be taken more than once for credit, provided the topics are substantially different. Prerequisites: Computers in Business (BUS-125) or consent of instructor. Some topics may require completion of or concurrent registration in relevant courses in the department. (0.5 course credit)
+-**BUS 300 Human Resource Management**
+A study of the theories, policies, and institutional forces that affect the human resource manager. This course analyzes managerial decisions regarding staffing, compensation, training, appraising, safety/ health, industrial relations, and the employment laws and environmental factors affecting human resource management. Prerequisite: sophomore standing.
+-**BUS 305 Production & Operations Mgmt**
+A study of the design, planning, and control of the factors that affect operations, including how to use labor, facilities, and equipment to manufacture finished goods or provide services. Prerequisites: competency in algebra and junior standing or consent of instructor.
+-**BUS 315 Business Law I**
+Introduction to law as an agency of control in the business world. Special attention to contracts, agencies, sales, negotiable instruments, and other types of contracts commonly used in the business world. Prerequisite: sophomore standing.
+-**ECO 315 Intermediate Macroeconomic Theory**
 See @sec-economics
--**{{<var c.eco320.long>}}**
+-**ECO 320 Public Finance**
 See @sec-economics
--**{{<var c.eco325.long>}}**
+-**ECO 325 Collectve Bargaining**
 See @sec-economics
--**{{<var c.bus330.long>}}**
-{{<var c.bus330.desc>}}
--**{{<var c.bus340.long>}}**
-{{<var c.bus340.desc>}}
--**{{<var c.bus341.long>}}**
-{{<var c.bus341.desc>}}
--**{{<var c.bus345.long>}}**
-{{<var c.bus345.desc>}}
--**{{<var c.eco345.long>}}**
+-**BUS 330 Principles of Marketing**
+A study of the basic principles of marketing including the analysis of market opportunities, market segmentation, and product positioning. Emphasis is placed on consumer markets and the development of marketing strategy using the variables of product, price, promotion, and distribution. Prerequisite: sophomore standing.
+-**BUS 340 Applied Regression Analysis**
+Introduction to the construction and use of regression models. Topics include estimation and inferential techniques in Simple and Multiple Regression; consequences of violations of the assumptions of the Classical Linear Regression model; regression with qualitative dependent variables.
+-**BUS 341 Introductory Business Analytics**
+A spreadsheet-based introductory course to business analytics. Emphasis is placed on fundamental knowledge and practical skills for applying data analysis to business decision making. Topics include data collection, statistical distributions, linear regression, forecasting, simulation, and optimization. Prerequisite: Statistical Analysis (BUS 240) or consent of instructor.
+-**BUS 345 Regulation of Business**
+Includes an examination of the social and economic impact of control legislation such as the Sherman Act, Clayton Act, Federal Trade Commission Act, Wagner Act, Securities Exchange Act, and many others. Prerequisites: Principles of Macroeconomics (ECO-205) and Principles of Microeconomics (ECO-215).
+-**ECO 345 Intermediate Price Theory**
 See @sec-economics
--**{{<var c.bus350.long>}}**
-{{<var c.bus350.desc>}}
--**{{<var c.bus352.long>}}**
-{{<var c.bus352.desc>}}
--**{{<var c.bus365.long>}}**
-{{<var c.bus365.desc>}}
--**{{<var c.bus375.long>}}**
-{{<var c.bus375.desc>}}
--**{{<var c.eco375.long>}}**
+-**BUS 350 Principles of Finance**
+A survey of securities markets and financial institutions and an introduction to finance and development in finance theory. Practices of personal and business finance decisions are also included. Prerequisites: Principles of Macroeconomics (ECO-205), Principles of Microeconomics (ECO-215), and Principles of Accounting II (BUS-215).
+-**BUS 352 Corporate Finance**
+A study of the major theories and models for planning and analyzing the working capital position, the financial structure, the cost of capital, and the capital budgeting of a business firm. Prerequisite: Principles of Finance (BUS-350).
+-**BUS 365 Principles of Insurance**
+Insurance as a method of dealing with business and personal hazards. Types of insurance in the life, fire, and casualty fields. Social Security measures and personal insurance programs. Social and economic significance of the insurance industry. Prerequisite: junior standing.
+-**BUS 375 Business Ethics**
+A study of some of the central ethical issues in the business world and some of the various ethical theories that might be employed in thinking about solutions to these problems. Topics likely to be covered include affirmative action, sexual harassment, whistleblowing, product safety standards, labor relations, advertising, and environmental issues. Prerequisite: sophomore standing or consent of instructor.
+-**ECO 375 Econometrics**
 See @sec-economics
--**{{<var c.bus387.long>}}**
-{{<var c.bus387.desc>}}
--**{{<var c.bus395.long>}}**
-{{<var c.bus395.desc>}}
--**{{<var c.bus400.long>}}**
-{{<var c.bus400.desc>}}
--**{{<var c.bus410.long>}}**
-{{<var c.bus410.desc>}}
--**{{<var c.bus412.long>}}**
-{{<var c.bus412.desc>}}
--**{{<var c.bus420.long>}}**
-{{<var c.bus420.desc>}}
--**{{<var c.bus437.long>}}**
-{{<var c.bus437.desc>}}
--**{{<var c.bus441.long>}}**
-{{<var c.bus441.desc>}}
--**{{<var c.bus444.long>}}**
-{{<var c.bus444.desc>}}
--**{{<var c.bus446.long>}}**
-{{<var c.bus446.desc>}}
--**{{<var c.eco446.long>}}**
+-**BUS 387 Adv Top:Human Res Mgt**
+Expands on some of the traditional material presented in the Human Resource Management course. Contemporary issues in the workplace which affect the nature of the relationship between the organization and the employee are discussed. Prerequisite: Human Resource Management (BUS-245).
+-**BUS 395 Organizational Behavior**
+Combines theory and practice to investigate human behavior in organizations. Topics at the macrolevel (history, culture, design, communications, total quality), human-level (perception, personality, attitudes, learning, stress), and group-level (team and organization development), and their influences on organizational effectiveness are examined. Prerequisite: Principles of Management (BUS-275).
+-**BUS 400 Legal Issues in Sports**
+A study of the legal aspects for the operations and administration of sports programs, competitive athletic programs, and community and commercial fitness programs. Topics such as risk management, gender equity, dipute resolution, and negotiation are included. Prerequisites: SMT-100: Introduction to Sports Management and BUS-315: Business Law I.
+-**BUS 410 Business Law II**
+An extended study of traditional business law subjects, with the addition of Federal Securities Regulation, secured transactions, suretyship, and accountant’s legal responsibility. Special attention is also given to agency, bankruptcy, and estates and trusts. Prerequisite: Business Law I (BUS-315).
+-**BUS 412 Entrepreneurship & New Business Frm**
+Analysis of the role of the entrepreneur in the capitalist economy. Development of the procedural system for establishing a new business. Establishment and operation of a “small business” by teams of students, including presentation of a business plan in order to secure financing with a local financial institution, acquisition of tax information necessary for start-up and continued operations, and analysis of problems confronting the new or small enterprise. Prerequisite: senior standing or consent of instructor.
+-**BUS 420 Sports Marketing and Communications**
+An introduction to the field of sports marketing and its role within sports organizations. Marketing mix, marketing research, and consumer behavior principles are used in studying topics such as sport sponsorships, branding, licensing, endorsements, naming rights, sales, fundraising, and public relations. Prerequisites: SMT-100: Introduction to Sports Management and BUS-330: Principles of Marketing.
+-**BUS 437 Strategic Compensation**
+A study of compensation systems used in organizations. This course looks at ways to develop, administer, and maintain compensation plans that attract and motivate employees while controlling labor costs. It covers such topics as the strategic importance of compensation; different types of compensation; designing competitive pay systems and employee benefits; and compensation for executives, expatriates, and contingent employees. Prerequisite: Human Resource Management (BUS-245).
+-**BUS 441 Advanced Business Analytics**
+A project-based, advanced study of buysiness analytics. The course offers training of coding with a computer programming language. No prior knowledge of coding is required. Topics learned in Introductory Business Analytics will be implemented in the context of computer coding. A term project with real-world applications is also required. Prerequisite: Introductory Business Analytics (BUS 341).
+-**BUS 444 Ind Study-Bus Admin**
+Independent studies under the direction of a faculty member in some area of business administration or economics. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisite: consent of instructor.
+-**BUS 446 International Business Management**
+An introduction to the concepts of international business and the global economy. Topics include the impact of national and cultural differences on global business; cross-cultural communication, negotiation, and decision making; international human resource management; international trade theory; cross-border trade and investment; and global business strategy development. Prerequisite: Human Resource Management (BUS-300) or Principles of Management (BUS-335).
+-**ECO 446 International Econ**
 See @sec-economics
--**{{<var c.bus454.long>}}**
-{{<var c.bus454.desc>}}
--**{{<var c.bus457.long>}}**
-{{<var c.bus457.desc>}}
--**{{<var c.bus460.long>}}**
-{{<var c.bus460.desc>}}
--**{{<var c.bus461.long>}}**
-{{<var c.bus461.desc>}}
--**{{<var c.bus464.long>}}**
-{{<var c.bus464.desc>}}
--**{{<var c.bus465.long>}}**
-{{<var c.bus465.desc>}}
--**{{<var c.bus466.long>}}**
-{{<var c.bus466.desc>}}
--**{{<var c.bus467.long>}}**
-{{<var c.bus467.desc>}}
--**{{<var c.bus470.long>}}**
-{{<var c.bus470.desc>}}
--**{{<var c.bus472.long>}}**
-{{<var c.bus472.desc>}}
--**{{<var c.bus475.long>}}**
-{{<var c.bus475.desc>}}
--**{{<var c.bus476.long>}}**
-{{<var c.bus476.desc>}}
--**{{<var c.bus485.long>}}**
-{{<var c.bus485.desc>}}
--**{{<var c.eco485.long>}}**
+-**BUS 454 Research in Business**
+The student works on a research program in business, independently or in participation with a business department faculty member. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisites: junior standing and consent of instructor.
+-**BUS 457 Employment and Discrimination Law**
+Examines the legal regulation of the employment relationship. Extensive coverage of federal workplace discrimination statutes is featured, with particular consideration of Title VII, the ADEA, and the ADA. Significant attention placed on recent Supreme Court decisions and Congressional responses. Additional issues addressed may include employment-at-will and its exceptions, vicarious liability of employers for employee tort, and employee privacy concerns. 
+Prerequisites: Human Resource Management (BUS-245) and Business Law I (BUS-315).
+-**BUS 460 Advertising**
+A study of the basic practices and concepts of advertising. Advertising is studied in the broader context of integrated marketing communications, including public relations and sales promotion. Topics to be covered include historical, legal, and ethical concepts of advertising and other forms of promotion, the management and planning of advertising, creativity in advertising, media planning, and advertising research. Prerequisite: Marketing (BUS-355).
+-**BUS 461 Marketing Decision Making/Analysis**
+A continuation of the study of marketing principles with special emphasis on understanding marketing as the basis for management decision-making. Topics to be covered include customer relationship management, market-oriented strategic planning, brand asset management, buyer behavior analysis, the use of marketing research to identify and target customers, and integrated marketing communications planning. Prerequisites: Marketing (BUS-355).
+-**BUS 464 Seminar in Management**
+Development of written and oral communication proficiency through an intensive study of one or more selected topics in management. Topics are studied through the use of readings, class discussions, writings, and presentations, and vary from term to term. May be taken more than once for credit, provided the topics are substantially different. Prerequisites: senior standing and at least one course in management [Principles of Management (BUS-250), Human Resource Management (BUS-300), or Organizational Behavior (BUS-395)], or consent of instructor.
+-**BUS 465 Advanced Topics in Marketing**
+An advanced study of a major topic in marketing. May be take more than once for credit, provided the topics are substantially different. Example topics: marketing research, international marketing, and sales management. Prerequisite: Marketing (BUS-355).
+-**{{< var c.bus466.long> }}**
+Same as Advanced Topics in Marketing (BUS-465), except the course focuses on topics related to non-Western cultures.
+-**BUS 467 Consumer Behavior**
+A study of the behavioral aspects of marketing with an emphasis on consumer markets. Various models of consumer decision-making are examined. Influences on consumer behavior are studied from both an individual perspective, including topics such as personality, perception, learning and attitudes, and a social perspective, including topics such as culture, social class, reference groups, and family. Prerequisite: Marketing (BUS-355).
+-**BUS 470 Strategic Management**
+A study of strategic management principles and the application of these principles to problems encountered by managers at all levels in large and small, for-profit and not-for-profit organizations. An advanced course in case studies to be taken near completion of the major. Prerequisite: junior standing.
+-**BUS 472 Advanced Topics in Finance**
+An advanced study of a major topic in finance. Example topics include quantitative methods in finance, behavioral finance, the evolution of financial thought, alternative investments, fixed income management, portfolio management, and derivatives. May be taken more than once for credit, with consent of department chair, provided the topics are substantially different. Prerequisite: Principles of Finance (BUS-350).
+-**BUS 475 Advanced Topics in Management**
+An advanced study of a major topic in management. Example topics: organizational theory, international management, negotiation, management information systems, and organizational change. May be taken more than once for credit, with consent of department chair, provided the topics are substantially different. Prerequisite: Principles of Management (BUS-275).
+-**BUS 476 Ad Top Mgmt:non-west persp**
+Same as Advanced Topics in Management (BUS-475), except the course focuses on topics related to non-Western cultures. Prerequisite: Principles of Management (BUS-275).
+-**BUS 485 Investment Fund Management**
+Examines financial asset portfolio construction and maintenance strategies used in the long-term management of an investment fund. Topics in this seminar include when to sell financial assets, how to evaluate mutual funds and exchange traded funds (ETFs), and the benefits of asset class diversification. Students will study the Birkey Investment Fund portfolio and make recommendations on rebalancing the portfolio through adjustments to its stock portfolio and its mutual fund and ETF holdings. Prerequisite: Research in Business (BUS-454) or permission of instructor. This course does not, on its own or in combination with another 0.5 credit course, count as one of the two business electives required for a business major. (0.5 course credit) (Offered Spring Term)
+-**ECO 485 Mathematical Economics**
 See @sec-economics
--**{{<var c.bus494.long>}}**
-{{<var c.bus494.desc>}}
--**{{<var c.bus495.long>}}**
-{{<var c.bus495.desc>}}
--**{{<var c.eco495.long>}}**
+-**BUS 494 Internship in Business**
+A work experience with a business organization involving opportunities, experiences, and personal growth which can be evaluated in equivalent terms to traditional course work. In most circumstances such experience shall count for one course credit. On-site work plus academic work must total a minimum of 160 hours (140 of which must be spent on-site.) In exceptional situations where an internship presents significant theoretical or practical ways to augment or extend traditional classroom experiences, two course credits are available. (See p. 17) S/U basis only. This course does not satisfy any of the requirements for a major in business administration. Prerequisites: Candidates must meet GPA and departmental residency requirements. All candidates must have the consent of a supervising faculty member of the department and consent of department chair. Students seeking more than one course credit must further have approval of the Department Internship Review Committee.
+-**BUS 495 Investment Analysis**
+A study of the fundamental principles underlying investment decisions. The course offers a basic understanding of the nature of risk and return considerations, the valuation framework for financial assets and derivatives, and introduction to the concepts of modern portfolio theory. Prerequisite: Principles of Finance (BUS-350).
+-**ECO 495 International Finance**
 See @sec-economics
 
 
