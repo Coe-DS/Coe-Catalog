@@ -32,7 +32,9 @@ Six courses, chosen from the following, in consultation with the Classical Studi
 
 - **CLA 120 Greek Civilization**
 
-  {{< var c.cla120.desc >}
+  An interdisciplinary examination of themes central to understanding the Ancient Greek World. Topics and
+materials may change each time the course is offered. May include The Greek View of Hero, Man and His
+Community, Religion, Mythology, and Philosophy.
 
 - **CLA 130 Roman Civilization**
 

@@ -1251,7 +1251,7 @@ A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counte
 
 ### Courses in Chemistry
 
-- **+++MISSING INFO: c.chm103_103l.long +++
+- **+++MISSING INFO: c.chm103_103l.long +++**
 
   +++MISSING INFO: c.chm103_103l.desc +++
 
@@ -1288,55 +1288,55 @@ characterization. One 1.5-hour and two three-hour laboratories per week. Prerequ
 
   +++MISSING INFO: c.chm341_341l.desc +++
 
-- **CHM 411 Advanced Analytical Chemistry
+- **CHM 411 Advanced Analytical Chemistry**
 
   Theory and applications of instrumental methods for chemical analysis. Methods include spectroscopy, voltammetry, advanced chromatographic methods, and mass spectrometry. Prerequisite: Physical Chemistry I (CHM-341). (Offered alternate years)
 
-- **CHM 421 Advanced Organic Chemistry
+- **CHM 421 Advanced Organic Chemistry**
 
   Extensive survey of synthetic and mechanistic implications of many organic reactions. Recent chemical developments and the use of the original scientific literature emphasized. Prerequisite: Organic Laboratory (CHM-322). (Offered alternate years)
 
-- **CHM 422 Synthesis Laboratory I
+- **CHM 422 Synthesis Laboratory I**
 
   Synthesis and characterization, inorganic and organometallic compounds based on current chemical literature. One class meeting and two laboratories per week. Prerequisite: Organic Laboratory (CHM-322). (Offered alternate years)
 
-- **+++MISSING INFO: c.chm431_431l.long +++
+- **+++MISSING INFO: c.chm431_431l.long +++**
 
   +++MISSING INFO: c.chm431_431l.desc +++
 
-- **CHM 432 Protein Biochemistry
+- **CHM 432 Protein Biochemistry**
 
   A study of the structure and function of proteins in their many biochemical roles. Topics include proteins as enzymes, messengers, antibodies, regulators, storage, structure, and transport molecules. Protein purification, protein engineering and kinetics, structure prediction, spectroscopy, and current literature topics are covered. Prerequisites: Cellular and Molecular Biology (BIO-145) and Organic Chemistry II (CHM-321). Corequisite: Protein Biochemistry Laboratory (CHM-432L). (Offered alternate years)
 
-- **CHM 432L Protein Biochemistry Laboratory
+- **CHM 432L Protein Biochemistry Laboratory**
 
   Advanced methods and tools of protein purification and analysis, protein engineering and kinetics. One three-hour laboratory period per week. Corequisite: Protein Biochemistry (CHM-432). (0.2 course credit)
 
-- **CHM 441 Physical Chemistry II
+- **CHM 441 Physical Chemistry II**
 
   Study of quantum mechanics, molecular spectroscopy, rates and mechanisms of chemical reactions and thermodynamics of change and equilibrium from classical and statistical perspectives. Prerequisite: Physical Chemistry I (CHM-341) or consent of instructor.
 
-- **CHM 444 Independent Study Chemistry
+- **CHM 444 Independent Study Chemistry**
 
   Research on a selected project directed by a member of the department, including library research, laboratory investigation, and submission of a research report. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisite: consent of instructor.
 
-- **CHM 451 Inorganic Chemistry
+- **CHM 451 Inorganic Chemistry**
 
   Structures and properties of selected ionic and covalent inorganic substances, coordination complexes and electron deficient compounds, general acid base theory, and inorganic reactions in solution. Prerequisite: Physical Chemistry I (CHM-341). (Offered alternate years)
 
-- **CHM 451L Inorganic Chemistry Laboratory
+- **CHM 451L Inorganic Chemistry Laboratory**
 
   Advanced methods for the synthesis and characterization of main group and transition metal compounds. Synthesis techniques include high temperature and inert atmosphere methods, while characterization methods include electrochemistry, multinuclear NMR, and Raman spectroscopy. One three-hour laboratory period per week. Prerequisite: previous or concurrent registration in Inorganic Chemistry (CHM-451). (0.2 course credit) (Offered alternate years)
 
-- **CHM 454 Undergraduate Summer Research
+- **CHM 454 Undergraduate Summer Research**
 
   Prerequisite: consent of department chair.
 
-- **+++MISSING INFO: c.chm464_474.long +++
+- **+++MISSING INFO: c.chm464_474.long +++**
 
   +++MISSING INFO: c.chm464_474.desc +++
 
-- **CHM 494 Internship in Chemistry
+- **CHM 494 Internship in Chemistry**
 
   Investigation of an area of interest through voluntary field placement supervised by a faculty member of the department. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major in chemistry. Prerequisite: completion of a chemistry minor or junior standing and consent of department chair.
 
@@ -1375,7 +1375,9 @@ Six courses, chosen from the following, in consultation with the Classical Studi
 
 - **CLA 120 Greek Civilization**
 
-  {{< var c.cla120.desc >}
+  An interdisciplinary examination of themes central to understanding the Ancient Greek World. Topics and
+materials may change each time the course is offered. May include The Greek View of Hero, Man and His
+Community, Religion, Mythology, and Philosophy.
 
 - **CLA 130 Roman Civilization**
 
@@ -1392,6 +1394,146 @@ materials may change each time the course is offered. May include The Cult of th
 
 
 ## Communications Studies {#sec-communication-studies}
+Carr (Chair), Donofrio, Harmsen, , J. Nesmith, Opayemi, Spikes
+
+The aim of the major in communication studies is to provide a background of theory and practice in oral and mediated communication.  In their study of formal and informal oral, print and digital environments, students will learn to communicate ethically, responsibly and effectively for diverse audiences in multiple contexts.
+
+### Communication Studies Major
+A major in communication studies requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+
+1. COM-125 Fundamentals of Public Speaking
+2. One methods course:
+    - COM 381 Research Method Communication Study
+    - RHE 382/COM 382 ResearchMethods:Rhetorical/Critical
+3. RHE-200 Rhetorical Theory & Practice
+4. One course in relational communication:
+    - COM 236 Intercultural Communication
+    - COM 237 Interpersonal Communication
+    - COM 337 Persuasion
+    - +++MISSING INFO: c.com435_437.long +++
+5. One course in production:
+    - COM 241 Intro to Multimedia Journalism
+    - COM 341 Digital Storytelling
+    - +++MISSING INFO: c.com445_447.long +++
+    - RHE 225 Journalism/Media Wtg Wksp
+6. One course in media studies:
+    - COM 151 Introduction to New Media Studies
+    - COM 157 Introduction to Media Analysis
+    - COM 357 Sex, Race, & Gender in Media
+    - +++MISSING INFO: c.com455_457.long +++
+7. One course in public discourse:
+    - COM 161 Visual Rhetoric
+    - COM 361 Communication & Social Change
+    - COM 362 U.S. Public Address
+    - {{< c.com465_467.long >}}
+8.	A Communication Studies course numbered 400 or above (if not used to satisfy a requirement above), excluding COM 494 Internship in Journalism/Communicat
+9.	Two additional Communication Studies courses
+
+### Communication Studies Minor
+A minor in communication studies requires a minimum cumulative 2.0 GPA in all courses counted toward the minor. 
+
+1. COM-125 Fundamentals of Public Speaking COM 125 Fundamentals of Public Speaking
+2. One methods course:
+    - COM 381 Research Method Communication Study
+    - COM 382/RHE 382 Research Methods:Rhetorical/Critica
+3. RHE 200 Rhetorical Theory and Practice
+4.	Two additional Communication Studies courses (any of the courses that count toward the Communication Studies major or any COM prefix courses)
+
+### COURSES IN COMMUNICATION STUDIES
+
+- **COM 125 Fundamentals of Public Speaking**
+
+  Explores the basic processes of speech making: audience analysis and adaptation, idea and organizational development, use of effective supporting material and reasoning, and presentation. Critical thinking and listening skills developed by analysis of public speeches. Speaking and writing skills developed through introductory, informative, persuasive, and ceremonial speeches.
+ 
+- **COM 151 Introduction to New Media Studies**
+
+  Exploration of the theoretical and practical questions surrounding digital or computer-mediated communication technologies. This introductory course examines how changes to the technologies for the creation, display, and circulation of messages influence meaning making. 
+
+- **COM 157 Introduction to Media Analysis**
+
+  Exploration of important theories, concepts and terms in media studies. This course examines the production, circulation, and reception of content and provides an introduction to media analysis.
+
+- **COM 161 Visual Rhetoric**
+
+  Examination of the persuasive power of visual symbols. The course provides an introduction to foundational concepts in the study of rhetoric and cultivates ways of thinking needed to critically analyze visual forms of symbolic expression.
+
+- **COM 210 Presentation Strategies**
+
+  Provides advanced experience in researching, preparing, and delivering public presentations in different contexts with particular attention to connecting public speaking to the workplace. Prerequisite: Fundamentals of Public Speaking (COM-125)
+
+- **COM 236 Intercultural Communication**
+
+  Exploration of the role of communication in constructing, navigating, and challenging various markers of similarity and difference. 
+
+- **COM 237 Interpersonal Communication**
+
+  Examines the influence in interpersonal relationships of ethnicity, gender, family, and class on self-concept, perception, emotions, and verbal and non-verbal expression. Students practice specific techniques that facilitate building positive relationships, including such issues as clear language usage, supportive climate building, and conflict resolution.
+
+- **COM 241 Intro to Multimedia Journalism**
+
+  Develops journalistic writing skills in several styles (hard news, features, in-depth reporting) and across media (print, audio, video, online). Topics include information gathering, objectivity, audience, news convergence, news values, civic responsibility, and journalism ethics. Students investigate the state of news and the roles and responsibilities of journalists in contemporary American society.
+
+- **COM 332 Health Communication (WE)**
+
+  Examines the connections among communication, culture, and health. Course content and assignments focus on how one communicates about health in various contexts (family, end-of-life, patient-provider, etc.), cultural influences on healthcare practices, and the role of communication and storytelling in coping with one’s body, illness, disability, and death. Prerequisite: junior standing or consent of instructor.
+
+- **COM 337 Persuasion**
+
+  Investigation of the nature and process of persuasion. This course provides practice constructing and analyzing persuasive messages and campaigns. Prerequisite: junior standing or consent of instructor.
+
+- **COM 341 Digital Storytelling**
+
+  Students practice adapting written language to oral and/or visual formats while learning to communicate news messages in a variety of broadcast formatss, ranging from audio to news-in-the-field to video productions.
+
+- **COM 357 Sex, Race, & Gender in Media**
+
+  An introduction to analysis of representations of identities such as gender, race, sexual orientation, and the body in the mass media. As such, this course examines some of the relationships between the media in the U.S. and the social constructions of race, gender and sexuality. Students view, read about, analyze and discuss various forms of mass media and look at what these forms represent. An underlying understanding within the course is recognition of the inextricable interconnections of gender, race, and sexuality. Prerequisites: junior standing or consent of instructor.
+
+- **COM 361 Communication & Social Change**
+
+  Study of the role of communication as a wehicle for social change. Analysis of the discourse used in social movements from the 1960s to the present. Course combines an emphasis on discourse analysis with opportunities for contemporary application. Prerequisite: junior standing or consent of instructor.
+
+- **COM 362 U.S. Public Address**
+
+  Examnation of the rhetorical strategies deployed throughout US history to shape beliefs about community, public life, and American identity. Prerequisite: junior standing or consent of instructor.
+
+- **COM 381 Research Method Communication Study**
+
+  Exploration of the major approaches to conducting research in Communication Studies. This course serves as the foundation for more complex forms of qualitative and/or quantitative analysis. Prerequisites: Rhetorical Theory & Practice (RHE 200) 
+
+- **COM 382 ResearchMethods:Rhetorical/Critical**
+
+  See also Writing (RHE-382), p. 185
+
+  Exploration of the major approaches to conducting research in Communication Studies. This course serves as the foundation for more complex forms of critical and/or qualitative analysis. Prerequisite: Rhetorical Theory & Practice (RHE-200).
+
+- **COM 394 Directed Learning  in Communication**
+
+  Designed to explore an area of the discipline that is not covered by existing course offerings. Students create the reading list for the course in consultation with a faculty advisor, prepare for weekly meetings, and regular writing assignments. Prerequisites: junior standing, written consent of the instructor and the departmental petition form.
+
+- **+++MISSING INFO: c.com435_437.long +++**
+
+  +++MISSING INFO: c.com435_437.desc +++
+
+- **COM 444 Independent Study in Comm Studies**
+
+  Independent research projects in communication studies. May be taken for an X status grade with consent of instructor prior to registration. May be taken more than once for credit for a maximum of 2.0 credits. A maximum of one course credit may count toward a communication studies major or minor. Prerequisite: consent of instructor. (0.5 or 1.0 course credit)
+
+- **+++MISSING INFO: c.com445_447.long +++**
+
+  +++MISSING INFO: c.com445_447.desc +++
+
+- **+++MISSING INFO: c.com455_457.long +++**
+
+  +++MISSING INFO: c.com455_457.desc +++
+
+- **+++MISSING INFO: c.com465_467.long +++**
+  
+  +++MISSING INFO: c.com465_467.desc +++
+
+- **COM 494 Internship in Journalism/Communicat**
+
+  An internship with a focus on journalism or communication supervised by a faculty member of the department. A minimum of 140 hours on-site experience is required. S/U basis only. A maximum of one credit may count toward a major or minor in communication studies or writing with the consent of department chair. Prerequisites: junior standing and consent of department chair.
 
 
 ## Computer Science
