@@ -7,14 +7,14 @@ Stead (Administrative Coordinator).
 A major in biochemistry requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 Concurrent completion of a primary major in chemistry, including Calculus II and two General Physics courses is required. Students choosing a collateral major in biochemistry may not select a collateral major in molecular biology
 
-1.{{<var c.bio145/145L.long>}}
-2.{{<var c.chm431/431L.long>}}
-3.{{<var c.chm432/432L.long>}}
+1.{{< var c.bio145/145L.long >}}
+2.{{< var c.chm431/431L.long >}}
+3.{{< var c.chm432/432L.long >}}
 4.**Two** of the following:
 
-    -{{<var c.bio325/325L.long>}}
-    -{{<var c.bio345/345L.long>}}
-    -{{<var c.bio405.long>}}
-    -{{<var c.bio435/435L.long>}}
+    -{{< var c.bio325/325L.long >}}
+    -{{< var c.bio345/345L.long >}}
+    -{{< var c.bio405.long >}}
+    -{{< var c.bio435/435L.long >}}
 
 Genetics (BIO-235) and Laboratory (BIO-235L) and all of the courses under #4 are strongly encouraged, especially for those planning graduate study.
