@@ -64,7 +64,7 @@ If degree requirements are not completed by the end of four years, students purs
 - **{{< var c.acc313.long >}}**
 {{< var c.acc313.desc >}}
 - **{{< var c.acc315.long >}}**
-{{< var c.acc315.desc >}
+{{< var c.acc315.desc >}}
 - **{{< var c.acc334.long >}}**
 {{< var c.acc334.desc >}}
 - **{{< var c.acc351.long >}}**
