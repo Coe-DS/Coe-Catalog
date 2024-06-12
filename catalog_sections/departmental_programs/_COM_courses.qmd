@@ -30,7 +30,7 @@ A major in communication studies requires a minimum cumulative 2.0 GPA in all co
     - {{< var c.com161.long >}}
     - {{< var c.com361.long >}}
     - {{< var c.com362.long >}}
-    - {{< c.com465_467.long >}}
+    - {{< var c.com465_467.long >}}
 8.	A Communication Studies course numbered 400 or above (if not used to satisfy a requirement above), excluding {{< var c.com494.long >}}
 9.	Two additional Communication Studies courses
 
