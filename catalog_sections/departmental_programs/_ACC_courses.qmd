@@ -8,18 +8,18 @@ Requirements for becoming a CPA differ from state to state. All states require t
 
 A major in managerial accounting requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 
-1.{{< var c.acc171.long >}}
-2.{{< var c.eco175.long >}}
-3.{{< var c.bus190.long >}}
-4.{{< var c.acc215.long >}}
-5.{{< var c.eco215.long >}}
-6.{{< var c.acc301.long >}}
-7.{{< var c.acc315.long >}}
-8.{{< var c.bus315.long >}}
-9.{{< var c.acc334.long >}}
-10.{{< var c.acc351.long >}}
-11.{{< var c.acc413.long >}}
-12.{{< var c.acc415.long >}}
+1. {{< var c.acc171.long >}}
+2. {{< var c.eco175.long >}}
+3. {{< var c.bus190.long >}}
+4. {{< var c.acc215.long >}}
+5. {{< var c.eco215.long >}}
+6. {{< var c.acc301.long >}}
+7. {{< var c.acc315.long >}}
+8. {{< var c.bus315.long >}}
+9. {{< var c.acc334.long >}}
+10. {{< var c.acc351.long >}}
+11. {{< var c.acc413.long >}}
+12. {{< var c.acc415.long >}}
 
 ### Public Accounting Major
 
@@ -27,165 +27,166 @@ A major in public accounting requires a minimum cumulative 2.0 GPA in all course
 
 If degree requirements are not completed by the end of four years, students pursuing a major in public accounting, who are in good academic standing, and who are full-time students, receive a 60% discount on tuition in the consecutive fifth year. They continue to be eligible to apply for student loans and any available federal and state government grants
 
-1.{{< var c.acc171.long >}}
-2.{{< var c.eco175.long >}}
-3.{{< var c.bus190.long >}}
-4.{{< var c.acc215.long >}}
-5.{{< var c.eco215.long >}}
-6.{{< var c.acc301.long >}}
-7.{{< var c.acc315.long >}}
-8.{{< var c.bus315.long >}}
-9.{{< var c.acc334.long >}}
-10.{{< var c.acc351.long >}}
-11.{{< var c.acc413.long >}}
-12.{{< var c.acc422.long >}}
-13.{{< var c.acc463.long >}}
-14.**One** of the following:
+1. {{< var c.acc171.long >}}
+2. {{< var c.eco175.long >}}
+3. {{< var c.bus190.long >}}
+4. {{< var c.acc215.long >}}
+5. {{< var c.eco215.long >}}
+6. {{< var c.acc301.long >}}
+7. {{< var c.acc315.long >}}
+8. {{< var c.bus315.long >}}
+9. {{< var c.acc334.long >}}
+10. {{< var c.acc351.long >}}
+11. {{< var c.acc413.long >}}
+12. {{< var c.acc422.long >}}
+13. {{< var c.acc463.long >}}
+14. **One** of the following:
 
-    -{{< var c.bus410.long >}}
-    -{{< var c.bus412.long >}}
-    -{{< var c.bus464.long >}}
-    -{{< var c.bus470.long >}}
+    - {{< var c.bus410.long >}}
+    - {{< var c.bus412.long >}}
+    - {{< var c.bus464.long >}}
+    - {{< var c.bus470.long >}}
 
 15.**Three** of the following:
 
-    -{{< var c.acc313.long >}}
-    -{{< var c.acc401.long >}}
-    -{{< var c.acc451.long >}}
-    -{{< var c.acc472.long >}}
+    - {{< var c.acc313.long >}}
+    - {{< var c.acc401.long >}}
+    - {{< var c.acc451.long >}}
+    - {{< var c.acc472.long >}}
 
 ### Courses in Accounting
--**{{< var c.acc171.long >}}**
+- **{{< var c.acc171.long >}}**
 {{< var c.aac171.desc >}}
--**{{< var c.acc215.long >}}**
+- **{{< var c.acc215.long >}}**
 {{< var c.acc215.desc >}}
--**{{< var c.acc301.long >}}**
+- **{{< var c.acc301.long >}}**
 {{< var c.acc301.desc >}}
--**{{< var c.acc313.long >}}**
+- **{{< var c.acc313.long >}}**
 {{< var c.acc313.desc >}}
--**{{< var c.acc315.long >}}**
+- **{{< var c.acc315.long >}}**
 {{< var c.acc315.desc >}
--**{{< var c.acc334.long >}}**
+- **{{< var c.acc334.long >}}**
 {{< var c.acc334.desc >}}
--**{{< var c.acc351.long >}}**
+- **{{< var c.acc351.long >}}**
 {{< var c.acc351.desc >}}
--**{{< var c.acc401.long >}}**
+- **{{< var c.acc401.long >}}**
 {{< var c.acc401.desc >}}
--**{{< var c.acc413.long >}}**
+- **{{< var c.acc413.long >}}**
 {{< var c.acc413.desc >}}
--**{{< var c.acc415.long >}}**
+- **{{< var c.acc415.long >}}**
 {{< var c.acc415.desc >}}
--**{{< var c.acc422.long >}}**
+- **{{< var c.acc422.long >}}**
 {{< var c.acc422.desc >}}
--**{{< var c.acc473.long >}}**
+- **{{< var c.acc473.long >}}**
 {{< var c.acc473.desc >}}
 
 ### Courses in Business
--**{{< var c.bus105.long >}}**
+
+- **{{< var c.bus105.long >}}**
 {{< var c.bus105.desc >}}
--**{{< var c.bus125.long >}}**
+- **{{< var c.bus125.long >}}**
 {{< var c.bus125.desc >}}
--**{{< var c.bus145.long >}}**
+- **{{< var c.bus145.long >}}**
 {{< var c.bus145.desc >}}
--**{{< var c.bus170.long >}}**
+- **{{< var c.bus170.long >}}**
 {{< var c.bus170.desc >}}
--**{{< var c.bus190.long >}}**
+- **{{< var c.bus190.long >}}**
 {{< var c.bus190.desc >}}
--**{{< var c.bus250.long >}}**
+- **{{< var c.bus250.long >}}**
 {{< var c.bus250.desc >}}
--**{{< var c.bus255.long >}}**
+- **{{< var c.bus255.long >}}**
 {{< var c.bus255.desc >}}
--**{{< var c.bus280.long >}}**
+- **{{< var c.bus280.long >}}**
 {{< var c.bus280.desc >}}
--**{{< var c.bus281.long >}}**
+- **{{< var c.bus281.long >}}**
 {{< var c.bus281.desc >}}
--**{{< var c.bus285.long >}}**
+- **{{< var c.bus285.long >}}**
 {{< var c.bus285.desc >}}
--**{{< var c.bus300.long >}}**
+- **{{< var c.bus300.long >}}**
 {{< var c.bus300.desc >}}
--**{{< var c.bus305.long >}}**
+- **{{< var c.bus305.long >}}**
 {{< var c.bus305.desc >}}
--**{{< var c.bus315.long >}}**
+- **{{< var c.bus315.long >}}**
 {{< var c.bus315.desc >}}
--**{{< var c.eco315.long >}}**
+- **{{< var c.eco315.long >}}**
 See @sec-economics
--**{{< var c.eco320.long >}}**
+- **{{< var c.eco320.long >}}**
 See @sec-economics
--**{{< var c.eco325.long >}}**
+- **{{< var c.eco325.long >}}**
 See @sec-economics
--**{{< var c.bus330.long >}}**
+- **{{< var c.bus330.long >}}**
 {{< var c.bus330.desc >}}
--**{{< var c.bus340.long >}}**
+- **{{< var c.bus340.long >}}**
 {{< var c.bus340.desc >}}
--**{{< var c.bus341.long >}}**
+- **{{< var c.bus341.long >}}**
 {{< var c.bus341.desc >}}
--**{{< var c.bus345.long >}}**
+- **{{< var c.bus345.long >}}**
 {{< var c.bus345.desc >}}
--**{{< var c.eco345.long >}}**
+- **{{< var c.eco345.long >}}**
 See @sec-economics
--**{{< var c.bus350.long >}}**
+- **{{< var c.bus350.long >}}**
 {{< var c.bus350.desc >}}
--**{{< var c.bus352.long >}}**
+- **{{< var c.bus352.long >}}**
 {{< var c.bus352.desc >}}
--**{{< var c.bus365.long >}}**
+- **{{< var c.bus365.long >}}**
 {{< var c.bus365.desc >}}
--**{{< var c.bus375.long >}}**
+- **{{< var c.bus375.long >}}**
 {{< var c.bus375.desc >}}
--**{{< var c.eco375.long >}}**
+- **{{< var c.eco375.long >}}**
 See @sec-economics
--**{{< var c.bus387.long >}}**
+- **{{< var c.bus387.long >}}**
 {{< var c.bus387.desc >}}
--**{{< var c.bus395.long >}}**
+- **{{< var c.bus395.long >}}**
 {{< var c.bus395.desc >}}
--**{{< var c.bus400.long >}}**
+- **{{< var c.bus400.long >}}**
 {{< var c.bus400.desc >}}
--**{{< var c.bus410.long >}}**
+- **{{< var c.bus410.long >}}**
 {{< var c.bus410.desc >}}
--**{{< var c.bus412.long >}}**
+- **{{< var c.bus412.long >}}**
 {{< var c.bus412.desc >}}
--**{{< var c.bus420.long >}}**
+- **{{< var c.bus420.long >}}**
 {{< var c.bus420.desc >}}
--**{{< var c.bus437.long >}}**
+- **{{< var c.bus437.long >}}**
 {{< var c.bus437.desc >}}
--**{{< var c.bus441.long >}}**
+- **{{< var c.bus441.long >}}**
 {{< var c.bus441.desc >}}
--**{{< var c.bus444.long >}}**
+- **{{< var c.bus444.long >}}**
 {{< var c.bus444.desc >}}
--**{{< var c.bus446.long >}}**
+- **{{< var c.bus446.long >}}**
 {{< var c.bus446.desc >}}
--**{{< var c.eco446.long >}}**
+- **{{< var c.eco446.long >}}**
 See @sec-economics
--**{{< var c.bus454.long >}}**
+- **{{< var c.bus454.long >}}**
 {{< var c.bus454.desc >}}
--**{{< var c.bus457.long >}}**
+- **{{< var c.bus457.long >}}**
 {{< var c.bus457.desc >}}
--**{{< var c.bus460.long >}}**
+- **{{< var c.bus460.long >}}**
 {{< var c.bus460.desc >}}
--**{{< var c.bus461.long >}}**
+- **{{< var c.bus461.long >}}**
 {{< var c.bus461.desc >}}
--**{{< var c.bus464.long >}}**
+- **{{< var c.bus464.long >}}**
 {{< var c.bus464.desc >}}
--**{{< var c.bus465.long >}}**
+- **{{< var c.bus465.long >}}**
 {{< var c.bus465.desc >}}
--**{{< var c.bus466.long> }}**
+- **{{< var c.bus466.long> }}**
 {{< var c.bus466.desc >}}
--**{{< var c.bus467.long >}}**
+- **{{< var c.bus467.long >}}**
 {{< var c.bus467.desc >}}
--**{{< var c.bus470.long >}}**
+- **{{< var c.bus470.long >}}**
 {{< var c.bus470.desc >}}
--**{{< var c.bus472.long >}}**
+- **{{< var c.bus472.long >}}**
 {{< var c.bus472.desc >}}
--**{{< var c.bus475.long >}}**
+- **{{< var c.bus475.long >}}**
 {{< var c.bus475.desc >}}
--**{{< var c.bus476.long >}}**
+- **{{< var c.bus476.long >}}**
 {{< var c.bus476.desc >}}
--**{{< var c.bus485.long >}}**
+- **{{< var c.bus485.long >}}**
 {{< var c.bus485.desc >}}
--**{{< var c.eco485.long >}}**
+- **{{< var c.eco485.long >}}**
 See @sec-economics
--**{{< var c.bus494.long >}}**
+- **{{< var c.bus494.long >}}**
 {{< var c.bus494.desc >}}
--**{{< var c.bus495.long >}}**
+- **{{< var c.bus495.long >}}**
 {{< var c.bus495.desc >}}
--**{{< var c.eco495.long >}}**
+- **{{< var c.eco495.long >}}**
 See @sec-economics
