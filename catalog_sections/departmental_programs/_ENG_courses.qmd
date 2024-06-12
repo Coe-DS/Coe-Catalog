@@ -7,14 +7,14 @@ In consultation with their advisors, English majors are able to design personali
 
 
 ### English Major
-A major in English requires a minimum cumulative 2.0 GPA in all courses counted toward the major.  
-1. {{< var c.eng111.long >}}  
-2. {{< var c.eng281.long >}}  
-3. {{< var c.eng291.long >}}  
-4. {{< var c.eng301.long >}}  
-5. Three English courses numbered 305 or above, one of which must be in British literature before 1800.   
-6. Two additional English course credits, one of which may be in Creative Writing or in French, or Spanish literature in translation ({{< var c.fre145.long >}}, {{< var c.fre146.long >}}, {{< var c.fre148.long >}}, {{< var c.spa148.long >}})  
-7.{{< var c.eng464.long >}} _OR_ {{< var c.eng467.long >}}
+A major in English requires a minimum cumulative 2.0 GPA in all courses counted toward the major.    
+1. {{< var c.eng111.long >}}    
+2. {{< var c.eng281.long >}}    
+3. {{< var c.eng291.long >}}    
+4. {{< var c.eng301.long >}}    
+5. Three English courses numbered 305 or above, one of which must be in British literature before 1800.     
+6. Two additional English course credits, one of which may be in Creative Writing or in French, or Spanish literature in translation ({{< var c.fre145.long >}}, {{< var c.fre146.long >}}, {{< var c.fre148.long >}}, {{< var c.spa148.long >}})    
+7.{{< var c.eng464.long >}} _OR_ {{< var c.eng467.long >}}  
 
 
 ### English Minor
