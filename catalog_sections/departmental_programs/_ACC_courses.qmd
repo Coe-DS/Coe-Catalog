@@ -8,10 +8,10 @@ Requirements for becoming a CPA differ from state to state. All states require t
 
 A major in managerial accounting requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 
-1.{{<var c.acc171.long>}}
-2.{{<var c.eco175.long>}}
-3.{{<var c.bus190.long>}}
-4.{{<var c.acc215.long>}}
+1.{{< var c.acc171.long >}}
+2.{{< var c.eco175.long >}}
+3.{{< var c.bus190.long >}}
+4.{{< var c.acc215.long >}}
 5.{{<var c.eco215.long>}}
 6.{{<var c.acc301.long>}}
 7.{{<var c.acc315.long>}}
