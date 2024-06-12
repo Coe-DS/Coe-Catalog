@@ -1,0 +1,47 @@
+## CLASSICAL STUDIES (MINOR ONLY)
+Langseth, Ziskowski (Administrative Coordinator).
+
+Classical Studies provides the student opportunity to examine the achievements of the ancient past — notably those of Greece and Rome — from a variety of distinct perspectives: literature, language, art, history, philosophy, and religion, and archaeology.  To allow for the integration of perspectives, some courses have been designed which offer an interdisciplinary approach to the study of the past; these are designated HUM (for Humanities) in the listings below.
+
+### Classical Studies Minor
+Six courses, chosen from the following, in consultation with the Classical Studies administrative coordinator.
+	
+- {{< var c.ant125.long >}}
+- {{< var c.cla108.long >}}
+- {{< var c.cla155.long >}}
+- {{< var c.cla284.long >}}
+- {{< var c.eng110.long >}}
+- {{< var c.eng115.long >}}
+- {{< var c.grk115.long >}}
+- {{< var c.grk125.long >}}
+- {{< var c.grk284_384.long >}}
+- {{< var c.his275.long >}}
+- {{< var c.his285.long >}}
+- {{< var c.his318.long >}} (when topic is appropriate, as determined by the Classical Studies administrative coordinator)
+- {{< var c.cla120.long >}}
+- {{< var c.cla130.long >}}
+- {{< var c.ltn115.long >}}
+- {{< var c.ltn125.long >}}
+- {{< var c.ltn284_384.long >}}
+- {{< var c.phl220.long >}}
+
+### COURSES IN CLASSICAL STUDIES
+- **{{< var c.cla108.long >}}**
+
+  {{< var c.cla108.desc >}} 
+
+- **{{< var c.cla120.long >}}**
+
+  {{< var c.cla120.desc >}
+
+- **{{< var c.cla130.long >}}**
+
+  {{< var c.cla130.desc >}} 
+
+- **{{< var c.cla155.long >}}**
+
+  {{< var c.cla155.desc >}}
+
+- **{{< var c.cla284.long >}}**
+
+  {{< var c.cla284.desc >}} 
