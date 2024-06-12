@@ -8,31 +8,31 @@ In addition to a major in biology, the college also offers collateral majors in 
 
 A major in biology requires a minimum cumulative 2.0 GPA over courses counted toward the major.
 
-1.{{<var c.bio145/145L.long>}}
-2.{{<var c.bio155/155L.long>}}
-3.{{<var c.bio202.long>}}
-4.{{<var c.bio205/205L.long>}}
-5.{{<var c.bio235/235L.long>}}
+1.{{< var c.bio145/145L.long >}}
+2.{{< var c.bio155/155L.long >}}
+3.{{< var c.bio202.long >}}
+4.{{< var c.bio205/205L.long >}}
+5.{{< var c.bio235/235L.long >}}
 6.**One** of the following:
 
-    -{{<var c.bio355/355L.long>}}
-    -{{<var c.bio375/375L.long>}}
+    -{{< var c.bio355/355L.long >}}
+    -{{< var c.bio375/375L.long >}}
 
 7.**Three** biology electives with the associated laboratories
-8.{{<var c.chm121/121L.long>}}
-9.{{<var c.chm122/122L.long>}}
+8.{{< var c.chm121/121L.long >}}
+9.{{< var c.chm122/122L.long >}}
 10.**One** of the following:
 
-    -{{<var c.mth132.long>}} (strongly recommended for students considering attending graduate school)
-    -{{<var c.sta100.long>}} and {{<var c.sta110.long>}}
-    -{{<var c.sta100.long>}} and {{<var c.sta130.long>}}
+    -{{< var c.mth132.long >}} (strongly recommended for students considering attending graduate school)
+    -{{< var c.sta100.long >}} and {{< var c.sta110.long >}}
+    -{{< var c.sta100.long >}} and {{< var c.sta130.long >}}
 
 11.Attendance at research seminars in junior and senior years
 
 *Strongly recommended:*
     **One** of the following sequences:
-    -{{<var c.phy165/165L.long>}} and {{<var c.phy175/175L.long>}}
-    -{{<var c.phy185/185L.long>}} and {{<var c.phy195/195L.long>}}
+    -{{< var c.phy165/165L.long >}} and {{< var c.phy175/175L.long >}}
+    -{{< var c.phy185/185L.long >}} and {{< var c.phy195/195L.long >}}
 
 With consent of the department chair, other chemistry or mathematics courses may be substituted.
 
@@ -41,144 +41,144 @@ With consent of the department chair, other chemistry or mathematics courses may
 Laboratory and field experiences are essential to scientific understanding. They offer an introduction to the processes of science, emphasizing student participation in hypothesis formulation, experimental design, data collection, data analysis, and the composition of papers in a format conventional to science. Biology majors must complete the requisite laboratory courses for the major. Students not majoring in biology should enroll in a laboratory section of any course they plan to apply to the laboratory science requirement in general education.
 
 ### Courses in Biology
--**{{<var c.bio100.long>}}**
-{{<var c.bio100.desc>}}
--**{{<var c.bio100L.long>}}**
-{{<var c.bio100L.desc>}}
--**{{<var c.bio103.long>}}**
-{{<var c.bio103.desc>}}
--**{{<var c.bio103L.long>}}**
-{{<var c.bio103L.desc>}}
--**{{<var c.bio105.long>}}**
-{{<var c.bio105.desc>}}
--**{{<var c.bio111.long>}}**
-{{<var c.bio111.desc>}}
--**{{<var c.bio111L.long>}}**
-{{<var c.bio111L.desc>}}
--**{{<var c.bio115.long>}}**
-{{<var c.bio115.desc>}}
--**{{<var c.bio120.long>}}**
-{{<var c.bio120.desc>}}
--**{{<var c.bio145.long>}}**
-{{<var c.bio145.desc>}}
--**{{<var c.bio145L.long>}}**
-{{<var c.bio145L.desc>}}
--**{{<var c.bio155.long>}}**
-{{<var c.bio155.desc>}}
--**{{<var c.bio155L.long>}}**
-{{<var c.bio155L.desc>}}
--**{{<var c.bio165.long>}}**
-{{<var c.bio165.desc>}}
--**{{<var c.bio165L.long>}}**
-{{<var c.bio165L.desc>}}
--**{{<var c.bio175.long>}}**
-{{<var c.bio175.desc>}}
--**{{<var c.bio185.long>}}**
-{{<var c.bio185.desc>}}
--**{{<var c.bio185L.long>}}**
-{{<var c.bio185L.desc>}}
--**{{<var c.bio195.long>}}**
-{{<var c.bio195.desc>}}
--**{{<var c.bio195L.long>}}**
-{{<var c.bio195L.desc>}}
--**{{<var c.bio202.long>}}**
-{{<var c.bio202.desc>}}
--**{{<var c.bio205.long>}}**
-{{<var c.bio205.desc>}}
--**{{<var c.bio205L.long>}}**
-{{<var c.bio205L.desc>}}
--**{{<var c.bio215.long>}}**
-{{<var c.bio215.desc>}}
--**{{<var c.bio215L.long>}}**
-{{<var c.bio215L.desc>}}
--**{{<var c.bio225.long>}}**
-{{<var c.bio225.desc>}}
--**{{<var c.bio235.long>}}**
-{{<var c.bio235.desc>}}
--**{{<var c.bio235L.long>}}**
-{{<var c.bio235L.desc>}}
--**{{<var c.bio275.long>}}**
-{{<var c.bio275.desc>}}
--**{{<var c.bio275L.long>}}**
-{{<var c.bio275L.desc>}}
--**{{<var c.bio285.long>}}**
-{{<var c.bio285.desc>}}
--**{{<var c.bio285L.long>}}**
-{{<var c.bio285L.desc>}}
--**{{<var c.bio295.long>}}**
-{{<var c.bio295.desc>}}
--**{{<var c.bio295L.long>}}**
-{{<var c.bio295L.desc>}}
--**{{<var c.bio315.long>}}**
-{{<var c.bio315.desc>}}
--**{{<var c.bio315L.long>}}**
-{{<var c.bio315L.desc>}}
--**{{<var c.bio325.long>}}**
-{{<var c.bio325.desc>}}
--**{{<var c.bio325L.long>}}**
-{{<var c.bio325L.desc>}}
--**{{<var c.bio335.long>}}**
-{{<var c.bio335.desc>}}
--**{{<var c.bio335L.long>}}**
-{{<var c.bio335L.desc>}}
--**{{<var c.bio345.long>}}**
-{{<var c.bio345.desc>}}
--**{{<var c.bio345L.long>}}**
-{{<var c.bio345L.desc>}}
--**{{<var c.bio355.long>}}**
-{{<var c.bio355.desc>}}
--**{{<var c.bio355L.long>}}**
-{{<var c.bio355L.desc>}}
--**{{<var c.bio365.long>}}**
-{{<var c.bio365.desc>}}
--**{{<var c.bio365L.long>}}**
-{{<var c.bio365L.desc>}}
--**{{<var c.bio375.long>}}**
-{{<var c.bio375.desc>}}
--**{{<var c.bio375L.long>}}**
-{{<var c.bio375L.desc>}}
--**{{<var c.bio385.long>}}**
-{{<var c.bio385.desc>}}
--**{{<var c.bio385L.long>}}**
-{{<var c.bio385L.desc>}}
--**{{<var c.bio405.long>}}**
-{{<var c.bio405.desc>}}
--**{{<var c.bio415.long>}}**
-{{<var c.bio415.desc>}}
--**{{<var c.bio415L.long>}}**
-{{<var c.bio415L.desc>}}
--**{{<var c.bio425.long>}}**
-{{<var c.bio425.desc>}}
--**{{<var c.bio425L.long>}}**
-{{<var c.bio425L.desc>}}
--**{{<var c.bio435.long>}}**
-{{<var c.bio435.desc>}}
--**{{<var c.bio435L.long>}}**
-{{<var c.bio435L.desc>}}
--**{{<var c.bio444.long>}}**
-{{<var c.bio444.desc>}}
--**{{<var c.bio445.long>}}**
-{{<var c.bio445.desc>}}
--**{{<var c.bio445L.long>}}**
-{{<var c.bio445L.desc>}}
--**{{<var c.bio454.long>}}**
-{{<var c.bio454.desc>}}
--**{{<var c.bio455.long>}}**
-{{<var c.bio455.desc>}}
--**{{<var c.bio455L.long>}}**
-{{<var c.bio455L.desc>}}
--**{{<var c.bio462/463.long>}}**
-{{<var c.bio462/463.desc>}}
--**{{<var c.bio465.long>}}**
-{{<var c.bio465.desc>}}
--**{{<var c.bio465L.long>}}**
-{{<var c.bio465L.desc>}}
--**{{<var c.bio494.long>}}**
-{{<var c.bio494.desc>}}
+-**{{< var c.bio100.long >}}**
+{{< var c.bio100.desc >}}
+-**{{< var c.bio100L.long >}}**
+{{< var c.bio100L.desc >}}
+-**{{< var c.bio103.long >}}**
+{{< var c.bio103.desc >}}
+-**{{< var c.bio103L.long >}}**
+{{< var c.bio103L.desc >}}
+-**{{< var c.bio105.long >}}**
+{{< var c.bio105.desc >}}
+-**{{< var c.bio111.long >}}**
+{{< var c.bio111.desc >}}
+-**{{< var c.bio111L.long >}}**
+{{< var c.bio111L.desc >}}
+-**{{< var c.bio115.long >}}**
+{{< var c.bio115.desc >}}
+-**{{< var c.bio120.long >}}**
+{{< var c.bio120.desc >}}
+-**{{< var c.bio145.long >}}**
+{{< var c.bio145.desc >}}
+-**{{< var c.bio145L.long >}}**
+{{< var c.bio145L.desc >}}
+-**{{< var c.bio155.long >}}**
+{{< var c.bio155.desc >}}
+-**{{< var c.bio155L.long >}}**
+{{< var c.bio155L.desc >}}
+-**{{< var c.bio165.long >}}**
+{{< var c.bio165.desc >}}
+-**{{< var c.bio165L.long >}}**
+{{< var c.bio165L.desc >}}
+-**{{< var c.bio175.long >}}**
+{{< var c.bio175.desc >}}
+-**{{< var c.bio185.long >}}**
+{{< var c.bio185.desc >}}
+-**{{< var c.bio185L.long >}}**
+{{< var c.bio185L.desc >}}
+-**{{< var c.bio195.long >}}**
+{{< var c.bio195.desc >}}
+-**{{< var c.bio195L.long >}}**
+{{< var c.bio195L.desc >}}
+-**{{< var c.bio202.long >}}**
+{{< var c.bio202.desc >}}
+-**{{< var c.bio205.long >}}**
+{{< var c.bio205.desc >}}
+-**{{< var c.bio205L.long >}}**
+{{< var c.bio205L.desc >}}
+-**{{< var c.bio215.long >}}**
+{{< var c.bio215.desc >}}
+-**{{< var c.bio215L.long >}}**
+{{< var c.bio215L.desc >}}
+-**{{< var c.bio225.long >}}**
+{{< var c.bio225.desc >}}
+-**{{< var c.bio235.long >}}**
+{{< var c.bio235.desc >}}
+-**{{< var c.bio235L.long >}}**
+{{< var c.bio235L.desc >}}
+-**{{< var c.bio275.long >}}**
+{{< var c.bio275.desc >}}
+-**{{< var c.bio275L.long >}}**
+{{< var c.bio275L.desc >}}
+-**{{< var c.bio285.long >}}**
+{{< var c.bio285.desc >}}
+-**{{< var c.bio285L.long >}}**
+{{< var c.bio285L.desc >}}
+-**{{< var c.bio295.long >}}**
+{{< var c.bio295.desc >}}
+-**{{< var c.bio295L.long >}}**
+{{< var c.bio295L.desc >}}
+-**{{< var c.bio315.long >}}**
+{{< var c.bio315.desc >}}
+-**{{< var c.bio315L.long >}}**
+{{< var c.bio315L.desc >}}
+-**{{< var c.bio325.long >}}**
+{{< var c.bio325.desc >}}
+-**{{< var c.bio325L.long >}}**
+{{< var c.bio325L.desc >}}
+-**{{< var c.bio335.long >}}**
+{{< var c.bio335.desc >}}
+-**{{< var c.bio335L.long >}}**
+{{< var c.bio335L.desc >}}
+-**{{< var c.bio345.long >}}**
+{{< var c.bio345.desc >}}
+-**{{< var c.bio345L.long >}}**
+{{< var c.bio345L.desc >}}
+-**{{< var c.bio355.long >}}**
+{{< var c.bio355.desc >}}
+-**{{< var c.bio355L.long >}}**
+{{< var c.bio355L.desc >}}
+-**{{< var c.bio365.long >}}**
+{{< var c.bio365.desc >}}
+-**{{< var c.bio365L.long >}}**
+{{< var c.bio365L.desc >}}
+-**{{< var c.bio375.long >}}**
+{{< var c.bio375.desc >}}
+-**{{< var c.bio375L.long >}}**
+{{< var c.bio375L.desc >}}
+-**{{< var c.bio385.long >}}**
+{{< var c.bio385.desc >}}
+-**{{< var c.bio385L.long >}}**
+{{< var c.bio385L.desc >}}
+-**{{< var c.bio405.long >}}**
+{{< var c.bio405.desc >}}
+-**{{< var c.bio415.long >}}**
+{{< var c.bio415.desc >}}
+-**{{< var c.bio415L.long >}}**
+{{< var c.bio415L.desc >}}
+-**{{< var c.bio425.long >}}**
+{{< var c.bio425.desc >}}
+-**{{< var c.bio425L.long >}}**
+{{< var c.bio425L.desc >}}
+-**{{< var c.bio435.long >}}**
+{{< var c.bio435.desc >}}
+-**{{< var c.bio435L.long >}}**
+{{< var c.bio435L.desc >}}
+-**{{< var c.bio444.long >}}**
+{{< var c.bio444.desc >}}
+-**{{< var c.bio445.long >}}**
+{{< var c.bio445.desc >}}
+-**{{< var c.bio445L.long >}}**
+{{< var c.bio445L.desc >}}
+-**{{< var c.bio454.long >}}**
+{{< var c.bio454.desc >}}
+-**{{< var c.bio455.long >}}**
+{{< var c.bio455.desc >}}
+-**{{< var c.bio455L.long >}}**
+{{< var c.bio455L.desc >}}
+-**{{< var c.bio462/463.long >}}**
+{{< var c.bio462/463.desc >}}
+-**{{< var c.bio465.long >}}**
+{{< var c.bio465.desc >}}
+-**{{< var c.bio465L.long >}}**
+{{< var c.bio465L.desc >}}
+-**{{< var c.bio494.long >}}**
+{{< var c.bio494.desc >}}
 
--**{{<var c.occ365.long>}}**
+-**{{< var c.occ365.long >}}**
 See @sec-ACM-and-international-programs
 
--**{{<var c.hss494.long>}}**
-{{<var c.hss494.desc>}}
+-**{{< var c.hss494.long >}}**
+{{< var c.hss494.desc >}}
 
