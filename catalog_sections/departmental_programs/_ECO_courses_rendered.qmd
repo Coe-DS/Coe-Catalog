@@ -26,28 +26,28 @@ A major in economics requires a minimum cumulative 2.0 GPA in all courses counte
     ECO 485 Mathematical Economics  
 
 ### Economics Minor 
-1. {{< var c.eco175 >}}
-2. {{< var c.eco215 >}}
+1. ECO 175 Principles of Macroeconomics
+2. ECO 215 Prin Microeconomics
 3. One of the following Microeconomics courses:   
-   {{< var c.eco237 >}}  
-   {{< var c.eco247 >}}  
-   {{< var c.eco345 >}}  
-   {{< var c.eco446 >}}  
-   {{< var c.eco447 >}}  
+   ECO 237 Labor Economics  
+   ECO 247 Health Economics  
+   ECO 345 Intermediate Price Theory  
+   ECO 446 International Econ  
+   ECO 447 Urban Economics  
 4.	One of the following Macroeconomics courses:   
-   {{< var c.eco225 >}}  
-   {{< var c.eco315 >}}  
-   {{< var c.eco336 >}}  
-   {{< var c.eco422 >}}  
-   {{< var c.eco495 >}}  
+   ECO 225 Money & Banking  
+   ECO 315 Intermediate Macroeconomic Theory  
+   ECO 336 Divergent Economic Growth  
+   ECO 422 Macroeconomics Policy  
+   ECO 495 International Finance  
 5. Two additional Economics courses numbered 200 or higher, with at least one of the two courses numbered 300 or higher.
 
 ### Courses in Economics
 
-{{< var c.bus340 >}};  
-{{< var c.bus341 >}};  
-{{< var c.bus441 >}};  
-{{< var c.bus495 >}};  
+BUS 340 Applied Regression Analysis;  
+BUS 341 Introductory Business Analytics;  
+BUS 441 Advanced Business Analytics;  
+BUS 495 Investment Analysis;  
 See Business Administration, Section 25.11
 
 **ECO 105 Econ & Public Int**   

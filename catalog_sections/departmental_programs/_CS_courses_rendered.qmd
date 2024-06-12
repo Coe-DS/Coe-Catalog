@@ -12,18 +12,18 @@ A major in computer science requires a minimum cumulative 2.0 GPA in all courses
 3. MTH 135 Calculus I
 4. CS 215 Anaylsis of Algorithms
 5. CS 220 Principles of Computer Systems
-6. One of the following:
-   CS 235 Net-Centric Computing
-   DS 230 Data-Centric Computing
-7. CS 245 Object Oriented Programming
-8. MTH 215 Foundations of Advanced Mathematics
-9. One Software Development Course
-   CS 390 Software Engineering
-   CS 452 Interactive System Design
-   CS 490 Mobile Computing
-10. One Systems Course 
-   CS 320 Operating Systems
-   {{< var c.cs340.long <}}
+6. One of the following:  
+   CS 235 Net-Centric Computing  
+   DS 230 Data-Centric Computing  
+7. CS 245 Object Oriented Programming  
+8. MTH 215 Foundations of Advanced Mathematics  
+9. One Software Development Course  
+   CS 390 Software Engineering  
+   CS 452 Interactive System Design  
+   CS 490 Mobile Computing  
+10. One Systems Course   
+   CS 320 Operating Systems  
+   {{< var c.cs340.long <}}  
 11. One additional Computer Science or Data Science Course numbered 300 or higher
 
 ### Computer Science Minor 
@@ -32,9 +32,9 @@ A major in computer science requires a minimum cumulative 2.0 GPA in all courses
 2. CS 135 Data Structures
 3. CS 215 Anaylsis of Algorithms
 4. CS 245 Object Oriented Programming
-5. One of the following:
-  - CS 235 Net-Centric Computing
-  - DS 230 Data-Centric Computing
+5. One of the following:  
+   CS 235 Net-Centric Computing  
+   DS 230 Data-Centric Computing  
 6. One additional Computer Science or Data Science Course numbered 300 or higher
 
 ### Courses in Computer Science 

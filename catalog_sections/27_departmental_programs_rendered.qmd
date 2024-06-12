@@ -790,7 +790,7 @@ Concentrations are offered in management, marketing, and sports management. To c
 2.	Completion of five additional courses in which a cumulative 2.0 GPA must be earned.  At least three of the five courses must be completed at Coe.
 
 ### Management Concentration in Business 
-1. {{< var c.bus250 >}}
+1. BUS 250 Principles of Management
 2. Four of the following:   
    BUS 300 Human Resource Management      
    BUS 375 Business Ethics      
@@ -1047,28 +1047,28 @@ A major in economics requires a minimum cumulative 2.0 GPA in all courses counte
     ECO 485 Mathematical Economics  
 
 ### Economics Minor 
-1. {{< var c.eco175 >}}
-2. {{< var c.eco215 >}}
+1. ECO 175 Principles of Macroeconomics
+2. ECO 215 Prin Microeconomics
 3. One of the following Microeconomics courses:   
-   {{< var c.eco237 >}}  
-   {{< var c.eco247 >}}  
-   {{< var c.eco345 >}}  
-   {{< var c.eco446 >}}  
-   {{< var c.eco447 >}}  
+   ECO 237 Labor Economics  
+   ECO 247 Health Economics  
+   ECO 345 Intermediate Price Theory  
+   ECO 446 International Econ  
+   ECO 447 Urban Economics  
 4.	One of the following Macroeconomics courses:   
-   {{< var c.eco225 >}}  
-   {{< var c.eco315 >}}  
-   {{< var c.eco336 >}}  
-   {{< var c.eco422 >}}  
-   {{< var c.eco495 >}}  
+   ECO 225 Money & Banking  
+   ECO 315 Intermediate Macroeconomic Theory  
+   ECO 336 Divergent Economic Growth  
+   ECO 422 Macroeconomics Policy  
+   ECO 495 International Finance  
 5. Two additional Economics courses numbered 200 or higher, with at least one of the two courses numbered 300 or higher.
 
 ### Courses in Economics
 
-{{< var c.bus340 >}};  
-{{< var c.bus341 >}};  
-{{< var c.bus441 >}};  
-{{< var c.bus495 >}};  
+BUS 340 Applied Regression Analysis;  
+BUS 341 Introductory Business Analytics;  
+BUS 441 Advanced Business Analytics;  
+BUS 495 Investment Analysis;  
 See Business Administration, Section 25.11
 
 **ECO 105 Econ & Public Int**   
@@ -1173,18 +1173,18 @@ A major in computer science requires a minimum cumulative 2.0 GPA in all courses
 3. MTH 135 Calculus I
 4. CS 215 Anaylsis of Algorithms
 5. CS 220 Principles of Computer Systems
-6. One of the following:
-   CS 235 Net-Centric Computing
-   DS 230 Data-Centric Computing
-7. CS 245 Object Oriented Programming
-8. MTH 215 Foundations of Advanced Mathematics
-9. One Software Development Course
-   CS 390 Software Engineering
-   CS 452 Interactive System Design
-   CS 490 Mobile Computing
-10. One Systems Course 
-   CS 320 Operating Systems
-   {{< var c.cs340.long <}}
+6. One of the following:  
+   CS 235 Net-Centric Computing  
+   DS 230 Data-Centric Computing  
+7. CS 245 Object Oriented Programming  
+8. MTH 215 Foundations of Advanced Mathematics  
+9. One Software Development Course  
+   CS 390 Software Engineering  
+   CS 452 Interactive System Design  
+   CS 490 Mobile Computing  
+10. One Systems Course   
+   CS 320 Operating Systems  
+   {{< var c.cs340.long <}}  
 11. One additional Computer Science or Data Science Course numbered 300 or higher
 
 ### Computer Science Minor 
@@ -1193,9 +1193,9 @@ A major in computer science requires a minimum cumulative 2.0 GPA in all courses
 2. CS 135 Data Structures
 3. CS 215 Anaylsis of Algorithms
 4. CS 245 Object Oriented Programming
-5. One of the following:
-  - CS 235 Net-Centric Computing
-  - DS 230 Data-Centric Computing
+5. One of the following:  
+   CS 235 Net-Centric Computing  
+   DS 230 Data-Centric Computing  
 6. One additional Computer Science or Data Science Course numbered 300 or higher
 
 ### Courses in Computer Science 
