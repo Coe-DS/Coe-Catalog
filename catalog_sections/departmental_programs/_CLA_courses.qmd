@@ -32,7 +32,7 @@ Six courses, chosen from the following, in consultation with the Classical Studi
 
 - **{{< var c.cla120.long >}}**
 
-  {{< var c.cla120.desc >}
+  {{< var c.cla120.desc >}}
 
 - **{{< var c.cla130.long >}}**
 
