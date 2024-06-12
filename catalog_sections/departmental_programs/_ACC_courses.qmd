@@ -168,7 +168,7 @@ See @sec-economics
 {{< var c.bus464.desc >}}
 - **{{< var c.bus465.long >}}**
 {{< var c.bus465.desc >}}
-- **{{< var c.bus466.long> }}**
+- **{{< var c.bus466.long >}}**
 {{< var c.bus466.desc >}}
 - **{{< var c.bus467.long >}}**
 {{< var c.bus467.desc >}}
