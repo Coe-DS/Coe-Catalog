@@ -1,0 +1,172 @@
+## Chemistry {#sec-chemistry}
+
+Ibrahim, Noreuil, St. Clair (Chair), Singleton, Stead, Stoudt.
+
+The chemistry department seeks to support Coe's mission by providing students with top-quality instruction and research opportunities.  The department offers a major and minor in [**chemistry**]{.smallcaps} as well as collateral majors in [**biochemistry**]{.smallcaps} (see p. 66), [**environmental science**]{.smallcaps} (see p. 115), and [**neuroscience**]{.smallcaps} (see p. 156).  Students considering a chemistry major may continue research in a graduate program, pursue a career in the health sciences or teach science at the secondary level.
+
+Students who receive a grade of less than "C--" in a prerequisite course are expected to consult with the instructor of the subsequent course prior to continuing in the chemistry curriculum.
+
+In addition to a major in [**chemistry**]{.smallcaps}, the chemistry department also offers an [**American chemical society certified chemistry major**]{.smallcaps} (see p. 87). This major might be considered by students interested in chemistry as a career.
+
+### Chemistry Major 
+A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+
+1. +++MISSING INFO: c.chm121_121l.long +++
+
+2. +++MISSING INFO: c.chm122_122l.long +++
+
+3. +++MISSING INFO: c.chm211_211l.long +++
+
+4. CHM 221 Organic Chemistry I
+
+5. +++MISSING INFO: c.chm341_341l.long +++
+
+6. [Three]{.underline} additional courses to be chosen from the list of advanced chemistry electives below:
+
+    - CHM 321 Organic Chemistry II
+    - CHM 322 Organic Laboratory
+    - CHM 411 Advanced Analytical Chemistry
+    - CHM 421 Advanced Organic Chemistry
+    - CHM 422 Synthesis Laboratory I
+    - +++MISSING INFO: c.chm431_431l.long +++
+    - +++MISSING INFO: c.chm432_432l.long +++
+    - CHM 441 Physical Chemistry II
+    - CHM 442 Materials Physics and Chemistry
+    - +++MISSING INFO: c.chm451_451l.long +++
+
+7. MTH-145 Calculus II
+
+8. PHY-185/185L General Physics I & Laboratory
+
+9. PHY-195/195L General Physics II & Laboratory
+
+10. [One]{.underline} of the following combinations:
+      - CHM-464 Seminar in Chemistry I **and** CHM-474 Seminar in Chemistry II
+      - OCC-365 Study and Research at Oak Ridge Laboratory **and** CHM-474 Seminar in Chemistry II
+
+*Recommended:*
+
+  - MTH-255 Calculus III
+
+### Chemistry Minor
+
+1. +++MISSING INFO: c.chm121_121l.long +++
+
+2. +++MISSING INFO: c.chm122_122l.long +++
+
+3. [Four]{.underline} chemistry electives numbered 200 or above
+
+### American Chemical Society Certified Chemistry Major 
+1. Completion of a major in chemistry, including Calculus II and two General Physics courses 
+2. All of the following:
+
+    - CHM 321 Organic Chemistry II
+    - CHM 322 Organic Laboratory
+    - CHM 422 Synthesis Laboratory I
+    - +++MISSING INFO: c.chm431_431l.long +++
+    - +++MISSING INFO: c.chm451_451l.long +++
+    
+3. Two of the following:
+
+    - CHM 411 Advanced Analytical Chemistry
+    - CHM 421 Advanced Organic Chemistry
+    - +++MISSING INFO: c.chm432_432l.long +++
+    - CHM 441 Physical Chemistry II
+    - CHM 442 Materials Physics and Chemistry
+    
+4.	One of the following:
+
+    - CHM 444 Independent Study Chemistry
+    - CHM 454 Undergraduate Summer Research
+    - OCC 365 Oak Ridge Science Semester
+
+### Courses in Chemistry
+
+- **+++MISSING INFO: c.chm103_103l.long +++
+
+  +++MISSING INFO: c.chm103_103l.desc +++
+
+- **+++MISSING INFO: c.chm111_111l.long +++**
+
+  +++MISSING INFO: c.chm111_111l.desc +++
+
+- **+++MISSING INFO: c.chm121_121l.long +++**
+
+  +++MISSING INFO: c.chm121_121l.desc +++
+
+- **+++MISSING INFO: c.chm122_122l.long +++**
+
+  +++MISSING INFO: c.chm122_122l.desc +++
+
+- **CHM 211 Analytical Chemistry** 
+
+  A study of the theory of equilibria as they apply to quantitative chemical analysis. The basic principles of spectroscopy, potentiometry, and chromatography are introduced. Three class meetings per week. Prerequisite: General Chemistry II and Laboratory (CHM-102). Corequisite: Analytical Chemistry Laboratory (CHM-211L).
+
+- **CHM 211L Analytical Chemistry Laboratory**
+
+  An introduction to experimental analytical chemistry, including titrimetric, potentiometric, spectroscopic, and chromatographic techniques. Two three-hour laboratories per week. Prerequisite: General Chemistry II and Laboratory (CHM-102). Corequisite: Analytical Chemistry (CHM-211). (0.5 course credit)
+
+- **CHM 321 Organic Chemistry II**
+
+  Covers reactions of aromatic and carbonyl compounds, amines, and carbohydreates in a continuation of Organic Chemistry I (CHM - 221). Prerequisite: Organic Chemistry I (CHM-221).
+
+- **CHM 322 Organic Laboratory**
+  
+  Introduces techniques for the separation, purification, and synthesis of organic compounds, in addition to chemical and spectroscopic methods of
+characterization. One 1.5-hour and two three-hour laboratories per week. Prerequisite: previous or concurrent registration in Organic Chemistry II (CHM-321).
+
+- **+++MISSING INFO: c.chm341_341l.long +++**
+
+  +++MISSING INFO: c.chm341_341l.desc +++
+
+- **CHM 411 Advanced Analytical Chemistry
+
+  Theory and applications of instrumental methods for chemical analysis. Methods include spectroscopy, voltammetry, advanced chromatographic methods, and mass spectrometry. Prerequisite: Physical Chemistry I (CHM-341). (Offered alternate years)
+
+- **CHM 421 Advanced Organic Chemistry
+
+  Extensive survey of synthetic and mechanistic implications of many organic reactions. Recent chemical developments and the use of the original scientific literature emphasized. Prerequisite: Organic Laboratory (CHM-322). (Offered alternate years)
+
+- **CHM 422 Synthesis Laboratory I
+
+  Synthesis and characterization, inorganic and organometallic compounds based on current chemical literature. One class meeting and two laboratories per week. Prerequisite: Organic Laboratory (CHM-322). (Offered alternate years)
+
+- **+++MISSING INFO: c.chm431_431l.long +++
+
+  +++MISSING INFO: c.chm431_431l.desc +++
+
+- **CHM 432 Protein Biochemistry
+
+  A study of the structure and function of proteins in their many biochemical roles. Topics include proteins as enzymes, messengers, antibodies, regulators, storage, structure, and transport molecules. Protein purification, protein engineering and kinetics, structure prediction, spectroscopy, and current literature topics are covered. Prerequisites: Cellular and Molecular Biology (BIO-145) and Organic Chemistry II (CHM-321). Corequisite: Protein Biochemistry Laboratory (CHM-432L). (Offered alternate years)
+
+- **CHM 432L Protein Biochemistry Laboratory
+
+  Advanced methods and tools of protein purification and analysis, protein engineering and kinetics. One three-hour laboratory period per week. Corequisite: Protein Biochemistry (CHM-432). (0.2 course credit)
+
+- **CHM 441 Physical Chemistry II
+
+  Study of quantum mechanics, molecular spectroscopy, rates and mechanisms of chemical reactions and thermodynamics of change and equilibrium from classical and statistical perspectives. Prerequisite: Physical Chemistry I (CHM-341) or consent of instructor.
+
+- **CHM 444 Independent Study Chemistry
+
+  Research on a selected project directed by a member of the department, including library research, laboratory investigation, and submission of a research report. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisite: consent of instructor.
+
+- **CHM 451 Inorganic Chemistry
+
+  Structures and properties of selected ionic and covalent inorganic substances, coordination complexes and electron deficient compounds, general acid base theory, and inorganic reactions in solution. Prerequisite: Physical Chemistry I (CHM-341). (Offered alternate years)
+
+- **CHM 451L Inorganic Chemistry Laboratory
+
+  Advanced methods for the synthesis and characterization of main group and transition metal compounds. Synthesis techniques include high temperature and inert atmosphere methods, while characterization methods include electrochemistry, multinuclear NMR, and Raman spectroscopy. One three-hour laboratory period per week. Prerequisite: previous or concurrent registration in Inorganic Chemistry (CHM-451). (0.2 course credit) (Offered alternate years)
+
+- **CHM 454 Undergraduate Summer Research
+
+  Prerequisite: consent of department chair.
+
+- **+++MISSING INFO: c.chm464_474.long +++
+
+  +++MISSING INFO: c.chm464_474.desc +++
+
+- **CHM 494 Internship in Chemistry
+
+  Investigation of an area of interest through voluntary field placement supervised by a faculty member of the department. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major in chemistry. Prerequisite: completion of a chemistry minor or junior standing and consent of department chair.

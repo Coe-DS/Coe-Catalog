@@ -7,14 +7,14 @@ In consultation with their advisors, English majors are able to design personali
 
 
 ### English Major
-A major in English requires a minimum cumulative 2.0 GPA in all courses counted toward the major.  
-1. ENG 111 Introduction to Literary Studies  
-2. ENG 281 Literatures in English to 1800  
-3. ENG 291 Literatures in English after 1800  
-4. ENG 301 The Art of Literary Research  
-5. Three English courses numbered 305 or above, one of which must be in British literature before 1800.   
-6. Two additional English course credits, one of which may be in Creative Writing or in French, or Spanish literature in translation (FRE 145 French Literature in Translation, FRE 146 French Literature Translation:NWP, FRE 148 French Literature Translation:DWP, SPA 148 Spanish Literature in Translation)  
-7.ENG 464 Seminar in Literature _OR_ ENG 467 Seminar inLit:USPluralism
+A major in English requires a minimum cumulative 2.0 GPA in all courses counted toward the major.    
+1. ENG 111 Introduction to Literary Studies    
+2. ENG 281 Literatures in English to 1800    
+3. ENG 291 Literatures in English after 1800    
+4. ENG 301 The Art of Literary Research    
+5. Three English courses numbered 305 or above, one of which must be in British literature before 1800.     
+6. Two additional English course credits, one of which may be in Creative Writing or in French, or Spanish literature in translation (FRE 145 French Literature in Translation, FRE 146 French Literature Translation:NWP, FRE 148 French Literature Translation:DWP, SPA 148 Spanish Literature in Translation)    
+7.ENG 464 Seminar in Literature _OR_ ENG 467 Seminar inLit:USPluralism  
 
 
 ### English Minor
@@ -45,6 +45,7 @@ and expository writing. This course introduces terms and skills necessary for fu
 - **ENG 127 Social Justice and Literature**
   Study of literary works that represent and reimagine issues of human rights in the twentieth and twenty-first centuries.  
 - **ENG 137 African American Literature**
+  See also African American Studies (AAM-137), Section 25.3.3
   Reading and discussion of the writings of African Americans, with emphasis on the twentieth century. May include some relevant writings on African Americans by other groups. Study of the artistic values and of the social and cultural significance of these writings. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different.  
 - **ENG 146 Intro Postcolonial Literature**
   Study of twentieth-century prose and poetry arising out of the cultural, social, economic, and legal harms of imperialism and colonization.  
@@ -75,6 +76,7 @@ and expository writing. This course introduces terms and skills necessary for fu
 - **ENG 357 Studies in Latinx/ChicanxLiterature**
   Reviews selected works of literature by Latina/os and Chicana/os. Students explore through reading and discussion methods and concepts relating to human rights, coloniality, diaspora, Latinidad and/or linguistic philosophy to better understand the lived experiences, identities, and cultures of Latinx and Chicanx communities in the U.S. Specific topics vary from year to year.  
 - **ENG 367 Studies in African Am Literature**
+  See Also African American Studies (AAM-367), Section 25.3.3
   See also African American Studies (AAM-367), 
 Course focuses on specific literary genres or time periods and functions as an intermediate course between the introductory African American Literature (AAM/ENG-267) and the advanced English seminar (particularly Seminar in Literature: United States Pluralism (ENG-707)). Students read and discuss both primary and secondary sources in an effort to gain a fuller understanding and appreciation of the artistic values and of the social and cultural significance of these writings. Specific topics vary from year to year. Possible topics include African American Historical Fiction, African American Speculative Fiction, Literature of the Civil Rights Era, and the African American Bildungsroman. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
 - **ENG 375 Study in European Literature**
