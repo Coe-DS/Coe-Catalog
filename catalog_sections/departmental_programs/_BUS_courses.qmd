@@ -17,22 +17,22 @@ A major in business administration requires a minimum cumulative 2.0 GPA in all 
 4. {{< var c.acc215.long >}}
 5. {{< var c.eco215.long >}}
 6. {{< var c.bus315.long >}}
-7. One of the following Management courses: 
-   {{< var c.bus250.long >}}
-   {{< var c.bus300.long >}}
-   {{< var c.bus387.long >}}
-   {{< var c.bus470.long >}}
-8. One of the following Marketing courses: 
-   {{< var c.bus330.long >}}
-   {{< var c.bus460.long >}}
-   {{< var c.bus465.long >}}
-   {{< var c.bus467.long >}}
+7. One of the following Management courses:    
+   {{< var c.bus250.long >}}  
+   {{< var c.bus300.long >}}  
+   {{< var c.bus387.long >}}  
+   {{< var c.bus470.long >}}    
+8. One of the following Marketing courses:   
+   {{< var c.bus330.long >}}  
+   {{< var c.bus460.long >}}  
+   {{< var c.bus465.long >}}  
+   {{< var c.bus467.long >}}  
 9. One of the following Finance courses
-   {{< var c.eco225.long >}}
-   {{< var c.bus350.long >}}
-   {{< var c.bus352.long >}}
-   {{< var c.bus495.long >}}
-   {{< var c.eco495.long >}}
+   {{< var c.eco225.long >}}  
+   {{< var c.bus350.long >}}  
+   {{< var c.bus352.long >}}  
+   {{< var c.bus495.long >}}  
+   {{< var c.eco495.long >}}  
 10. Two additional business courses numbered 200 or above
 
 Students planning to attend graduate school in business are strongly encouraged to take calculus, additional statistics courses, intermediate level macro/microeconomics, quantitative management courses, and strategic management. Students should also discuss their graduate school plans with a member of the department to determine other courses that may be expected for admission to specific graduate programs
