@@ -19,7 +19,7 @@ A major in economics requires a minimum cumulative 2.0 GPA in all courses counte
   ECO 336 Divergent Economic Growth  
   ECO 422 Macroeconomics Policy  
   ECO 465 Public Finance  
-8.	One of the following Quantitative or History courses:  
+8. One of the following Quantitative or History courses:  
   Quantitative courses:  
     ECO 435 Time Series Analysis  
     ECO 445 Econometrics II (WE)  
