@@ -1,1 +1,141 @@
 ## Communications Studies {#sec-communication-studies}
+Carr (Chair), Donofrio, Harmsen, , J. Nesmith, Opayemi, Spikes
+
+The aim of the major in communication studies is to provide a background of theory and practice in oral and mediated communication.  In their study of formal and informal oral, print and digital environments, students will learn to communicate ethically, responsibly and effectively for diverse audiences in multiple contexts.
+
+### Communication Studies Major
+A major in communication studies requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+
+1. COM-125 Fundamentals of Public Speaking
+2. One methods course:
+    - {{< var c.com381.long >}}
+    - {{< var c.rhe382.short >}}/{{< var c.com382.long >}}
+3. RHE-200 Rhetorical Theory & Practice
+4. One course in relational communication:
+    - {{< var c.com236.long >}}
+    - {{< var c.com237.long >}}
+    - {{< var c.com337.long >}}
+    - {{< var c.com435_437.long >}}
+5. One course in production:
+    - {{< var c.com241.long >}}
+    - {{< var c.com341.long >}}
+    - {{< var c.com445_447.long >}}
+    - {{< var c.rhe225.long >}}
+6. One course in media studies:
+    - {{< var c.com151.long >}}
+    - {{< var c.com157.long >}}
+    - {{< var c.com357.long >}}
+    - {{< var c.com455_457.long >}}
+7. One course in public discourse:
+    - {{< var c.com161.long >}}
+    - {{< var c.com361.long >}}
+    - {{< var c.com362.long >}}
+    - {{< c.com465_467.long >}}
+8.	A Communication Studies course numbered 400 or above (if not used to satisfy a requirement above), excluding {{< var c.com494.long >}}
+9.	Two additional Communication Studies courses
+
+### Communication Studies Minor
+A minor in communication studies requires a minimum cumulative 2.0 GPA in all courses counted toward the minor. 
+
+1. COM-125 Fundamentals of Public Speaking {{< var c.com125.long >}}
+2. One methods course:
+    - {{< var c.com381.long >}}
+    - {{< var c.com382.short >}}/{{< var c.rhe382.long >}}
+3. {{< var c.rhe200.long >}}
+4.	Two additional Communication Studies courses (any of the courses that count toward the Communication Studies major or any COM prefix courses)
+
+### COURSES IN COMMUNICATION STUDIES
+
+- **{{< var c.com125.long >}}**
+
+  {{< var c.com125.desc >}}
+ 
+- **{{< var c.com151.long >}}**
+
+  {{< var c.com151.desc >}} 
+
+- **{{< var c.com157.long >}}**
+
+  {{< var c.com157.desc >}}
+
+- **{{< var c.com161.long >}}**
+
+  {{< var c.com161.desc >}}
+
+- **{{< var c.com210.long >}}**
+
+  {{< var c.com210.desc >}}
+
+- **{{< var c.com236.long >}}**
+
+  {{< var c.com236.desc >}} 
+
+- **{{< var c.com237.long >}}**
+
+  {{< var c.com237.desc >}}
+
+- **{{< var c.com241.long >}}**
+
+  {{< var c.com241.desc >}}
+
+- **{{< var c.com332.long >}}**
+
+  {{< var c.com332.desc >}}
+
+- **{{< var c.com337.long >}}**
+
+  {{< var c.com337.desc >}}
+
+- **{{< var c.com341.long >}}**
+
+  {{< var c.com341.desc >}}
+
+- **{{< var c.com357.long >}}**
+
+  {{< var c.com357.desc >}}
+
+- **{{< var c.com361.long >}}**
+
+  {{< var c.com361.desc >}}
+
+- **{{< var c.com362.long >}}**
+
+  {{< var c.com362.desc >}}
+
+- **{{< var c.com381.long >}}**
+
+  {{< var c.com381.desc >}} 
+
+- **{{< var c.com382.long >}}**
+
+  See also Writing (RHE-382), p. 185
+
+  {{< var c.com382.desc >}}
+
+- **{{< var c.com394.long >}}**
+
+  {{< var c.com394.desc >}}
+
+- **{{< var c.com435_437.long >}}**
+
+  {{< var c.com435_437.desc >}}
+
+- **{{< var c.com444.long >}}**
+
+  {{< var c.com444.desc >}}
+
+- **{{< var c.com445_447.long >}}**
+
+  {{< var c.com445_447.desc >}}
+
+- **{{< var c.com455_457.long >}}**
+
+  {{< var c.com455_457.desc >}}
+
+- **{{< var c.com465_467.long >}}**
+  
+  {{< var c.com465_467.desc >}}
+
+- **{{< var c.com494.long >}}**
+
+  {{< var c.com494.desc >}}
