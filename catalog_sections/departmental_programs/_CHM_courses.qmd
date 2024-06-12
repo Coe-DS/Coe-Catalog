@@ -1,0 +1,171 @@
+## Chemistry {#sec-chemistry}
+
+Ibrahim, Noreuil, St. Clair (Chair), Singleton, Stead, Stoudt.
+
+The chemistry department seeks to support Coe's mission by providing students with top-quality instruction and research opportunities.  The department offers a major and minor in [**chemistry**]{.smallcaps} as well as collateral majors in [**biochemistry**]{.smallcaps} (see p. 66), [**environmental science**]{.smallcaps} (see p. 115), and [**neuroscience**]{.smallcaps} (see p. 156).  Students considering a chemistry major may continue research in a graduate program, pursue a career in the health sciences or teach science at the secondary level.
+
+Students who receive a grade of less than "C--" in a prerequisite course are expected to consult with the instructor of the subsequent course prior to continuing in the chemistry curriculum.
+
+In addition to a major in [**chemistry**]{.smallcaps}, the chemistry department also offers an [**American chemical society certified chemistry major**]{.smallcaps} (see p. 87). This major might be considered by students interested in chemistry as a career.
+
+### Chemistry Major 
+A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+
+1. {{< var c.chm121_121l.long >}}
+
+2. {{< var c.chm122_122l.long >}}
+
+3. {{< var c.chm211_211l.long >}}
+
+4. {{< var c.chm221.long >}}
+
+5. {{< var c.chm341_341l.long >}}
+
+6. [Three]{.underline} additional courses to be chosen from the list of advanced chemistry electives below:
+
+    - {{< var c.chm321.long >}}
+    - {{< var c.chm322.long >}}
+    - {{< var c.chm411.long >}}
+    - {{< var c.chm421.long >}}
+    - {{< var c.chm422.long >}}
+    - {{< var c.chm431_431l.long >}}
+    - {{< var c.chm432_432l.long >}}
+    - {{< var c.chm441.long >}}
+    - {{< var c.chm442.long >}}
+    - {{< var c.chm451_451l.long >}}
+
+7. MTH-145 Calculus II
+
+8. PHY-185/185L General Physics I & Laboratory
+
+9. PHY-195/195L General Physics II & Laboratory
+
+10. [One]{.underline} of the following combinations:
+      - CHM-464 Seminar in Chemistry I **and** CHM-474 Seminar in Chemistry II
+      - OCC-365 Study and Research at Oak Ridge Laboratory **and** CHM-474 Seminar in Chemistry II
+
+*Recommended:*
+
+  - MTH-255 Calculus III
+
+### Chemistry Minor
+
+1. {{< var c.chm121_121l.long >}}
+
+2. {{< var c.chm122_122l.long >}}
+
+3. [Four]{.underline} chemistry electives numbered 200 or above
+
+### American Chemical Society Certified Chemistry Major 
+1. Completion of a major in chemistry, including Calculus II and two General Physics courses 
+2. All of the following:
+
+    - {{< var c.chm321.long >}}
+    - {{< var c.chm322.long >}}
+    - {{< var c.chm422.long >}}
+    - {{< var c.chm431_431l.long >}}
+    - {{< var c.chm451_451l.long >}}
+    
+3. Two of the following:
+
+    - {{< var c.chm411.long >}}
+    - {{< var c.chm421.long >}}
+    - {{< var c.chm432_432l.long >}}
+    - {{< var c.chm441.long >}}
+    - {{< var c.chm442.long >}}
+    
+4.	One of the following:
+
+    - {{< var c.chm444.long >}}
+    - {{< var c.chm454.long >}}
+    - {{< var c.occ365.long >}}
+
+### Courses in Chemistry
+
+- **{{< var c.chm103_103l.long >}}
+
+  {{< var c.chm103_103l.desc >}}
+
+- **{{< var c.chm111_111l.long >}}**
+
+  {{< var c.chm111_111l.desc >}}
+
+- **{{< var c.chm121_121l.long >}}**
+
+  {{< var c.chm121_121l.desc >}}
+
+- **{{< var c.chm122_122l.long >}}**
+
+  {{< var c.chm122_122l.desc >}}
+
+- **{{< var c.chm211.long >}}** 
+
+  {{< var c.chm211.desc >}}
+
+- **{{< var c.chm211l.long >}}**
+
+  {{< var c.chm211l.desc >}}
+
+- **{{< var c.chm321.long >}}**
+
+  {{< var c.chm321.desc >}}
+
+- **{{< var c.chm322.long >}}**
+  
+  {{< var c.chm322.desc >}}
+
+- **{{< var c.chm341_341l.long >}}**
+
+  {{< var c.chm341_341l.desc >}}
+
+- **{{< var c.chm411.long >}}
+
+  {{< var c.chm411.desc >}}
+
+- **{{< var c.chm421.long >}}
+
+  {{< var c.chm421.desc >}}
+
+- **{{< var c.chm422.long >}}
+
+  {{< var c.chm422.desc >}}
+
+- **{{< var c.chm431_431l.long >}}
+
+  {{< var c.chm431_431l.desc >}}
+
+- **{{< var c.chm432.long >}}
+
+  {{< var c.chm432.desc >}}
+
+- **{{< var c.chm432l.long >}}
+
+  {{< var c.chm432l.desc >}}
+
+- **{{< var c.chm441.long >}}
+
+  {{< var c.chm441.desc >}}
+
+- **{{< var c.chm444.long >}}
+
+  {{< var c.chm444.desc >}}
+
+- **{{< var c.chm451.long >}}
+
+  {{< var c.chm451.desc >}}
+
+- **{{< var c.chm451l.long >}}
+
+  {{< var c.chm451l.desc >}}
+
+- **{{< var c.chm454.long >}}
+
+  {{< var c.chm454.desc >}}
+
+- **{{< var c.chm464_474.long >}}
+
+  {{< var c.chm464_474.desc >}}
+
+- **{{< var c.chm494.long >}}
+
+  {{< var c.chm494.desc >}}
