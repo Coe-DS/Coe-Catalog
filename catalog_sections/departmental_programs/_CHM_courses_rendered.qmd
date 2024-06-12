@@ -2,11 +2,11 @@
 
 Ibrahim, Noreuil, St. Clair (Chair), Singleton, Stead, Stoudt.
 
-The chemistry department seeks to support Coe's mission by providing students with top-quality instruction and research opportunities.  The department offers a major and minor in [**chemistry**]{.smallcaps} as well as collateral majors in [**biochemistry**]{.smallcaps} (see p. 66), [**environmental science**]{.smallcaps} (see p. 115), and [**neuroscience**]{.smallcaps} (see p. 156).  Students considering a chemistry major may continue research in a graduate program, pursue a career in the health sciences or teach science at the secondary level.
+The chemistry department seeks to support Coe's mission by providing students with top-quality instruction and research opportunities.  The department offers a major and minor in **Chemistry** as well as collateral majors in **Biochemistry** (see p. 66), **Environmental Science** (see p. 115), and **Neuroscience** (see p. 156).  Students considering a chemistry major may continue research in a graduate program, pursue a career in the health sciences or teach science at the secondary level.
 
 Students who receive a grade of less than "C--" in a prerequisite course are expected to consult with the instructor of the subsequent course prior to continuing in the chemistry curriculum.
 
-In addition to a major in [**chemistry**]{.smallcaps}, the chemistry department also offers an [**American chemical society certified chemistry major**]{.smallcaps} (see p. 87). This major might be considered by students interested in chemistry as a career.
+In addition to a major in **Chemistry**, the chemistry department also offers an **American chemical society certified chemistry major** (see p. 87). This major might be considered by students interested in chemistry as a career.
 
 ### Chemistry Major 
 A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
@@ -21,7 +21,7 @@ A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counte
 
 5. +++MISSING INFO: c.chm341_341l.long +++
 
-6. [Three]{.underline} additional courses to be chosen from the list of advanced chemistry electives below:
+6. **Three** additional courses to be chosen from the list of advanced chemistry electives below:
 
     - CHM 321 Organic Chemistry II
     - CHM 322 Organic Laboratory
@@ -40,7 +40,7 @@ A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counte
 
 9. PHY-195/195L General Physics II & Laboratory
 
-10. [One]{.underline} of the following combinations:
+10. **One** of the following combinations:
       - CHM-464 Seminar in Chemistry I **and** CHM-474 Seminar in Chemistry II
       - OCC-365 Study and Research at Oak Ridge Laboratory **and** CHM-474 Seminar in Chemistry II
 
@@ -54,7 +54,7 @@ A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counte
 
 2. +++MISSING INFO: c.chm122_122l.long +++
 
-3. [Four]{.underline} chemistry electives numbered 200 or above
+3. **Four** chemistry electives numbered 200 or above
 
 ### American Chemical Society Certified Chemistry Major 
 1. Completion of a major in chemistry, including Calculus II and two General Physics courses 

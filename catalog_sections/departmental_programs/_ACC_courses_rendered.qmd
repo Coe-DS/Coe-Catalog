@@ -47,7 +47,7 @@ If degree requirements are not completed by the end of four years, students purs
     - BUS 464 Seminar in Management
     - BUS 470 Strategic Management
 
-15.**Three** of the following:
+15. **Three** of the following:
 
     - ACC 313 Fraud Examination
     - ACC 401 Fund Acctg & Adv Top
@@ -169,7 +169,7 @@ A continuation of the study of marketing principles with special emphasis on und
 Development of written and oral communication proficiency through an intensive study of one or more selected topics in management. Topics are studied through the use of readings, class discussions, writings, and presentations, and vary from term to term. May be taken more than once for credit, provided the topics are substantially different. Prerequisites: senior standing and at least one course in management [Principles of Management (BUS-250), Human Resource Management (BUS-300), or Organizational Behavior (BUS-395)], or consent of instructor.
 - **BUS 465 Advanced Topics in Marketing**
 An advanced study of a major topic in marketing. May be take more than once for credit, provided the topics are substantially different. Example topics: marketing research, international marketing, and sales management. Prerequisite: Marketing (BUS-355).
-- **{{< var c.bus466.long> }}**
+- **BUS 466 Adv Top Mrktg:non-west persp**
 Same as Advanced Topics in Marketing (BUS-465), except the course focuses on topics related to non-Western cultures.
 - **BUS 467 Consumer Behavior**
 A study of the behavioral aspects of marketing with an emphasis on consumer markets. Various models of consumer decision-making are examined. Influences on consumer behavior are studied from both an individual perspective, including topics such as personality, perception, learning and attitudes, and a social perspective, including topics such as culture, social class, reference groups, and family. Prerequisite: Marketing (BUS-355).

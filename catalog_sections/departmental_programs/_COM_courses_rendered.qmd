@@ -30,7 +30,7 @@ A major in communication studies requires a minimum cumulative 2.0 GPA in all co
     - COM 161 Visual Rhetoric
     - COM 361 Communication & Social Change
     - COM 362 U.S. Public Address
-    - {{< c.com465_467.long >}}
+    - +++MISSING INFO: c.com465_467.long +++
 8.	A Communication Studies course numbered 400 or above (if not used to satisfy a requirement above), excluding COM 494 Internship in Journalism/Communicat
 9.	Two additional Communication Studies courses
 

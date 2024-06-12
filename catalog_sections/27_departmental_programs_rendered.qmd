@@ -889,7 +889,7 @@ If degree requirements are not completed by the end of four years, students purs
     - BUS 464 Seminar in Management
     - BUS 470 Strategic Management
 
-15.**Three** of the following:
+15. **Three** of the following:
 
     - ACC 313 Fraud Examination
     - ACC 401 Fund Acctg & Adv Top
@@ -1011,7 +1011,7 @@ A continuation of the study of marketing principles with special emphasis on und
 Development of written and oral communication proficiency through an intensive study of one or more selected topics in management. Topics are studied through the use of readings, class discussions, writings, and presentations, and vary from term to term. May be taken more than once for credit, provided the topics are substantially different. Prerequisites: senior standing and at least one course in management [Principles of Management (BUS-250), Human Resource Management (BUS-300), or Organizational Behavior (BUS-395)], or consent of instructor.
 - **BUS 465 Advanced Topics in Marketing**
 An advanced study of a major topic in marketing. May be take more than once for credit, provided the topics are substantially different. Example topics: marketing research, international marketing, and sales management. Prerequisite: Marketing (BUS-355).
-- **{{< var c.bus466.long> }}**
+- **BUS 466 Adv Top Mrktg:non-west persp**
 Same as Advanced Topics in Marketing (BUS-465), except the course focuses on topics related to non-Western cultures.
 - **BUS 467 Consumer Behavior**
 A study of the behavioral aspects of marketing with an emphasis on consumer markets. Various models of consumer decision-making are examined. Influences on consumer behavior are studied from both an individual perspective, including topics such as personality, perception, learning and attitudes, and a social perspective, including topics such as culture, social class, reference groups, and family. Prerequisite: Marketing (BUS-355).
@@ -1172,11 +1172,11 @@ See Business Administration, Section 25.11
 
 Ibrahim, Noreuil, St. Clair (Chair), Singleton, Stead, Stoudt.
 
-The chemistry department seeks to support Coe's mission by providing students with top-quality instruction and research opportunities.  The department offers a major and minor in [**chemistry**]{.smallcaps} as well as collateral majors in [**biochemistry**]{.smallcaps} (see p. 66), [**environmental science**]{.smallcaps} (see p. 115), and [**neuroscience**]{.smallcaps} (see p. 156).  Students considering a chemistry major may continue research in a graduate program, pursue a career in the health sciences or teach science at the secondary level.
+The chemistry department seeks to support Coe's mission by providing students with top-quality instruction and research opportunities.  The department offers a major and minor in **Chemistry** as well as collateral majors in **Biochemistry** (see p. 66), **Environmental Science** (see p. 115), and **Neuroscience** (see p. 156).  Students considering a chemistry major may continue research in a graduate program, pursue a career in the health sciences or teach science at the secondary level.
 
 Students who receive a grade of less than "C--" in a prerequisite course are expected to consult with the instructor of the subsequent course prior to continuing in the chemistry curriculum.
 
-In addition to a major in [**chemistry**]{.smallcaps}, the chemistry department also offers an [**American chemical society certified chemistry major**]{.smallcaps} (see p. 87). This major might be considered by students interested in chemistry as a career.
+In addition to a major in **Chemistry**, the chemistry department also offers an **American chemical society certified chemistry major** (see p. 87). This major might be considered by students interested in chemistry as a career.
 
 ### Chemistry Major 
 A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
@@ -1191,7 +1191,7 @@ A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counte
 
 5. +++MISSING INFO: c.chm341_341l.long +++
 
-6. [Three]{.underline} additional courses to be chosen from the list of advanced chemistry electives below:
+6. **Three** additional courses to be chosen from the list of advanced chemistry electives below:
 
     - CHM 321 Organic Chemistry II
     - CHM 322 Organic Laboratory
@@ -1210,7 +1210,7 @@ A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counte
 
 9. PHY-195/195L General Physics II & Laboratory
 
-10. [One]{.underline} of the following combinations:
+10. **One** of the following combinations:
       - CHM-464 Seminar in Chemistry I **and** CHM-474 Seminar in Chemistry II
       - OCC-365 Study and Research at Oak Ridge Laboratory **and** CHM-474 Seminar in Chemistry II
 
@@ -1224,7 +1224,7 @@ A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counte
 
 2. +++MISSING INFO: c.chm122_122l.long +++
 
-3. [Four]{.underline} chemistry electives numbered 200 or above
+3. **Four** chemistry electives numbered 200 or above
 
 ### American Chemical Society Certified Chemistry Major 
 1. Completion of a major in chemistry, including Calculus II and two General Physics courses 
@@ -1426,7 +1426,7 @@ A major in communication studies requires a minimum cumulative 2.0 GPA in all co
     - COM 161 Visual Rhetoric
     - COM 361 Communication & Social Change
     - COM 362 U.S. Public Address
-    - {{< c.com465_467.long >}}
+    - +++MISSING INFO: c.com465_467.long +++
 8.	A Communication Studies course numbered 400 or above (if not used to satisfy a requirement above), excluding COM 494 Internship in Journalism/Communicat
 9.	Two additional Communication Studies courses
 
@@ -1562,7 +1562,7 @@ A major in computer science requires a minimum cumulative 2.0 GPA in all courses
    CS 490 Mobile Computing  
 10. One Systems Course   
    CS 320 Operating Systems  
-   {{< var c.cs340.long <}}  
+   CS 340 Programming Languages  
 11. One additional Computer Science or Data Science Course numbered 300 or higher
 
 ### Computer Science Minor 
