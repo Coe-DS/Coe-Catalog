@@ -906,7 +906,7 @@ An in-depth study of financial accounting topics. Emphasis is on income determin
 - **ACC 313 Fraud Examination**
 An examination of real world cases that represent the many types of accounting fraud in order to gain an understanding of the behavioral and social factors that motivate offenders. Emphasis is placed on understanding the exposures to loss and the appropriate prevention, detection, and investigation approaches, including legal requirements for testifying as an expert witness. Prerequisites: Principles of Accounting II (ACC-215) or consent of instructor. (Offered alternate years)
 - **ACC 315 Managerial Accounting**
-{{< var c.acc315.desc >}
+A study of the principles of managerial accounting and the methods of analyzing financial information. Includes analyses of accounting for the costs of production and the use of various decision models for planning and control. Prerequisite: Principles of Accounting II (ACC-215).
 - **ACC 334 Computer Applications - Accounting**
 An introduction to specialized accounting software used in financial accounting, tax accounting, and auditing. Application of generalized software to topics covered in managerial accounting and financial accounting. S/U basis only. Prerequisites: Computers in Business (BUS-125) or knowledge of Excel, junior standing, and completion of at least three upper-level accounting courses or consent of instructor. (0.5 course credit)
 - **ACC 351 Intermediate Accounting II**
