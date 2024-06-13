@@ -7,6 +7,7 @@ The following requirements are designed to provide a framework within which the 
 2. **One** of the following:
 
 	-{{< var c.lit464.long >}}
+
 	-A course by arrangement chosen in consultation with Literature Administrative Coordinator
 
 3. **Two** world language courses in the same language, intermediate or advanced, taken at Coe College with permission of Literature Administrative Coordinator.  
@@ -16,15 +17,21 @@ The following requirements are designed to provide a framework within which the 
 	a) **At least** four courses from the following list: 
 
 		-courses in literature in translation
+
 		-courses in English and American literature and in creative writing offered by the English department 
+
 		-literature courses taught in a world language
+
 		-linguistics courses offered by the English or world language departments
+
 		-Independent Study
 
 	b) **One or more** courses from the following list of core courses to bring the total number of elective courses to six:
 
 		-{{< var c.aam137.long >}} or {{< var c.eng137.long >}}
+
 		-{{< var c.eng110.long >}}
+
 		-{{< var c.eng207.long >}}
 
 ### Senior Seminar Course
