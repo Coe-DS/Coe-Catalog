@@ -69,7 +69,7 @@ Concentrations are offered in management, marketing, and sports management. To c
    {{< var c.bus454.long >}}  
    {{< var c.pr205.long >}}  
 
-### Sports Management Concentration in Business
+### Sports Management Concentration in Business {#sec-sports-management-concentration}
 1. {{< var c.smt100.long >}}  
 2. Four of the following:   
    {{< var c.bus400.long >}}   
