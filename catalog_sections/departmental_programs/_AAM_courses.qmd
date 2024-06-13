@@ -11,46 +11,47 @@ A major in African American studies requires a minimum cumulative 2.0 GPA in all
 2. {{< var c.aam/eng137.long >}} 
 3. {{< var c.his347.long >}} 
 4. One of the following: 
-
-  - {{< var c.his145.long >}} 
-  - {{< var c.his155.long >}} 
-  - {{< var c.his227.long >}} 
+  	- {{< var c.his145.long >}} 
+  	- {{< var c.his155.long >}} 
+  	- {{< var c.his227.long >}} 
     
 5. Five additional courses, at least three of which are numbered 200 or above, chosen from the following: 
-  -**(a)** Elective courses:
-    - {{< var c.aam217.long >}} 
-    - {{< var c.aam287.long >}} 
-    - {{< var c.aam367.long >}} 
-    - {{< var c.aam387.long >}} 
-    - {{< var c.aam447/457.long >}} 
-    - {{< var c.aam467.long >}} 
-    - {{< var c.aam494.long >}} 
-    - {{< var c.com236.long >}} 
-    - {{< var c.com357.long >}} 
-    - {{< var c.edu187.long >}} 
-    - {{< var c.his145.long >}} 
-    - {{< var c.his155.long >}} 
-    - {{< var c.his227.long >}} 
-    - {{< var c.mu157.long >}} 
-    - {{< var c.soc247.long >}} 
+	- **a.** Elective courses:
+		- {{< var c.aam217.long >}} 
+		- {{< var c.aam287.long >}} 
+		- {{< var c.aam367.long >}} 
+		- {{< var c.aam387.long >}} 
+		- {{< var c.aam447/457.long >}} 
+		- {{< var c.aam467.long >}} 
+		- {{< var c.aam494.long >}} 
+		- {{< var c.com236.long >}} 
+   		- {{< var c.com357.long >}} 
+		- {{< var c.edu187.long >}} 
+		- {{< var c.his145.long >}} 
+		- {{< var c.his155.long >}} 
+		- {{< var c.his227.long >}} 
+		- {{< var c.mu157.long >}} 
+		- {{< var c.soc247.long >}} 
 
-  -**(b)** Elective courses (when topic is appropriate):
+	- **b.** Elective courses (when topic is appropriate):
+	
 	These courses can count toward the major or minor as determined by the African American Studies administrative coordinator. 
-    - {{< var c.arh297.long >}} 
-    - {{< var c.com157.long >}} 
-    - {{< var c.com161.long >}} 
-    - {{< var c.com361.long >}} 
-    - {{< var c.eng107.long >}} 
-    - {{< var c.eng207.long >}} 
-    - {{< var c.eng347.long >}} 
-    - {{< var c.eng394.long >}} 
-    - {{< var c.his297.long >}} 
-    - {{< var c.his444.long >}} 
-    - {{< var c.his472.long >}} 
-    - {{< var c.his473.long >}} 
-    - {{< var c.soc237.long >}} 
-    - {{< var c.soc464.long >}} 
-    - {{< var c.the488.long >}} 
+    
+		- {{< var c.arh297.long >}} 
+		- {{< var c.com157.long >}} 
+		- {{< var c.com161.long >}} 
+		- {{< var c.com361.long >}} 
+		- {{< var c.eng107.long >}} 
+		- {{< var c.eng207.long >}} 
+		- {{< var c.eng347.long >}} 
+		- {{< var c.eng394.long >}} 
+		- {{< var c.his297.long >}} 
+		- {{< var c.his444.long >}} 
+		- {{< var c.his472.long >}} 
+		- {{< var c.his473.long >}} 
+		- {{< var c.soc237.long >}} 
+		- {{< var c.soc464.long >}} 
+		- {{< var c.the488.long >}} 
 
 6. {{< var c.aam444.long >}} (completed during the senior year)
 
