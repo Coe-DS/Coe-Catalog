@@ -11,46 +11,47 @@ A major in African American studies requires a minimum cumulative 2.0 GPA in all
 2. +++MISSING INFO: c.aam/eng137.long +++ 
 3. HIS 347 African American History 
 4. One of the following: 
-
-  - HIS 145 History of United States to 1865 
-  - HIS 155 History of United States since 1865 
-  - HIS 227 American Civil War 
+  	- HIS 145 History of United States to 1865 
+  	- HIS 155 History of United States since 1865 
+  	- HIS 227 American Civil War 
     
 5. Five additional courses, at least three of which are numbered 200 or above, chosen from the following: 
-  -**(a)** Elective courses:
-    - AAM 217 Sport and Black Culture 
-    - AAM 287 Topics in African American Studies 
-    - AAM 367 Topics in AfricanAmericanLiterature 
-    - AAM 387 Adv Topics in African American Stud 
-    - +++MISSING INFO: c.aam447/457.long +++ 
-    - AAM 467 Seminar in African American Lit 
-    - AAM 494 Internship in African American Stds 
-    - COM 236 Intercultural Communication 
-    - COM 357 Sex, Race, & Gender in Media 
-    - EDU 187 Human Relations 
-    - HIS 145 History of United States to 1865 
-    - HIS 155 History of United States since 1865 
-    - HIS 227 American Civil War 
-    - MU 157 Introduction to Jazz History 
-    - SOC 247 Sociology of Race 
+	- **a.** Elective courses:
+		- AAM 217 Sport and Black Culture 
+		- AAM 287 Topics in African American Studies 
+		- AAM 367 Topics in AfricanAmericanLiterature 
+		- AAM 387 Adv Topics in African American Stud 
+		- +++MISSING INFO: c.aam447/457.long +++ 
+		- AAM 467 Seminar in African American Lit 
+		- AAM 494 Internship in African American Stds 
+		- COM 236 Intercultural Communication 
+   		- COM 357 Sex, Race, & Gender in Media 
+		- EDU 187 Human Relations 
+		- HIS 145 History of United States to 1865 
+		- HIS 155 History of United States since 1865 
+		- HIS 227 American Civil War 
+		- MU 157 Introduction to Jazz History 
+		- SOC 247 Sociology of Race 
 
-  -**(b)** Elective courses (when topic is appropriate):
+	- **b.** Elective courses (when topic is appropriate):
+	
 	These courses can count toward the major or minor as determined by the African American Studies administrative coordinator. 
-    - ARH 297 Topics in Art History: US Pluralism 
-    - COM 157 Introduction to Media Analysis 
-    - COM 161 Visual Rhetoric 
-    - COM 361 Communication & Social Change 
-    - ENG 107 Exploring Literature:US Pluralism 
-    - ENG 207 Gender & Lit:US Pluralism 
-    - ENG 347 Study in Modern or Contemp Amer Lit 
-    - ENG 394 Directed Learning in English 
-    - HIS 297 Women in America 
-    - HIS 444 Ind Study-History 
-    - HIS 472 Seminar American History I 
-    - HIS 473 Seminar American History II 
-    - SOC 237 Topics in Sociology:U S Pluralism 
-    - SOC 464 Capstone Seminar in Sociology 
-    - THE 488 Special Topics in THE/ FLM 
+    
+		- ARH 297 Topics in Art History: US Pluralism 
+		- COM 157 Introduction to Media Analysis 
+		- COM 161 Visual Rhetoric 
+		- COM 361 Communication & Social Change 
+		- ENG 107 Exploring Literature:US Pluralism 
+		- ENG 207 Gender & Lit:US Pluralism 
+		- ENG 347 Study in Modern or Contemp Amer Lit 
+		- ENG 394 Directed Learning in English 
+		- HIS 297 Women in America 
+		- HIS 444 Ind Study-History 
+		- HIS 472 Seminar American History I 
+		- HIS 473 Seminar American History II 
+		- SOC 237 Topics in Sociology:U S Pluralism 
+		- SOC 464 Capstone Seminar in Sociology 
+		- THE 488 Special Topics in THE/ FLM 
 
 6. AAM 444 Ind Study-Afr-Am St (completed during the senior year)
 

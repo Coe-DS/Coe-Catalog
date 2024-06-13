@@ -21,46 +21,47 @@ A major in African American studies requires a minimum cumulative 2.0 GPA in all
 2. +++MISSING INFO: c.aam/eng137.long +++ 
 3. HIS 347 African American History 
 4. One of the following: 
-
-  - HIS 145 History of United States to 1865 
-  - HIS 155 History of United States since 1865 
-  - HIS 227 American Civil War 
+  	- HIS 145 History of United States to 1865 
+  	- HIS 155 History of United States since 1865 
+  	- HIS 227 American Civil War 
     
 5. Five additional courses, at least three of which are numbered 200 or above, chosen from the following: 
-  -**(a)** Elective courses:
-    - AAM 217 Sport and Black Culture 
-    - AAM 287 Topics in African American Studies 
-    - AAM 367 Topics in AfricanAmericanLiterature 
-    - AAM 387 Adv Topics in African American Stud 
-    - +++MISSING INFO: c.aam447/457.long +++ 
-    - AAM 467 Seminar in African American Lit 
-    - AAM 494 Internship in African American Stds 
-    - COM 236 Intercultural Communication 
-    - COM 357 Sex, Race, & Gender in Media 
-    - EDU 187 Human Relations 
-    - HIS 145 History of United States to 1865 
-    - HIS 155 History of United States since 1865 
-    - HIS 227 American Civil War 
-    - MU 157 Introduction to Jazz History 
-    - SOC 247 Sociology of Race 
+	- **a.** Elective courses:
+		- AAM 217 Sport and Black Culture 
+		- AAM 287 Topics in African American Studies 
+		- AAM 367 Topics in AfricanAmericanLiterature 
+		- AAM 387 Adv Topics in African American Stud 
+		- +++MISSING INFO: c.aam447/457.long +++ 
+		- AAM 467 Seminar in African American Lit 
+		- AAM 494 Internship in African American Stds 
+		- COM 236 Intercultural Communication 
+   		- COM 357 Sex, Race, & Gender in Media 
+		- EDU 187 Human Relations 
+		- HIS 145 History of United States to 1865 
+		- HIS 155 History of United States since 1865 
+		- HIS 227 American Civil War 
+		- MU 157 Introduction to Jazz History 
+		- SOC 247 Sociology of Race 
 
-  -**(b)** Elective courses (when topic is appropriate):
+	- **b.** Elective courses (when topic is appropriate):
+	
 	These courses can count toward the major or minor as determined by the African American Studies administrative coordinator. 
-    - ARH 297 Topics in Art History: US Pluralism 
-    - COM 157 Introduction to Media Analysis 
-    - COM 161 Visual Rhetoric 
-    - COM 361 Communication & Social Change 
-    - ENG 107 Exploring Literature:US Pluralism 
-    - ENG 207 Gender & Lit:US Pluralism 
-    - ENG 347 Study in Modern or Contemp Amer Lit 
-    - ENG 394 Directed Learning in English 
-    - HIS 297 Women in America 
-    - HIS 444 Ind Study-History 
-    - HIS 472 Seminar American History I 
-    - HIS 473 Seminar American History II 
-    - SOC 237 Topics in Sociology:U S Pluralism 
-    - SOC 464 Capstone Seminar in Sociology 
-    - THE 488 Special Topics in THE/ FLM 
+    
+		- ARH 297 Topics in Art History: US Pluralism 
+		- COM 157 Introduction to Media Analysis 
+		- COM 161 Visual Rhetoric 
+		- COM 361 Communication & Social Change 
+		- ENG 107 Exploring Literature:US Pluralism 
+		- ENG 207 Gender & Lit:US Pluralism 
+		- ENG 347 Study in Modern or Contemp Amer Lit 
+		- ENG 394 Directed Learning in English 
+		- HIS 297 Women in America 
+		- HIS 444 Ind Study-History 
+		- HIS 472 Seminar American History I 
+		- HIS 473 Seminar American History II 
+		- SOC 237 Topics in Sociology:U S Pluralism 
+		- SOC 464 Capstone Seminar in Sociology 
+		- THE 488 Special Topics in THE/ FLM 
 
 6. AAM 444 Ind Study-Afr-Am St (completed during the senior year)
 
@@ -3234,86 +3235,104 @@ A major in international studies, in any track, requires a minimum cumulative 2.
 
 ### International Studies Major — The Global South track
 The Global South examines the characteristics of regions in what has come to be called the “Global South,” especially Latin America, Africa, and Asia.  It investigates how the evolution of these regions relates to social, political and economic systems.  Students are introduced to a variety of disciplinary and theoretical approaches to the study of international development; graduates better understand the history and legacy of colonialism, the conditions that create or resolve poverty, and relations between the Global South and North.
+
 1. **Seven** international studies core courses (See above.)
 2. ECO 215 Prin Microeconomics
 3. **Two** courses to be chosen as indicated from the two lists below. 
+
 	a. **One** of the following:
-		ECO 436 Econ Development
+
+		-ECO 436 Econ Development
+
 		**or**
 		Subject to prior approval by the International Studies administrative coordinator:
-			ECO 336 Divergent Economic Growth
-			ECO 446 International Econ
+
+			-ECO 336 Divergent Economic Growth
+			-ECO 446 International Econ
+
 	b. **One** of the following:
-		POL 386 International Development
+
+		-POL 386 International Development
+
 		**or**
 		Subject to prior approval by the International Studies administrative coordinator:  
-			POL 310 International Organizations
+
+			-POL 310 International Organizations
+
 4. **Two or more** additional courses from either the courses under #3 or any of the following, subject to prior approval by the International Studies administrative coordinator.  (Not more than one of these two courses can be from political science and not more than one of these two courses can be from economics.).  At least one course must be completed at the 300 level or above. 
-	+++MISSING INFO: c.ant286/486.long +++
-	ASC 186 Modern South Asia
-	ENG 146 Intro Postcolonial Literature
-	GS 136 Gender in Non-Western World
-	HIS 246 History of Modern China
-	HIS 268 Latin America
-	HIS 286 Modern Middle East
-	HIS 316 Topics in History:Non-Western Persp
-	IS 316 Top in Internl Stds:Non-West Persp
-	POL 266 Latin American Politics
-	POL 276 African Politics
-	POL 286 Asian Politics
+
+    	-+++MISSING INFO: c.ant286/486.long +++
+	-ASC 186 Modern South Asia
+	-ENG 146 Intro Postcolonial Literature
+	-GS 136 Gender in Non-Western World
+	-HIS 246 History of Modern China
+	-HIS 268 Latin America
+	-HIS 286 Modern Middle East
+	-HIS 316 Topics in History:Non-Western Persp
+	-IS 316 Top in Internl Stds:Non-West Persp
+	-POL 266 Latin American Politics
+	-POL 276 African Politics
+	-POL 286 Asian Politics
 
 ### International Studies Major — International Relations track
-International Relations combines theoretical approaches to and empirical knowledge of state and non-state actors, power, and international structures.  
+International Relations combines theoretical approaches to and empirical knowledge of state and non-state actors, power, and international structures. 
+
 1. **Seven** international studies core courses
 2. POL 108 Introduction to Politics
 3. POL 310 International Organizations
 4. **Three** courses to be chosen as indicated from the two lists below. No more than two of these three courses can be completed in the Political Science department.
+
 	a. **One** of the following:
-		ASC 186 Modern South Asia
-		HIS 216 History of Modern Korea (WE)
-		HIS 217 American War in Vietnam
-		HIS 246 History of Modern China
-		HIS 256 History of Modern Japan
-		POL 266 Latin American Politics
-		POL 276 African Politics
-		POL 286 Asian Politics
-		POL 296 Topics Pol Sci: Non-West Persp
+
+		-ASC 186 Modern South Asia
+		-HIS 216 History of Modern Korea (WE)
+		-HIS 217 American War in Vietnam
+		-HIS 246 History of Modern China
+		-HIS 256 History of Modern Japan
+		-POL 266 Latin American Politics
+		-POL 276 African Politics
+		-POL 286 Asian Politics
+		-POL 296 Topics Pol Sci: Non-West Persp
+
 	b. **Two** of the following:
-		+++MISSING INFO: c.ant286/486.long +++
-		ECO 446 International Econ
-		ECO 495 International Finance
-		HIS 286 Modern Middle East
-		HIS 335 Recent American History II
-		HIS 395 United States Diplomatic History
-		IS 315 Topics in International Studies
-		IS 316 Top in Internl Stds:Non-West Persp
-		POL 305 Terrorism
-		POL 365 American Foreign Policy
-		POL 386 International Development
-		POL 398 Religion & World Politics
+
+		-+++MISSING INFO: c.ant286/486.long +++
+		-ECO 446 International Econ
+		-ECO 495 International Finance
+		-HIS 286 Modern Middle East
+		-HIS 335 Recent American History II
+		-HIS 395 United States Diplomatic History
+		-IS 315 Topics in International Studies
+		-IS 316 Top in Internl Stds:Non-West Persp
+		-POL 305 Terrorism
+		-POL 365 American Foreign Policy
+		-POL 386 International Development
+		-POL 398 Religion & World Politics
 
 ### International Studies Major — Contemporary European Studies
 The Contemporary European Studies track emphasizes the study of cultural commonalities and differences in Europe since the mid-19th century.
 Contemporary European Studies
+
 1. Seven international studies core courses
 2. HIS 365 20th Century Europe
 3. POL 298 European Politics
 4. **Three** of the following, two of which must be numbered 300 or above.  At least two academic disciplines must be represented.
-	ARH 248 Baroque, Rococo, and Neoclassicism
-	ARH 307 Modern and Contemporary Art
-	ENG 393 Study in Cont/Mod British Fiction
-	FRE 158 France & Francophone World
-	FRE 340 French & Fracophone Cinema (WE)
-	HIS 238 Modern France
-	HIS 278 History of the Holocaust (WE)
-	HIS 292 History of Modern England
-	IS 315 Topics in International Studies
-	MU 458 Music History & Literature III
-	REL 138 Modern Judaism
-	REL 148 Islam
-	REL 178 Christianity
-	THE 238 History of Theatre and Drama II
-	A course approved by the International Studies administrative coordinator
+
+	-ARH 248 Baroque, Rococo, and Neoclassicism
+	-ARH 307 Modern and Contemporary Art
+	-ENG 393 Study in Cont/Mod British Fiction
+	-FRE 158 France & Francophone World
+	-FRE 340 French & Fracophone Cinema (WE)
+	-HIS 238 Modern France
+	-HIS 278 History of the Holocaust (WE)
+	-HIS 292 History of Modern England
+	-IS 315 Topics in International Studies
+	-MU 458 Music History & Literature III
+	-REL 138 Modern Judaism
+	-REL 148 Islam
+	-REL 178 Christianity
+	-THE 238 History of Theatre and Drama II
+	-A course approved by the International Studies administrative coordinator
 
 
 ### Courses in International Studies
@@ -3374,6 +3393,7 @@ A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses coun
 2. **One** of the following:
 
 	-BIO 103 Anatomy & Physiology
+
 	-BIO 215 Human Anatomy **AND** BIO 225 Human Physiology
 
 3. KIN 105 Foundations of Physical Movement
@@ -3392,6 +3412,7 @@ A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses coun
 2. **One** of the following:
     
 	-BIO 103 Anatomy & Physiology
+
 	-BIO 215 Human Anatomy **AND** BIO 225 Human Physiology
 
 3. KIN 105 Foundations of Physical Movement
@@ -3441,9 +3462,12 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
 4. KIN 155 Substance Abuse
 5. KIN 175 Prevention & Care Ath Inj
 6. **One** of the following:
-	NUR 137 Human Sexuality
-	NUR 297 Parent Child Relationships
-	SOC 207 Sociology of the Family
+
+	-NUR 137 Human Sexuality
+
+	-NUR 297 Parent Child Relationships
+
+	-SOC 207 Sociology of the Family
 
 ### Kinesiology Major — Athletic Training 
 1. BIO 155 Organismal & Ecological Biology
@@ -3455,10 +3479,14 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
 7. KIN 365 Measurement/Eval/Prescription KIN
 8. KIN 442 Physiology of Exercise
 9. KIN 495 Kinesiology
+
 **All** of the following courses in the Athletic Training Group 
-	KIN 110 Emergency Life Skills
-	KIN 210 Athletic Injury Evaluation
-	KIN 410 Athletic Injury Treatment & Rehab
+
+	-KIN 110 Emergency Life Skills
+
+	-KIN 210 Athletic Injury Evaluation
+
+	-KIN 410 Athletic Injury Treatment & Rehab
 
 *Students interested in the Athletic Training Group track are strongly encouraged to meet with the Kinesiology faculty for informal advising as soon as they have chosen this major. Additional coursework may be needed for those students pursuing a licensure in Athletic Training. *
 
@@ -3598,31 +3626,33 @@ Langseth.
 
 ## Molecular Biology (Collateral Major) {#sec-molecular-biology}
 Leonardo (Administrative Coordinator).
+
 This major might be considered by students interested in finding technical positions in academia or industry after graduation or those planning to pursue a graduate program in molecular biology, cell biology, or microbiology. 
 
 ### Collateral Major in Molecular Biology
 A major in molecular biology requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+
 Concurrent completion of a primary major in biology is required (see @sec-biology). Students choosing a collateral major in Molecular Biology may not select the collateral major in Biochemistry. 
+
 1. CHM 221 Organic Chemistry I
 2. CHM 321 Organic Chemistry II
 3. CHM 322 Organic Laboratory
 4. +++MISSING INFO: c.bio345/345L.long +++
 5. BIO 405 Current Topics in Molecular Biology
 6. One of the following:
-	+++MISSING INFO: c.chm431/431L.long +++
-	+++MISSING INFO: c.chm432/432L.long +++
+	- +++MISSING INFO: c.chm431/431L.long +++
+	- +++MISSING INFO: c.chm432/432L.long +++
 7. One of the following sequences:
-	+++MISSING INFO: c.bio325/325L.long +++
-	+++MISSING INFO: c.bio415/415L.long +++
-	+++MISSING INFO: c.bio435/435L.long +++
-	+++MISSING INFO: c.bio455/455L.long +++
+	- +++MISSING INFO: c.bio325/325L.long +++
+	- +++MISSING INFO: c.bio415/415L.long +++
+	- +++MISSING INFO: c.bio435/435L.long +++
+	- +++MISSING INFO: c.bio455/455L.long +++
+
 Strongly recommended:
-	One of the following sequences:
-		+++MISSING INFO: c.phy165/165L.long +++ and +++MISSING INFO: c.phy175/175L.long +++
-		+++MISSING INFO: c.phy185/185L.long +++ and +++MISSING INFO: c.phy195/195L.long +++
-
-
-
+	
+- One of the following sequences:
+	- +++MISSING INFO: c.phy165/165L.long +++ and +++MISSING INFO: c.phy175/175L.long +++
+	- +++MISSING INFO: c.phy185/185L.long +++ and +++MISSING INFO: c.phy195/195L.long +++
 
 
 ## Mathematical Sciences {#sec-mathematical-sciences}

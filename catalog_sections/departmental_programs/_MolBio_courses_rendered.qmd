@@ -1,27 +1,29 @@
 ## Molecular Biology (Collateral Major) {#sec-molecular-biology}
 Leonardo (Administrative Coordinator).
+
 This major might be considered by students interested in finding technical positions in academia or industry after graduation or those planning to pursue a graduate program in molecular biology, cell biology, or microbiology. 
 
 ### Collateral Major in Molecular Biology
 A major in molecular biology requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+
 Concurrent completion of a primary major in biology is required (see @sec-biology). Students choosing a collateral major in Molecular Biology may not select the collateral major in Biochemistry. 
+
 1. CHM 221 Organic Chemistry I
 2. CHM 321 Organic Chemistry II
 3. CHM 322 Organic Laboratory
 4. +++MISSING INFO: c.bio345/345L.long +++
 5. BIO 405 Current Topics in Molecular Biology
 6. One of the following:
-	+++MISSING INFO: c.chm431/431L.long +++
-	+++MISSING INFO: c.chm432/432L.long +++
+	- +++MISSING INFO: c.chm431/431L.long +++
+	- +++MISSING INFO: c.chm432/432L.long +++
 7. One of the following sequences:
-	+++MISSING INFO: c.bio325/325L.long +++
-	+++MISSING INFO: c.bio415/415L.long +++
-	+++MISSING INFO: c.bio435/435L.long +++
-	+++MISSING INFO: c.bio455/455L.long +++
+	- +++MISSING INFO: c.bio325/325L.long +++
+	- +++MISSING INFO: c.bio415/415L.long +++
+	- +++MISSING INFO: c.bio435/435L.long +++
+	- +++MISSING INFO: c.bio455/455L.long +++
+
 Strongly recommended:
-	One of the following sequences:
-		+++MISSING INFO: c.phy165/165L.long +++ and +++MISSING INFO: c.phy175/175L.long +++
-		+++MISSING INFO: c.phy185/185L.long +++ and +++MISSING INFO: c.phy195/195L.long +++
-
-
-
+	
+- One of the following sequences:
+	- +++MISSING INFO: c.phy165/165L.long +++ and +++MISSING INFO: c.phy175/175L.long +++
+	- +++MISSING INFO: c.phy185/185L.long +++ and +++MISSING INFO: c.phy195/195L.long +++
