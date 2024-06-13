@@ -545,7 +545,7 @@ Introduction to the organization and administration of an athletic training prog
 Comprehensive experience in athletic training through voluntary field placement supervised by a certified athletic trainer (ATC®). A minimum of 140 hours on-site experience is required. P/NP basis only. Prerequisite: senior standing in the Athletic Training Education Program.
 
 
-## Biochemistry (Collateral Major)
+## Biochemistry (Collateral Major) {#sec-biochemistry}
 
 Stead (Administrative Coordinator).
 
@@ -1172,11 +1172,11 @@ See Business Administration, Section 25.11
 
 Ibrahim, Noreuil, St. Clair (Chair), Singleton, Stead, Stoudt.
 
-The chemistry department seeks to support Coe's mission by providing students with top-quality instruction and research opportunities.  The department offers a major and minor in **Chemistry** as well as collateral majors in **Biochemistry** (see p. 66), **Environmental Science** (see p. 115), and **Neuroscience** (see p. 156).  Students considering a chemistry major may continue research in a graduate program, pursue a career in the health sciences or teach science at the secondary level.
+The chemistry department seeks to support Coe's mission by providing students with top-quality instruction and research opportunities.  The department offers a major and minor in **Chemistry** as well as collateral majors in **Biochemistry** (see @sec-biochemistry), **Environmental Science** (see @sec-environmental-science), and **Neuroscience** (see @sec-neuroscience).  Students considering a chemistry major may continue research in a graduate program, pursue a career in the health sciences or teach science at the secondary level.
 
 Students who receive a grade of less than "C--" in a prerequisite course are expected to consult with the instructor of the subsequent course prior to continuing in the chemistry curriculum.
 
-In addition to a major in **Chemistry**, the chemistry department also offers an **American chemical society certified chemistry major** (see p. 87). This major might be considered by students interested in chemistry as a career.
+In addition to a major in **Chemistry**, the chemistry department also offers an **American chemical society certified chemistry major**. This major might be considered by students interested in chemistry as a career.
 
 ### Chemistry Major 
 A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
@@ -1204,19 +1204,19 @@ A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counte
     - CHM 442 Materials Physics and Chemistry
     - +++MISSING INFO: c.chm451_451l.long +++
 
-7. MTH-145 Calculus II
+7. MTH-145 Calculus II MTH 145 Calculus II
 
-8. PHY-185/185L General Physics I & Laboratory
+8. PHY-185/185L General Physics I & Laboratory +++MISSING INFO: c.phy185_185l.long +++
 
-9. PHY-195/195L General Physics II & Laboratory
+9. PHY-195/195L General Physics II & Laboratory +++MISSING INFO: c.phy195_195l.long +++
 
 10. **One** of the following combinations:
-      - CHM-464 Seminar in Chemistry I **and** CHM-474 Seminar in Chemistry II
-      - OCC-365 Study and Research at Oak Ridge Laboratory **and** CHM-474 Seminar in Chemistry II
+      - +++MISSING INFO: c.chm465.long +++ **and** CHM 474 Seminar in Chemistry II
+      - OCC 365 Oak Ridge Science Semester **and** CHM 474 Seminar in Chemistry II
 
 *Recommended:*
 
-  - MTH-255 Calculus III
+  - MTH 255 Calculus III
 
 ### Chemistry Minor
 
@@ -1617,7 +1617,7 @@ NOTE: Students who have already received credit for CS -125 or higher will not r
   Investigation of a career area related to the student’s interest in computer science supervised by a faculty member of the department in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major or minor in computer science. Prerequisites: junior standing and consent of supervising instructor. (Offered by arrangement).  
 
 
-## Creative Writing {#sec-courses-in-creative-writing}
+## Creative Writing {#sec-creative-writing}
 Aspengren, Ferguson, LeMay, McQueen, Shaw (Administrative Coordinator). 
 
 The creative writing program (within the English Department) offers instruction in writing fiction, poetry, playwriting, and screenwriting.  Students who wish to develop skills in writing non-fiction prose – journalism, personal essays, etc. – should consider the writing major offered by the rhetoric department. Workshop students are required to submit a collection of finished work at the end of each course. Included in this collection is reflective discussion of the composition history of the finished work.
@@ -1688,7 +1688,7 @@ Workshop students are required to submit a collection of finished work at the en
 - CRW 492 Manuscript Workshop
  
 
-### COURSES IN CREATIVE WRITING 
+### COURSES IN CREATIVE WRITING {#sec-courses-in-creative-writing}
 - **CRW 111 Literary Magazine Editing**
 
 Combines instruction in the skills of producing a literary magazine with the practical tasks of publishing the Coe Review. Students learn to plan a production schedule, evaluate and select materials, design an issue, organize and direct staff, manage a budget, promote the magazine, plan for the next cycle, communicate with contributors, and other skills related to producing an issue of the Coe Review. Current appointed Coe Review editorial staff are required to enroll in either CRW-111 or CRW-112 as a condition of retaining their appointments. Students may not register for both CRW-111 and CRW-112 in the same term. S/U basis only. May be taken more than once for credit for a maximum of 1.6 credits. (0.2 course credit)
@@ -3397,14 +3397,18 @@ A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses coun
 7. KIN 440 Org-Admin of PE, Health & Athl
 8. KIN 442 Physiology of Exercise
 9. **All** of the following courses in the **Strength and Conditioning Group**: 
-	KIN 103 PE or KIN 104 PE
-	KIN 103 PE or KIN 104 PE
+
+	KIN 103 PE or KIN 104 PE Advanced Weight Training
+	KIN 103 PE or KIN 104 PE Movement Training
 	KIN 185 Group Exercise 
 	KIN 385 Methods Strength Trng & Condition
 	KIN 405 Program Design
 	KIN 495 Kinesiology
+
 		**or**
+
 	**All** of the following courses in the **Health and Wellness Group**: 
+
 	KIN 125 Public and Consumer Health
 	KIN 135 Concepts of Individual Wellness
 	KIN 155 Substance Abuse
@@ -3521,20 +3525,27 @@ NOTE: Students are encouraged to complete Advanced Weight Training (PE-103/-104)
 Sodeman (Administrative Coordinator). 
 
 The following requirements are designed to provide a framework within which the student can shape a program to suit individual interests: 
+
 1. ENG 301 The Art of Literary Research
 2. **One** of the following:
+
 	LIT 464 Seminar in World Literature
 	A course by arrangement chosen in consultation with Literature Administrative Coordinator
+
 3. **Two** world language courses in the same language, intermediate or advanced, taken at Coe College with permission of Literature Administrative Coordinator.  
 4. **At least** one literature course taught in a world language
 5. **Six** courses to be chosen in consultation with the Literature Administrative Coordinator as indicated from the two lists below.  No more than three from the English department can be counted in the six courses. 
+
 	a) **At least** four courses from the following list: 
+
 		courses in literature in translation
 		courses in English and American literature and in creative writing offered by the English department 
 		literature courses taught in a world language
 		linguistics courses offered by the English or world language departments
 		Independent Study
+
 	b) **One or more** courses from the following list of core courses to bring the total number of elective courses to six:
+
 		AAM 137 African American Literature or ENG 137 African American Literature
 		ENG 110 Ancient Mythology
 		ENG 207 Gender & Lit:US Pluralism

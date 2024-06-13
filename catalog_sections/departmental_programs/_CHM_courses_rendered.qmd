@@ -2,11 +2,11 @@
 
 Ibrahim, Noreuil, St. Clair (Chair), Singleton, Stead, Stoudt.
 
-The chemistry department seeks to support Coe's mission by providing students with top-quality instruction and research opportunities.  The department offers a major and minor in **Chemistry** as well as collateral majors in **Biochemistry** (see p. 66), **Environmental Science** (see p. 115), and **Neuroscience** (see p. 156).  Students considering a chemistry major may continue research in a graduate program, pursue a career in the health sciences or teach science at the secondary level.
+The chemistry department seeks to support Coe's mission by providing students with top-quality instruction and research opportunities.  The department offers a major and minor in **Chemistry** as well as collateral majors in **Biochemistry** (see @sec-biochemistry), **Environmental Science** (see @sec-environmental-science), and **Neuroscience** (see @sec-neuroscience).  Students considering a chemistry major may continue research in a graduate program, pursue a career in the health sciences or teach science at the secondary level.
 
 Students who receive a grade of less than "C--" in a prerequisite course are expected to consult with the instructor of the subsequent course prior to continuing in the chemistry curriculum.
 
-In addition to a major in **Chemistry**, the chemistry department also offers an **American chemical society certified chemistry major** (see p. 87). This major might be considered by students interested in chemistry as a career.
+In addition to a major in **Chemistry**, the chemistry department also offers an **American chemical society certified chemistry major**. This major might be considered by students interested in chemistry as a career.
 
 ### Chemistry Major 
 A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
@@ -34,19 +34,19 @@ A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counte
     - CHM 442 Materials Physics and Chemistry
     - +++MISSING INFO: c.chm451_451l.long +++
 
-7. MTH-145 Calculus II
+7. MTH-145 Calculus II MTH 145 Calculus II
 
-8. PHY-185/185L General Physics I & Laboratory
+8. PHY-185/185L General Physics I & Laboratory +++MISSING INFO: c.phy185_185l.long +++
 
-9. PHY-195/195L General Physics II & Laboratory
+9. PHY-195/195L General Physics II & Laboratory +++MISSING INFO: c.phy195_195l.long +++
 
 10. **One** of the following combinations:
-      - CHM-464 Seminar in Chemistry I **and** CHM-474 Seminar in Chemistry II
-      - OCC-365 Study and Research at Oak Ridge Laboratory **and** CHM-474 Seminar in Chemistry II
+      - +++MISSING INFO: c.chm465.long +++ **and** CHM 474 Seminar in Chemistry II
+      - OCC 365 Oak Ridge Science Semester **and** CHM 474 Seminar in Chemistry II
 
 *Recommended:*
 
-  - MTH-255 Calculus III
+  - MTH 255 Calculus III
 
 ### Chemistry Minor
 

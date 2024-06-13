@@ -34,14 +34,18 @@ A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses coun
 7. KIN 440 Org-Admin of PE, Health & Athl
 8. KIN 442 Physiology of Exercise
 9. **All** of the following courses in the **Strength and Conditioning Group**: 
-	KIN 103 PE or KIN 104 PE
-	KIN 103 PE or KIN 104 PE
+
+	KIN 103 PE or KIN 104 PE Advanced Weight Training
+	KIN 103 PE or KIN 104 PE Movement Training
 	KIN 185 Group Exercise 
 	KIN 385 Methods Strength Trng & Condition
 	KIN 405 Program Design
 	KIN 495 Kinesiology
+
 		**or**
+
 	**All** of the following courses in the **Health and Wellness Group**: 
+
 	KIN 125 Public and Consumer Health
 	KIN 135 Concepts of Individual Wellness
 	KIN 155 Substance Abuse
