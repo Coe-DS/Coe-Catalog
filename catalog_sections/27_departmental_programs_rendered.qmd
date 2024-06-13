@@ -420,7 +420,7 @@ Prerequisite: Introduction to Art History (ARH 128) or consent of instructor.
 - ARH 310 Contemporary Art, Theory &Criticism  
   Investigates issues in contemporary art. Focuses on art of the late 20th and early 21st centuries, considering stylistic, historical and theoretical developments. Prerequisite: Introduction to Art History (ARH-128) and a 200-level ARH- course or consent of instructor.  
 - ARH 391 Advanced Topics in Art History  
-  See also {{< var.art291.short >}}  
+  See also ART 291  
   Focuses on an advanced study of a selected topic or theme in art history. Topics vary. May be taken more than once for credit, provided the topics are substantially different. Prerequisites: Introduction to Art History (ARH-128) and a 200-level ARH- course or consent of instructor.  
 - ARH 394 Directed Learning  in Art History  
   Investigates topics in art history selected by the student and instructor to fit the student’s particular interests and educational needs. May be taken more than once for credit. Prerequisites: junior standing and consent of department chair.  
@@ -567,7 +567,7 @@ Concurrent completion of a primary major in chemistry, including Calculus II and
 Genetics (BIO-235) and Laboratory (BIO-235L) and all of the courses under #4 are strongly encouraged, especially for those planning graduate study.
 
 
-## Biology
+## Biology {#sec-biology}
 
 R. Christensen, Cozine (Chair), Ellis, Hughes, Keyes, Leonardo, Leveille, Luttinger, Mommer, Sanchini, Storer (Co-Chair). 
 
@@ -756,7 +756,7 @@ This capstone experience for qualified junior and senior students, could finaliz
 
 
 
-## Business Administration and Economics   
+## Business Administration and Economics   {#sec-business-administration-and-economics}
 Baranowski, Carstens, Chen, J. Christensen, Crain, Eichhorn (Co-Chair), Hall, Hayes, D., Knudson, Kuennen, Melcher, Nguyen (Co-Chair), Perry, Trout, Westberg.
 
 The Stead Department of Business Administration and Economics offers majors in **ACCOUNTING**, **BUSINESS ADMINISTRATION**, **ECONOMICS**, **INTERNATIONAL BUSINESS**, and INTERNATIONAL ECONOMICS, and minors in economics and international economics. Students pursuing one or more of these are strongly encouraged to consult with departmental faculty to develop specific plans of study. 
@@ -827,7 +827,7 @@ Concentrations are offered in management, marketing, and sports management. To c
    BUS 454 Research in Business  
    PR 205 Public Relations  
 
-### Sports Management Concentration in Business
+### Sports Management Concentration in Business {#sec-sports-management-concentration}
 1. SMT 100 Introduction to Sports Management  
 2. Four of the following:   
    BUS 400 Legal Issues in Sports   
@@ -1342,7 +1342,7 @@ characterization. One 1.5-hour and two three-hour laboratories per week. Prerequ
   Investigation of an area of interest through voluntary field placement supervised by a faculty member of the department. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major in chemistry. Prerequisite: completion of a chemistry minor or junior standing and consent of department chair.
 
 
-## CLASSICAL STUDIES (MINOR ONLY)
+## Classical Studies (Minor Only)
 Langseth, Ziskowski (Administrative Coordinator).
 
 Classical Studies provides the student opportunity to examine the achievements of the ancient past — notably those of Greece and Rome — from a variety of distinct perspectives: literature, language, art, history, philosophy, and religion, and archaeology.  To allow for the integration of perspectives, some courses have been designed which offer an interdisciplinary approach to the study of the past; these are designated HUM (for Humanities) in the listings below.

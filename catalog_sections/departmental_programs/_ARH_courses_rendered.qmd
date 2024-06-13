@@ -81,7 +81,7 @@ Prerequisite: Introduction to Art History (ARH 128) or consent of instructor.
 - ARH 310 Contemporary Art, Theory &Criticism  
   Investigates issues in contemporary art. Focuses on art of the late 20th and early 21st centuries, considering stylistic, historical and theoretical developments. Prerequisite: Introduction to Art History (ARH-128) and a 200-level ARH- course or consent of instructor.  
 - ARH 391 Advanced Topics in Art History  
-  See also {{< var.art291.short >}}  
+  See also ART 291  
   Focuses on an advanced study of a selected topic or theme in art history. Topics vary. May be taken more than once for credit, provided the topics are substantially different. Prerequisites: Introduction to Art History (ARH-128) and a 200-level ARH- course or consent of instructor.  
 - ARH 394 Directed Learning  in Art History  
   Investigates topics in art history selected by the student and instructor to fit the student’s particular interests and educational needs. May be taken more than once for credit. Prerequisites: junior standing and consent of department chair.  
