@@ -17,86 +17,103 @@ A major in international studies, in any track, requires a minimum cumulative 2.
 
 ### International Studies Major — The Global South track
 The Global South examines the characteristics of regions in what has come to be called the “Global South,” especially Latin America, Africa, and Asia.  It investigates how the evolution of these regions relates to social, political and economic systems.  Students are introduced to a variety of disciplinary and theoretical approaches to the study of international development; graduates better understand the history and legacy of colonialism, the conditions that create or resolve poverty, and relations between the Global South and North.
+
 1. **Seven** international studies core courses (See above.)
 2. {{< var c.eco215.long >}}
 3. **Two** courses to be chosen as indicated from the two lists below. 
 	a. **One** of the following:
-		{{< var c.eco436.long >}}
+
+		-{{< var c.eco436.long >}}
+
 		**or**
 		Subject to prior approval by the International Studies administrative coordinator:
-			{{< var c.eco336.long >}}
-			{{< var c.eco446.long >}}
+
+			-{{< var c.eco336.long >}}
+			-{{< var c.eco446.long >}}
+
 	b. **One** of the following:
-		{{< var c.pol386.long >}}
+
+		-{{< var c.pol386.long >}}
+
 		**or**
 		Subject to prior approval by the International Studies administrative coordinator:  
-			{{< var c.pol310.long >}}
+
+			-{{< var c.pol310.long >}}
+
 4. **Two or more** additional courses from either the courses under #3 or any of the following, subject to prior approval by the International Studies administrative coordinator.  (Not more than one of these two courses can be from political science and not more than one of these two courses can be from economics.).  At least one course must be completed at the 300 level or above. 
-	{{< var c.ant286/486.long >}}
-	{{< var c.asc186.long >}}
-	{{< var c.eng146.long >}}
-	{{< var c.gs136.long >}}
-	{{< var c.his246.long >}}
-	{{< var c.his268.long >}}
-	{{< var c.his286.long >}}
-	{{< var c.his316.long >}}
-	{{< var c.is316.long >}}
-	{{< var c.pol266.long >}}
-	{{< var c.pol276.long >}}
-	{{< var c.pol286.long >}}
+
+    	-{{< var c.ant286/486.long >}}
+	-{{< var c.asc186.long >}}
+	-{{< var c.eng146.long >}}
+	-{{< var c.gs136.long >}}
+	-{{< var c.his246.long >}}
+	-{{< var c.his268.long >}}
+	-{{< var c.his286.long >}}
+	-{{< var c.his316.long >}}
+	-{{< var c.is316.long >}}
+	-{{< var c.pol266.long >}}
+	-{{< var c.pol276.long >}}
+	-{{< var c.pol286.long >}}
 
 ### International Studies Major — International Relations track
-International Relations combines theoretical approaches to and empirical knowledge of state and non-state actors, power, and international structures.  
+International Relations combines theoretical approaches to and empirical knowledge of state and non-state actors, power, and international structures. 
+
 1. **Seven** international studies core courses
 2. {{< var c.pol108.long >}}
 3. {{< var c.pol310.long >}}
 4. **Three** courses to be chosen as indicated from the two lists below. No more than two of these three courses can be completed in the Political Science department.
+
 	a. **One** of the following:
-		{{< var c.asc186.long >}}
-		{{< var c.his216.long >}}
-		{{< var c.his217.long >}}
-		{{< var c.his246.long >}}
-		{{< var c.his256.long >}}
-		{{< var c.pol266.long >}}
-		{{< var c.pol276.long >}}
-		{{< var c.pol286.long >}}
-		{{< var c.pol296.long >}}
+
+		-{{< var c.asc186.long >}}
+		-{{< var c.his216.long >}}
+		-{{< var c.his217.long >}}
+		-{{< var c.his246.long >}}
+		-{{< var c.his256.long >}}
+		-{{< var c.pol266.long >}}
+		-{{< var c.pol276.long >}}
+		-{{< var c.pol286.long >}}
+		-{{< var c.pol296.long >}}
+
 	b. **Two** of the following:
-		{{< var c.ant286/486.long >}}
-		{{< var c.eco446.long >}}
-		{{< var c.eco495.long >}}
-		{{< var c.his286.long >}}
-		{{< var c.his335.long >}}
-		{{< var c.his395.long >}}
-		{{< var c.is315.long >}}
-		{{< var c.is316.long >}}
-		{{< var c.pol305.long >}}
-		{{< var c.pol365.long >}}
-		{{< var c.pol386.long >}}
-		{{< var c.pol398.long >}}
+
+		-{{< var c.ant286/486.long >}}
+		-{{< var c.eco446.long >}}
+		-{{< var c.eco495.long >}}
+		-{{< var c.his286.long >}}
+		-{{< var c.his335.long >}}
+		-{{< var c.his395.long >}}
+		-{{< var c.is315.long >}}
+		-{{< var c.is316.long >}}
+		-{{< var c.pol305.long >}}
+		-{{< var c.pol365.long >}}
+		-{{< var c.pol386.long >}}
+		-{{< var c.pol398.long >}}
 
 ### International Studies Major — Contemporary European Studies
 The Contemporary European Studies track emphasizes the study of cultural commonalities and differences in Europe since the mid-19th century.
 Contemporary European Studies
+
 1. Seven international studies core courses
 2. {{< var c.his365.long >}}
 3. {{< var c.pol298.long >}}
 4. **Three** of the following, two of which must be numbered 300 or above.  At least two academic disciplines must be represented.
-	{{< var c.arh248.long >}}
-	{{< var c.arh307.long >}}
-	{{< var c.eng393.long >}}
-	{{< var c.fre158.long >}}
-	{{< var c.fre340.long >}}
-	{{< var c.his238.long >}}
-	{{< var c.his278.long >}}
-	{{< var c.his292.long >}}
-	{{< var c.is315.long >}}
-	{{< var c.mu458.long >}}
-	{{< var c.rel138.long >}}
-	{{< var c.rel148.long >}}
-	{{< var c.rel178.long >}}
-	{{< var c.the238.long >}}
-	A course approved by the International Studies administrative coordinator
+
+	-{{< var c.arh248.long >}}
+	-{{< var c.arh307.long >}}
+	-{{< var c.eng393.long >}}
+	-{{< var c.fre158.long >}}
+	-{{< var c.fre340.long >}}
+	-{{< var c.his238.long >}}
+	-{{< var c.his278.long >}}
+	-{{< var c.his292.long >}}
+	-{{< var c.is315.long >}}
+	-{{< var c.mu458.long >}}
+	-{{< var c.rel138.long >}}
+	-{{< var c.rel148.long >}}
+	-{{< var c.rel178.long >}}
+	-{{< var c.the238.long >}}
+	-A course approved by the International Studies administrative coordinator
 
 
 ### Courses in International Studies
