@@ -7,30 +7,50 @@ The Health and Society Studies program is an interdisciplinary cluster of course
 A minor in Health and Society Studies requires a minimum cumulative 2.0 GPA in all courses counted toward the minor. In addition, only (1) one course from a student's major or collateral major can count towards the Health and Society Studies Minor.
 
 **Required Courses**
+
 1. {{< var c.phl165.long >}}
 2. {{< var c.soc107.long >}}
 3. **One** of the following Biology courses:
-	a. {{< var c.bio103.long >}}
-	b. {{< var c.bio120.long >}}
-	c. {{< var c.bio155.long >}}
+
+	-{{< var c.bio103.long >}}
+	-{{< var c.bio120.long >}}
+	-{{< var c.bio155.long >}}
+
 4. **Three** elective courses from the list below, only (1) one of which may be a 100-level course.
-	{{< var c.ant116.long >}}
-	{{< var c.cla155.long >}}
-	{{< var c.com236.long >}}
-	{{< var c.com237.long >}}
-	{{< var c.com332.long >}}
-	{{< var c.kin115.long >}}
-	{{< var c.kin125.long >}}
-	{{< var c.kin155.long >}}
-	{{< var c.phl128.long >}}
-	{{< var c.eco221.long >}}
-	{{< var c.phy321.long >}}
-	{{< var c.psy205.long >}}
-	{{< var c.psy235.long >}}
-	{{< var c.psy325.long >}}
-	{{< var c.psy350.long >}}
-	{{< var c.spa339.long >}}
-	{{< var c.hss494.long >}}
+
+	-{{< var c.ant116.long >}}
+
+	-{{< var c.cla155.long >}}
+
+	-{{< var c.com236.long >}}
+
+	-{{< var c.com237.long >}}
+
+	-{{< var c.com332.long >}}
+
+	-{{< var c.kin115.long >}}
+
+	-{{< var c.kin125.long >}}
+
+	-{{< var c.kin155.long >}}
+
+	-{{< var c.phl128.long >}}
+
+	-{{< var c.eco221.long >}}
+
+	-{{< var c.phy321.long >}}
+
+	-{{< var c.psy205.long >}}
+
+	-{{< var c.psy235.long >}}
+
+	-{{< var c.psy325.long >}}
+
+	-{{< var c.psy350.long >}}
+
+	-{{< var c.spa339.long >}}
+
+	-{{< var c.hss494.long >}}
 
 **NOTE:** *additional health-related courses may be approved as an elective with administrative coordinator approval.*
 
