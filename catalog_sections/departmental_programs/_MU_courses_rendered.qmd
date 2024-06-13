@@ -28,83 +28,86 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 7. The Senior Assessment Examination in the final term prior to graduation. 
 8. **One** of the four areas of study applicable towards the Bachelor of Music degree: 
 	
-		**Composition**
+	**Composition**
 
-		1. MU 195 Music Production
-		2. MU 409 Theory of Music IV/+++MISSING INFO: c.mu409L.long +++
-		3. MUA 413 Orchestration
-		4. MUA 423 Saxophone (Adv Std)
-		5. **Eight** terms of participation in the Applied Music Course, which must include four terms each of MUA-202C and MUA-303C
-		6. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements, but the two required language courses described below may not.) 
-		7. **Two** courses in French in consecutive terms (may not be used to satisfy the humanities requirement of #6) 
-		8. **Two** additional non-music courses 
-		9. MUA 490 Senior Recital
+	1. MU 195 Music Production
+	2. MU 409 Theory of Music IV/+++MISSING INFO: c.mu409L.long +++
+	3. MUA 413 Orchestration
+	4. MUA 423 Saxophone (Adv Std)
+	5. **Eight** terms of participation in the Applied Music Course, which must include four terms each of MUA-202C and MUA-303C
+	6. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements, but the two required language courses described below may not.) 
+	7. **Two** courses in French in consecutive terms (may not be used to satisfy the humanities requirement of #6) 
+	8. **Two** additional non-music courses 
+	9. MUA 490 Senior Recital
 	
-		**Keyboard and Instrumental Performance**
+	**Keyboard and Instrumental Performance**
 
-		1. MU 409 Theory of Music IV/+++MISSING INFO: c.mu409L.long +++
-		2. **Four** of the following:
-			- MU 140 Film Music
-			- MU 151 Record Label
-			- MU 157 Introduction to Jazz History
-			- MU 195 Music Production
-			- MU 270 Musical Theatre Acting
-			- +++MISSING INFO: c.mu166/284.long +++
-			- MU 385 Conducting II
-			- MU 444 Ind Study-Music
-			- +++MISSING INFO: c.mua133V.long +++
-			- +++MISSING INFO: c.mua134V.long +++
-			- +++MISSING INFO: c.mua413V.long +++
-			- +++MISSING INFO: c.mua423V.long +++
-			- One course credit in MUA-courses beyond those required in the Applied Music Course.
-		3. **Eight** terms of participation in the Applied Music Course. 
-		4. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements.) 
-		5. **Two** courses in French in consecutive terms (may not be used to satisfy the humanities requirement of #4)
-		6. MUA 490 Senior Recital
+	1. MU 409 Theory of Music IV/+++MISSING INFO: c.mu409L.long +++
+	2. **Four** of the following:
+		- MU 140 Film Music
+		- MU 151 Record Label
+		- MU 157 Introduction to Jazz History
+		- MU 195 Music Production
+		- MU 270 Musical Theatre Acting
+		- +++MISSING INFO: c.mu166/284.long +++
+		- MU 385 Conducting II
+		- MU 444 Ind Study-Music
+		- +++MISSING INFO: c.mua133V.long +++
+		- +++MISSING INFO: c.mua134V.long +++
+		- +++MISSING INFO: c.mua413V.long +++
+		- +++MISSING INFO: c.mua423V.long +++
+		- One course credit in MUA-courses beyond those required in the Applied Music Course.
+	3. **Eight** terms of participation in the Applied Music Course. 
+	4. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements.) 
+	5. **Two** courses in French in consecutive terms (may not be used to satisfy the humanities requirement of #4)
+	6. MUA 490 Senior Recital
 
-		**Vocal Performance**
+	**Vocal Performance**
 
-		1. +++MISSING INFO: c.mua133V.long +++
-		2. +++MISSING INFO: c.mua134V.long +++
-		3. MU 409 Theory of Music IV/+++MISSING INFO: c.mu409L.long +++
-		4. **Four** of the following:
-			- MU 140 Film Music
-			- MU 151 Record Label
-			- MU 157 Introduction to Jazz History
-			- MU 195 Music Production
-			- MU 270 Musical Theatre Acting
-			- +++MISSING INFO: c.mu166/284.long +++
-			- MU 385 Conducting II
-			- MU 444 Ind Study-Music
-			- +++MISSING INFO: c.mua133V.long +++
-			- MUA 413 Orchestration
-			- MUA 423 Saxophone (Adv Std)
-			- One course credit in MUA-courses beyond those required in the Applied Music Course. 
-		5. **Eight** terms of participation in the Applied Music Course. 
-		6. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements.) 
-		7. **Two** courses in French in consecutive terms (may not be used to satisfy the humanities requirement of #6) 
-		8. MUA 490 Senior Recital
+	1. +++MISSING INFO: c.mua133V.long +++
+	2. +++MISSING INFO: c.mua134V.long +++
+	3. MU 409 Theory of Music IV/+++MISSING INFO: c.mu409L.long +++
+	4. **Four** of the following:
+		- MU 140 Film Music
+		- MU 151 Record Label
+		- MU 157 Introduction to Jazz History
+		- MU 195 Music Production
+		- MU 270 Musical Theatre Acting
+		- +++MISSING INFO: c.mu166/284.long +++
+		- MU 385 Conducting II
+		- MU 444 Ind Study-Music
+		- +++MISSING INFO: c.mua133V.long +++
+		- MUA 413 Orchestration
+		- MUA 423 Saxophone (Adv Std)
+		- One course credit in MUA-courses beyond those required in the Applied Music Course. 
+	5. **Eight** terms of participation in the Applied Music Course. 
+	6. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements.) 
+	7. **Two** courses in French in consecutive terms (may not be used to satisfy the humanities requirement of #6) 
+	8. MUA 490 Senior Recital
 
-		**Music Education (Vocal or Instrumental)**
-		To complete the Vocal or Instrumental Music Education area of study in four years, a student must begin the sequence of courses during the first year. A student entering either area of study as a sophomore should anticipate spending a fifth year to complete all degree requirements. 
+	**Music Education (Vocal or Instrumental)**
+		
+	To complete the Vocal or Instrumental Music Education area of study in four years, a student must begin the sequence of courses during the first year. A student entering either area of study as a sophomore should anticipate spending a fifth year to complete all degree requirements. 
 	
-		In addition to the following requirements, according to state regulations, all teachers in Iowa “shall acquire a core of liberal arts knowledge including, but not limited to, mathematics, natural sciences, social sciences, and humanities.”  The Mathematics and Natural Science course requirements may be met through coursework at Coe, comparable courses from an accredited college, or a score of 4 or higher on AP examinations in mathematics or science.  Social Science and Humanities core are met with the required EDU courses and MU Music History and Literature courses.
-		1. EDU 105 Foundations of Education
-		2. EDU 117 Exceptional Learners
-		3. EDU 187 Human Relations
-		4. EDU 195 Educ Psychology & Development
-		5. EDU 219 Educational Technology Lab
-		6. MU 205 Practicum in Music Education
-		7. MU 360 Elementary & General Music Methods
-		8. **One** of the following:
-			- MU 361 Choral Music Methods, MU 362 InstrMusMethChrlTeachr, and +++MISSING INFO: c.mua134.long +++ (for Vocal Music Education majors)
-			- MU 363 Instrumental Music Methods and MU 364 ChrlMusMethInstTeach (for Instrumental Music Education majors)
-		9. MU 385 Conducting II
-		10. MU 421 Student Teaching Elementary Music
-		11. MU 422 Student Teaching Secondary Music
-		12. **Seven** terms of participation in the Applied Music Course.
-		13. Fulfillment of the general licensure grade point requirement (minimum 2.7 cumulative and in the major) 
-		**NOTE:** *A recital is not required to complete the music education area of study but may be given with the approval of the studio instructor. *
+	In addition to the following requirements, according to state regulations, all teachers in Iowa “shall acquire a core of liberal arts knowledge including, but not limited to, mathematics, natural sciences, social sciences, and humanities.”  The Mathematics and Natural Science course requirements may be met through coursework at Coe, comparable courses from an accredited college, or a score of 4 or higher on AP examinations in mathematics or science.  Social Science and Humanities core are met with the required EDU courses and MU Music History and Literature courses.
+
+	1. EDU 105 Foundations of Education
+	2. EDU 117 Exceptional Learners
+	3. EDU 187 Human Relations
+	4. EDU 195 Educ Psychology & Development
+	5. EDU 219 Educational Technology Lab
+	6. MU 205 Practicum in Music Education
+	7. MU 360 Elementary & General Music Methods
+	8. **One** of the following:
+		- MU 361 Choral Music Methods, MU 362 InstrMusMethChrlTeachr, and +++MISSING INFO: c.mua134.long +++ (for Vocal Music Education majors)
+		- MU 363 Instrumental Music Methods and MU 364 ChrlMusMethInstTeach (for Instrumental Music Education majors)
+	9. MU 385 Conducting II
+	10. MU 421 Student Teaching Elementary Music
+	11. MU 422 Student Teaching Secondary Music
+	12. **Seven** terms of participation in the Applied Music Course.
+	13. Fulfillment of the general licensure grade point requirement (minimum 2.7 cumulative and in the major) 
+		
+**NOTE:** *A recital is not required to complete the music education area of study but may be given with the approval of the studio instructor. *
 
 ### BACHELOR OF ARTS: MUSIC MAJOR
 Candidates for the **BACHELOR OF ARTS** degree with a major in music must successfully complete:
