@@ -104,7 +104,7 @@ A major in history requires a minimum cumulative 2.0 GPA in all courses counted 
 {{< var c.his444.long >}}
 {{< var c.his494.long >}}
 
-### Courses in Health and Society Studies
+### Courses in History
 - **{{< var c.his115.long >}}**
   {{< var c.his115.desc >}} 
 - **{{< var c.his125.long >}}**
