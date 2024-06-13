@@ -3372,8 +3372,10 @@ A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses coun
 ### Secondary Education Emphasis in Physical Education
 1. BIO 155 Organismal & Ecological Biology
 2. **One** of the following:
-	BIO 103 Anatomy & Physiology
-	BIO 215 Human Anatomy **AND** BIO 225 Human Physiology
+
+	-BIO 103 Anatomy & Physiology
+	-BIO 215 Human Anatomy **AND** BIO 225 Human Physiology
+
 3. KIN 105 Foundations of Physical Movement
 4. KIN 165 Master Activity Class for Teachers
 5. KIN 175 Prevention & Care Ath Inj
@@ -3388,8 +3390,10 @@ A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses coun
 ### Kinesiology Major — Fitness Development
 1. BIO 155 Organismal & Ecological Biology
 2. **One** of the following:
+    
 	-BIO 103 Anatomy & Physiology
 	-BIO 215 Human Anatomy **AND** BIO 225 Human Physiology
+
 3. KIN 105 Foundations of Physical Movement
 4. KIN 115 Fundamentals:Exercise & Nutrition
 5. KIN 175 Prevention & Care Ath Inj
@@ -3399,10 +3403,15 @@ A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses coun
 9. **All** of the following courses in the **Strength and Conditioning Group**: 
 
 	-KIN 103 PE or KIN 104 PE Advanced Weight Training
+
 	-KIN 103 PE or KIN 104 PE Movement Training
+
 	-KIN 185 Group Exercise 
+
 	-KIN 385 Methods Strength Trng & Condition
+
 	-KIN 405 Program Design
+
 	-KIN 495 Kinesiology
 
 		**or**
@@ -3410,7 +3419,9 @@ A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses coun
 	**All** of the following courses in the **Health and Wellness Group**: 
 
 	-KIN 125 Public and Consumer Health
+
 	-KIN 135 Concepts of Individual Wellness
+
 	-KIN 155 Substance Abuse
 
 ### State of Iowa Coaching Endorsement (#55, K-12) 
@@ -3530,6 +3541,7 @@ The following requirements are designed to provide a framework within which the 
 2. **One** of the following:
 
 	-LIT 464 Seminar in World Literature
+
 	-A course by arrangement chosen in consultation with Literature Administrative Coordinator
 
 3. **Two** world language courses in the same language, intermediate or advanced, taken at Coe College with permission of Literature Administrative Coordinator.  
@@ -3539,15 +3551,21 @@ The following requirements are designed to provide a framework within which the 
 	a) **At least** four courses from the following list: 
 
 		-courses in literature in translation
+
 		-courses in English and American literature and in creative writing offered by the English department 
+
 		-literature courses taught in a world language
+
 		-linguistics courses offered by the English or world language departments
+
 		-Independent Study
 
 	b) **One or more** courses from the following list of core courses to bring the total number of elective courses to six:
 
 		-AAM 137 African American Literature or ENG 137 African American Literature
+
 		-ENG 110 Ancient Mythology
+
 		-ENG 207 Gender & Lit:US Pluralism
 
 ### Senior Seminar Course
