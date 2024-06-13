@@ -1,4 +1,4 @@
-## Creative Writing {#sec-courses-in-creative-writing}
+## Creative Writing {#sec-creative-writing}
 Aspengren, Ferguson, LeMay, McQueen, Shaw (Administrative Coordinator). 
 
 The creative writing program (within the English Department) offers instruction in writing fiction, poetry, playwriting, and screenwriting.  Students who wish to develop skills in writing non-fiction prose – journalism, personal essays, etc. – should consider the writing major offered by the rhetoric department. Workshop students are required to submit a collection of finished work at the end of each course. Included in this collection is reflective discussion of the composition history of the finished work.
@@ -69,7 +69,7 @@ Workshop students are required to submit a collection of finished work at the en
 - {{< var c.crw492.long >}}
  
 
-### COURSES IN CREATIVE WRITING 
+### COURSES IN CREATIVE WRITING {#sec-courses-in-creative-writing}
 - **{{< var c.crw111.long >}}**
 
 {{< var c.crw111.desc >}}
