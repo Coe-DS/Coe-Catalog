@@ -76,7 +76,7 @@ A grade of “C” (2.0) or higher must be earned in all courses counted toward 
 - {{< var c.arh310.long >}}  
   {{< var c.arh310.desc >}}  
 - {{< var c.arh391.long >}}  
-  See also {{< var.art291.short >}}  
+  See also {{< var c.art291.short >}}  
   {{< var c.arh391.desc >}}  
 - {{< var c.arh394.long >}}  
   {{< var c.arh394.desc >}}  
