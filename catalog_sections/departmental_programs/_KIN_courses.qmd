@@ -9,8 +9,10 @@ A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses coun
 ### Secondary Education Emphasis in Physical Education
 1. {{< var c.bio155.long >}}
 2. **One** of the following:
-	{{< var c.bio103.long >}}
-	{{< var c.bio215.long >}} **AND** {{< var c.bio225.long >}}
+
+	-{{< var c.bio103.long >}}
+	-{{< var c.bio215.long >}} **AND** {{< var c.bio225.long >}}
+
 3. {{< var c.kin105.long >}}
 4. {{< var c.kin165.long >}}
 5. {{< var c.kin175.long >}}
@@ -25,8 +27,10 @@ A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses coun
 ### Kinesiology Major — Fitness Development
 1. {{< var c.bio155.long >}}
 2. **One** of the following:
+    
 	-{{< var c.bio103.long >}}
 	-{{< var c.bio215.long >}} **AND** {{< var c.bio225.long >}}
+
 3. {{< var c.kin105.long >}}
 4. {{< var c.kin115.long >}}
 5. {{< var c.kin175.long >}}
@@ -36,10 +40,15 @@ A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses coun
 9. **All** of the following courses in the **Strength and Conditioning Group**: 
 
 	-{{< var c.kin103.long >}} or {{< var c.kin104.long >}} Advanced Weight Training
+
 	-{{< var c.kin103.long >}} or {{< var c.kin104.long >}} Movement Training
+
 	-{{< var c.kin185.long >}} 
+
 	-{{< var c.kin385.long >}}
+
 	-{{< var c.kin405.long >}}
+
 	-{{< var c.kin495.long >}}
 
 		**or**
@@ -47,7 +56,9 @@ A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses coun
 	**All** of the following courses in the **Health and Wellness Group**: 
 
 	-{{< var c.kin125.long >}}
+
 	-{{< var c.kin135.long >}}
+
 	-{{< var c.kin155.long >}}
 
 ### State of Iowa Coaching Endorsement (#55, K-12) 
