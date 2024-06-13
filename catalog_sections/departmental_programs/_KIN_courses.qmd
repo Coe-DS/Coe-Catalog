@@ -34,14 +34,18 @@ A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses coun
 7. {{< var c.kin440.long >}}
 8. {{< var c.kin442.long >}}
 9. **All** of the following courses in the **Strength and Conditioning Group**: 
-	{{< var c.kin103.long >}} or {{< var c.kin104.long >}}
-	{{< var c.kin103.long >}} or {{< var c.kin104.long >}}
+
+	{{< var c.kin103.long >}} or {{< var c.kin104.long >}} Advanced Weight Training
+	{{< var c.kin103.long >}} or {{< var c.kin104.long >}} Movement Training
 	{{< var c.kin185.long >}} 
 	{{< var c.kin385.long >}}
 	{{< var c.kin405.long >}}
 	{{< var c.kin495.long >}}
+
 		**or**
+
 	**All** of the following courses in the **Health and Wellness Group**: 
+
 	{{< var c.kin125.long >}}
 	{{< var c.kin135.long >}}
 	{{< var c.kin155.long >}}
