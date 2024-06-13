@@ -21,6 +21,7 @@ The Global South examines the characteristics of regions in what has come to be 
 1. **Seven** international studies core courses (See above.)
 2. {{< var c.eco215.long >}}
 3. **Two** courses to be chosen as indicated from the two lists below. 
+
 	a. **One** of the following:
 
 		-{{< var c.eco436.long >}}
