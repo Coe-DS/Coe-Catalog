@@ -9,10 +9,8 @@ A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses coun
 ### Secondary Education Emphasis in Physical Education
 1. {{< var c.bio155.long >}}
 2. **One** of the following:
-
-	-{{< var c.bio103.long >}}
-
-	-{{< var c.bio215.long >}} **AND** {{< var c.bio225.long >}}
+	- {{< var c.bio103.long >}}
+	- {{< var c.bio215.long >}} **AND** {{< var c.bio225.long >}}
 
 3. {{< var c.kin105.long >}}
 4. {{< var c.kin165.long >}}
@@ -28,10 +26,8 @@ A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses coun
 ### Kinesiology Major — Fitness Development
 1. {{< var c.bio155.long >}}
 2. **One** of the following:
-    
-	-{{< var c.bio103.long >}}
-
-	-{{< var c.bio215.long >}} **AND** {{< var c.bio225.long >}}
+	- {{< var c.bio103.long >}}
+	- {{< var c.bio215.long >}} **AND** {{< var c.bio225.long >}}
 
 3. {{< var c.kin105.long >}}
 4. {{< var c.kin115.long >}}
@@ -40,28 +36,19 @@ A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses coun
 7. {{< var c.kin440.long >}}
 8. {{< var c.kin442.long >}}
 9. **All** of the following courses in the **Strength and Conditioning Group**: 
-
-	-{{< var c.kin103.long >}} or {{< var c.kin104.long >}} Advanced Weight Training
-
-	-{{< var c.kin103.long >}} or {{< var c.kin104.long >}} Movement Training
-
-	-{{< var c.kin185.long >}} 
-
-	-{{< var c.kin385.long >}}
-
-	-{{< var c.kin405.long >}}
-
-	-{{< var c.kin495.long >}}
+	- {{< var c.kin103.long >}} or {{< var c.kin104.long >}} Advanced Weight Training
+	- {{< var c.kin103.long >}} or {{< var c.kin104.long >}} Movement Training
+	- {{< var c.kin185.long >}} 
+	- {{< var c.kin385.long >}} 
+	- {{< var c.kin405.long >}}
+	- {{< var c.kin495.long >}}
 
 		**or**
 
 	**All** of the following courses in the **Health and Wellness Group**: 
-
-	-{{< var c.kin125.long >}}
-
-	-{{< var c.kin135.long >}}
-
-	-{{< var c.kin155.long >}}
+	- {{< var c.kin125.long >}}
+	- {{< var c.kin135.long >}}
+	- {{< var c.kin155.long >}}
 
 ### State of Iowa Coaching Endorsement (#55, K-12) 
 1. Teaching certification in an academic area 
@@ -80,12 +67,9 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
 4. {{< var c.kin155.long >}}
 5. {{< var c.kin175.long >}}
 6. **One** of the following:
-
-	-{{< var c.nur137.long >}}
-
-	-{{< var c.nur297.long >}}
-
-	-{{< var c.soc207.long >}}
+	- {{< var c.nur137.long >}}
+	- {{< var c.nur297.long >}}
+	- {{< var c.soc207.long >}}
 
 ### Kinesiology Major — Athletic Training 
 1. {{< var c.bio155.long >}}
@@ -99,12 +83,9 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
 9. {{< var c.kin495.long >}}
 
 **All** of the following courses in the Athletic Training Group 
-
-	-{{< var c.kin110.long >}}
-
-	-{{< var c.kin210.long >}}
-
-	-{{< var c.kin410.long >}}
+	- {{< var c.kin110.long >}}
+	- {{< var c.kin210.long >}}
+	- {{< var c.kin410.long >}}
 
 *Students interested in the Athletic Training Group track are strongly encouraged to meet with the Kinesiology faculty for informal advising as soon as they have chosen this major. Additional coursework may be needed for those students pursuing a licensure in Athletic Training. *
 
