@@ -6,8 +6,8 @@ The creative writing program (within the English Department) offers instruction 
 ### Creative Writing Major
 A major in creative writing requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 
-1. CRW-125 Introduction to Creative Writing {{< var c.crw125.long >}}
-2. ENG-111 Introduction to Literary Studies: The Art of Reading and Writing (WE) {{< var c.eng111.long >}}
+1. {{< var c.crw125.long >}}
+2. {{< var c.eng111.long >}}
 3. Two of the following:
     - CRW/{{< var c.the255.long >}}
     - {{< var c.crw280.long >}}
@@ -49,7 +49,7 @@ A major in creative writing requires a minimum cumulative 2.0 GPA in all courses
 4. One of the following: 
     - One elective from Creative Writing (CRW-___)
     - One elective from English (ENG-___)
-    - Two terms of CRW-112 Advanced Literary Magazine Editing
+    - Two terms of {{< var c.crw112.long >}}
     - {{< var c.rhe255.long >}}
     - {{< var c.rhe257.long >}}
     - {{< var c.rhe377.long >}}
@@ -57,58 +57,95 @@ A major in creative writing requires a minimum cumulative 2.0 GPA in all courses
 ### WORKSHOPS IN CREATIVE WRITING
 Workshop students are required to submit a collection of finished work at the end of each course. Included in this collection is reflective discussion of the composition history of the finished work.
  
-CRW-255 Playwriting Workshop 1 (WE) 
-CRW-280 Poetry Workshop 1 (WE) 
-CRW-290 Fiction Workshop 1 (WE) 
-CRW-355 Playwriting Workshop 2 (WE) 
-CRW-380 Poetry Workshop 2 (WE) 
-CRW-390 Fiction Workshop 2 (WE) 
-CRW-455 Playwriting Workshop 3 (WE) 
-CRW-480 Poetry Workshop 3 (WE) 
-CRW-490 Fiction Workshop 3 (WE) 
-CRW-492 Manuscript Workshop (WE)
+- {{< var c.crw255.long >}}
+- {{< var c.crw280.long >}} 
+- {{< var c.crw290.long >}} 
+- {{< var c.crw355.long >}} 
+- {{< var c.crw380.long >}}
+- {{< var c.crw390.long >}} 
+- {{< var c.crw455.long >}} 
+- {{< var c.crw480.long >}} 
+- {{< var c.crw490.long >}} 
+- {{< var c.crw492.long >}}
  
 
 ### COURSES IN CREATIVE WRITING 
-CRW-111 Literary Magazine Editing
-Combines instruction in the skills of producing a literary magazine with the practical tasks of publishing the Coe Review. Students learn to plan a production schedule, evaluate and select materials, design an issue, organize and direct staff, manage a budget, promote the magazine, plan for the next cycle, communicate with contributors, and other skills related to producing an issue of the Coe Review.  Current appointed Coe Review editorial staff are required to enroll in either CRW-111 or CRW-112 as a condition of retaining their appointments. Students may not register for both CRW-111 and CRW-112 in the same term.  P/NP basis only. May be taken more than once for credit for a maximum of 1.6 credits. (0.2 course credit)
-CRW-112 Advanced Literary Magazine Editing
-Combines instruction in the skills of producing a literary magazine with the practical tasks of publishing the Coe Review, but this course focuses on developing and practicing skills in one of the main editorial positions of the magazine. Only students who have been appointed to an editorial position on the Coe Review staff may register for this course. Current appointed Coe Review editorial staff are required to enroll in either CRW-111 or CRW-112 as a condition of retaining their appointments. Students may not register for both CRW-111 and CRW-112 in the same term. A maximum of one course credit may count toward a creative writing collateral major. May be taken more than once for credit for a maximum of 1.0 credit. (0.5 course credit)
-CRW-115 Exploring Creative Writing (WE)
-Explores specific topics, genres, or forms in creative writing through reading, writing, and workshop. Topics vary depending on the instructor. May be taken more than once, with consent of instructor, provided the topics are substantially different.  
-CRW-125 Introduction to Creative Writing
-Studies the line or sentence as the basic unit of creative writing across multiple genres. This class introduces skills necessary for subsequent workshops by examining different ways of looking at the line, including by thinking about sound and meaning and how syntax, diction, and other choices create an overall effect. Focus is on analysis of both published and student-generated work.
-CRW-255 Playwriting Workshop 1 (WE)
+- **{{< var c.crw111.long >}}**
+
+{{< var c.crw111.desc >}}
+
+- **{{< var c.crw112.long >}}**
+
+{{< var c.crw112.desc >}}
+
+- **{{< var c.crw115.long >}}**
+
+{{< var c.crw115.desc >}}
+
+- **{{< var c.crw125.long >}}**
+
+{{< var c.crw125.desc >}}
+
+- **{{< var c.crw255.long >}}**
+
 See also Theatre Arts (THE-255), p. 199
-Explores the basics of playwriting through the study of dramatic structure, creative exercises, and reading and analysis of existing play scripts, with emphasis on the one-act play. Students complete a one-act play script of their own creation. 
-CRW-280 Poetry Workshop 1 (WE)
-Special attention to differences between closed forms of traditional rhymed, metrical verse, and open forms, such as non-stanzaic and free verse. Prerequisite: Introduction to Creative Writing (CRW-125) or consent of instructor. 
-CRW-290 Fiction Workshop 1 (WE)
-Emphasis on techniques of setting, plot, characterization, dialogue, timing, and systematic architecture, and on a variety of narrative methods. Prerequisite: Introduction to Creative Writing (CRW-125) or consent of instructor. 
- 
-CRW-350 Screenwriting (WE)
-Survey of multiple modes of writing for moving image productions. May include examination of dramatic narrative screenplay fundamentals such as structure, character, scene development, theme, and story; the documentary treatment, including research, interviewing, and post-production writing; and experimental and multimedia writing. Students develop the tools and vocabulary to analyze their own writing. Screenings of a range of film and video works conducted in class and by assignment. Prerequisite: any CRW- or FLM- course.
-CRW-355 Playwriting Workshop 2 (WE)
+
+{{< var c.crw255.desc >}}
+
+- **{{< var c.crw280.long >}}**
+
+{{< var c.crw280.desc >}}
+
+- **{{< var c.crw290.long >}}**
+
+{{< var c.crw290.desc >}}
+
+- **{{< var c.crw350.long >}}**
+
+{{< var c.crw350.desc >}}
+
+- **{{< var c.crw355.long >}}**
+
 See also Theatre Arts (THE-355), p. 200
-Focuses on the analysis and creation of play scripts of two acts or more. Emphasis is placed on the writing and marketing of the student’s own creative work, culminating in the completion and public reading of a full-length script. Prerequisite: Playwriting Workshop I (CRW/THE-255). 
-CRW-380 Poetry Workshop 2 (WE)
-Advanced study of poetic forms and practice writing poetry. Prerequisites: Introduction to Creative Writing (CRW-125) and Poetry Workshop 1 (CRW-280). 
-CRW-390 Fiction Workshop 2 (WE)
-Advanced study of the short story and practice writing fiction at the advanced level. Prerequisites: Introduction to Creative Writing (CRW-125) and Fiction Workshop 1 (CRW-290).
-CRW-394 Directed Studies in Creative Writing (WE)
-Completion of an independent creative writing project under the direction of a faculty member. Registration only after the instructor has approved a written proposal for the project. Prerequisites: two courses in Creative Writing and consent of English department chair.
-CRW-455 Playwriting Workshop 3 (WE)
+
+{{< var c.crw355.desc >}}
+
+- **{{< var c.crw380.long >}}**
+
+{{< var c.crw380.desc >}} 
+
+- **{{< var c.crw390.long >}}**
+
+{{< var c.crw390.desc >}}
+
+- **{{< var c.crw394.long >}}**
+
+{{< var c.crw394.desc >}}
+
+- **{{< var c.crw455.long >}}**
+
 See also Theatre Arts (THE-455), p. 201
-Continued advanced writing, with an emphasis on producing finished plays. Prerequisite: Playwriting Workshop 2 (CRW/THE-355).
-CRW-480 Poetry Workshop 3 (WE)
-Continued advanced writing, with an emphasis on producing finished poems. Prerequisite: Poetry Workshop 2 (CRW-380).
-CRW-484 Advanced Topics in Creative Writing
-Study of special topics in creative writing, such as scriptwriting, experimental fiction and poetry, and hypertext.  May be taken more than once, with consent of instructor, provided the topics are substantially different.  Prerequisite: Playwriting Workshop 2 (CRW-355), Poetry Workshop 2 (CRW-380) or Fiction Workshop 2 (CRW-390).
-CRW-490 Fiction Workshop 3 (WE)
-Continued advanced writing, with an emphasis on producing finished fiction. Prerequisite: Fiction Workshop 2 (CRW-390).
-CRW-492 Manuscript Workshop (WE)
-The capstone of the Creative Writing major. Students in this intensive workshop complete a thoroughly revised, polished major manuscript, suitable for an MFA writing sample or to submit for publication. Manuscripts usually are in a single genre. Students also write reflections on their manuscript and prepare for the senior reading.  Prerequisites: consent of instructor.
-CRW-494 Internship in Creative Writing
-Exploration of a career area related to Creative Writing. Application and supervision through the Internship Specialist. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a major or minor in creative writing, but with the consent of rhetoric department faculty, one credit from an appropriate internship may be applied to a major or minor in writing. Prerequisites: junior standing and consent of English department chair. 
+
+{{< var c.crw455.desc >}}
+
+- **{{< var c.crw480.long >}}**
+
+{{< var c.crw480.desc >}}
+
+- **{{< var c.crw484.long >}}**
+
+{{< var c.crw484.desc >}}
+
+- **{{< var c.crw490.long >}}**
+
+{{< var c.crw490.desc >}}
+
+- **{{< var c.crw492.long >}}**
+
+{{< var c.crw492.desc >}}
+
+- **{{< var c.crw494.long >}}**
+
+{{< var c.crw494.desc >}}
 
 For additional Writing and Journalism courses, see Rhetoric, p. 182.
