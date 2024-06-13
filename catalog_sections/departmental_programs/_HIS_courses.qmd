@@ -7,33 +7,30 @@ The history department allows students the opportunity to study history broadly,
 A major in history requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 
 1. **Four** courses in one of these two combinations:
-
-	-{{< var c.his115.long >}}
-	-{{< var c.his125.long >}}
-	-{{< var c.his145.long >}} **or** {{< var c.his155.long >}}
-	-One additional U.S. History course
+	- {{< var c.his115.long >}}
+	- {{< var c.his125.long >}}
+	- {{< var c.his145.long >}} **or** {{< var c.his155.long >}}
+	- One additional U.S. History course
 
 			**OR**
 
-	-{{< var c.his145.long >}}
-	-{{< var c.his155.long >}}
-	-{{< var c.his115.long >}} **or** {{< var c.his125.long >}}
-	-One additional European History course
+	- {{< var c.his145.long >}}
+	- {{< var c.his155.long >}}
+	- {{< var c.his115.long >}} **or** {{< var c.his125.long >}}
+	- One additional European History course
 
 2. {{< var c.his205.long >}}
 3. **One** of the following:
-
-	-{{< var c.his136.long >}}
-	-{{< var c.his246.long >}}
-	-{{< var c.his256.long >}}
+	- {{< var c.his136.long >}}
+	- {{< var c.his246.long >}}
+	- {{< var c.his256.long >}}
 
 4. **One** of the following:
-
-	-{{< var c.his465.long >}}
-	-{{< var c.his466.long >}}
-	-{{< var c.his472.long >}}
-	-{{< var c.his473.long >}}
-	-{{< var c.his474.long >}}
+	- {{< var c.his465.long >}}
+	- {{< var c.his466.long >}}
+	- {{< var c.his472.long >}}
+	- {{< var c.his473.long >}}
+	- {{< var c.his474.long >}}
 
 5. **Three** additional history courses
 **NOTE:** *With departmental approval, successful completion of the ACM Newberry Seminar: Research in the Humanities Program off-campus study experience may be used to satisfy #4 above.*
@@ -42,128 +39,79 @@ A major in history requires a minimum cumulative 2.0 GPA in all courses counted 
 ### History Minor
 
 **One** of the following combinations:
-
-	-{{< var c.his115.long >}}
-	-{{< var c.his125.long >}}
-	-**One** course in United States history
-	-**One** course in Asian history
-	-**Two** additional history courses approved by the department
+	- {{< var c.his115.long >}}
+	- {{< var c.his125.long >}}
+	- **One** course in United States history
+	- **One** course in Asian history
+	- **Two** additional history courses approved by the department
 
 			**OR**
 
-	-{{< var c.his145.long >}}
-	-{{< var c.his155.long >}}
-	-**One** course in European history
-	-**One** course in Asian history
-	-**Two** additional history courses approved by the department
+	- {{< var c.his145.long >}}
+	- {{< var c.his155.long >}}
+	- **One** course in European history
+	- **One** course in Asian history
+	- **Two** additional history courses approved by the department
 
 ### Courses in History by Content Area
 
 *Asian History*
-
--{{< var c.his136.long >}}
-
--{{< var c.his216.long >}}
-
--{{< var c.his246.long >}}
-
--{{< var c.his256.long >}}
-
--{{< var c.his316.long >}}
+- {{< var c.his136.long >}}
+- {{< var c.his216.long >}}
+- {{< var c.his246.long >}}
+- {{< var c.his256.long >}}
+- {{< var c.his316.long >}}
 
 *European History*
-
--{{< var c.his115.long >}}
-
--{{< var c.his125.long >}}
-
--{{< var c.his238.long >}}
-
--{{< var c.his248.long >}}
-
--{{< var c.his272.long >}}
-
--{{< var c.his275.long >}}
-
--{{< var c.his285.long >}}
-
--{{< var c.his288.long >}}
-
--{{< var c.his292.long >}}
-
--{{< var c.his318.long >}}
-
--{{< var c.his355.long >}}
-
--{{< var c.his365.long >}}
-
--{{< var c.his372.long >}}
+- {{< var c.his115.long >}}
+- {{< var c.his125.long >}}
+- {{< var c.his238.long >}}
+- {{< var c.his248.long >}}
+- {{< var c.his272.long >}}
+- {{< var c.his275.long >}}
+- {{< var c.his285.long >}}
+- {{< var c.his288.long >}}
+- {{< var c.his292.long >}}
+- {{< var c.his318.long >}}
+- {{< var c.his355.long >}}
+- {{< var c.his365.long >}}
+- {{< var c.his372.long >}}
 
 *U.S. History*
-
--{{< var c.his145.long >}}
-
--{{< var c.his155.long >}}
-
--{{< var c.his217.long >}}
-
--{{< var c.his227.long >}}
-
--{{< var c.his257.long >}}
-
--{{< var c.his297.long >}}
-
--{{< var c.his317.long >}}
-
--{{< var c.his325.long >}}
-
--{{< var c.his335.long >}}
-
--{{< var c.his347.long >}}
-
--{{< var c.his387.long >}}
-
--{{< var c.his395.long >}}
+- {{< var c.his145.long >}}
+- {{< var c.his155.long >}}
+- {{< var c.his217.long >}}
+- {{< var c.his227.long >}}
+- {{< var c.his257.long >}}
+- {{< var c.his297.long >}}
+- {{< var c.his317.long >}}
+- {{< var c.his325.long >}}
+- {{< var c.his335.long >}}
+- {{< var c.his347.long >}}
+- {{< var c.his387.long >}}
+- {{< var c.his395.long >}}
 
 *Methods and Research*
-
--{{< var c.his205.long >}}
-
--{{< var c.his465.long >}}
-
--{{< var c.his466.long >}}
-
--{{< var c.his472.long >}}
-
--{{< var c.his473.long >}}
-
--{{< var c.his474.long >}}
+- {{< var c.his205.long >}}
+- {{< var c.his465.long >}}
+- {{< var c.his466.long >}}
+- {{< var c.his472.long >}}
+- {{< var c.his473.long >}}
+- {{< var c.his474.long >}}
 
 *Other History Courses*
-
--{{< var c.his208.long >}}
-
--{{< var c.his218.long >}}
-
--{{< var c.his268.long >}}
-
--{{< var c.his276.long >}}
-
--{{< var c.his278.long >}}
-
--{{< var c.his286.long >}}
-
--{{< var c.his300.long >}}
-
--{{< var c.his306.long >}}
-
--{{< var c.his308.long >}}
-
--{{< var c.his328.long >}}
-
--{{< var c.his444.long >}}
-
--{{< var c.his494.long >}}
+- {{< var c.his208.long >}}
+- {{< var c.his218.long >}}
+- {{< var c.his268.long >}}
+- {{< var c.his276.long >}}
+- {{< var c.his278.long >}}
+- {{< var c.his286.long >}}
+- {{< var c.his300.long >}}
+- {{< var c.his306.long >}}
+- {{< var c.his308.long >}}
+- {{< var c.his328.long >}}
+- {{< var c.his444.long >}}
+- {{< var c.his494.long >}}
 
 ### Courses in History
 - **{{< var c.his115.long >}}**
