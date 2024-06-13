@@ -44,16 +44,27 @@ The Global South examines the characteristics of regions in what has come to be 
 4. **Two or more** additional courses from either the courses under #3 or any of the following, subject to prior approval by the International Studies administrative coordinator.  (Not more than one of these two courses can be from political science and not more than one of these two courses can be from economics.).  At least one course must be completed at the 300 level or above. 
 
     	-{{< var c.ant286/486.long >}}
+
 	-{{< var c.asc186.long >}}
+
 	-{{< var c.eng146.long >}}
+
 	-{{< var c.gs136.long >}}
+
 	-{{< var c.his246.long >}}
+
 	-{{< var c.his268.long >}}
+
 	-{{< var c.his286.long >}}
+
 	-{{< var c.his316.long >}}
+
 	-{{< var c.is316.long >}}
+
 	-{{< var c.pol266.long >}}
+
 	-{{< var c.pol276.long >}}
+
 	-{{< var c.pol286.long >}}
 
 ### International Studies Major — International Relations track
@@ -67,28 +78,47 @@ International Relations combines theoretical approaches to and empirical knowled
 	a. **One** of the following:
 
 		-{{< var c.asc186.long >}}
+
 		-{{< var c.his216.long >}}
+
 		-{{< var c.his217.long >}}
+
 		-{{< var c.his246.long >}}
+
 		-{{< var c.his256.long >}}
+
 		-{{< var c.pol266.long >}}
+
 		-{{< var c.pol276.long >}}
+
 		-{{< var c.pol286.long >}}
+
 		-{{< var c.pol296.long >}}
 
 	b. **Two** of the following:
 
 		-{{< var c.ant286/486.long >}}
+
 		-{{< var c.eco446.long >}}
+
 		-{{< var c.eco495.long >}}
+
 		-{{< var c.his286.long >}}
+
 		-{{< var c.his335.long >}}
+
 		-{{< var c.his395.long >}}
+
 		-{{< var c.is315.long >}}
+
 		-{{< var c.is316.long >}}
-		-{{< var c.pol305.long >}}
+
+                -{{< var c.pol305.long >}}
+
 		-{{< var c.pol365.long >}}
+
 		-{{< var c.pol386.long >}}
+
 		-{{< var c.pol398.long >}}
 
 ### International Studies Major — Contemporary European Studies
@@ -101,19 +131,33 @@ Contemporary European Studies
 4. **Three** of the following, two of which must be numbered 300 or above.  At least two academic disciplines must be represented.
 
 	-{{< var c.arh248.long >}}
+
 	-{{< var c.arh307.long >}}
+
 	-{{< var c.eng393.long >}}
+
 	-{{< var c.fre158.long >}}
+
 	-{{< var c.fre340.long >}}
+
 	-{{< var c.his238.long >}}
+
 	-{{< var c.his278.long >}}
+
 	-{{< var c.his292.long >}}
+
 	-{{< var c.is315.long >}}
+
 	-{{< var c.mu458.long >}}
+
 	-{{< var c.rel138.long >}}
+
 	-{{< var c.rel148.long >}}
+
 	-{{< var c.rel178.long >}}
+
 	-{{< var c.the238.long >}}
+
 	-A course approved by the International Studies administrative coordinator
 
 
