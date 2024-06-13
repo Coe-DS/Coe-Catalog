@@ -28,83 +28,86 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 7. The Senior Assessment Examination in the final term prior to graduation. 
 8. **One** of the four areas of study applicable towards the Bachelor of Music degree: 
 	
-		**Composition**
+	**Composition**
 
-		1. {{< var c.mu195.long >}}
-		2. {{< var c.mu409.long >}}/{{< var c.mu409L.long >}}
-		3. {{< var c.mua413.long >}}
-		4. {{< var c.mua423.long >}}
-		5. **Eight** terms of participation in the Applied Music Course, which must include four terms each of MUA-202C and MUA-303C
-		6. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements, but the two required language courses described below may not.) 
-		7. **Two** courses in French in consecutive terms (may not be used to satisfy the humanities requirement of #6) 
-		8. **Two** additional non-music courses 
-		9. {{< var c.mua490.long >}}
+	1. {{< var c.mu195.long >}}
+	2. {{< var c.mu409.long >}}/{{< var c.mu409L.long >}}
+	3. {{< var c.mua413.long >}}
+	4. {{< var c.mua423.long >}}
+	5. **Eight** terms of participation in the Applied Music Course, which must include four terms each of MUA-202C and MUA-303C
+	6. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements, but the two required language courses described below may not.) 
+	7. **Two** courses in French in consecutive terms (may not be used to satisfy the humanities requirement of #6) 
+	8. **Two** additional non-music courses 
+	9. {{< var c.mua490.long >}}
 	
-		**Keyboard and Instrumental Performance**
+	**Keyboard and Instrumental Performance**
 
-		1. {{< var c.mu409.long >}}/{{< var c.mu409L.long >}}
-		2. **Four** of the following:
-			- {{< var c.mu140.long >}}
-			- {{< var c.mu151.long >}}
-			- {{< var c.mu157.long >}}
-			- {{< var c.mu195.long >}}
-			- {{< var c.mu270.long >}}
-			- {{< var c.mu166/284.long >}}
-			- {{< var c.mu385.long >}}
-			- {{< var c.mu444.long >}}
-			- {{< var c.mua133V.long >}}
-			- {{< var c.mua134V.long >}}
-			- {{< var c.mua413V.long >}}
-			- {{< var c.mua423V.long >}}
-			- One course credit in MUA-courses beyond those required in the Applied Music Course.
-		3. **Eight** terms of participation in the Applied Music Course. 
-		4. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements.) 
-		5. **Two** courses in French in consecutive terms (may not be used to satisfy the humanities requirement of #4)
-		6. {{< var c.mua490.long >}}
+	1. {{< var c.mu409.long >}}/{{< var c.mu409L.long >}}
+	2. **Four** of the following:
+		- {{< var c.mu140.long >}}
+		- {{< var c.mu151.long >}}
+		- {{< var c.mu157.long >}}
+		- {{< var c.mu195.long >}}
+		- {{< var c.mu270.long >}}
+		- {{< var c.mu166/284.long >}}
+		- {{< var c.mu385.long >}}
+		- {{< var c.mu444.long >}}
+		- {{< var c.mua133V.long >}}
+		- {{< var c.mua134V.long >}}
+		- {{< var c.mua413V.long >}}
+		- {{< var c.mua423V.long >}}
+		- One course credit in MUA-courses beyond those required in the Applied Music Course.
+	3. **Eight** terms of participation in the Applied Music Course. 
+	4. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements.) 
+	5. **Two** courses in French in consecutive terms (may not be used to satisfy the humanities requirement of #4)
+	6. {{< var c.mua490.long >}}
 
-		**Vocal Performance**
+	**Vocal Performance**
 
-		1. {{< var c.mua133V.long >}}
-		2. {{< var c.mua134V.long >}}
-		3. {{< var c.mu409.long >}}/{{< var c.mu409L.long >}}
-		4. **Four** of the following:
-			- {{< var c.mu140.long >}}
-			- {{< var c.mu151.long >}}
-			- {{< var c.mu157.long >}}
-			- {{< var c.mu195.long >}}
-			- {{< var c.mu270.long >}}
-			- {{< var c.mu166/284.long >}}
-			- {{< var c.mu385.long >}}
-			- {{< var c.mu444.long >}}
-			- {{< var c.mua133V.long >}}
-			- {{< var c.mua413.long >}}
-			- {{< var c.mua423.long >}}
-			- One course credit in MUA-courses beyond those required in the Applied Music Course. 
-		5. **Eight** terms of participation in the Applied Music Course. 
-		6. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements.) 
-		7. **Two** courses in French in consecutive terms (may not be used to satisfy the humanities requirement of #6) 
-		8. {{< var c.mua490.long >}}
+	1. {{< var c.mua133V.long >}}
+	2. {{< var c.mua134V.long >}}
+	3. {{< var c.mu409.long >}}/{{< var c.mu409L.long >}}
+	4. **Four** of the following:
+		- {{< var c.mu140.long >}}
+		- {{< var c.mu151.long >}}
+		- {{< var c.mu157.long >}}
+		- {{< var c.mu195.long >}}
+		- {{< var c.mu270.long >}}
+		- {{< var c.mu166/284.long >}}
+		- {{< var c.mu385.long >}}
+		- {{< var c.mu444.long >}}
+		- {{< var c.mua133V.long >}}
+		- {{< var c.mua413.long >}}
+		- {{< var c.mua423.long >}}
+		- One course credit in MUA-courses beyond those required in the Applied Music Course. 
+	5. **Eight** terms of participation in the Applied Music Course. 
+	6. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements.) 
+	7. **Two** courses in French in consecutive terms (may not be used to satisfy the humanities requirement of #6) 
+	8. {{< var c.mua490.long >}}
 
-		**Music Education (Vocal or Instrumental)**
-		To complete the Vocal or Instrumental Music Education area of study in four years, a student must begin the sequence of courses during the first year. A student entering either area of study as a sophomore should anticipate spending a fifth year to complete all degree requirements. 
+	**Music Education (Vocal or Instrumental)**
+		
+	To complete the Vocal or Instrumental Music Education area of study in four years, a student must begin the sequence of courses during the first year. A student entering either area of study as a sophomore should anticipate spending a fifth year to complete all degree requirements. 
 	
-		In addition to the following requirements, according to state regulations, all teachers in Iowa “shall acquire a core of liberal arts knowledge including, but not limited to, mathematics, natural sciences, social sciences, and humanities.”  The Mathematics and Natural Science course requirements may be met through coursework at Coe, comparable courses from an accredited college, or a score of 4 or higher on AP examinations in mathematics or science.  Social Science and Humanities core are met with the required EDU courses and MU Music History and Literature courses.
-		1. {{< var c.edu105.long >}}
-		2. {{< var c.edu117.long >}}
-		3. {{< var c.edu187.long >}}
-		4. {{< var c.edu195.long >}}
-		5. {{< var c.edu219.long >}}
-		6. {{< var c.mu205.long >}}
-		7. {{< var c.mu360.long >}}
-		8. **One** of the following:
-			- {{< var c.mu361.long >}}, {{< var c.mu362.long >}}, and {{< var c.mua134.long >}} (for Vocal Music Education majors)
-			- {{< var c.mu363.long >}} and {{< var c.mu364.long >}} (for Instrumental Music Education majors)
-		9. {{< var c.mu385.long >}}
-		10. {{< var c.mu421.long >}}
-		11. {{< var c.mu422.long >}}
-		12. **Seven** terms of participation in the Applied Music Course.
-		13. Fulfillment of the general licensure grade point requirement (minimum 2.7 cumulative and in the major) 
-		**NOTE:** *A recital is not required to complete the music education area of study but may be given with the approval of the studio instructor. *
+	In addition to the following requirements, according to state regulations, all teachers in Iowa “shall acquire a core of liberal arts knowledge including, but not limited to, mathematics, natural sciences, social sciences, and humanities.”  The Mathematics and Natural Science course requirements may be met through coursework at Coe, comparable courses from an accredited college, or a score of 4 or higher on AP examinations in mathematics or science.  Social Science and Humanities core are met with the required EDU courses and MU Music History and Literature courses.
+
+	1. {{< var c.edu105.long >}}
+	2. {{< var c.edu117.long >}}
+	3. {{< var c.edu187.long >}}
+	4. {{< var c.edu195.long >}}
+	5. {{< var c.edu219.long >}}
+	6. {{< var c.mu205.long >}}
+	7. {{< var c.mu360.long >}}
+	8. **One** of the following:
+		- {{< var c.mu361.long >}}, {{< var c.mu362.long >}}, and {{< var c.mua134.long >}} (for Vocal Music Education majors)
+		- {{< var c.mu363.long >}} and {{< var c.mu364.long >}} (for Instrumental Music Education majors)
+	9. {{< var c.mu385.long >}}
+	10. {{< var c.mu421.long >}}
+	11. {{< var c.mu422.long >}}
+	12. **Seven** terms of participation in the Applied Music Course.
+	13. Fulfillment of the general licensure grade point requirement (minimum 2.7 cumulative and in the major) 
+		
+**NOTE:** *A recital is not required to complete the music education area of study but may be given with the approval of the studio instructor. *
 
 ### BACHELOR OF ARTS: MUSIC MAJOR
 Candidates for the **BACHELOR OF ARTS** degree with a major in music must successfully complete:
