@@ -25,9 +25,9 @@ Students are supplied all AFROTC books, uniforms, and necessary materials free o
 - **MSA 210L AFROTC Leadrshp Lab ASP I**
   See MSA-110L. Corequisite: Team and Leadership Fundamentals I (MSA-210). (0.25 course credit)
 - **MSA 220 Team and Leadership Fundamentals II**
-  {{< var c.msa220.desc >}
+  Provide the foundation for both leadership and team building. The concepts will be applied in team building activities and class discussion to include demonstration of basic verbal and written communication. Featured topics include: Conflict Management, Comprehensive Airman Fitness, and a Leadership Capstone. (0.25 course credit)
 - **MSA 220L AFROTC Leadrshp Lab ASP II**
-  {{< var c.msa220l.desc >}
+  See MSA-110L. Corequisite: Team and Leadership Fundamentals II (MSA-220) (0.25 course credit)
 - **MSA 310 Leadership Studies: I**
   Course is designed to build on the leadership fundamentals taught in AERO 2100 and AERO 2200. The class studies leadership and leadership skills to use in your future Air Force environment. You will study the profession of arms, communications skills, and ethics. Case studies will be used to examine Air Force leadership situations, and to demonstrate and exercise practical application of the concepts you study. (0.75 course credit)
 - **MSA 310L AFROTC Leadrshp Lab AFLS I**
