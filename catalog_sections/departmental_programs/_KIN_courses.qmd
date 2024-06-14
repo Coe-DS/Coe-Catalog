@@ -83,6 +83,7 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
 9. {{< var c.kin495.long >}}
 
 **All** of the following courses in the Athletic Training Group 
+
 	- {{< var c.kin110.long >}}
 	- {{< var c.kin210.long >}}
 	- {{< var c.kin410.long >}}
