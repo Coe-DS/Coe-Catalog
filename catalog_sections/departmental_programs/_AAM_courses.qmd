@@ -33,8 +33,7 @@ A major in African American studies requires a minimum cumulative 2.0 GPA in all
 		- {{< var c.mu157.long >}} 
 		- {{< var c.soc247.long >}} 
 
-	- **b.** Elective courses (when topic is appropriate):
-	
+	- **b.** Elective courses (when topic is appropriate):  \	
 	These courses can count toward the major or minor as determined by the African American Studies administrative coordinator. 
     
 		- {{< var c.arh297.long >}} 
