@@ -10,9 +10,11 @@ Students choosing a collateral major in the natural sciences or Neuroscience may
 Students earning more than one major in the natural sciences or a major and a minor in the natural sciences are not eligible for the General Science major. 
 
 A major in general science requires a minimum of thirteen course credits from the natural science areas of biology, chemistry, mathematics, and physics. At least seven of these 13 course credits must be above the introductory level and at least two course credits must be in biology.
+
 1. **Six** course credits in one of the four natural science areas
 2. **Five** course credits in a second natural science field (or mathematics through {{< var c.mth265.long >}})
 3. **Two** course credits in a third natural science field 
+
 Satisfactory completion of comprehensive requirements in each of the major areas. 
 
 
