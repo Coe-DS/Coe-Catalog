@@ -4,39 +4,39 @@ St. Clair, Sanchini (Administrative Coordinators).
 ### Collateral Major in Environmental Science
 A major in environmental science requires a minimum cumulative 2.0 GPA in all courses counted toward the major. 
 Concurrent completion of a primary major in biology or chemistry is required.  
-1. **One** of the following combinations:
-Biology majors:
-	MTH 135 Calculus I
-	BIO 445 Environmental Microbiology and +++MISSING INFO: c.bio445L.long +++
+1. **One** of the following combinations:  
+Biology majors:  
+	MTH 135 Calculus I  
+	BIO 445 Environmental Microbiology and +++MISSING INFO: c.bio445L.long +++  
 	**or**
-Chemistry majors:
-	MTH 145 Calculus II	
-	PHY 185 General Physics I and +++MISSING INFO: c.phy185L.long +++
-	PHY 195 General Physics II and +++MISSING INFO: c.phy195L.long +++
-	BIO 445 Environmental Microbiology and +++MISSING INFO: c.bio445L.long +++
-2. BIO 295 Spatial Ecology and +++MISSING INFO: c.bio295L.long +++
-3. CHM 211 Analytical Chemistry and +++MISSING INFO: c.bio211L.long +++
-4. CHM 221 Organic Chemistry I
-5. **Two** of the following with the associated laboratories:
-	BIO 115 Marine Biology
-	BIO 165 Ecology and Biology of Birds
-	BIO 175 Field Botany
-	BIO 185 Entomology
-	BIO 275 Aquatic Ecology
-	BIO 325 Microbiology
-	BIO 385 Behavior/Ecology of Vertebrates
-	+++MISSING INFO: c.bio411.long +++
-	BIO 425 Ecology
-	BIO 444 Independent Study
+Chemistry majors:  
+	MTH 145 Calculus II  	
+	PHY 185 General Physics I and +++MISSING INFO: c.phy185L.long +++  
+	PHY 195 General Physics II and +++MISSING INFO: c.phy195L.long +++  
+	BIO 445 Environmental Microbiology and +++MISSING INFO: c.bio445L.long +++  
+2. BIO 295 Spatial Ecology and +++MISSING INFO: c.bio295L.long +++  
+3. CHM 211 Analytical Chemistry and +++MISSING INFO: c.bio211L.long +++  
+4. CHM 221 Organic Chemistry I  
+5. **Two** of the following with the associated laboratories:  
+	BIO 115 Marine Biology  
+	BIO 165 Ecology and Biology of Birds  
+	BIO 175 Field Botany  
+	BIO 185 Entomology  
+	BIO 275 Aquatic Ecology  
+	BIO 325 Microbiology  
+	BIO 385 Behavior/Ecology of Vertebrates  
+	+++MISSING INFO: c.bio411.long +++  
+	BIO 425 Ecology  
+	BIO 444 Independent Study  
 Any course taught at the Wilderness Field Station with BIO prefix.
 
-*Recommended:*
-Any course taught at the Wilderness Field Station
-	BIO105 Introductory Biology
-	MTH 145 Calculus II
-	RHE 257 Environmental Rhetoric
-	STA 100 Statistical Reasoning I-Foundations **and** STA 110 Stats IIA: Inferential Reasoning
-	STA 100 Statistical Reasoning I-Foundations **and** STA 130 Stats IIB: Experimental Design
+*Recommended:*  
+Any course taught at the Wilderness Field Station  
+	BIO105 Introductory Biology  
+	MTH 145 Calculus II  
+	RHE 257 Environmental Rhetoric  
+	STA 100 Statistical Reasoning I-Foundations **and** STA 110 Stats IIA: Inferential Reasoning  
+	STA 100 Statistical Reasoning I-Foundations **and** STA 130 Stats IIB: Experimental Design  
 
 **NOTE:**  *Students should select courses from the economics, political science, and philosophy departments as part of their general education program.*
 
