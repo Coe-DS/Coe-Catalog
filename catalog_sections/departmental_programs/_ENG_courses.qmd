@@ -21,7 +21,7 @@ A major in English requires a minimum cumulative 2.0 GPA in all courses counted 
 The minor in English consists of five course credits, including {{< var c.eng111.long >}} and _two_ English courses numbered 300 or above. One course in Creative Writing (CRW-) or in French, or Spanish literature in translation ({{< var c.fre145.long >}}, {{< var c.fre146.long >}}, {{< var c.fre148.long >}}, {{< var c.spa148.long >}}) may count toward the five course credits.
 
 
-### Courses in Literature
+### Courses in Literature {#sec-courses-in-english}
 
 - **{{< var c.eng105.long >}}**
   {{< var c.eng105.desc >}}  
