@@ -25,7 +25,7 @@ Degree-seeking students sometimes wish to transfer credit from another instituti
 
 ## Evaluation of Credits For Graduation
 
-The Office of the Registrar certifies the completion of general degree (see p. 16) and general education requirements (see p. 23). Credits toward a major, minor, endorsement, license, authorization, etc. are approved by the appropriate department chair, administrative coordinator, or by Academic Policies Committee for interdisciplinary majors. 
+The Office of the Registrar certifies the completion of general degree (see @sec-graduation-requirements) and general education requirements (see @sec-general-education-courses). Credits toward a major, minor, endorsement, license, authorization, etc. are approved by the appropriate department chair, administrative coordinator, or by Academic Policies Committee for interdisciplinary majors. 
 
 ## Credit By Examination
 
