@@ -7,33 +7,30 @@ The history department allows students the opportunity to study history broadly,
 A major in history requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 
 1. **Four** courses in one of these two combinations:
-
-	-HIS 115 History of Europe to 1500
-	-HIS 125 History of Europe Since 1500
-	-HIS 145 History of United States to 1865 **or** HIS 155 History of United States since 1865
-	-One additional U.S. History course
+	- HIS 115 History of Europe to 1500
+	- HIS 125 History of Europe Since 1500
+	- HIS 145 History of United States to 1865 **or** HIS 155 History of United States since 1865
+	- One additional U.S. History course
 
 			**OR**
 
-	-HIS 145 History of United States to 1865
-	-HIS 155 History of United States since 1865
-	-HIS 115 History of Europe to 1500 **or** HIS 125 History of Europe Since 1500
-	-One additional European History course
+	- HIS 145 History of United States to 1865
+	- HIS 155 History of United States since 1865
+	- HIS 115 History of Europe to 1500 **or** HIS 125 History of Europe Since 1500
+	- One additional European History course
 
 2. HIS 205 Historians Craft
 3. **One** of the following:
-
-	-HIS 136 East Asian Civilization
-	-HIS 246 History of Modern China
-	-HIS 256 History of Modern Japan
+	- HIS 136 East Asian Civilization
+	- HIS 246 History of Modern China
+	- HIS 256 History of Modern Japan
 
 4. **One** of the following:
-
-	-HIS 465 Seminar in Ancient History
-	-HIS 466 Seminar Modern East Asian History
-	-HIS 472 Seminar American History I
-	-HIS 473 Seminar American History II
-	-HIS 474 Seminar Modern European History
+	- HIS 465 Seminar in Ancient History
+	- HIS 466 Seminar Modern East Asian History
+	- HIS 472 Seminar American History I
+	- HIS 473 Seminar American History II
+	- HIS 474 Seminar Modern European History
 
 5. **Three** additional history courses
 **NOTE:** *With departmental approval, successful completion of the ACM Newberry Seminar: Research in the Humanities Program off-campus study experience may be used to satisfy #4 above.*
@@ -42,128 +39,79 @@ A major in history requires a minimum cumulative 2.0 GPA in all courses counted 
 ### History Minor
 
 **One** of the following combinations:
-
-	-HIS 115 History of Europe to 1500
-	-HIS 125 History of Europe Since 1500
-	-**One** course in United States history
-	-**One** course in Asian history
-	-**Two** additional history courses approved by the department
+	- HIS 115 History of Europe to 1500
+	- HIS 125 History of Europe Since 1500
+	- **One** course in United States history
+	- **One** course in Asian history
+	- **Two** additional history courses approved by the department
 
 			**OR**
 
-	-HIS 145 History of United States to 1865
-	-HIS 155 History of United States since 1865
-	-**One** course in European history
-	-**One** course in Asian history
-	-**Two** additional history courses approved by the department
+	- HIS 145 History of United States to 1865
+	- HIS 155 History of United States since 1865
+	- **One** course in European history
+	- **One** course in Asian history
+	- **Two** additional history courses approved by the department
 
 ### Courses in History by Content Area
 
 *Asian History*
-
--HIS 136 East Asian Civilization
-
--HIS 216 History of Modern Korea (WE)
-
--HIS 246 History of Modern China
-
--HIS 256 History of Modern Japan
-
--HIS 316 Topics in History:Non-Western Persp
+- HIS 136 East Asian Civilization
+- HIS 216 History of Modern Korea (WE)
+- HIS 246 History of Modern China
+- HIS 256 History of Modern Japan
+- HIS 316 Topics in History:Non-Western Persp
 
 *European History*
-
--HIS 115 History of Europe to 1500
-
--HIS 125 History of Europe Since 1500
-
--HIS 238 Modern France
-
--HIS 248 The French Revolution
-
--HIS 272 History of Medieval Europe
-
--HIS 275 Ancient Greek History
-
--HIS 285 History of Ancient Rome
-
--HIS 288 Renaissance & Reformation
-
--HIS 292 History of Modern England
-
--HIS 318 Topics in History :Div West Persp
-
--HIS 355 19th Century Europe
-
--HIS 365 20th Century Europe
-
--HIS 372 Early Modern Europe
+- HIS 115 History of Europe to 1500
+- HIS 125 History of Europe Since 1500
+- HIS 238 Modern France
+- HIS 248 The French Revolution
+- HIS 272 History of Medieval Europe
+- HIS 275 Ancient Greek History
+- HIS 285 History of Ancient Rome
+- HIS 288 Renaissance & Reformation
+- HIS 292 History of Modern England
+- HIS 318 Topics in History :Div West Persp
+- HIS 355 19th Century Europe
+- HIS 365 20th Century Europe
+- HIS 372 Early Modern Europe
 
 *U.S. History*
-
--HIS 145 History of United States to 1865
-
--HIS 155 History of United States since 1865
-
--HIS 217 American War in Vietnam
-
--HIS 227 American Civil War
-
--HIS 257 Native American History
-
--HIS 297 Women in America
-
--HIS 317 Topics in History:US Pluralism
-
--HIS 325 Recent American History I
-
--HIS 335 Recent American History II
-
--HIS 347 African American History
-
--HIS 387 American Colonial History
-
--HIS 395 United States Diplomatic History
+- HIS 145 History of United States to 1865
+- HIS 155 History of United States since 1865
+- HIS 217 American War in Vietnam
+- HIS 227 American Civil War
+- HIS 257 Native American History
+- HIS 297 Women in America
+- HIS 317 Topics in History:US Pluralism
+- HIS 325 Recent American History I
+- HIS 335 Recent American History II
+- HIS 347 African American History
+- HIS 387 American Colonial History
+- HIS 395 United States Diplomatic History
 
 *Methods and Research*
-
--HIS 205 Historians Craft
-
--HIS 465 Seminar in Ancient History
-
--HIS 466 Seminar Modern East Asian History
-
--HIS 472 Seminar American History I
-
--HIS 473 Seminar American History II
-
--HIS 474 Seminar Modern European History
+- HIS 205 Historians Craft
+- HIS 465 Seminar in Ancient History
+- HIS 466 Seminar Modern East Asian History
+- HIS 472 Seminar American History I
+- HIS 473 Seminar American History II
+- HIS 474 Seminar Modern European History
 
 *Other History Courses*
-
--HIS 208 The First World War (WE)
-
--HIS 218 The Second World War (WE)
-
--HIS 268 Latin America
-
--HIS 276 The "Discovery" of America: Clash
-
--HIS 278 History of the Holocaust (WE)
-
--HIS 286 Modern Middle East
-
--HIS 300 Public History
-
--HIS 306 Revolution, Social Struggle, Testim
-
--HIS 308 Legacies of the Cold War inLatin Am
-
--HIS 328 Modern France
-
--HIS 444 Ind Study-History
-
--HIS 494 Internship in History
+- HIS 208 The First World War (WE)
+- HIS 218 The Second World War (WE)
+- HIS 268 Latin America
+- HIS 276 The "Discovery" of America: Clash
+- HIS 278 History of the Holocaust (WE)
+- HIS 286 Modern Middle East
+- HIS 300 Public History
+- HIS 306 Revolution, Social Struggle, Testim
+- HIS 308 Legacies of the Cold War inLatin Am
+- HIS 328 Modern France
+- HIS 444 Ind Study-History
+- HIS 494 Internship in History
 
 ### Courses in History
 - **HIS 115 History of Europe to 1500**

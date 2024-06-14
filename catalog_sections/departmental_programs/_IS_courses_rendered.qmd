@@ -23,49 +23,33 @@ The Global South examines the characteristics of regions in what has come to be 
 3. **Two** courses to be chosen as indicated from the two lists below. 
 
 	a. **One** of the following:
-
-		-ECO 436 Econ Development
+		- ECO 436 Econ Development
 
 		**or**
 		Subject to prior approval by the International Studies administrative coordinator:
-
-			-ECO 336 Divergent Economic Growth
-			-ECO 446 International Econ
+			- ECO 336 Divergent Economic Growth
+			- ECO 446 International Econ
 
 	b. **One** of the following:
-
-		-POL 386 International Development
+		- POL 386 International Development
 
 		**or**
 		Subject to prior approval by the International Studies administrative coordinator:  
-
-			-POL 310 International Organizations
+			- POL 310 International Organizations
 
 4. **Two or more** additional courses from either the courses under #3 or any of the following, subject to prior approval by the International Studies administrative coordinator.  (Not more than one of these two courses can be from political science and not more than one of these two courses can be from economics.).  At least one course must be completed at the 300 level or above. 
-
-    	-+++MISSING INFO: c.ant286/486.long +++
-
-	-ASC 186 Modern South Asia
-
-	-ENG 146 Intro Postcolonial Literature
-
-	-GS 136 Gender in Non-Western World
-
-	-HIS 246 History of Modern China
-
-	-HIS 268 Latin America
-
-	-HIS 286 Modern Middle East
-
-	-HIS 316 Topics in History:Non-Western Persp
-
-	-IS 316 Top in Internl Stds:Non-West Persp
-
-	-POL 266 Latin American Politics
-
-	-POL 276 African Politics
-
-	-POL 286 Asian Politics
+    	- +++MISSING INFO: c.ant286/486.long +++
+	- ASC 186 Modern South Asia
+	- ENG 146 Intro Postcolonial Literature
+	- GS 136 Gender in Non-Western World
+	- HIS 246 History of Modern China
+	- HIS 268 Latin America
+	- HIS 286 Modern Middle East
+	- HIS 316 Topics in History:Non-Western Persp
+	- IS 316 Top in Internl Stds:Non-West Persp
+	- POL 266 Latin American Politics
+	- POL 276 African Politics
+	- POL 286 Asian Politics
 
 ### International Studies Major — International Relations track
 International Relations combines theoretical approaches to and empirical knowledge of state and non-state actors, power, and international structures. 
@@ -76,50 +60,29 @@ International Relations combines theoretical approaches to and empirical knowled
 4. **Three** courses to be chosen as indicated from the two lists below. No more than two of these three courses can be completed in the Political Science department.
 
 	a. **One** of the following:
-
-		-ASC 186 Modern South Asia
-
-		-HIS 216 History of Modern Korea (WE)
-
-		-HIS 217 American War in Vietnam
-
-		-HIS 246 History of Modern China
-
-		-HIS 256 History of Modern Japan
-
-		-POL 266 Latin American Politics
-
-		-POL 276 African Politics
-
-		-POL 286 Asian Politics
-
-		-POL 296 Topics Pol Sci: Non-West Persp
+		- ASC 186 Modern South Asia
+		- HIS 216 History of Modern Korea (WE)
+		- HIS 217 American War in Vietnam
+		- HIS 246 History of Modern China
+		- HIS 256 History of Modern Japan
+		- POL 266 Latin American Politics
+		- POL 276 African Politics
+		- POL 286 Asian Politics
+		- POL 296 Topics Pol Sci: Non-West Persp
 
 	b. **Two** of the following:
-
-		-+++MISSING INFO: c.ant286/486.long +++
-
-		-ECO 446 International Econ
-
-		-ECO 495 International Finance
-
-		-HIS 286 Modern Middle East
-
-		-HIS 335 Recent American History II
-
-		-HIS 395 United States Diplomatic History
-
-		-IS 315 Topics in International Studies
-
-		-IS 316 Top in Internl Stds:Non-West Persp
-
-                -POL 305 Terrorism
-
-		-POL 365 American Foreign Policy
-
-		-POL 386 International Development
-
-		-POL 398 Religion & World Politics
+		- +++MISSING INFO: c.ant286/486.long +++
+		- ECO 446 International Econ
+		- ECO 495 International Finance
+		- HIS 286 Modern Middle East
+		- HIS 335 Recent American History II
+		- HIS 395 United States Diplomatic History
+		- IS 315 Topics in International Studies
+		- IS 316 Top in Internl Stds:Non-West Persp
+                - POL 305 Terrorism
+		- POL 365 American Foreign Policy
+		- POL 386 International Development
+		- POL 398 Religion & World Politics
 
 ### International Studies Major — Contemporary European Studies
 The Contemporary European Studies track emphasizes the study of cultural commonalities and differences in Europe since the mid-19th century.
@@ -129,36 +92,21 @@ Contemporary European Studies
 2. HIS 365 20th Century Europe
 3. POL 298 European Politics
 4. **Three** of the following, two of which must be numbered 300 or above.  At least two academic disciplines must be represented.
-
-	-ARH 248 Baroque, Rococo, and Neoclassicism
-
-	-ARH 307 Modern and Contemporary Art
-
-	-ENG 393 Study in Cont/Mod British Fiction
-
-	-FRE 158 France & Francophone World
-
-	-FRE 340 French & Fracophone Cinema (WE)
-
-	-HIS 238 Modern France
-
-	-HIS 278 History of the Holocaust (WE)
-
-	-HIS 292 History of Modern England
-
-	-IS 315 Topics in International Studies
-
-	-MU 458 Music History & Literature III
-
-	-REL 138 Modern Judaism
-
-	-REL 148 Islam
-
-	-REL 178 Christianity
-
-	-THE 238 History of Theatre and Drama II
-
-	-A course approved by the International Studies administrative coordinator
+	- ARH 248 Baroque, Rococo, and Neoclassicism
+	- ARH 307 Modern and Contemporary Art
+	- ENG 393 Study in Cont/Mod British Fiction
+	- FRE 158 France & Francophone World
+	- FRE 340 French & Fracophone Cinema (WE)
+	- HIS 238 Modern France
+	- HIS 278 History of the Holocaust (WE)
+	- HIS 292 History of Modern England
+	- IS 315 Topics in International Studies
+	- MU 458 Music History & Literature III
+	- REL 138 Modern Judaism
+	- REL 148 Islam
+	- REL 178 Christianity
+	- THE 238 History of Theatre and Drama II
+	- A course approved by the International Studies administrative coordinator
 
 
 ### Courses in International Studies

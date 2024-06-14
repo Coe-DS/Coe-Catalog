@@ -10,14 +10,12 @@ A major in international business requires a minimum cumulative 2.0 GPA in all c
 3. ECO 215 Prin Microeconomics
 4. BUS 190 Statistical Analysis
 5. **One** of the following:
-
 	-BUS 250 Principles of Management
 	-BUS 300 Human Resource Management
 
 6. BUS 315 Business Law I
 7. BUS 446 International Business Management
 8. **One** of the following:
-
 	-BUS 466 Adv Top Mrktg:non-west persp
 	-ECO 336 Divergent Economic Growth
 	-ECO 436 Econ Development
@@ -26,12 +24,10 @@ A major in international business requires a minimum cumulative 2.0 GPA in all c
 9. ECO 495 International Finance
 10. Two courses in world language numbered 115 or above
 11. One of the following:
-
 	-A semester abroad
-
 	-A May Term abroad
-
 	-A capstone project in international business, supervised by a member of the business faculty
+
 
 
 

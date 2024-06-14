@@ -9,10 +9,8 @@ A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses coun
 ### Secondary Education Emphasis in Physical Education
 1. BIO 155 Organismal & Ecological Biology
 2. **One** of the following:
-
-	-BIO 103 Anatomy & Physiology
-
-	-BIO 215 Human Anatomy **AND** BIO 225 Human Physiology
+	- BIO 103 Anatomy & Physiology
+	- BIO 215 Human Anatomy **AND** BIO 225 Human Physiology
 
 3. KIN 105 Foundations of Physical Movement
 4. KIN 165 Master Activity Class for Teachers
@@ -28,10 +26,8 @@ A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses coun
 ### Kinesiology Major — Fitness Development
 1. BIO 155 Organismal & Ecological Biology
 2. **One** of the following:
-    
-	-BIO 103 Anatomy & Physiology
-
-	-BIO 215 Human Anatomy **AND** BIO 225 Human Physiology
+	- BIO 103 Anatomy & Physiology
+	- BIO 215 Human Anatomy **AND** BIO 225 Human Physiology
 
 3. KIN 105 Foundations of Physical Movement
 4. KIN 115 Fundamentals:Exercise & Nutrition
@@ -40,28 +36,19 @@ A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses coun
 7. KIN 440 Org-Admin of PE, Health & Athl
 8. KIN 442 Physiology of Exercise
 9. **All** of the following courses in the **Strength and Conditioning Group**: 
-
-	-KIN 103 PE or KIN 104 PE Advanced Weight Training
-
-	-KIN 103 PE or KIN 104 PE Movement Training
-
-	-KIN 185 Group Exercise 
-
-	-KIN 385 Methods Strength Trng & Condition
-
-	-KIN 405 Program Design
-
-	-KIN 495 Kinesiology
+	- KIN 103 PE or KIN 104 PE Advanced Weight Training
+	- KIN 103 PE or KIN 104 PE Movement Training
+	- KIN 185 Group Exercise 
+	- KIN 385 Methods Strength Trng & Condition 
+	- KIN 405 Program Design
+	- KIN 495 Kinesiology
 
 		**or**
 
 	**All** of the following courses in the **Health and Wellness Group**: 
-
-	-KIN 125 Public and Consumer Health
-
-	-KIN 135 Concepts of Individual Wellness
-
-	-KIN 155 Substance Abuse
+	- KIN 125 Public and Consumer Health
+	- KIN 135 Concepts of Individual Wellness
+	- KIN 155 Substance Abuse
 
 ### State of Iowa Coaching Endorsement (#55, K-12) 
 1. Teaching certification in an academic area 
@@ -80,12 +67,9 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
 4. KIN 155 Substance Abuse
 5. KIN 175 Prevention & Care Ath Inj
 6. **One** of the following:
-
-	-NUR 137 Human Sexuality
-
-	-NUR 297 Parent Child Relationships
-
-	-SOC 207 Sociology of the Family
+	- NUR 137 Human Sexuality
+	- NUR 297 Parent Child Relationships
+	- SOC 207 Sociology of the Family
 
 ### Kinesiology Major — Athletic Training 
 1. BIO 155 Organismal & Ecological Biology
@@ -99,12 +83,9 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
 9. KIN 495 Kinesiology
 
 **All** of the following courses in the Athletic Training Group 
-
-	-KIN 110 Emergency Life Skills
-
-	-KIN 210 Athletic Injury Evaluation
-
-	-KIN 410 Athletic Injury Treatment & Rehab
+	- KIN 110 Emergency Life Skills
+	- KIN 210 Athletic Injury Evaluation
+	- KIN 410 Athletic Injury Treatment & Rehab
 
 *Students interested in the Athletic Training Group track are strongly encouraged to meet with the Kinesiology faculty for informal advising as soon as they have chosen this major. Additional coursework may be needed for those students pursuing a licensure in Athletic Training. *
 
