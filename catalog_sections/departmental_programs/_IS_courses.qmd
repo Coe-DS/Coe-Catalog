@@ -26,7 +26,9 @@ The Global South examines the characteristics of regions in what has come to be 
 		- {{< var c.eco436.long >}}
 
 		**or**
+
 		Subject to prior approval by the International Studies administrative coordinator:
+
 			- {{< var c.eco336.long >}}
 			- {{< var c.eco446.long >}}
 
@@ -34,7 +36,9 @@ The Global South examines the characteristics of regions in what has come to be 
 		- {{< var c.pol386.long >}}
 
 		**or**
+
 		Subject to prior approval by the International Studies administrative coordinator:  
+
 			- {{< var c.pol310.long >}}
 
 4. **Two or more** additional courses from either the courses under #3 or any of the following, subject to prior approval by the International Studies administrative coordinator.  (Not more than one of these two courses can be from political science and not more than one of these two courses can be from economics.).  At least one course must be completed at the 300 level or above. 
