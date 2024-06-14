@@ -25,9 +25,9 @@ Students are supplied all AFROTC books, uniforms, and necessary materials free o
 - **{{< var c.msa210l.long >}}**
   {{< var c.msa210l.desc >}}
 - **{{< var c.msa220.long >}}**
-  {{< var c.msa220.desc >}
+  {{< var c.msa220.desc >}}
 - **{{< var c.msa220l.long >}}**
-  {{< var c.msa220l.desc >}
+  {{< var c.msa220l.desc >}}
 - **{{< var c.msa310.long >}}**
   {{< var c.msa310.desc >}}
 - **{{< var c.msa310l.long >}}**
