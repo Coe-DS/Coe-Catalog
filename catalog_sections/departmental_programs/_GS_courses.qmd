@@ -4,36 +4,36 @@ Janca-Aji (Administrative Coordinator).
 The Gender and Sexuality Studies program is an interdisciplinary inquiry into the ways in which gender and sexuality inform constructions of identity, societies, and ideologies across race, ethnicities, class, cultures, and historical periods.  Because core courses and electives are offered by faculty across the College, students are encouraged to meet with the Gender and Sexuality Studies administrative coordinator for informal advising as soon as they declare a minor.
 
 ### Gender and Sexuality Studies Minor
-A minor in gender studies requires a minimum cumulative 2.0 GPA in all courses counted toward the minor.
-1. {{< var c.gs107.long >}}
-2. {{< var c.gs327.long >}}
-3. **Four** electives from the lists below, with at least **three** from the list of core courses. Other courses may count as electives when topics are appropriate with the consent of the academic coordinator. 
-	**Core Courses**
-		{{< var c.arh107.long >}}
-		{{< var c.com357.long >}}
-		{{< var c.eng206.long >}}
-		{{< var c.eng207.long >}}
-		{{< var c.eng208.long >}}
-		{{< var c.gs127.long >}}
-		{{< var c.gs136.long >}}
-		{{< var c.gs247.long >}}
-		{{< var c.gs387.long >}}
-		{{< var c.his297.long >}}
-		{{< var c.nur137.long >}} or {{< var c.psy137.long >}}
-		{{< var c.phl277.long >}}
-		{{< var c.pol277.long >}}
-		{{< var c.psy208.long >}}
-		{{< var c.soc417.long >}}
-	**Component Courses
-		{{< var c.ant116.long >}}
-		{{< var c.com236.long >}}
-		{{< var c.com357.long >}}
-		{{< var c.com361.long >}}
-		{{< var c.edu187.long >}}
-		{{< var c.rhe377.long >}}
-		{{< var c.scj350.long >}}
-		{{< var c.soc207.long >}}
-		{{< var c.the288.long >}}
+A minor in gender studies requires a minimum cumulative 2.0 GPA in all courses counted toward the minor.  
+1. {{< var c.gs107.long >}}  
+2. {{< var c.gs327.long >}}  
+3. **Four** electives from the lists below, with at least **three** from the list of core courses. Other courses may count as electives when topics are appropriate with the consent of the academic coordinator.   
+	**Core Courses**  
+		{{< var c.arh107.long >}}  
+		{{< var c.com357.long >}}  
+		{{< var c.eng206.long >}}  
+		{{< var c.eng207.long >}}  
+		{{< var c.eng208.long >}}  
+		{{< var c.gs127.long >}}  
+		{{< var c.gs136.long >}}  
+		{{< var c.gs247.long >}}  
+		{{< var c.gs387.long >}}  
+		{{< var c.his297.long >}}  
+		{{< var c.nur137.long >}} or {{< var c.psy137.long >}}  
+		{{< var c.phl277.long >}}  
+		{{< var c.pol277.long >}}  
+		{{< var c.psy208.long >}}  
+		{{< var c.soc417.long >}}  
+	**Component Courses  
+		{{< var c.ant116.long >}}  
+		{{< var c.com236.long >}}  
+		{{< var c.com357.long >}}  
+		{{< var c.com361.long >}}  
+		{{< var c.edu187.long >}}  
+		{{< var c.rhe377.long >}}  
+		{{< var c.scj350.long >}}  
+		{{< var c.soc207.long >}}  
+		{{< var c.the288.long >}}  
 
 ### Courses in Gender and Sexuality Studies
 - **{{< var c.gs107.long >}}**
