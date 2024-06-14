@@ -27,6 +27,7 @@ The Academic Standing Committee reviews academic records of all students at the 
 To return to good standing and be removed from academic probation, a student shall earn a cumulative GPA greater than the threshold for academic probation as specified above. If the student’s cumulative GPA decreases at the end of any term on probation, the student is subject to academic suspension. Students who are placed on academic probation have a maximum of two (2) consecutive terms, excluding May and Summer, to return to good standing before they are subject to academic suspension.
 
 Students who are on academic probation:
+
 - Are expected to comply with any requirements outlined by the Academic Standing Committee.
 - May not elect P/NP grading in lieu of a letter grade.
 - May not be excused from attending class to participate in extra-curricular activities.
