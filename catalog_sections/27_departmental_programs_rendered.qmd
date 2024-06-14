@@ -2860,12 +2860,14 @@ A major in history requires a minimum cumulative 2.0 GPA in all courses counted 
 	- HIS 474 Seminar Modern European History
 
 5. **Three** additional history courses
+
 **NOTE:** *With departmental approval, successful completion of the ACM Newberry Seminar: Research in the Humanities Program off-campus study experience may be used to satisfy #4 above.*
 
 
 ### History Minor
 
 **One** of the following combinations:
+
 	- HIS 115 History of Europe to 1500
 	- HIS 125 History of Europe Since 1500
 	- **One** course in United States history
@@ -2883,62 +2885,62 @@ A major in history requires a minimum cumulative 2.0 GPA in all courses counted 
 ### Courses in History by Content Area
 
 *Asian History*
-- HIS 136 East Asian Civilization
-- HIS 216 History of Modern Korea (WE)
-- HIS 246 History of Modern China
-- HIS 256 History of Modern Japan
-- HIS 316 Topics in History:Non-Western Persp
+        - HIS 136 East Asian Civilization
+        - HIS 216 History of Modern Korea (WE)
+        - HIS 246 History of Modern China
+        - HIS 256 History of Modern Japan
+        - HIS 316 Topics in History:Non-Western Persp
 
 *European History*
-- HIS 115 History of Europe to 1500
-- HIS 125 History of Europe Since 1500
-- HIS 238 Modern France
-- HIS 248 The French Revolution
-- HIS 272 History of Medieval Europe
-- HIS 275 Ancient Greek History
-- HIS 285 History of Ancient Rome
-- HIS 288 Renaissance & Reformation
-- HIS 292 History of Modern England
-- HIS 318 Topics in History :Div West Persp
-- HIS 355 19th Century Europe
-- HIS 365 20th Century Europe
-- HIS 372 Early Modern Europe
+        - HIS 115 History of Europe to 1500
+        - HIS 125 History of Europe Since 1500
+        - HIS 238 Modern France
+        - HIS 248 The French Revolution
+        - HIS 272 History of Medieval Europe
+        - HIS 275 Ancient Greek History
+        - HIS 285 History of Ancient Rome
+        - HIS 288 Renaissance & Reformation
+        - HIS 292 History of Modern England
+        - HIS 318 Topics in History :Div West Persp
+        - HIS 355 19th Century Europe
+        - HIS 365 20th Century Europe
+        - HIS 372 Early Modern Europe
 
 *U.S. History*
-- HIS 145 History of United States to 1865
-- HIS 155 History of United States since 1865
-- HIS 217 American War in Vietnam
-- HIS 227 American Civil War
-- HIS 257 Native American History
-- HIS 297 Women in America
-- HIS 317 Topics in History:US Pluralism
-- HIS 325 Recent American History I
-- HIS 335 Recent American History II
-- HIS 347 African American History
-- HIS 387 American Colonial History
-- HIS 395 United States Diplomatic History
+        - HIS 145 History of United States to 1865
+        - HIS 155 History of United States since 1865
+        - HIS 217 American War in Vietnam
+        - HIS 227 American Civil War
+        - HIS 257 Native American History
+        - HIS 297 Women in America
+        - HIS 317 Topics in History:US Pluralism
+        - HIS 325 Recent American History I
+        - HIS 335 Recent American History II
+        - HIS 347 African American History
+        - HIS 387 American Colonial History
+        - HIS 395 United States Diplomatic History
 
 *Methods and Research*
-- HIS 205 Historians Craft
-- HIS 465 Seminar in Ancient History
-- HIS 466 Seminar Modern East Asian History
-- HIS 472 Seminar American History I
-- HIS 473 Seminar American History II
-- HIS 474 Seminar Modern European History
+        - HIS 205 Historians Craft
+        - HIS 465 Seminar in Ancient History
+        - HIS 466 Seminar Modern East Asian History
+        - HIS 472 Seminar American History I
+        - HIS 473 Seminar American History II
+        - HIS 474 Seminar Modern European History
 
 *Other History Courses*
-- HIS 208 The First World War (WE)
-- HIS 218 The Second World War (WE)
-- HIS 268 Latin America
-- HIS 276 The "Discovery" of America: Clash
-- HIS 278 History of the Holocaust (WE)
-- HIS 286 Modern Middle East
-- HIS 300 Public History
-- HIS 306 Revolution, Social Struggle, Testim
-- HIS 308 Legacies of the Cold War inLatin Am
-- HIS 328 Modern France
-- HIS 444 Ind Study-History
-- HIS 494 Internship in History
+        - HIS 208 The First World War (WE)
+        - HIS 218 The Second World War (WE)
+        - HIS 268 Latin America
+        - HIS 276 The "Discovery" of America: Clash
+        - HIS 278 History of the Holocaust (WE)
+        - HIS 286 Modern Middle East
+        - HIS 300 Public History
+        - HIS 306 Revolution, Social Struggle, Testim
+        - HIS 308 Legacies of the Cold War inLatin Am
+        - HIS 328 Modern France
+        - HIS 444 Ind Study-History
+        - HIS 494 Internship in History
 
 ### Courses in History
 - **HIS 115 History of Europe to 1500**
@@ -3120,23 +3122,23 @@ A major in international business requires a minimum cumulative 2.0 GPA in all c
 3. ECO 215 Prin Microeconomics
 4. BUS 190 Statistical Analysis
 5. **One** of the following:
-	-BUS 250 Principles of Management
-	-BUS 300 Human Resource Management
+	- BUS 250 Principles of Management
+	- BUS 300 Human Resource Management
 
 6. BUS 315 Business Law I
 7. BUS 446 International Business Management
 8. **One** of the following:
-	-BUS 466 Adv Top Mrktg:non-west persp
-	-ECO 336 Divergent Economic Growth
-	-ECO 436 Econ Development
-	-ECO 446 International Econ
+	- BUS 466 Adv Top Mrktg:non-west persp
+	- ECO 336 Divergent Economic Growth
+	- ECO 436 Econ Development
+	- ECO 446 International Econ
 
 9. ECO 495 International Finance
 10. Two courses in world language numbered 115 or above
 11. One of the following:
-	-A semester abroad
-	-A May Term abroad
-	-A capstone project in international business, supervised by a member of the business faculty
+	- A semester abroad
+	- A May Term abroad
+	- A capstone project in international business, supervised by a member of the business faculty
 
 
 
@@ -3257,7 +3259,9 @@ The Global South examines the characteristics of regions in what has come to be 
 		- ECO 436 Econ Development
 
 		**or**
+
 		Subject to prior approval by the International Studies administrative coordinator:
+
 			- ECO 336 Divergent Economic Growth
 			- ECO 446 International Econ
 
@@ -3265,7 +3269,9 @@ The Global South examines the characteristics of regions in what has come to be 
 		- POL 386 International Development
 
 		**or**
+
 		Subject to prior approval by the International Studies administrative coordinator:  
+
 			- POL 310 International Organizations
 
 4. **Two or more** additional courses from either the courses under #3 or any of the following, subject to prior approval by the International Studies administrative coordinator.  (Not more than one of these two courses can be from political science and not more than one of these two courses can be from economics.).  At least one course must be completed at the 300 level or above. 
@@ -3470,6 +3476,7 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
 9. KIN 495 Kinesiology
 
 **All** of the following courses in the Athletic Training Group 
+
 	- KIN 110 Emergency Life Skills
 	- KIN 210 Athletic Injury Evaluation
 	- KIN 410 Athletic Injury Treatment & Rehab
