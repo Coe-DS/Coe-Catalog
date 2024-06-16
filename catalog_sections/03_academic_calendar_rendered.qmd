@@ -1,6 +1,6 @@
 # 2022–2023 ACADEMIC CALENDAR {#sec-academic-calenar}
 
-### FALL TERM 2022
+## FALL TERM 2022
 
    |   
 :-|---:
@@ -29,7 +29,7 @@ Mon–Thurs, December 5–8 |	Final Exams
 Wed, December 14 |	Final Grades and Attendance are Due from the Faculty on My.Coe (11\:59 PM)  
 
 
-### SPRING TERM 2023
+## SPRING TERM 2023
 
    |   
 :-|---:
@@ -58,7 +58,7 @@ Tues, May 9 |	Final Grades and Attendance are Due for Non-Graduating Students on
 
 
 
-### MAY TERM 2023
+## MAY TERM 2023
 
    |   
 :-|---:
@@ -73,7 +73,7 @@ Sat, June 3 |	Residence Halls Close
 Sun, June 4 |	Final Grades and Attendance for May Term Due on My.Coe (11:59 PM)
 
 
-### SUMMER TERM 2023*
+## SUMMER TERM 2023*
     
    |    
 :-|---:
