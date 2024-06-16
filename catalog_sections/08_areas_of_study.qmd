@@ -1,4 +1,4 @@
-## AREAS OF STUDY {#sec-areas-of-study}
+# AREAS OF STUDY {#sec-areas-of-study}
 
 The three undergraduate degrees have areas of study associated with them. The Bachelor of Science in Nursing’s area of study is nursing; the Bachelor of Music’s areas of study are performance, composition, and education. The Bachelor of Arts’ areas of study, commonly referred to as majors, are listed below.
 
@@ -69,7 +69,7 @@ In addition to the areas of study/majors listed above, the following **COLLATERA
 - Environmental Studies
 - Organizational Science
 
-### AREAS OF STUDY (MINOR) FOR B.A.
+## AREAS OF STUDY (MINOR) FOR B.A.
 - African American Studies
 - Anthropology
 - Art
@@ -94,12 +94,12 @@ In addition to the areas of study/majors listed above, the following **COLLATERA
 - Mathematics
 
 
-### AREAS OF STUDY (MAJORS) FOR B.M.
+## AREAS OF STUDY (MAJORS) FOR B.M.
 - Keyboard or Instrumental Performance
 - Vocal Performance
 - Composition
 - Instrumental Music Education
 - Vocal Music Education
 
-### AREA OF STUDY (MAJOR) FOR B.S.N.
+## AREA OF STUDY (MAJOR) FOR B.S.N.
 - Nursing
