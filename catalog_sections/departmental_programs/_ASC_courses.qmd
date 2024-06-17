@@ -10,67 +10,67 @@ A major in Asian studies requires a minimum cumulative 2.0 GPA in all courses co
 
 The major is interdisciplinary and requires that the students take courses in the areas of art history, history, literature, and religion, and suggests that they also take courses in economics, music, and political science.
 
-1.**One** of the following:
+1. **One** of the following:
 
-    -{{< var c.asc186.long >}}
-    -{{< var c.his136.long >}}
+- {{< var c.asc186.long >}}
+- {{< var c.his136.long >}}
 
-2.Participation in one overseas study program in Asia:
+2. Participation in one overseas study program in Asia:
 
-    -an ACM overseas study program (India Studies or Japan Study)
-    -a Coe foreign exchange program (Chiang Mai University of Thailand, Nagoya Gakuin University of Japan, or Sookmyung University in South Korea)
-    -Coe’s Asia Term (see p. 30)
+- an ACM overseas study program (India Studies or Japan Study)
+- a Coe foreign exchange program (Chiang Mai University of Thailand, Nagoya Gakuin University of Japan, or Sookmyung University in South Korea)
+- Coe’s Asia Term (see p. 30)
 
-3.**Four** courses, chosen from the following, in consultation with the Asian Studies administrative coordinator:
+3. **Four** courses, chosen from the following, in consultation with the Asian Studies administrative coordinator:
 
-    -{{< var c.asc106.long >}}
-    -{{< var c.asc176.long >}}
-    -{{< var c.eco436.long >}} or {{< var c.eco446.long >}}
-    -{{< var c.his217.long >}}
-    -{{< var c.his246.long >}}
-    -{{< var c.his256.long >}}
-    -{{< var c.his316.long >}} (when appropriate)
-    -{{< var c.his466.long >}}
-    -{{< var c.jpn115.long >}}
-    -{{< var c.jpn125.long >}}
-    -{{< var c.jpn215.long >}}
-    -{{< var c.jpn225.long >}}
-    -{{< var c.phl/rel206.long >}}
-    -{{< var c.pol286.long >}}
-    -{{< var c.rel106.long >}}
-    -A second term of an overseas study program
+- {{< var c.asc106.long >}}
+- {{< var c.asc176.long >}}
+- {{< var c.eco436.long >}} or {{< var c.eco446.long >}}
+- {{< var c.his217.long >}}
+- {{< var c.his246.long >}}
+- {{< var c.his256.long >}}
+- {{< var c.his316.long >}} (when appropriate)
+- {{< var c.his466.long >}}
+- {{< var c.jpn115.long >}}
+- {{< var c.jpn125.long >}}
+- {{< var c.jpn215.long >}}
+- {{< var c.jpn225.long >}}
+- {{< var c.phl/rel206.long >}}
+- {{< var c.pol286.long >}}
+- {{< var c.rel106.long >}}
+- A second term of an overseas study program
 
 ### Asian Studies Minor
 
-1.**One** of the following:
+1. **One** of the following:
 
-    -{{< var c.his316.long >}}
-    -{{< var c.asc186.long >}}
+- {{< var c.his316.long >}}
+- {{< var c.asc186.long >}}
 
-2.**Five** courses, chosen from the following, in consultation with the Asian Studies administrative coordinator:
+2. **Five** courses, chosen from the following, in consultation with the Asian Studies administrative coordinator:
 
-    -{{< var c.asc176.long >}}
-    -{{< var c.eco436.long >}} or {{< var c.eco446.long >}}
-    -{{< var c.his217.long >}}
-    -{{< var c.his246.long >}}
-    -{{< var c.his256.long >}}
-    -{{< var c.his316.long >}} (when appropriate)
-    -{{< var c.his466.long >}}
-    -{{< var c.jpn115.long >}}
-    -{{< var c.jpn125.long >}}
-    -{{< var c.jpn215.long >}}
-    -{{< var c.jpn225.long >}}
-    -{{< var c.phl/rel206.long >}}
-    -{{< var c.pol286.long >}}
-    -{{< var c.rel106.long >}}
+- {{< var c.asc176.long >}}
+- {{< var c.eco436.long >}} or {{< var c.eco446.long >}}
+- {{< var c.his217.long >}}
+- {{< var c.his246.long >}}
+- {{< var c.his256.long >}}
+- {{< var c.his316.long >}} (when appropriate)
+- {{< var c.his466.long >}}
+- {{< var c.jpn115.long >}}
+- {{< var c.jpn125.long >}}
+- {{< var c.jpn215.long >}}
+- {{< var c.jpn225.long >}}
+- {{< var c.phl/rel206.long >}}
+- {{< var c.pol286.long >}}
+- {{< var c.rel106.long >}} 
 
 ### Courses in Asian Studies
 
--**{{< var c.asc106.long >}}**
+- **{{< var c.asc106.long >}}**
 {{< var c.asc106.desc >}}
--**{{< var c.asc176.long >}}**
+- **{{< var c.asc176.long >}}**
 {{< var c.asc176.desc >}}
--**{{< var c.asc186.long >}}**
+- **{{< var c.asc186.long >}}**
 {{< var c.asc186.desc >}}
--**{{< var c.asc216.long >}}**
+- **{{< var c.asc216.long >}}**
 See @sec-history
