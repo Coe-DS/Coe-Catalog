@@ -74,7 +74,7 @@ If a student chooses to pay his/her college charges on the semester payment sche
 
 ### Official Withdrawal from all Courses
 
-Students who withdraw from or cease attendance in all of their courses have the responsibility of initiating the official withdrawal process (see @official-withdrawal-process ).
+Students who withdraw from or cease attendance in all of their courses have the responsibility of initiating the official withdrawal process (see @sec-official-withdrawal-process ).
 
 If a student is unable to complete the official withdrawal process, the intent to withdraw can be communicated to one of the following offices: Registrar, Student Financial Services, Student Life, Student Success and Persistence.
 
@@ -87,6 +87,7 @@ Students who did not earn credit for any of the courses they were registered for
 **A student’s withdrawal date is:**
 
 The earlier of the date that the student began the official withdrawal process or otherwise provided official notification to a designated office of their intent to withdraw; 
+
 	-OR If official notification could not be provided because of circumstances beyond the student's control, the date the college determines is related to the particular circumstance; 
 	-OR If the student ceased attendance without providing official notification, the midpoint of the term;
 	-OR The student’s last date of attendance at a documented academically related activity.
