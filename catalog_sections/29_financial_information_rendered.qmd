@@ -88,9 +88,9 @@ Students who did not earn credit for any of the courses they were registered for
 
 The earlier of the date that the student began the official withdrawal process or otherwise provided official notification to a designated office of their intent to withdraw; 
 
-	-OR If official notification could not be provided because of circumstances beyond the student's control, the date the college determines is related to the particular circumstance; 
-	-OR If the student ceased attendance without providing official notification, the midpoint of the term;
-	-OR The student’s last date of attendance at a documented academically related activity.
+	- OR If official notification could not be provided because of circumstances beyond the student's control, the date the college determines is related to the particular circumstance; 
+	- OR If the student ceased attendance without providing official notification, the midpoint of the term;
+	- OR The student’s last date of attendance at a documented academically related activity.
 
 ### Federal Title IV Refund Calculation/Policy {#sec-federal-title-IV-refund-calculation-policy} 
 
