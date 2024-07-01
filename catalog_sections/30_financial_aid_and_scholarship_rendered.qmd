@@ -60,6 +60,7 @@ Federal regulations require that some applicants who are eligible for need-based
 ### Need-based Gift Aid
 
 Gift aid does not have to be repaid by the student. Need-based gift aid is available through federal, state, institutional and outside sources.
+
 + **Coe Grant**
 	The value of a Coe Grant is influenced by a student’s financial need. The amount of the Coe Grant can vary from year to year, depending on changes in family income, room and board charges, and the availability of funding.
 	Coe has many endowed scholarships that have been established by generous alumni and friends of the College. Income from these scholarships is used primarily to support Coe funded merit- and need-based aid. Students awarded Coe aid may be asked to complete an ‘Endowed Scholarship Application.’ The Financial Aid Office will use information from this application to match students with endowed scholarships. Students designated to have their Coe aid funded by an endowed scholarship may be contacted by the Coe College Advancement Office with information about their donor. (**Note**: Endowed scholarships funds support Coe funded aid already granted to the student. Under no circumstances will the student receive additional funding beyond what has already been listed on the financial aid award letter.) Endowed scholarship funds are vital sources of assistance for many of our students. It will be requested that each student receiving funds from an endowed scholarship write a letter of thanks to the donor or the designated official. Donor information and letter suggestions will be provided by the Office of Advancement.  
@@ -133,7 +134,7 @@ William D. Ford Federal Direct Stafford Loans must be repaid by the student. The
 + **Federal Direct PLUS Loan Program for Graduate Students**  
 	Federal Direct PLUS Loan Program for Graduate Students must be repaid by the student. The terms and conditions applicable to the Parent PLUS Loan (made to parents of dependent students) also apply to PLUS Loans made to graduate students.
 
-### General Policies {#sec-financial-aid-satisfactory-academic-prgress-policy}
+### General Policies {#sec-financial-aid-satisfactory-academic-progress-policy}
 
 **Financial Aid Satisfactory Academic Progress Policy — Academic Year 22–23** 
 
@@ -144,6 +145,7 @@ William D. Ford Federal Direct Stafford Loans must be repaid by the student. The
 	SAP of federal financial aid recipients is measured each term of the academic year[^1] for which a student is enrolled. The specific criteria of SAP, and the consequences to the student if progress is not achieved, is outlined in the following SAP Policy. Students should contact the Student Financial Services with questions regarding the intent or the interpretation of these standards.
 
 	SAP is measured in three components: Cumulative Grade Point Average (GPA); Pace (Completion Rate); and Maximum Time Frame Limitation.
+
 
 1. **GPA:**  A student in an undergraduate program must meet minimum GPA standards.
 	  
@@ -166,6 +168,7 @@ William D. Ford Federal Direct Stafford Loans must be repaid by the student. The
 | 16 and above                          | 70%                      |
 
 {tbl-colwidths="[50,50]"}
+
 
 [^1]: An academic year for the purpose of administering federal financial aid is defined as minimum two 15-week terms for a total 30 weeks during which the average undergraduate student is expected to complete a minimum of six (6.0) course credits.  Enrollment in a minimum of three (3.0) course credits per term is required in order to be considered a full-time student.  
 
@@ -219,13 +222,13 @@ Courses for which a grade of “W” is recorded count as attempted credits. Cou
 	Coe grants and scholarships are not available to students who are enrolled part-time (fewer than 3.0 course credits). Federal and state grants and loans are available to part-time students at pro-rated amounts. Students changing their enrollment status from full-time to part-time must contact the Student Financial Services Office. To be eligible for a federal Direct Stafford Student loan, a student must be enrolled for a minimum of two course credits. Students who are enrolled for fewer than two course credits do not qualify for an in-school deferment status on existing federal loans.
 
 + **Fifth Year of Study**
-	Financial aid beyond eight terms is generally limited to federal and some state aid. Students are encouraged to file a Free Application for Federal Student Aid (FAFSA) for federal and state financial aid, although both types of financial aid also have statutory limits. For students who received a federal Pell grant, the equivalent of 12 full-time terms is the maximum. For students receiving the Iowa Tuition Grant, eight full-time terms are the maximum. Federal and state financial aid eligibility ends once students have satisfied all requirements for their particular areas of study. (See Financial Aid Satisfactory Academic Progress Policy, @financial-aid-satisfactory-academic-prgress-policy for additional restrictions.) 
+	Financial aid beyond eight terms is generally limited to federal and some state aid. Students are encouraged to file a Free Application for Federal Student Aid (FAFSA) for federal and state financial aid, although both types of financial aid also have statutory limits. For students who received a federal Pell grant, the equivalent of 12 full-time terms is the maximum. For students receiving the Iowa Tuition Grant, eight full-time terms are the maximum. Federal and state financial aid eligibility ends once students have satisfied all requirements for their particular areas of study. (See Financial Aid Satisfactory Academic Progress Policy, @sec-financial-aid-satisfactory-academic-progress-policy for additional restrictions.) 
 
 	Students who received eight terms of Coe aid are not eligible for Coe-gift funds. However, students pursuing a fifth year of study may be eligible for a continuing student discount. Students who wish to apply for the continuing student discount should contact the Student Financial Services Office. Education and accounting majors who are in their fifth year of study may be eligible for a fifth-year tuition discount. Contact the respective academic departments and the Student Financial Services Office for more information.
 
 + **Withdrawal and Leave of Absence from the College**
 
-When a student withdraws or takes a leave of absence from all classes during a term, it is the responsibility of the college to calculate a return of Title IV funds according to federal policy. (See Return of Title IV Funds/Institutional Refund Policy, @federal-title-IV-refund-calculation-policy ) Students who are granted a leave of absence, and are not attending college elsewhere during the leave, generally are eligible to have their academic and talent-based scholarships renewed upon their return. Renewal of these scholarships is contingent upon meeting Satisfactory Academic Progress, see @financial-aid-satisfactory-academic-prgress-policy . Students who are returning from a leave of absence and have attended college elsewhere may have their scholarship eligibility reevaluated.
+When a student withdraws or takes a leave of absence from all classes during a term, it is the responsibility of the college to calculate a return of Title IV funds according to federal policy. (See Return of Title IV Funds/Institutional Refund Policy, @sec-federal-title-IV-refund-calculation-policy ) Students who are granted a leave of absence, and are not attending college elsewhere during the leave, generally are eligible to have their academic and talent-based scholarships renewed upon their return. Renewal of these scholarships is contingent upon meeting Satisfactory Academic Progress, see @sec-financial-aid-satisfactory-academic-progress-policy . Students who are returning from a leave of absence and have attended college elsewhere may have their scholarship eligibility reevaluated.
 
 + **Reporting Changes and Other Assistance**
 	Any change in a student's enrollment status, financial circumstances, or residential status must be reported immediately to the Student Financial Services Office. Such a change may have an effect on the calculation of financial need and the resulting assistance offered. It is in the best interest of students to contact the Student Financial Services Office prior to an enrollment or residential status change.
