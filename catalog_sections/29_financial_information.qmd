@@ -152,8 +152,8 @@ Changes in enrollment status from full-time to part-time may affect a student’
 
 ### Part-Time Students
 
-A part-time student withdrawing from all courses in the Fall or Spring Terms shall be subject to *Return of Title IV Funds/Institutional Refund Policy*, see @federal-title-IV-refund-calculation-policy for more information. 
+A part-time student withdrawing from all courses in the Fall or Spring Terms shall be subject to *Return of Title IV Funds/Institutional Refund Policy*, see @sec-federal-title-IV-refund-calculation-policy for more information. 
 
 ### Summer Students
 
-A summer student withdrawing from class will be subject to Return of Title IV Funds/Institutional Refund Policy (see @federal-title-IV-refund-calculation-policy ) which credits earned aid and assessed charges on a prorated basis predicated on the term/session enrolled.
+A summer student withdrawing from class will be subject to Return of Title IV Funds/Institutional Refund Policy (see @sec-federal-title-IV-refund-calculation-policy ) which credits earned aid and assessed charges on a prorated basis predicated on the term/session enrolled.
