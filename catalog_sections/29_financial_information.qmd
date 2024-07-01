@@ -85,10 +85,11 @@ Special consideration is given to students who withdrew due to a call to active 
 Students who did not earn credit for any of the courses they were registered for in a given term and did not officially withdraw or otherwise provide notice of their intent to withdraw, must be considered “unofficially withdrawn”. Federal regulations mandate that, a federal Title IV refund calculation, using the withdrawal date of either the midpoint of the term or the last date of attendance at a documented academically related activity, must be performed.
 
 **A student’s withdrawal date is:**
-	The earlier of the date that the student began the official withdrawal process or otherwise provided official notification to a designated office of their intent to withdraw; 
-	OR If official notification could not be provided because of circumstances beyond the student's control, the date the college determines is related to the particular circumstance; 
-	OR If the student ceased attendance without providing official notification, the midpoint of the term;
-	OR The student’s last date of attendance at a documented academically related activity.
+
+The earlier of the date that the student began the official withdrawal process or otherwise provided official notification to a designated office of their intent to withdraw; 
+	-OR If official notification could not be provided because of circumstances beyond the student's control, the date the college determines is related to the particular circumstance; 
+	-OR If the student ceased attendance without providing official notification, the midpoint of the term;
+	-OR The student’s last date of attendance at a documented academically related activity.
 
 ### Federal Title IV Refund Calculation/Policy {#sec-federal-title-IV-refund-calculation-policy} 
 
