@@ -74,7 +74,7 @@ A major in Psychology requires a cumulative 2.0 GPA in all courses counted towar
   {{< var c.psy250.desc >}}  
 - **{{< var c.psy255.long >}}**
   {{< var c.psy255.desc >}}
-- **{{< var c.psy60.long >}}**
+- **{{< var c.psy260.long >}}**
   {{< var c.psy260.desc >}}
 - **{{< var c.psy295.long >}}**
   {{< var c.psy295.desc >}}  
