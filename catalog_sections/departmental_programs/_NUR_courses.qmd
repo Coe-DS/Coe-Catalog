@@ -77,7 +77,7 @@ Psychology 	{{< var c.psy100.long >}}
 
 Sociology	{{< var c.soc107.long >}}
 
-Statistics 	{{< var c.sta300.long >}} **or**
+Statistics 	{{< var c.psy300.long >}} **or**
 		{{< var c.sta100.long >}} (7 weeks) **and** {{< var c.sta110.long >}}
 
 3. {{< var c.nur100.long >}} (0.2 course credit) (Pre-nursing students must enroll each term of the first year.  A maximum of two seminars may be counted for credit toward graduation.)
