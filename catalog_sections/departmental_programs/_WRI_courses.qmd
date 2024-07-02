@@ -22,13 +22,13 @@ A major in Writing requires a cumulative 2.0 GPA in all courses counted toward t
 	- {{< var c.com362.long >}}
 	- {{< var c.com382.long >}} or {{< var c.rhe382.long >}} (if not used to fulfill requirement #3)
 	- {{< var c.com462.long >}}
-	- {{< var c.com115.long >}}
-	- {{< var c.com255.long >}}
-	- {{< var c.com280.long >}}
-	- {{< var c.com290.long >}}
-	- {{< var c.com355.long >}}
-	- {{< var c.com380.long >}}
-	- {{< var c.com390.long >}}
+	- {{< var c.crw115.long >}}
+	- {{< var c.crw255.long >}}
+	- {{< var c.crw280.long >}}
+	- {{< var c.crw290.long >}}
+	- {{< var c.crw355.long >}}
+	- {{< var c.crw380.long >}}
+	- {{< var c.crw390.long >}}
 
 5. **One** of the following:
 	- {{< var c.rhe415.long >}} (If not used to satisfy requirement #4)
