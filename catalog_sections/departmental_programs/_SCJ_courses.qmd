@@ -25,7 +25,7 @@ A major in Social & Criminal Justice requires a cumulative 2.0 GPA in all course
 7. **One** of the following:
 	- {{< var c.sta100.long >}} (7 weeks) **and** {{< var c.sta110.long >}} (7 weeks)
 	- {{< var c.sta100.long >}} (7 weeks) **and** {{< var c.sta130.long >}} (7 weeks)
-	- {{< var c.sta190.long >}}
+	- {{< var c.bus190.long >}}
 	- {{< var c.psy300.long >}}
 
 8. **Three** courses, chosen from the following, in consultation with the student’s advisor and/or the Social & Criminal Justice administrative coordinator. No more than two courses may be selected from the same prefix.
