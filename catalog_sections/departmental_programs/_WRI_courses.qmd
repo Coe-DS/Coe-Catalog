@@ -15,6 +15,7 @@ A major in Writing requires a cumulative 2.0 GPA in all courses counted toward t
 	- {{< var c.com382.long >}} **or** {{< var c.rhe382.long >}}
 
 4. **Six** credits, including any course with an RHE prefix not already fulfilling another requirement, or any of the courses from the list below. No more than two courses with the CRW or COM prefix may count toward the major.
+
 	- {{< var c.com241.long >}}
 	- {{< var c.com341.long >}}
 	- {{< var c.com361.long >}}
