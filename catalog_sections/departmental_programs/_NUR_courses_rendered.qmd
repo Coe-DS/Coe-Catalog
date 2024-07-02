@@ -77,7 +77,7 @@ Psychology 	PSY 100 Introductory Psychology
 
 Sociology	SOC 107 Introductory Sociology
 
-Statistics 	+++MISSING INFO: c.sta300.long +++ **or**
+Statistics 	PSY 300 Stat Methods and Data Analysis **or**
 		STA 100 Statistical Reasoning I-Foundations (7 weeks) **and** STA 110 Stats IIA: Inferential Reasoning
 
 3. NUR 100 Nursing Issues (0.2 course credit) (Pre-nursing students must enroll each term of the first year.  A maximum of two seminars may be counted for credit toward graduation.)

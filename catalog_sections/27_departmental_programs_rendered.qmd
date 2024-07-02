@@ -4575,7 +4575,7 @@ Psychology 	PSY 100 Introductory Psychology
 
 Sociology	SOC 107 Introductory Sociology
 
-Statistics 	+++MISSING INFO: c.sta300.long +++ **or**
+Statistics 	PSY 300 Stat Methods and Data Analysis **or**
 		STA 100 Statistical Reasoning I-Foundations (7 weeks) **and** STA 110 Stats IIA: Inferential Reasoning
 
 3. NUR 100 Nursing Issues (0.2 course credit) (Pre-nursing students must enroll each term of the first year.  A maximum of two seminars may be counted for credit toward graduation.)
@@ -4994,6 +4994,8 @@ A minor in Physics requires a cumulative 2.0 GPA in all courses counted toward t
   Presentations and discussions of advanced topics unavailable through the regular catalog offerings, and appropriate to students enrolled. Prerequisites: Electromagnetism (PHY-265) and consent of instructor.
 - **PHY 484 Advanced Topics in Physics**
   Covers several instructional modules. The content corresponds to material usually covered in the second-semester of an advanced, year-long course. Core modules include quantum mechanics (e.g., Bell’s theorem) and electromagnetism (e.g., stress tensor). The four remaining modules are chosen from topics that include optics, fluid dynamics, experimental techniques, nuclear physics, geophysics, advanced classical mechanics, waves, statistical mechanics, and atomic physics. Prerequisite: Quantum Mechanics (PHY-335) and Electromagnetism (PHY-265), or consent of instructor.
+- **PHY 494 Internship in Physics**
+  Investigation of an area of interest through field placement supervised by a faculty member of the department. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major in physics. Prerequisites: completion of a physics minor or junior standing and consent of department chair.
 - **OCC 365 Oak Ridge Science Semester**
   St. Clair (Program Director).
 The Oak Ridge Science Semester is designed to enable qualified undergraduates to study and conduct research in a prestigious and challenging scientific environment. As members of a research team working at the frontiers of knowledge, participants engage in long-range investigations using the facilities of the Oak Ridge National Laboratory (ORNL) near Knoxville, Tennessee. The majority of a student’s time is spent in research with an advisor specializing in biology, engineering, mathematics, or the physical or social sciences. Students also participate in an interdisciplinary seminar designed to broaden their exposure to developments in their major field and related disciplines. In addition, each student chooses an elective from a variety of advanced courses. The academic program is enriched in informal ways by guest speakers, departmental colloquia, and the special interests and expertise of the ORNL staff. Administered by Denison University, Oak Ridge Science Semester is recognized by both ACM and GLCA.
@@ -5301,7 +5303,7 @@ credit. Prerequisite: Introductory Psychology (PSY-100). (0.5 course credit)
   Introduces students to the biological bases of behavior and mental processes. This course emphasizes the cell biology of neurons, neural communication, and the organization of the nervous system. The neurological basis of psychological processes such as sensation, learning, memory, and cognition are discussed. Prerequisite: Introductory Psychology (PSY-100).  
 - **PSY 255 Social Psychology**
   Examination of individual human behavior as it is influenced by social variables. Topics covered include person perception, conformity, attitudes, prejudice, persuasion, helping, aggression, and group processes. Experimental research methods and findings are given emphasis. Prerequisite: Research Methods (PSY-200) or consent of instructor.
-- **+++MISSING INFO: c.psy60.long +++**
+- **PSY 260 Cognitive Psychology**
   Explores current theories, research findings, and applications in the areas of attention, perception, consciousness, knowledge representation, memory processes, language comprehension and production, inductive and deductive reasoning, evaluation and decision making, human and artificial intelligence, problem solving and creativity, and cross-cultural cognition. Prerequisite: Introductory Psychology (PSY-100).
 - **PSY 295 Applied Contemporary Psychology**
   Addresses complex interpersonal, cultural, ethical, and legal issues that may arise in psychology-related professional settings, using established theoretical and practical frameworks. Taken prior to Internship in Psychology (PSY-494), this course allows students to explore various psychology-related careers and develop some of the applied knowledge necessary for entry into such careers. Prerequisites: Introductory Psychology (PSY-100), a declared major in psychology, or consent of instructor.  
@@ -5576,7 +5578,7 @@ A major in Social & Criminal Justice requires a cumulative 2.0 GPA in all course
 7. **One** of the following:
 	- STA 100 Statistical Reasoning I-Foundations (7 weeks) **and** STA 110 Stats IIA: Inferential Reasoning (7 weeks)
 	- STA 100 Statistical Reasoning I-Foundations (7 weeks) **and** STA 130 Stats IIB: Experimental Design (7 weeks)
-	- +++MISSING INFO: c.sta190.long +++
+	- BUS 190 Statistical Analysis
 	- PSY 300 Stat Methods and Data Analysis
 
 8. **Three** courses, chosen from the following, in consultation with the student’s advisor and/or the Social & Criminal Justice administrative coordinator. No more than two courses may be selected from the same prefix.
@@ -5703,7 +5705,7 @@ A major in Sociology requires a cumulative 2.0 GPA in all courses counted toward
 
 6. **One** of the following:
 	- STA 100 Statistical Reasoning I-Foundations (7weeks) and STA 110 Stats IIA: Inferential Reasoning (7 weeks)
-	- +++MISSING INFO: c.staa100.long +++ (7weeks) and STA 130 Stats IIB: Experimental Design (7 weeks)
+	- STA 100 Statistical Reasoning I-Foundations (7weeks) and STA 130 Stats IIB: Experimental Design (7 weeks)
 
 ### Sociology Minor
 1. SOC 107 Introductory Sociology
@@ -6158,19 +6160,20 @@ A major in Writing requires a cumulative 2.0 GPA in all courses counted toward t
 	- COM 382 ResearchMethods:Rhetorical/Critical **or** RHE 382 Research Methods:Rhetorical/Critica
 
 4. **Six** credits, including any course with an RHE prefix not already fulfilling another requirement, or any of the courses from the list below. No more than two courses with the CRW or COM prefix may count toward the major.
+
 	- COM 241 Intro to Multimedia Journalism
 	- COM 341 Digital Storytelling
 	- COM 361 Communication & Social Change
 	- COM 362 U.S. Public Address
 	- COM 382 ResearchMethods:Rhetorical/Critical or RHE 382 Research Methods:Rhetorical/Critica (if not used to fulfill requirement #3)
 	- +++MISSING INFO: c.com462.long +++
-	- +++MISSING INFO: c.com115.long +++
-	- +++MISSING INFO: c.com255.long +++
-	- +++MISSING INFO: c.com280.long +++
-	- +++MISSING INFO: c.com290.long +++
-	- +++MISSING INFO: c.com355.long +++
-	- +++MISSING INFO: c.com380.long +++
-	- +++MISSING INFO: c.com390.long +++
+	- CRW 115 Exploring Creative Writing
+	- CRW 255 Playwriting Workshop I
+	- CRW 280 Poetry Workshop I
+	- CRW 290 Fiction Workshop I
+	- CRW 355 Playwriting Workshop 2
+	- CRW 380 Poetry Workshop II
+	- CRW 390 Fiction Workshop II
 
 5. **One** of the following:
 	- RHE 415 How Writers Write (If not used to satisfy requirement #4)
@@ -6182,19 +6185,20 @@ A major in Writing requires a cumulative 2.0 GPA in all courses counted toward t
 
 ### Writing Minor
 A minor in Writing requires five credits, including RHE 200 Rhetorical Theory and Practice and one RHE course numbered 300 or above. Any course with an RHE prefix or chosen from the list below may count toward the five credits; no more than two courses with CRW or COM prefix may count toward the minor. A cumulative 2.0 GPA is required in all courses counted toward the minor.
-	COM 241 Intro to Multimedia Journalism
-	COM 341 Digital Storytelling
-	+++MISSING INFO: c.rhe361.long +++
-	+++MISSING INFO: c.rhe362.long +++
-	RHE 382 Research Methods:Rhetorical/Critica **or** RHE 382 Research Methods:Rhetorical/Critica
-	+++MISSING INFO: c.com462.long +++
-	CRW 115 Exploring Creative Writing
-	CRW 255 Playwriting Workshop I
-	CRW 280 Poetry Workshop I
-	CRW 290 Fiction Workshop I
-	CRW 355 Playwriting Workshop 2
-	CRW 380 Poetry Workshop II
-	CRW 390 Fiction Workshop II
+
+	- COM 241 Intro to Multimedia Journalism
+	- COM 341 Digital Storytelling
+	- COM 361 Communication & Social Change
+	- COM 362 U.S. Public Address
+	- COM 382 ResearchMethods:Rhetorical/Critical **or** RHE 382 Research Methods:Rhetorical/Critica
+	- +++MISSING INFO: c.com462.long +++
+	- CRW 115 Exploring Creative Writing
+	- CRW 255 Playwriting Workshop I
+	- CRW 280 Poetry Workshop I
+	- CRW 290 Fiction Workshop I
+	- CRW 355 Playwriting Workshop 2
+	- CRW 380 Poetry Workshop II
+	- CRW 390 Fiction Workshop II
 
 ### Courses in Rhetoric 
 - **RHE 100 Directed Summer Reading**

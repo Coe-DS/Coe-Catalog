@@ -15,19 +15,20 @@ A major in Writing requires a cumulative 2.0 GPA in all courses counted toward t
 	- COM 382 ResearchMethods:Rhetorical/Critical **or** RHE 382 Research Methods:Rhetorical/Critica
 
 4. **Six** credits, including any course with an RHE prefix not already fulfilling another requirement, or any of the courses from the list below. No more than two courses with the CRW or COM prefix may count toward the major.
+
 	- COM 241 Intro to Multimedia Journalism
 	- COM 341 Digital Storytelling
 	- COM 361 Communication & Social Change
 	- COM 362 U.S. Public Address
 	- COM 382 ResearchMethods:Rhetorical/Critical or RHE 382 Research Methods:Rhetorical/Critica (if not used to fulfill requirement #3)
 	- +++MISSING INFO: c.com462.long +++
-	- +++MISSING INFO: c.com115.long +++
-	- +++MISSING INFO: c.com255.long +++
-	- +++MISSING INFO: c.com280.long +++
-	- +++MISSING INFO: c.com290.long +++
-	- +++MISSING INFO: c.com355.long +++
-	- +++MISSING INFO: c.com380.long +++
-	- +++MISSING INFO: c.com390.long +++
+	- CRW 115 Exploring Creative Writing
+	- CRW 255 Playwriting Workshop I
+	- CRW 280 Poetry Workshop I
+	- CRW 290 Fiction Workshop I
+	- CRW 355 Playwriting Workshop 2
+	- CRW 380 Poetry Workshop II
+	- CRW 390 Fiction Workshop II
 
 5. **One** of the following:
 	- RHE 415 How Writers Write (If not used to satisfy requirement #4)
@@ -39,19 +40,20 @@ A major in Writing requires a cumulative 2.0 GPA in all courses counted toward t
 
 ### Writing Minor
 A minor in Writing requires five credits, including RHE 200 Rhetorical Theory and Practice and one RHE course numbered 300 or above. Any course with an RHE prefix or chosen from the list below may count toward the five credits; no more than two courses with CRW or COM prefix may count toward the minor. A cumulative 2.0 GPA is required in all courses counted toward the minor.
-	COM 241 Intro to Multimedia Journalism
-	COM 341 Digital Storytelling
-	+++MISSING INFO: c.rhe361.long +++
-	+++MISSING INFO: c.rhe362.long +++
-	RHE 382 Research Methods:Rhetorical/Critica **or** RHE 382 Research Methods:Rhetorical/Critica
-	+++MISSING INFO: c.com462.long +++
-	CRW 115 Exploring Creative Writing
-	CRW 255 Playwriting Workshop I
-	CRW 280 Poetry Workshop I
-	CRW 290 Fiction Workshop I
-	CRW 355 Playwriting Workshop 2
-	CRW 380 Poetry Workshop II
-	CRW 390 Fiction Workshop II
+
+	- COM 241 Intro to Multimedia Journalism
+	- COM 341 Digital Storytelling
+	- COM 361 Communication & Social Change
+	- COM 362 U.S. Public Address
+	- COM 382 ResearchMethods:Rhetorical/Critical **or** RHE 382 Research Methods:Rhetorical/Critica
+	- +++MISSING INFO: c.com462.long +++
+	- CRW 115 Exploring Creative Writing
+	- CRW 255 Playwriting Workshop I
+	- CRW 280 Poetry Workshop I
+	- CRW 290 Fiction Workshop I
+	- CRW 355 Playwriting Workshop 2
+	- CRW 380 Poetry Workshop II
+	- CRW 390 Fiction Workshop II
 
 ### Courses in Rhetoric 
 - **RHE 100 Directed Summer Reading**

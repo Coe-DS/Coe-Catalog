@@ -25,7 +25,7 @@ A major in Social & Criminal Justice requires a cumulative 2.0 GPA in all course
 7. **One** of the following:
 	- STA 100 Statistical Reasoning I-Foundations (7 weeks) **and** STA 110 Stats IIA: Inferential Reasoning (7 weeks)
 	- STA 100 Statistical Reasoning I-Foundations (7 weeks) **and** STA 130 Stats IIB: Experimental Design (7 weeks)
-	- +++MISSING INFO: c.sta190.long +++
+	- BUS 190 Statistical Analysis
 	- PSY 300 Stat Methods and Data Analysis
 
 8. **Three** courses, chosen from the following, in consultation with the student’s advisor and/or the Social & Criminal Justice administrative coordinator. No more than two courses may be selected from the same prefix.

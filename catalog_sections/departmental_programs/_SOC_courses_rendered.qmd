@@ -18,7 +18,7 @@ A major in Sociology requires a cumulative 2.0 GPA in all courses counted toward
 
 6. **One** of the following:
 	- STA 100 Statistical Reasoning I-Foundations (7weeks) and STA 110 Stats IIA: Inferential Reasoning (7 weeks)
-	- +++MISSING INFO: c.staa100.long +++ (7weeks) and STA 130 Stats IIB: Experimental Design (7 weeks)
+	- STA 100 Statistical Reasoning I-Foundations (7weeks) and STA 130 Stats IIB: Experimental Design (7 weeks)
 
 ### Sociology Minor
 1. SOC 107 Introductory Sociology
