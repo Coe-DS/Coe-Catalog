@@ -39,19 +39,19 @@ A major in Writing requires a cumulative 2.0 GPA in all courses counted toward t
 
 ### Writing Minor
 A minor in Writing requires five credits, including {{< var c.rhe200.long >}} and one RHE course numbered 300 or above. Any course with an RHE prefix or chosen from the list below may count toward the five credits; no more than two courses with CRW or COM prefix may count toward the minor. A cumulative 2.0 GPA is required in all courses counted toward the minor.
-	{{< var c.com241.long >}}
-	{{< var c.com341.long >}}
-	{{< var c.rhe361.long >}}
-	{{< var c.rhe362.long >}}
-	{{< var c.rhe382.long >}} **or** {{< var c.rhe382.long >}}
-	{{< var c.com462.long >}}
-	{{< var c.crw115.long >}}
-	{{< var c.crw255.long >}}
-	{{< var c.crw280.long >}}
-	{{< var c.crw290.long >}}
-	{{< var c.crw355.long >}}
-	{{< var c.crw380.long >}}
-	{{< var c.crw390.long >}}
+	- {{< var c.com241.long >}}
+	- {{< var c.com341.long >}}
+	- {{< var c.com361.long >}}
+	- {{< var c.com362.long >}}
+	- {{< var c.com382.long >}} **or** {{< var c.rhe382.long >}}
+	- {{< var c.com462.long >}}
+	- {{< var c.crw115.long >}}
+	- {{< var c.crw255.long >}}
+	- {{< var c.crw280.long >}}
+	- {{< var c.crw290.long >}}
+	- {{< var c.crw355.long >}}
+	- {{< var c.crw380.long >}}
+	- {{< var c.crw390.long >}}
 
 ### Courses in Rhetoric 
 - **{{< var c.rhe100.long >}}**
