@@ -16,7 +16,7 @@ A liberally educated person should have some knowledge of other cultures and som
 
 The Diverse Cultural Perspectives courses (Non-Western Perspectives (course number ends in 6), United States Pluralism (course number ends in 7), Diverse Western Perspectives (course number ends in 8) help students to understand their own cultural identities and to develop appreciation for the range of different cultures to be found in the world, in the nation, and on campus. These courses explore other cultures in their own terms and as they interact with American culture. As a group, they encourage reflection on different ways in which cultural identities are formed, expressed and contested. Students are encouraged to combine these courses with the study of a world language and with study abroad. 
 
-Completion of **one** of the following options *(see p. 34-38 for descriptions and approved courses)*:
+Completion of **one** of the following options *(see @sec-diverse-cultural-perspectives-non-western , @sec-diverse-cultural-perspectives-united-states , and @sec-diverse-cultural-perspectives-western for descriptions and approved courses)*:
 
 - Non-World Language Option (all of the following):
   - Any DCP course (course number that ends in 6, 7, 8) 
