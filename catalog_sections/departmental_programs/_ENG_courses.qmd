@@ -44,7 +44,7 @@ The minor in English consists of five course credits, including {{< var c.eng111
 - **{{< var c.eng127.long >}}**
   {{< var c.eng127.desc >}}  
 - **{{< var c.eng137.long >}}**
-  See also African American Studies (AAM-137), Section 25.3.3
+  See also African American Studies (AAM-137), @sec-courses-in-african-american-studies
   {{< var c.eng137.desc >}}  
 - **{{< var c.eng146.long >}}**
   {{< var c.eng146.desc >}}  
@@ -75,7 +75,7 @@ The minor in English consists of five course credits, including {{< var c.eng111
 - **{{< var c.eng357.long >}}**
   {{< var c.eng357.desc >}}  
 - **{{< var c.eng367.long >}}**
-  See Also African American Studies (AAM-367), Section 25.3.3
+  See Also African American Studies (AAM-367), @sec-courses-in-african-american-studies
   {{< var c.eng367.desc >}}  
 - **{{< var c.eng375.long >}}**
   {{< var c.eng375.desc >}}  
