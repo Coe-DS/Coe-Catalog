@@ -101,15 +101,15 @@ Coe College offers the following programs:
 
 In addition to these programs, Coe international students who are not enrolled in an ESL program may register for ESL courses and work with ESL faculty on a one-on-one basis to support their language needs.
 
-- {{< var c.esl195.long >}}
+- **{{< var c.esl195.long >}}**
   - {{< var c.esl195.desc >}}
-- {{< var c.esl180.long >}}
+- **{{< var c.esl180.long >}}**
   - {{< var c.esl180.desc >}}
-- {{< var c.esl185.long >}}
+- **{{< var c.esl185.long >}}**
   - {{< var c.esl185.desc >}}
-- {{< var c.esl190.long >}}
+- **{{< var c.esl190.long >}}**
   - {{< var c.esl190.desc >}}
-- {{< var c.esl210.long >}}
+- **{{< var c.esl210.long >}}**
   - {{< var c.esl210.desc >}}
 
 
