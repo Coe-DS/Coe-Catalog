@@ -1,6 +1,6 @@
 # ACADEMIC PROGRAMS {#sec-academic-programs}
 
-### Asia Term
+### Asia Term {#sec-asia-term}
 
 **ASC-195 Asian Tonal Languages**  
 An introduction to Thai, Vietnamese, and other tonal Asian languages.  Emphasis is on basic communication as well as the distinguishing features of languages that use tones as part of their linguistic system. 
