@@ -88,7 +88,7 @@ Workshop students are required to submit a collection of finished work at the en
 
 - **{{< var c.crw255.long >}}**
 
-See also Theatre Arts (THE-255), p. 199
+See also Theatre Arts (THE-255), @sec-courses-in-theatre-arts
 
 {{< var c.crw255.desc >}}
 
@@ -106,7 +106,7 @@ See also Theatre Arts (THE-255), p. 199
 
 - **{{< var c.crw355.long >}}**
 
-See also Theatre Arts (THE-355), p. 200
+See also Theatre Arts (THE-355), @sec-courses-in-theatre-arts
 
 {{< var c.crw355.desc >}}
 
@@ -124,7 +124,7 @@ See also Theatre Arts (THE-355), p. 200
 
 - **{{< var c.crw455.long >}}**
 
-See also Theatre Arts (THE-455), p. 201
+See also Theatre Arts (THE-455), @sec-courses-in-theatre-arts
 
 {{< var c.crw455.desc >}}
 
@@ -148,4 +148,4 @@ See also Theatre Arts (THE-455), p. 201
 
 {{< var c.crw494.desc >}}
 
-For additional Writing and Journalism courses, see Rhetoric, p. 182.
+For additional Writing and Journalism courses, see Rhetoric, @sec-courses-in-rhetoric
