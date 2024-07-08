@@ -19,7 +19,7 @@ For courses spanning a fraction of a Term, the last date to add or drop without 
   - If a student officially withdraws from a course after 2/3 of the Term is completed, a “WF” will be entered on the student’s permanent record. This will affect the student’s GPA (see p. 53). 
   - A withdrawn course, regardless of the date withdrawn, counts as attempted credits on the transcript. Therefore, it also counts when calculating academic standing (see p. 61), and satisfactory academic progress (see p. 275) for financial aid.
 
-### Course Load 
+### Course Load {#sec-course-load}
 
 A student is full-time for the Fall or Spring Term when enrolled for three or more course credits. A student enrolled for less than this course load is a part-time student. For financial aid purposes, half-time is defined as enrollment in no fewer than two course credits in each of the Fall and Spring Terms; three-fourths is defined as enrollment in no fewer than 2.5 course credits in each of the Fall and Spring Terms. Students who have earned a cumulative GPA of 3.4 or above, or have earned both 23 credits and a cumulative GPA of 2.5 or above, may take above 4.99 credits without the need for a petition, but approval must be secured from the Office of the Registrar. Other students must submit a petition to the Committee on Petitions and obtain approval in order to register for five or more course credits. No student shall be permitted to register for over 5.99 credits in each of the Fall and Spring Terms. Only petitions from those students who have completed at least one term as a full-time student will be considered by the Committee on Petitions.  Students may not register for more than one course credit during May Term.
 
