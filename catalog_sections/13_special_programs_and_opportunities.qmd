@@ -24,23 +24,23 @@ Applications to the Crimson Fellows Program are accepted and reviewed on a rolli
 
 Completed applications are assessed on ACT/SAT score, the high school transcript, teacher recommendations, and the student essay. Although there are no minimum thresholds, the historical average ACT score has been over 27 with an average high school GPA above 3.70. Emphasis will be placed on the student essay.
 
-- {{< var c.cfp104.long >}}
+- **{{< var c.cfp104.long >}}**
   - {{< var c.cfp104.desc >}}
-- {{< var c.cfp145.long >}}
+- **{{< var c.cfp145.long >}}**
   - {{< var c.cfp145.desc >}}
-- {{< var c.cfp155.long >}}
+- **{{< var c.cfp155.long >}}**
   - {{< var c.cfp155.desc >}}
-- {{< var c.cfp175.long >}}
+- **{{< var c.cfp175.long >}}**
   - {{< var c.cfp175.desc >}}
-- {{< var c.cfp184.long >}}
+- **{{< var c.cfp184.long >}}**
   - {{< var c.cfp184.desc >}}
-- {{< var c.cfp205.long >}}
+- **{{< var c.cfp205.long >}}**
   - {{< var c.cfp205.desc >}}
-- {{< var c.cfp301.long >}}
+- **{{< var c.cfp301.long >}}**
   - {{< var c.cfp301.desc >}}
-- {{< var c.cfp302.long >}}
+- **{{< var c.cfp302.long >}}**
   - {{< var c.cfp302.desc >}}
-- {{< var c.cfp401.long >}}
+- **{{< var c.cfp401.long >}}**
   - {{< var c.cfp401.desc >}}
 
 ### Crimson Fellows Projects & Graduating with Distinction
