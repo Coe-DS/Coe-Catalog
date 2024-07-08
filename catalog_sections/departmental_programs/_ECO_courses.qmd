@@ -55,7 +55,7 @@ See Business Administration, Section 25.11
 **{{< var c.eco115.long >}}**   
   {{< var c.eco115.desc >}}   
 **{{< var c.ds120.long >}}**   
-See Data Science, p. 99   
+See Data Science, @sec-data-science  
 **{{< var c.eco155.long >}}**    
   {{< var c.eco155.desc >}}   
 **{{< var c.eco175.long >}}**  
