@@ -1,4 +1,4 @@
-## Data Science
+## Data Science {#sec-data-science}
 Baranowski, Cross, Eichhorn, Hughes, Stobb.
 
 Data Science is an interdisciplinary study that couples programming skills, statistical methods, and domain specific knowledge to extract meaning, make predictions, and visually present quantitative data. The department of mathematical sciences offers a complete range of courses, with majors and minors available in **COMPUTER SCIENCE**, **DATA SCIENCE**, and **MATHEMATICS**, as well as courses in statistics for additional breadth. The department adheres to its belief that the mathematical sciences and the habits of mind that they engender are components of a fine liberal arts education.
