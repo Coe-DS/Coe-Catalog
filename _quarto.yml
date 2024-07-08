@@ -57,6 +57,9 @@ book:
       - catalog_sections/26_academic_programs.qmd
       - catalog_sections/27_departmental_programs_rendered.qmd
       - catalog_sections/28_reserve_officer_training_corps_rendered.qmd
+    - part: "ADMISSIONS"
+      chapters:
+      -catalog_sections/admission_rendered.qmd
     - part: "FINANCIAL RESOURCES"
       chapters:
       - catalog_sections/29_financial_information_rendered.qmd
