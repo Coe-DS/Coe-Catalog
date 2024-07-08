@@ -147,7 +147,7 @@ Utilizes silkscreen printing as a medium that can be integrated with photography
 - **ART-374 Multiples in Printmaking**
 Utilizes intaglio and lithography as a medium to explore artistic vision, personal imagery and design. Using the process of intaglio, students investigate the states of development of an image by printing multiple variations of the plate. Using the process of lithography, students learn how to create a limited edition of prints. Prerequisite any 100-level studio ART- course.
 - **ART-391 Advanced Topics in Studio Art**
-See also Art History (ARH-391), p. 92
+See also Art History (ARH-391), @sec-courses-in-art-history
 Focuses on a specific advanced studio art theme or topic. Topics vary. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: any 100- or 200-level ART- course or consent of instructor.
 - **ART-394 Directed Studies in Art** 
 Investigates a topic in studio art selected by the student and instructor to fit the student’s particular interests and educational needs. May be taken more than once for credit. Prerequisites: junior standing and consent of department chair. 

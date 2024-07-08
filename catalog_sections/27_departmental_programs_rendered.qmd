@@ -375,7 +375,7 @@ Utilizes silkscreen printing as a medium that can be integrated with photography
 - **ART-374 Multiples in Printmaking**
 Utilizes intaglio and lithography as a medium to explore artistic vision, personal imagery and design. Using the process of intaglio, students investigate the states of development of an image by printing multiple variations of the plate. Using the process of lithography, students learn how to create a limited edition of prints. Prerequisite any 100-level studio ART- course.
 - **ART-391 Advanced Topics in Studio Art**
-See also Art History (ARH-391), p. 92
+See also Art History (ARH-391), @sec-courses-in-art-history
 Focuses on a specific advanced studio art theme or topic. Topics vary. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: any 100- or 200-level ART- course or consent of instructor.
 - **ART-394 Directed Studies in Art** 
 Investigates a topic in studio art selected by the student and instructor to fit the student’s particular interests and educational needs. May be taken more than once for credit. Prerequisites: junior standing and consent of department chair. 
@@ -438,7 +438,7 @@ A grade of “C” (2.0) or higher must be earned in all courses counted toward 
    - ARH 310 Contemporary Art, Theory &Criticism  
 4. One 100- or 300-level ART- course
 
-### COURSES IN ART HISTORY
+### COURSES IN ART HISTORY {#sec-courses-in-art-history}
 
 - ARH 106 World Art   
   Traces key themes in art from a global perpective, focusing on the ways that cultures and civilizations across time have visually expressed social, religious and political values. Cross-cultural themes may include: religion and spirituality, word and image, violence and death, power and propaganda, gender and society, parks and memorials, and ritual and body decoration.   
@@ -475,7 +475,7 @@ Prerequisite: Introduction to Art History (ARH 128) or consent of instructor.
 - ARH 310 Contemporary Art, Theory &Criticism  
   Investigates issues in contemporary art. Focuses on art of the late 20th and early 21st centuries, considering stylistic, historical and theoretical developments. Prerequisite: Introduction to Art History (ARH-128) and a 200-level ARH- course or consent of instructor.  
 - ARH 391 Advanced Topics in Art History  
-  See also ART 291  
+  See also ART 391  
   Focuses on an advanced study of a selected topic or theme in art history. Topics vary. May be taken more than once for credit, provided the topics are substantially different. Prerequisites: Introduction to Art History (ARH-128) and a 200-level ARH- course or consent of instructor.  
 - ARH 394 Directed Learning  in Art History  
   Investigates topics in art history selected by the student and instructor to fit the student’s particular interests and educational needs. May be taken more than once for credit. Prerequisites: junior standing and consent of department chair.  
@@ -511,7 +511,7 @@ The major is interdisciplinary and requires that the students take courses in th
 
 - an ACM overseas study program (India Studies or Japan Study)
 - a Coe foreign exchange program (Chiang Mai University of Thailand, Nagoya Gakuin University of Japan, or Sookmyung University in South Korea)
-- Coe’s Asia Term (see p. 30)
+- Coe’s Asia Term (see @sec-asia-term)
 
 3. **Four** courses, chosen from the following, in consultation with the Asian Studies administrative coordinator:
 
@@ -626,7 +626,7 @@ Genetics (BIO-235) and Laboratory (BIO-235L) and all of the courses under #4 are
 
 R. Christensen, Cozine (Chair), Ellis, Hughes, Keyes, Leonardo, Leveille, Luttinger, Mommer, Sanchini, Storer (Co-Chair). 
 
-In addition to a major in biology, the college also offers collateral majors in ENVIRONMENTAL SCIENCE (see p. 115), MOLECULAR BIOLOGY (see p. 144), and NEUROSCIENCE (see p. 156). The biology program provides students with an early introduction to experimental design and use of instrumentation to investigate properties of cells and organisms. Opportunities to work one-on-one with faculty, in honors and independent study work or in research participation, is also available to students.
+In addition to a major in biology, the college also offers collateral majors in ENVIRONMENTAL SCIENCE (see @sec-environmental-science), MOLECULAR BIOLOGY (see @sec-molecular-biology), and NEUROSCIENCE (see @sec-neuroscience). The biology program provides students with an early introduction to experimental design and use of instrumentation to investigate properties of cells and organisms. Opportunities to work one-on-one with faculty, in honors and independent study work or in research participation, is also available to students.
 
 ### Biology Major
 
@@ -815,8 +815,8 @@ Baranowski, Carstens, Chen, J. Christensen, Crain, Eichhorn (Co-Chair), Hall, Ha
 The Stead Department of Business Administration and Economics offers majors in **ACCOUNTING**, **BUSINESS ADMINISTRATION**, **ECONOMICS**, **INTERNATIONAL BUSINESS**, and INTERNATIONAL ECONOMICS, and minors in economics and international economics. Students pursuing one or more of these are strongly encouraged to consult with departmental faculty to develop specific plans of study. 
 
 ### BUSINESS ADMINISTRATION  
-The study of business administration is designed to develop in its students a high degree of competence in the application of business theories and sound judgment to the solution of business operating problems. Graduates are able to contribute effectively to the activities of their organizations by applying business skills required to plan, analyze, and control company activities. Beyond enhancing the value of a firm, the graduate should have a firm knowledge from which to achieve professional growth in the workplace and/or graduate school. Students majoring in business administration have two options: the business administration major and the international business major (see p. 132). The business major is designed to prepare students in the core areas of business administration, with specific focus on management, finance, and marketing. Students are also provided the opportunity to specialize in a particular area through selection of elective courses. The international business major is designed to prepare students for specific challenges related to operating an organization in an international context.   
-Because of significant overlap in the business administration and the international business requirements, only one of the two majors may be elected by a student.  See p. 132 for the International Business major requirements.
+The study of business administration is designed to develop in its students a high degree of competence in the application of business theories and sound judgment to the solution of business operating problems. Graduates are able to contribute effectively to the activities of their organizations by applying business skills required to plan, analyze, and control company activities. Beyond enhancing the value of a firm, the graduate should have a firm knowledge from which to achieve professional growth in the workplace and/or graduate school. Students majoring in business administration have two options: the business administration major and the international business major (see @sec-international-business). The business major is designed to prepare students in the core areas of business administration, with specific focus on management, finance, and marketing. Students are also provided the opportunity to specialize in a particular area through selection of elective courses. The international business major is designed to prepare students for specific challenges related to operating an organization in an international context.   
+Because of significant overlap in the business administration and the international business requirements, only one of the two majors may be elected by a student.  See @sec-international-business for the International Business major requirements.
 
 ### Business Administration Major  
 
@@ -3345,7 +3345,7 @@ A major in international business requires a minimum cumulative 2.0 GPA in all c
 
 
 
-## Interdisciplinary Studies {#sec-interdisciplinary-studies}
+## Interdisciplinary Studies {#sec-interdisciplinary-studies} {#sec-academic-policies-committee}
 
 The interdisciplinary major is a rigorous academic program in which the individual student assumes primary responsibility for designing her or his own academic program. Since the interdisciplinary major is structured by the student to serve individual needs, the primary courses selected for the major invariably cross traditional departmental boundaries. In all instances, the interdisciplinary major must display internal topical coherence. Assisting the student in developing a coherent interdisciplinary major will be the supervising faculty member, the student’s academic advisor (if the advisor is not the supervising faculty member), faculty from those departments in which the student is taking primary courses, and the Academic Policies Committee. This committee is responsible for approving student-initiated majors and for offering, where necessary, constructive advice on student proposals. Further guidelines for interdisciplinary majors may be obtained from the Office of the Registrar. The decision to undertake and to seek approval of an interdisciplinary major should be made after the student has had sufficient consultation with the appropriate persons within the College. Normally, this decision is made in the sophomore year, but in no case is an interdisciplinary major approved after the student has embarked upon the final eight courses leading to graduation. Application for an interdisciplinary major must contain the following: 1) a list of the nine to 11 primary courses which constitute the major; 2) a list of secondary or supportive courses which are tangentially related to the major; and 3) a three- to four-page typewritten statement of the rationale for the proposal, indicating, among other things, the internal coherence of the major. 
 
