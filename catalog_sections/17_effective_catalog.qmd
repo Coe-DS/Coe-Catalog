@@ -2,7 +2,7 @@
 
 Students ordinarily are graduated under the provisions of the catalog of their matriculation date. A student’s matriculation date is the day of first enrollment following admission. If the student is readmitted, the matriculation date becomes the day of first enrollment following readmission. However, students will be expected to satisfy, to the extent practical, the graduation requirements of the catalog in effect at the anticipated date of graduation. Any necessary modification of general degree requirements will be worked out by the Provost and Dean of the Faculty, the Registrar, the appropriate department chair, and the Academic Policies Committee. Modification of major or minor requirements will be worked out by the department chair involved, the Registrar, and the student’s advisor. A student has the right of petition to the Committee on Petitions.
 
-### Grading
+### Grading {#sec-grading}
 
 **GRADES**
 
