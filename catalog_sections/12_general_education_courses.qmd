@@ -325,7 +325,8 @@ Depending upon the type selected, some practica are graded A–F, while others a
 - {{< var c.art394.long >}}
 - {{< var c.art444.long >}}
 - {{< var c.art474.long >}}
-- {{< var c.at40.long >}}   (*successful completion of sequence of AT-20/-30 and -40 required to receive full credit*)
+- {{< var c.at40.long >}}   
+  (*successful completion of sequence of AT-20/-30 and -40 required to receive full credit*)
 - {{< var c.bio115.long >}}
 - {{< var c.bio444.long >}}
 - {{< var c.bio454.long >}}
