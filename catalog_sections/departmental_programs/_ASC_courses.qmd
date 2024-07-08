@@ -19,7 +19,7 @@ The major is interdisciplinary and requires that the students take courses in th
 
 - an ACM overseas study program (India Studies or Japan Study)
 - a Coe foreign exchange program (Chiang Mai University of Thailand, Nagoya Gakuin University of Japan, or Sookmyung University in South Korea)
-- Coe’s Asia Term (see p. 30)
+- Coe’s Asia Term (see @sec-asia-term)
 
 3. **Four** courses, chosen from the following, in consultation with the Asian Studies administrative coordinator:
 
