@@ -124,7 +124,7 @@ Theatre Arts students select one of the following **emphases**: general, acting,
 	- {{< var c.phy155.long >}} and {{< var c.phy155l.long >}}  
 	- {{< var c.the442.long >}} 
 
-### Courses in Theatre Arts 
+### Courses in Theatre Arts {#sec-courses-in-theatre-arts}
 
 - **{{< var c.the100.long >}}**
   {{< var c.the100.desc >}}  
