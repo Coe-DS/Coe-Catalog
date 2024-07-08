@@ -108,7 +108,7 @@ A minor in communication studies requires a minimum cumulative 2.0 GPA in all co
 
 - **{{< var c.com382.long >}}**
 
-  See also Writing (RHE-382), p. 185
+  See also Writing (RHE-382), @sec-courses-in-rhetoric
 
   {{< var c.com382.desc >}}
 
