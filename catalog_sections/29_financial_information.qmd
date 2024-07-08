@@ -28,7 +28,7 @@ Coe College charges tuition, room, board, and student fees. The student fees inc
 
 : Comprehensive Fee 2022-23 (For Full-Time Students) {tbl-colwidths="[75,25]"}
 
-### On-Campus and Off-Campus Resident Students
+### On-Campus and Off-Campus Resident Students {#sec-full-time-residence-requirements}
 
 As a residential, liberal arts college, we seek to provide an environment where learning by all members of the community occurs in and out of the classroom and where curricular and co-curricular activities reinforce our commitment to the life of the mind. Such experiences occur best when students are living and learning full-time on campus. The residential life program is an integral part of the education program and support services at Coe College. Residence halls and hall staff provide a structure by which the experience of the classroom is joined with the out-of-class learning experience of the student.
 
