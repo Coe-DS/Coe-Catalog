@@ -55,7 +55,7 @@ A minor in Writing requires five credits, including {{< var c.rhe200.long >}} an
 	- {{< var c.crw380.long >}}
 	- {{< var c.crw390.long >}}
 
-### Courses in Rhetoric 
+### Courses in Rhetoric {#sec-courses-in-rhetoric}
 - **{{< var c.rhe100.long >}}**
   {{< var c.rhe100.desc >}}  
 - **{{< var c.rhe112.long >}}**
