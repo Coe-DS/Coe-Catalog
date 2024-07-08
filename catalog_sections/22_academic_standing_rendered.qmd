@@ -8,11 +8,11 @@ To make sure that students are aware when their academic standing is in jeopardy
 
 Academic notices are issued at midterm to students who earn a D, F, or NP in one or more courses. Students receiving these notices are expected to meet with their academic advisor to identify appropriate support.
 
-### Academic Warnings
+### Academic Warnings {#sec-academic-warnings}
 
 Academic warnings will be issued to students who earn a term grade point average below 2.00. Students receiving academic warnings are strongly encouraged to re-evaluate their current approach to their studies and/or their academic plans. They are expected to meet with their academic advisor and/or a Learning Commons staff member.
 
-### Academic Probation
+### Academic Probation {#sec-academic-probation}
 
 The Academic Standing Committee reviews academic records of all students at the conclusion of both the Fall and Spring Terms. A student is placed on academic probation if the cumulative GPA falls below the minimum GPA levels listed below:
 
@@ -36,7 +36,7 @@ The status of academic probation is noted on a student’s transcript.
 
 Students on probation who are not meeting the conditions of their probation and not performing at a passing level in their courses may be withdrawn from the College during the term on the recommendation of the Academic Standing Committee. If the student had previously appealed a suspension, the suspension is reinstated. Otherwise, the student will exit the College with a leave of absence and is eligible to return on probation the following term. Students may appeal this decision to the Provost.
 
-### Academic Suspension
+### Academic Suspension {#sec-academic-suspension}
 
 Students who do not meet the conditions of their academic probation or who fall below retention thresholds (see below) will be considered for academic suspension by the Academic Standing Committee, and, if suspended, will be unable to take courses at Coe College for a period of at least one academic year. (One academic year is defined as a Fall and Spring Term, and does not count May or Summer Terms.) A registration hold preventing registration will be placed on the student’s account. A student already registered for the following term will be dropped from those courses.
 
@@ -61,13 +61,13 @@ To appeal for immediate readmission:
 Students who have been suspended for academic reasons from the College once, can return to the College either through a successful appeal for immediate readmission or through readmission after leaving for at least one academic year. A student who is suspended for academic reasons more than once cannot appeal for immediate readmission and must leave the College for at least one academic year.
 
 
-### Interim Suspension
+### Interim Suspension {#sec-interim-suspension}
 
 Interim Suspension is a situation where it is determined that a student’s continued presence at the college constitutes an immediate threat of harm to the student, other individuals, or to the stability and continuance of normal College functions.  The Provost and Dean of Students or their designee may suspend a student pending disciplinary proceedings. Such suspension may become effective immediately and without prior notice. 
  
 Interim suspension shall be considered an excused absence until the conclusion of formal hearings.  The student will be offered the opportunity to make up any academic work missed during the time in which the interim suspension was imposed. It is the student’s responsibility to make specific arrangements with faculty members to complete academic work. The Dean of Students will initiate communication with the appropriate faculty.
 
-### Readmission Following Suspension
+### Readmission Following Suspension {#sec-readmission-following-suspension}
 
 Coe College’s academic suspension policy allows students, who are not readmitted immediately through appeal, to apply for readmission after at least one academic year has passed.
 

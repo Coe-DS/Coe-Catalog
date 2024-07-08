@@ -6,7 +6,7 @@ Numerous domestic and international study programs are available to Coe students
 
 Credits earned on off-campus programs are applied toward graduation on the same basis as credits earned on campus. Any academic credit earned from programs not sponsored by Coe may be transferred back to the College in accordance with the College’s general policy on transfer credit. Application is open to sophomores, juniors, and seniors who have a minimum 2.25 GPA at both the time of application and of enrollment for the off-campus study.  
 
-NOTE: *International students may not receive Coe College financial aid for off-campus study outside the U.S.*
+**NOTE:** *International students may not receive Coe College financial aid for off-campus study outside the U.S.*
 
 ## Domestic Programs
 
@@ -70,7 +70,7 @@ Nordmann (Program Director).
 
 The Asia Term is open to all students who meet the basic requirements for off-campus study. Usually offered in the Spring Term, this program provides students an opportunity to experience a variety of Asian cultures in such countries as Thailand, Vietnam, and Cambodia.  At each site, students study language, read works in English about the culture, engage in service learning, and work with students at the host universities to gain a functional understanding of how each culture works.  Students are accompanied to Asia by Coe faculty members.
 
-Students take four credits of coursework, typically one credit of Asian Tonal Languages, one credit of Asian studies, and two credits of independent study.  In some iterations of the program, students take an elective course in art, English, history, sociology, education, or another discipline, depending on the field of the instructor leading the program, and one credit of independent study.  (See Section 24.0.1 for descriptions and course offerings.)
+Students take four credits of coursework, typically one credit of Asian Tonal Languages, one credit of Asian studies, and two credits of independent study.  In some iterations of the program, students take an elective course in art, English, history, sociology, education, or another discipline, depending on the field of the instructor leading the program, and one credit of independent study.  (See @sec-academic-programs-asia-term for descriptions and course offerings.)
 
 ## Exchange programs
 

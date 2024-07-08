@@ -311,8 +311,8 @@ Depending upon the type selected, some practica are graded A–F, while others a
 2. Wilderness Field Station Summer Courses 
 3. Crimson Fellows Thesis or Crimson Fellows Project, etc. as stated
 4. Independent Project (in list of courses that follows starred courses * require department approval for practicum credit): 
-    5. †Internship (see a complete listing of internships on p. 39)
-    6. †Community-Based Project (see course description on p. 87)
+5. †Internship (see a complete listing of internships on @sec-internships)
+6. †Community-Based Project (see course description on @sec-community-based-project)
 
 †A maximum of two course credits earned through any combination of Internships and Community-Based Projects may be included in the 32 course credits required for graduation.
 
@@ -325,7 +325,8 @@ Depending upon the type selected, some practica are graded A–F, while others a
 - ART 394 Directed Learning  in Art
 - ART 444 Independent Study in Art
 - ART 474 Senior Seminar II & Senior Exhibit
-- +++MISSING INFO: c.at40.long +++   (*successful completion of sequence of AT-20/-30 and -40 required to receive full credit*)
+- +++MISSING INFO: c.at40.long +++   
+  (*successful completion of sequence of AT-20/-30 and -40 required to receive full credit*)
 - BIO 115 Marine Biology
 - BIO 444 Independent Study
 - BIO 454 Research Participation

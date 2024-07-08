@@ -6,9 +6,9 @@ Data Science is an interdisciplinary study that couples programming skills, stat
 ### Data Science Major 
 A major in data science requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 
-1. DS 100 Introduction to Data Science or DS 120 Sports Analytics  
+1. DS 100 Introduction to Data Science **or** DS 120 Sports Analytics  
 2. CS 125 Computer Science I, or commensurate programming experience  
-3. One of the following Statistical Foundations courses:  
+3. **One** of the following Statistical Foundations courses:  
   a. BUS 190 Statistical Analysis  
   b. BUS 340 Applied Regression Analysis  
   c. PSY 300 Stat Methods and Data Analysis  
@@ -20,12 +20,12 @@ A major in data science requires a minimum cumulative 2.0 GPA in all courses cou
 6. ECO 375 Econometrics
 7. DS 315 Machine Learning
 8. DS 370 Database Systems and Data Managemen
-9. One of the following Modeling Courses:
+9. **One** of the following Modeling Courses:
   a. DS 415 Deep Learning  
   b. MTH 455 Mathematical Modeling  
   c. ECO 435 Time Series Analysis
   d. ECO 445 Econometrics II (WE)
-10.	Three additional courses from a different discipline numbered 200+ with the same course prefix. These courses should be selected with advice from the Data Science faculty. 
+10.	**Three** additional courses from a different discipline numbered 200+ with the same course prefix. These courses should be selected with advice from the Data Science faculty. 
 
 ### Data Science Minor 
 
