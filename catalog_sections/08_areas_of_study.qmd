@@ -58,7 +58,7 @@ Students should declare an area of study by the end of their sophomore year. All
 
 
 
-\* A coherent interdisciplinary sequence of courses devised by the student, in consultation with faculty, suited to the student’s individual goals and approved by the Academic Policies Committee (see p. 135).
+\* A coherent interdisciplinary sequence of courses devised by the student, in consultation with faculty, suited to the student’s individual goals and approved by the Academic Policies Committee (see @sec-academic-policies-committee).
 In addition to the areas of study/majors listed above, the following **COLLATERAL MAJORS** are offered, which require a student to satisfy the requirements of a major from the list above in addition to the selected collateral major.
 
 - Biochemistry
