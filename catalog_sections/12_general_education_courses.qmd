@@ -297,7 +297,7 @@ Courses with an INT prefix and those on this list count as internship credit:
 - {{< var c.the494.long >}}
 - {{< var c.wsh494.long >}}
 
-Students completing internships that are not department specific should register for one of the INT-494 or INT-499 courses on p. 49 (see the ***Coe Student Accounts Handbook*** for fee).
+Students completing internships that are not department specific should register for one of the INT-494 or INT-499 courses on @sec-academic-programs-internships (see the ***Coe Student Accounts Handbook*** for fee).
 
 ## Practicum {#sec-practicum}
 
