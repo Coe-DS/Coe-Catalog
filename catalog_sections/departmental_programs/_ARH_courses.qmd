@@ -44,7 +44,7 @@ A grade of “C” (2.0) or higher must be earned in all courses counted toward 
    - {{< var c.arh310.long >}}  
 4. One 100- or 300-level ART- course
 
-### COURSES IN ART HISTORY
+### COURSES IN ART HISTORY {#sec-courses-in-art-history}
 
 - {{< var c.arh106.long >}}   
   {{< var c.arh106.desc >}}   
@@ -76,7 +76,7 @@ A grade of “C” (2.0) or higher must be earned in all courses counted toward 
 - {{< var c.arh310.long >}}  
   {{< var c.arh310.desc >}}  
 - {{< var c.arh391.long >}}  
-  See also {{< var c.art291.short >}}  
+  See also {{< var c.art391.short >}}  
   {{< var c.arh391.desc >}}  
 - {{< var c.arh394.long >}}  
   {{< var c.arh394.desc >}}  
