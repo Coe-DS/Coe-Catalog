@@ -56,9 +56,9 @@ To graduate with Distinction, at the time of graduation a student must have:
 
 ### Latin Honors 
 
-Cum laude is awarded to all graduating seniors with a cumulative GPA of 3.60 or higher. 
-Magna cum laude is awarded to graduating seniors with a cumulative GPA of 3.80 or higher who have completed an honors project. 
-Summa cum laude is awarded to graduating seniors with a cumulative GPA of 3.98 or higher who have completed an honors project. 
+*Cum laude* is awarded to all graduating seniors with a cumulative GPA of 3.60 or higher. 
+*Magna cum laude* is awarded to graduating seniors with a cumulative GPA of 3.80 or higher who have completed an honors project. 
+*Summa cum laude* is awarded to graduating seniors with a cumulative GPA of 3.98 or higher who have completed an honors project. 
 
 ### Dean’s List 
 
