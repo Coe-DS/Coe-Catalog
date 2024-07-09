@@ -106,15 +106,15 @@
 
 {{< include departmental_programs/_RHE_courses.qmd >}}
 
-{{< include departmental_programs/_SCJ_courses.qmd >}}
-
 {{< include departmental_programs/_SE_courses.qmd >}}
 
-{{< include departmental_programs/_SMT_courses.qmd >}}
+{{< include departmental_programs/_SCJ_courses.qmd >}}
 
 {{< include departmental_programs/_SOC_courses.qmd >}}
 
 {{< include departmental_programs/_SPA_courses.qmd >}}
+
+{{< include departmental_programs/_SMT_courses.qmd >}}
 
 {{< include departmental_programs/_STA_courses.qmd >}}
 
