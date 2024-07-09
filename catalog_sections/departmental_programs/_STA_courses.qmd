@@ -11,10 +11,10 @@ Cross.
 - **{{< var c.sta110.long >}}**
   {{< var c.sta110.desc >}}
 - **{{< var c.sta130.long >}}**
-  {{< var c.smt130.desc >}}
+  {{< var c.sta130.desc >}}
 - **{{< var c.sta315.long >}}**
   {{< var c.sta315.desc >}}
 - **{{< var c.sta325.long >}}**
-  {{< var c.smt325.desc >}}
+  {{< var c.sta325.desc >}}
 
 
