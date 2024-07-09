@@ -46,96 +46,96 @@ A minor in communication studies requires a minimum cumulative 2.0 GPA in all co
 
 ### COURSES IN COMMUNICATION STUDIES
 
-- **{{< var c.com125.long >}}**
+ **{{< var c.com125.long >}}**
 
   {{< var c.com125.desc >}}
  
-- **{{< var c.com151.long >}}**
+ **{{< var c.com151.long >}}**
 
   {{< var c.com151.desc >}} 
 
-- **{{< var c.com157.long >}}**
+ **{{< var c.com157.long >}}**
 
   {{< var c.com157.desc >}}
 
-- **{{< var c.com161.long >}}**
+ **{{< var c.com161.long >}}**
 
   {{< var c.com161.desc >}}
 
-- **{{< var c.com210.long >}}**
+ **{{< var c.com210.long >}}**
 
   {{< var c.com210.desc >}}
 
-- **{{< var c.com236.long >}}**
+ **{{< var c.com236.long >}}**
 
   {{< var c.com236.desc >}} 
 
-- **{{< var c.com237.long >}}**
+ **{{< var c.com237.long >}}**
 
   {{< var c.com237.desc >}}
 
-- **{{< var c.com241.long >}}**
+ **{{< var c.com241.long >}}**
 
   {{< var c.com241.desc >}}
 
-- **{{< var c.com332.long >}}**
+ **{{< var c.com332.long >}}**
 
   {{< var c.com332.desc >}}
 
-- **{{< var c.com337.long >}}**
+ **{{< var c.com337.long >}}**
 
   {{< var c.com337.desc >}}
 
-- **{{< var c.com341.long >}}**
+ **{{< var c.com341.long >}}**
 
   {{< var c.com341.desc >}}
 
-- **{{< var c.com357.long >}}**
+ **{{< var c.com357.long >}}**
 
   {{< var c.com357.desc >}}
 
-- **{{< var c.com361.long >}}**
+ **{{< var c.com361.long >}}**
 
   {{< var c.com361.desc >}}
 
-- **{{< var c.com362.long >}}**
+ **{{< var c.com362.long >}}**
 
   {{< var c.com362.desc >}}
 
-- **{{< var c.com381.long >}}**
+ **{{< var c.com381.long >}}**
 
   {{< var c.com381.desc >}} 
 
-- **{{< var c.com382.long >}}**
+ **{{< var c.com382.long >}}**
 
   See also Writing (RHE-382), @sec-courses-in-rhetoric
 
   {{< var c.com382.desc >}}
 
-- **{{< var c.com394.long >}}**
+ **{{< var c.com394.long >}}**
 
   {{< var c.com394.desc >}}
 
-- **{{< var c.com435_437.long >}}**
+ **{{< var c.com435_437.long >}}**
 
   {{< var c.com435_437.desc >}}
 
-- **{{< var c.com444.long >}}**
+ **{{< var c.com444.long >}}**
 
   {{< var c.com444.desc >}}
 
-- **{{< var c.com445_447.long >}}**
+ **{{< var c.com445_447.long >}}**
 
   {{< var c.com445_447.desc >}}
 
-- **{{< var c.com455_457.long >}}**
+ **{{< var c.com455_457.long >}}**
 
   {{< var c.com455_457.desc >}}
 
-- **{{< var c.com465_467.long >}}**
+ **{{< var c.com465_467.long >}}**
   
   {{< var c.com465_467.desc >}}
 
-- **{{< var c.com494.long >}}**
+ **{{< var c.com494.long >}}**
 
   {{< var c.com494.desc >}}
