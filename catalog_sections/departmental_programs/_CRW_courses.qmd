@@ -70,81 +70,81 @@ Workshop students are required to submit a collection of finished work at the en
  
 
 ### COURSES IN CREATIVE WRITING {#sec-courses-in-creative-writing}
-- **{{< var c.crw111.long >}}**
+ **{{< var c.crw111.long >}}**
 
 {{< var c.crw111.desc >}}
 
-- **{{< var c.crw112.long >}}**
+ **{{< var c.crw112.long >}}**
 
 {{< var c.crw112.desc >}}
 
-- **{{< var c.crw115.long >}}**
+ **{{< var c.crw115.long >}}**
 
 {{< var c.crw115.desc >}}
 
-- **{{< var c.crw125.long >}}**
+ **{{< var c.crw125.long >}}**
 
 {{< var c.crw125.desc >}}
 
-- **{{< var c.crw255.long >}}**
+ **{{< var c.crw255.long >}}**
 
 See also Theatre Arts (THE-255), @sec-courses-in-theatre-arts
 
 {{< var c.crw255.desc >}}
 
-- **{{< var c.crw280.long >}}**
+ **{{< var c.crw280.long >}}**
 
 {{< var c.crw280.desc >}}
 
-- **{{< var c.crw290.long >}}**
+ **{{< var c.crw290.long >}}**
 
 {{< var c.crw290.desc >}}
 
-- **{{< var c.crw350.long >}}**
+ **{{< var c.crw350.long >}}**
 
 {{< var c.crw350.desc >}}
 
-- **{{< var c.crw355.long >}}**
+ **{{< var c.crw355.long >}}**
 
 See also Theatre Arts (THE-355), @sec-courses-in-theatre-arts
 
 {{< var c.crw355.desc >}}
 
-- **{{< var c.crw380.long >}}**
+ **{{< var c.crw380.long >}}**
 
 {{< var c.crw380.desc >}} 
 
-- **{{< var c.crw390.long >}}**
+ **{{< var c.crw390.long >}}**
 
 {{< var c.crw390.desc >}}
 
-- **{{< var c.crw394.long >}}**
+ **{{< var c.crw394.long >}}**
 
 {{< var c.crw394.desc >}}
 
-- **{{< var c.crw455.long >}}**
+ **{{< var c.crw455.long >}}**
 
 See also Theatre Arts (THE-455), @sec-courses-in-theatre-arts
 
 {{< var c.crw455.desc >}}
 
-- **{{< var c.crw480.long >}}**
+ **{{< var c.crw480.long >}}**
 
 {{< var c.crw480.desc >}}
 
-- **{{< var c.crw484.long >}}**
+ **{{< var c.crw484.long >}}**
 
 {{< var c.crw484.desc >}}
 
-- **{{< var c.crw490.long >}}**
+ **{{< var c.crw490.long >}}**
 
 {{< var c.crw490.desc >}}
 
-- **{{< var c.crw492.long >}}**
+ **{{< var c.crw492.long >}}**
 
 {{< var c.crw492.desc >}}
 
-- **{{< var c.crw494.long >}}**
+ **{{< var c.crw494.long >}}**
 
 {{< var c.crw494.desc >}}
 
