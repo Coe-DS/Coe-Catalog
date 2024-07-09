@@ -5,21 +5,21 @@ Chandler, Libby (Chair).
 No students will be admitted to the Athletic Training Education Program after December 8, 2017
 
 ### Courses in Athletic Training
--**{{< var c.at100.long >}}**
-{{< var c.at100.desc >}}
--**{{< var c.at20_/30_/40_.long >}}**
-{{< var c.at20_/30_/40_.desc >}}
--**{{< var c.at225/220.long >}}**
-{{< var c.at225/220.desc >}}
--**{{< var c.at235/230.long >}}**
-{{< var c.at235/230.desc >}}
--**{{< var c.at375.long >}}**
-{{< var c.at375.desc >}}
--**{{< var c.at385.long >}}**
-{{< var c.at385.desc >}}
--**{{< var c.at395/390.long >}}**
-{{< var c.at395/390.desc >}}
--**{{< var c.at425.long >}}**
-{{< var c.at425.desc >}}
--**{{< var c.at494.long >}}**
-{{< var c.at494.desc >}}
+-**{{< var c.at100.long >}}**  
+{{< var c.at100.desc >}}  
+-**{{< var c.at20_/30_/40_.long >}}**  
+{{< var c.at20_/30_/40_.desc >}}  
+-**{{< var c.at225/220.long >}}**  
+{{< var c.at225/220.desc >}}  
+-**{{< var c.at235/230.long >}}**  
+{{< var c.at235/230.desc >}}  
+-**{{< var c.at375.long >}}**  
+{{< var c.at375.desc >}}  
+-**{{< var c.at385.long >}}**  
+{{< var c.at385.desc >}}  
+-**{{< var c.at395/390.long >}}**  
+{{< var c.at395/390.desc >}}  
+-**{{< var c.at425.long >}}**  
+{{< var c.at425.desc >}}  
+-**{{< var c.at494.long >}}**  
+{{< var c.at494.desc >}}  
