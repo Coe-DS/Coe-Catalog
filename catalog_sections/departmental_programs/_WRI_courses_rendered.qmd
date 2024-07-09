@@ -55,7 +55,7 @@ A minor in Writing requires five credits, including RHE 200 Rhetorical Theory an
 	- CRW 380 Poetry Workshop II
 	- CRW 390 Fiction Workshop II
 
-### Courses in Rhetoric 
+### Courses in Rhetoric {#sec-courses-in-rhetoric}
 - **RHE 100 Directed Summer Reading**
   Provides incoming students an opportunity to practice the academic reading and writing skills necessary for successful college work. Students read three books, prepare written responses to each book, and discuss the assignments with a faculty member during a conference in the first four weeks of the Fall Term. S/U basis only. (0.3 course credit)  
 - **RHE 112 Intro to Writing Center Theory**

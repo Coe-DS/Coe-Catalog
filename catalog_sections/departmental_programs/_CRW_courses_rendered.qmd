@@ -88,7 +88,7 @@ Studies the line or sentence as the basic unit of creative writing across multip
 
 - **CRW 255 Playwriting Workshop I**
 
-See also Theatre Arts (THE-255), p. 199
+See also Theatre Arts (THE-255), @sec-courses-in-theatre-arts
 
 Explores the basics of playwriting through the study of dramatic structure, creative exercises, and reading and analysis of existing play scripts, with emphasis on the one-act play. Students complete a one-act play script of their own creation. Prerequisite: Introduction to Creative Writing (CRW-125) or consent of instructor.
 
@@ -106,7 +106,7 @@ Survey of multiple modes of writing for moving image productions. May include ex
 
 - **CRW 355 Playwriting Workshop 2**
 
-See also Theatre Arts (THE-355), p. 200
+See also Theatre Arts (THE-355), @sec-courses-in-theatre-arts
 
 Focuses on the analysis and creation of play scripts of two acts or more. Emphasis is placed on the writing and marketing of the student’s own creative work, culminating in the completion and public reading of a full-length script. Prerequisite: Beginning Playwriting (CRW/THE-255).
 
@@ -124,7 +124,7 @@ Completion of an independent creative writing project under the direction of a f
 
 - **CRW 455 Playwriting Workshop 3**
 
-See also Theatre Arts (THE-455), p. 201
+See also Theatre Arts (THE-455), @sec-courses-in-theatre-arts
 
 Continued advanced writing, with an emphasis on producing finished poems. Prerequisite: Poetry Workshop 2 (CRW-380).
 
@@ -148,4 +148,4 @@ The capstone of the Creative Writing major. Students in this intensive workshop 
 
 Exploration of a career area related to Creative Writing. Application and supervision through the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major or minor in creative writing, but with the consent of rhetoric department faculty, one credit from an appropriate internship may be applied to a major or minor in writing. Prerequisites: junior standing and consent of creative writing administrative coordinator.
 
-For additional Writing and Journalism courses, see Rhetoric, p. 182.
+For additional Writing and Journalism courses, see Rhetoric, @sec-courses-in-rhetoric

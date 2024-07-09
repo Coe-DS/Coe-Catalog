@@ -108,7 +108,7 @@ A minor in communication studies requires a minimum cumulative 2.0 GPA in all co
 
 - **COM 382 ResearchMethods:Rhetorical/Critical**
 
-  See also Writing (RHE-382), p. 185
+  See also Writing (RHE-382), @sec-courses-in-rhetoric
 
   Exploration of the major approaches to conducting research in Communication Studies. This course serves as the foundation for more complex forms of critical and/or qualitative analysis. Prerequisite: Rhetorical Theory & Practice (RHE-200).
 

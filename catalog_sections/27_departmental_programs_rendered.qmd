@@ -76,7 +76,7 @@ A major in African American studies requires a minimum cumulative 2.0 GPA in all
 
 5. Two additional courses from either list **5a** or, when appropriate, **5b** as listed above for the major 
 
-### COURSES IN AFRICAN AMERICAN STUDIES
+### COURSES IN AFRICAN AMERICAN STUDIES {#sec-courses-in-african-american-studies}
 
 - **AAM 107 Intro to African American Studies** 
 
@@ -1220,8 +1220,8 @@ See @sec-economics
 
 
 ## ECONOMICS
-Economics is a social science concerning the study of how economic agents make choices in the face of scarcity. Economists study a broad variety of topics ranging from the theory of the consumer to economic growth and the wealth of nations. Students majoring in economics have two options: the economics major and the international economics major (see p. 132). The economics major is designed to permit a broad enough selection of courses for students to develop a general competence in economics, and to prepare students for graduate work in economics or other disciplines, such as law or business. The international economics major is designed to allow students who are interested in international studies to explore issues of development, growth, and international finance, using the tools of economic analysis.  
-Because of significant overlap in the economics and the international economics requirements, only one of the two majors may be elected by a student. Students majoring in economics or international economics may not minor in either economics or international economics.  See p. 132 for the International Economics major and minor requirements.
+Economics is a social science concerning the study of how economic agents make choices in the face of scarcity. Economists study a broad variety of topics ranging from the theory of the consumer to economic growth and the wealth of nations. Students majoring in economics have two options: the economics major and the international economics major (see @sec-international-economics). The economics major is designed to permit a broad enough selection of courses for students to develop a general competence in economics, and to prepare students for graduate work in economics or other disciplines, such as law or business. The international economics major is designed to allow students who are interested in international studies to explore issues of development, growth, and international finance, using the tools of economic analysis.  
+Because of significant overlap in the economics and the international economics requirements, only one of the two majors may be elected by a student. Students majoring in economics or international economics may not minor in either economics or international economics.  See p. @sec-international-economics for the International Economics major and minor requirements.
 
 ### Economics Major 
 A major in economics requires a minimum cumulative 2.0 GPA in all courses counted toward the major.  
@@ -1276,7 +1276,7 @@ See Business Administration, Section 25.11
 **ECO 115 Intro Political Econ**   
   An introduction to political economy. A study of the roots of economics and the interaction between public policy debates and economic theory. The course explores the historical foundation and development of a variety of schools of thought, ranging from the classical liberalism of Adam Smith to the radical voice of Karl Marx. Emphasis is placed on understanding not only the historical progression of ideas, but also the relevance varied perspectives have on present political and economic issues. This course does not satisfy any of the requirements for a major or minor in economics.   
 **DS 120 Sports Analytics**   
-See Data Science, p. 99   
+See Data Science, @sec-data-science  
 **ECO 155 Econ/Ethics of Alternative Energy**    
   Focuses on the economics and ethics of energy choices, with some emphasis on climate change and other concerns related to energy use, including the science behind climate change and various alternative energies. The course examines a broad array of issues related to energy and more specifically, alternatives to petroleum-based sources of energy such as biomass, wind, and solar. Energy choices and policies are analyzed using a variety of methods, such as benefit-cost, equity, program evaluation (both monetary and non-monetary), and social benefits versus economic impact. The course includes travel to regional organizations that develop and produce these technologies; guest lectures from national and state experts on the economics of energy, energy policy, and the science behind various energies; case studies; and class discussion. Students gain a broad understanding of factors considered in energy development and policy. This course may be used to satisfy the requirements for a major in Environmental Studies but does not satisfy any of the requirements for a major or minor in economics. (Offered May Term only)   
 **ECO 175 Principles of Macroeconomics**  
@@ -1688,7 +1688,7 @@ A minor in communication studies requires a minimum cumulative 2.0 GPA in all co
 
 - **COM 382 ResearchMethods:Rhetorical/Critical**
 
-  See also Writing (RHE-382), p. 185
+  See also Writing (RHE-382), @sec-courses-in-rhetoric
 
   Exploration of the major approaches to conducting research in Communication Studies. This course serves as the foundation for more complex forms of critical and/or qualitative analysis. Prerequisite: Rhetorical Theory & Practice (RHE-200).
 
@@ -1891,7 +1891,7 @@ Studies the line or sentence as the basic unit of creative writing across multip
 
 - **CRW 255 Playwriting Workshop I**
 
-See also Theatre Arts (THE-255), p. 199
+See also Theatre Arts (THE-255), @sec-courses-in-theatre-arts
 
 Explores the basics of playwriting through the study of dramatic structure, creative exercises, and reading and analysis of existing play scripts, with emphasis on the one-act play. Students complete a one-act play script of their own creation. Prerequisite: Introduction to Creative Writing (CRW-125) or consent of instructor.
 
@@ -1909,7 +1909,7 @@ Survey of multiple modes of writing for moving image productions. May include ex
 
 - **CRW 355 Playwriting Workshop 2**
 
-See also Theatre Arts (THE-355), p. 200
+See also Theatre Arts (THE-355), @sec-courses-in-theatre-arts
 
 Focuses on the analysis and creation of play scripts of two acts or more. Emphasis is placed on the writing and marketing of the student’s own creative work, culminating in the completion and public reading of a full-length script. Prerequisite: Beginning Playwriting (CRW/THE-255).
 
@@ -1927,7 +1927,7 @@ Completion of an independent creative writing project under the direction of a f
 
 - **CRW 455 Playwriting Workshop 3**
 
-See also Theatre Arts (THE-455), p. 201
+See also Theatre Arts (THE-455), @sec-courses-in-theatre-arts
 
 Continued advanced writing, with an emphasis on producing finished poems. Prerequisite: Poetry Workshop 2 (CRW-380).
 
@@ -1951,7 +1951,7 @@ The capstone of the Creative Writing major. Students in this intensive workshop 
 
 Exploration of a career area related to Creative Writing. Application and supervision through the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major or minor in creative writing, but with the consent of rhetoric department faculty, one credit from an appropriate internship may be applied to a major or minor in writing. Prerequisites: junior standing and consent of creative writing administrative coordinator.
 
-For additional Writing and Journalism courses, see Rhetoric, p. 182.
+For additional Writing and Journalism courses, see Rhetoric, @sec-courses-in-rhetoric
 
 
 ## Dance (Courses Only) {#sec-dance}
@@ -1981,7 +1981,7 @@ Rezabek, Wolverton.
   Further exploration of choreographic techniques, culminating in a short performance of student’s work. Prerequisite: Choreography I (DAN-151). (0.2 course credit) 
 
 
-## Data Science
+## Data Science {#sec-data-science}
 Baranowski, Cross, Eichhorn, Hughes, Stobb.
 
 Data Science is an interdisciplinary study that couples programming skills, statistical methods, and domain specific knowledge to extract meaning, make predictions, and visually present quantitative data. The department of mathematical sciences offers a complete range of courses, with majors and minors available in **COMPUTER SCIENCE**, **DATA SCIENCE**, and **MATHEMATICS**, as well as courses in statistics for additional breadth. The department adheres to its belief that the mathematical sciences and the habits of mind that they engender are components of a fine liberal arts education.
@@ -2466,7 +2466,7 @@ and expository writing. This course introduces terms and skills necessary for fu
 - **ENG 127 Social Justice and Literature**
   Study of literary works that represent and reimagine issues of human rights in the twentieth and twenty-first centuries.  
 - **ENG 137 African American Literature**
-  See also African American Studies (AAM-137), Section 25.3.3
+  See also African American Studies (AAM-137), @sec-courses-in-african-american-studies
   Reading and discussion of the writings of African Americans, with emphasis on the twentieth century. May include some relevant writings on African Americans by other groups. Study of the artistic values and of the social and cultural significance of these writings. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different.  
 - **ENG 146 Intro Postcolonial Literature**
   Study of twentieth-century prose and poetry arising out of the cultural, social, economic, and legal harms of imperialism and colonization.  
@@ -2497,7 +2497,7 @@ and expository writing. This course introduces terms and skills necessary for fu
 - **ENG 357 Studies in Latinx/ChicanxLiterature**
   Reviews selected works of literature by Latina/os and Chicana/os. Students explore through reading and discussion methods and concepts relating to human rights, coloniality, diaspora, Latinidad and/or linguistic philosophy to better understand the lived experiences, identities, and cultures of Latinx and Chicanx communities in the U.S. Specific topics vary from year to year.  
 - **ENG 367 Studies in African Am Literature**
-  See Also African American Studies (AAM-367), Section 25.3.3
+  See Also African American Studies (AAM-367), @sec-courses-in-african-american-studies
   See also African American Studies (AAM-367), 
 Course focuses on specific literary genres or time periods and functions as an intermediate course between the introductory African American Literature (AAM/ENG-267) and the advanced English seminar (particularly Seminar in Literature: United States Pluralism (ENG-707)). Students read and discuss both primary and secondary sources in an effort to gain a fuller understanding and appreciation of the artistic values and of the social and cultural significance of these writings. Specific topics vary from year to year. Possible topics include African American Historical Fiction, African American Speculative Fiction, Literature of the Civil Rights Era, and the African American Bildungsroman. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different. Prerequisite: Introduction to Literary Studies: The Art of Reading and Writing (ENG-101) or consent of instructor.  
 - **ENG 375 Study in European Literature**
@@ -5166,7 +5166,7 @@ Students wishing to complete this major must consult with the Public Relations a
 
 A major in Public Relations requires a cumulative 2.0 GPA in all courses counted toward the major.
 
-Concurrent completion of any of the majors listed on p.  of the Catalog is required.  
+Concurrent completion of any of the majors listed on @sec-areas-of-study  of the Catalog is required.  
 
 1. **One** of the following:
 	- ART101 Art Appreciation
@@ -6025,7 +6025,7 @@ Theatre Arts students select one of the following **emphases**: general, acting,
 	- PHY 155 Electronics and PHY 155L Electronics Lab  
 	- THE 442 Adv Proj-Design/Tech Production 
 
-### Courses in Theatre Arts 
+### Courses in Theatre Arts {#sec-courses-in-theatre-arts}
 
 - **THE 100 Introduction to Theatre**
   A study of the art of theatre, emphasizing theatre’s place among the humanities; its relationship to the other arts; and its cultural and social influences in our society. Students derive a foundation for discriminating theatregoing through analysis of dramatic form and of selected playtexts; consideration of the methods and techniques employed by theatre artists and crafts persons; and a brief survey of theatre and drama, both in their historical context and as they have been manifested through related media. As part of the study, students are required to attend some evening events. This course does not satisfy any of the requirements for a major in theatre arts.  
@@ -6200,7 +6200,7 @@ A minor in Writing requires five credits, including RHE 200 Rhetorical Theory an
 	- CRW 380 Poetry Workshop II
 	- CRW 390 Fiction Workshop II
 
-### Courses in Rhetoric 
+### Courses in Rhetoric {#sec-courses-in-rhetoric}
 - **RHE 100 Directed Summer Reading**
   Provides incoming students an opportunity to practice the academic reading and writing skills necessary for successful college work. Students read three books, prepare written responses to each book, and discuss the assignments with a faculty member during a conference in the first four weeks of the Fall Term. S/U basis only. (0.3 course credit)  
 - **RHE 112 Intro to Writing Center Theory**
