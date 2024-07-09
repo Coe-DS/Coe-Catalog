@@ -1,7 +1,7 @@
 ## Computer Science
 Hostetler, Hughes, Stobb.  
 
-Computer Science is the study of abstractions and algorithmic processes and how they can be applied to fulfill human information needs. The department of mathematical sciences offers a complete range of courses, with majors and minors available in COMPUTER SCIENCE, DATA SCIENCE, and MATHEMATICS, as well as courses in statistics for additional breadth. The department adheres to its belief that the mathematical sciences and the habits of mind that they engender are components of a fine liberal arts education
+Computer Science is the study of abstractions and algorithmic processes and how they can be applied to fulfill human information needs. The department of mathematical sciences offers a complete range of courses, with majors and minors available in **COMPUTER SCIENCE**, **DATA SCIENCE**, and **MATHEMATICS**, as well as courses in statistics for additional breadth. The department adheres to its belief that the mathematical sciences and the habits of mind that they engender are components of a fine liberal arts education
 
 ### Computer Science Major
 
