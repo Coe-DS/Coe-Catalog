@@ -79,7 +79,7 @@ The exit process at Coe College, whether through withdrawing or taking a leave o
 
 If a student is unable to complete the official withdrawal process, the intent to withdraw or take a leave of absence can be communicated to one of the following offices: Registrar, Student Financial Services, Student Life.
 
-If a student withdraws from all courses during a period of enrollment for which he or she received financial aid, the Student Financial Services Office will determine how much, if any, of the student’s financial aid proceeds must be returned to the College, based on a federally mandated refund formula (see Return of Title IV Funds/Institutional Refund Policy, @sec-federal-title-IV-refund-calculation-policy).
+If a student withdraws from all courses during a period of enrollment for which he or she received financial aid, the Student Financial Services Office will determine how much, if any, of the student’s financial aid proceeds must be returned to the College, based on a federally mandated refund formula (*see Return of Title IV Funds/Institutional Refund Policy, @sec-federal-title-IV-refund-calculation-policy*).
 
 Special consideration is given to students who withdrew due to a call to active duty. Coe’s “Military Call Up/Refund” and “Readmission of Service Member” policies are published on the Admission/Financial Aid webpage. Copies of these policies can be requested from the Student Financial Services Office.
 
@@ -89,7 +89,7 @@ A student may find it necessary to interrupt a program of study at the College. 
 
 ### Requesting a leave of Absence
 
-Students planning to leave of absence from the College should consult their academic advisor and then they *must declare* their intent to one of the following designated offices: Student Financial Services, Registrar, Residence Life, or the Learning Commons. Please refer to the previous section on exiting the College for the steps that follow. 
+Students planning to leave of absence from the College should consult their academic advisor and then they **must declare** their intent to one of the following designated offices: Student Financial Services, Registrar, Residence Life, or the Learning Commons. Please refer to the previous section on exiting the College for the steps that follow. 
 
 ### On Leave of Absence
 
