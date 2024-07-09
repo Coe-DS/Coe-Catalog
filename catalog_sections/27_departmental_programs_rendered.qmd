@@ -1221,7 +1221,7 @@ See @sec-economics
 
 ## ECONOMICS
 Economics is a social science concerning the study of how economic agents make choices in the face of scarcity. Economists study a broad variety of topics ranging from the theory of the consumer to economic growth and the wealth of nations. Students majoring in economics have two options: the economics major and the international economics major (see @sec-international-economics). The economics major is designed to permit a broad enough selection of courses for students to develop a general competence in economics, and to prepare students for graduate work in economics or other disciplines, such as law or business. The international economics major is designed to allow students who are interested in international studies to explore issues of development, growth, and international finance, using the tools of economic analysis.  
-Because of significant overlap in the economics and the international economics requirements, only one of the two majors may be elected by a student. Students majoring in economics or international economics may not minor in either economics or international economics.  See p. @sec-international-economics for the International Economics major and minor requirements.
+Because of significant overlap in the economics and the international economics requirements, only one of the two majors may be elected by a student. Students majoring in economics or international economics may not minor in either economics or international economics.  See @sec-international-economics for the International Economics major and minor requirements.
 
 ### Economics Major 
 A major in economics requires a minimum cumulative 2.0 GPA in all courses counted toward the major.  
@@ -1724,7 +1724,7 @@ A minor in communication studies requires a minimum cumulative 2.0 GPA in all co
 ## Computer Science
 Hostetler, Hughes, Stobb.  
 
-Computer Science is the study of abstractions and algorithmic processes and how they can be applied to fulfill human information needs. The department of mathematical sciences offers a complete range of courses, with majors and minors available in COMPUTER SCIENCE, DATA SCIENCE, and MATHEMATICS, as well as courses in statistics for additional breadth. The department adheres to its belief that the mathematical sciences and the habits of mind that they engender are components of a fine liberal arts education
+Computer Science is the study of abstractions and algorithmic processes and how they can be applied to fulfill human information needs. The department of mathematical sciences offers a complete range of courses, with majors and minors available in **COMPUTER SCIENCE**, **DATA SCIENCE**, and **MATHEMATICS**, as well as courses in statistics for additional breadth. The department adheres to its belief that the mathematical sciences and the habits of mind that they engender are components of a fine liberal arts education
 
 ### Computer Science Major
 
@@ -5551,6 +5551,11 @@ Carr (Chair), Donofrio, Harmsen, J. Nesmith, Opayemi, Spikes
 The Rhetoric Department offers a major and a minor in both **Communication Studies** (see @sec-communication-studies ) and **Writing** (see @sec-writing ) and is responsible for offering courses in the study and practice of academic prose, non-fiction writing, journalism, and communication studies.  
 
 
+## Secondary Education (Minor Only)
+See Education , @sec-education 
+
+
+
 ## Social & Criminal Justice
 L. Barnett, J. Christensen, Lemos, McNabb (Administrative Coordinator).
 
@@ -5660,29 +5665,6 @@ A major in Social & Criminal Justice requires a cumulative 2.0 GPA in all course
   Majors discuss and present their work that is a requirement of their capstone projects. It is expected that Colloquium is taken during or following the completing of the capstone internship/independent study. Satisfactory completion of the Colloquium is required for graduation with a major in Social & Criminal Justice. S/U basis only. (0.0 course credit)
 - **SCJ 494 Internship in Social and Criminal J**
   Investigation of a career area related to the student’s interest in social and criminal justice supervised by a faculty member in cooperation with the Center for Creativity and Careers. A minimum 140 hours of on-site experience is required. S/U basis only. Prerequisites: junior standing, declared major in Social & Criminal Justice, and consent of Social & Criminal Justice administrative coordinator.  
-
-
-## Secondary Education (Minor Only)
-See Education , @sec-education 
-
-
-
-## Sports Management (Courses Only)
-
-See Sports Management Concentration in Business, @sec-sports-management-concentration
-
-### Courses in Sports Management
-
-- **SMT 100 Introduction to Sports Management**
-  An introductory course in sports management. This course provides an overview of the historical, legal, economic, political, and social-cultural issues that shape the field of sports management. The skills needed for managing sports organizations, from recreational to collegiate and professional, are also introduced. The course will look at the key functional areas of sport management such as marketing, communication, finance and economics and facility and event management.  
-- **SMT 300 Sport/Recreation Event Management**
-  An introduction to the principles and procedures for preparing, planning, operating, managing, and evaluating events and venues in sports settings. Students will gain a greater understanding of event and venue management and the total operation of sports organizations. Prerequisite: SMT-100: Introduction to Sports Management
-- **SMT 454 Seminar in Sports Management**
-  A lecture/discussion-based course in which relevant and current research and industry trends are thoroughtly reviewed and analyzed. Students are encouraged to take this course near the end of their careers as undergraduate students in the sports management concentration.
-- **SMT 494 Internship in Sports Management**
-  An internship with a focus on sports management supervised by a faculty member teaching within the sports management concentration. A minimum of 140 hours on-site experience is required. Students must document and analyze the experience through a journal and final report or through other written work as assigned by the faculty supervisor. S/U basis only. A maximum of one credit may count toward the concentration with the approval of the administrative coordinator(s) of the concentration. Prerequisites: junior standing and consent of administrative coordinator(s).
-
-
 
 
 ## Sociology
@@ -5877,6 +5859,24 @@ An introduction to Spanish theatre and the various techniques, themes, and image
   Exploration of a career area related to Spanish. Application and supervision through the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major or minor in Spanish. Prerequisites: junior standing and consent of department chair.
 
 
+## Sports Management (Courses Only)
+
+See Sports Management Concentration in Business, @sec-sports-management-concentration
+
+### Courses in Sports Management
+
+- **SMT 100 Introduction to Sports Management**
+  An introductory course in sports management. This course provides an overview of the historical, legal, economic, political, and social-cultural issues that shape the field of sports management. The skills needed for managing sports organizations, from recreational to collegiate and professional, are also introduced. The course will look at the key functional areas of sport management such as marketing, communication, finance and economics and facility and event management.  
+- **SMT 300 Sport/Recreation Event Management**
+  An introduction to the principles and procedures for preparing, planning, operating, managing, and evaluating events and venues in sports settings. Students will gain a greater understanding of event and venue management and the total operation of sports organizations. Prerequisite: SMT-100: Introduction to Sports Management
+- **SMT 454 Seminar in Sports Management**
+  A lecture/discussion-based course in which relevant and current research and industry trends are thoroughtly reviewed and analyzed. Students are encouraged to take this course near the end of their careers as undergraduate students in the sports management concentration.
+- **SMT 494 Internship in Sports Management**
+  An internship with a focus on sports management supervised by a faculty member teaching within the sports management concentration. A minimum of 140 hours on-site experience is required. Students must document and analyze the experience through a journal and final report or through other written work as assigned by the faculty supervisor. S/U basis only. A maximum of one credit may count toward the concentration with the approval of the administrative coordinator(s) of the concentration. Prerequisites: junior standing and consent of administrative coordinator(s).
+
+
+
+
 ## Statistics (Courses Only)
 
 Cross. 
@@ -5890,11 +5890,11 @@ Cross.
 - **STA 110 Stats IIA: Inferential Reasoning**
   A continuation of Statistical Reasoning I (STA-100), presenting a broad range of data analysis techniques. Topics covered include hypothesis testing, confidence intervals, Chi-square tests, and regression. Emphasis is on a project-based approach to analyzing data. Prerequisite: Statistical Reasoning I (STA-100) or consent of instructor. (0.5 course credit) (Offered second seven weeks of Term)
 - **STA 130 Stats IIB: Experimental Design**
-  +++MISSING INFO: c.smt130.desc +++
+  A continuation of Statistical Reasoning I (STA-100), with an emphasis on Analysis of Variance designs. Topics covered include factorial, nested, and hierarchical models. Coursework uses a project-based approach to analyzing data. Prerequisite: Statistical Reasoning I (STA-100) or consent of instructor. (0.5 course credit) (Offered second seven weeks of Term)
 - **STA 315 Mathematical Probability**
   A calculus-based introduction to the mathematical theory of probability. Topics include enumeration techniques, Bayes’ theorem, random variables, discrete and continuous distributions, expectation, moment-generating functions, sampling distribution theory, and simulation techniques. Prerequisites: Computational Linear Algebra (MTH-165) and Calculus II (MTH-145), or consent of instructor.
 - **STA 325 Mathematical Statistics**
-  +++MISSING INFO: c.smt325.desc +++
+  A calculus-based introduction to the mathematical theory of statistics. Topics include point and interval estimation, hypothesis tests, regression, analysis of variance, nonparametric methods, and Bayesian methods. Prerequisites: Computational Linear Algebra (MTH-165) and Calculus II (MTH-145), or consent of instructor.
 
 
 
