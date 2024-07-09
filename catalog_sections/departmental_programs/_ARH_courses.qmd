@@ -46,45 +46,45 @@ A grade of “C” (2.0) or higher must be earned in all courses counted toward 
 
 ### COURSES IN ART HISTORY {#sec-courses-in-art-history}
 
- {{< var c.arh106.long >}}   
+ **{{< var c.arh106.long >}}**   
   {{< var c.arh106.desc >}}   
- {{< var c.arh107.long >}}   
+ **{{< var c.arh107.long >}}**   
   {{< var c.arh107.desc >}}   
- {{< var c.arh128.long >}}   
+ **{{< var c.arh128.long >}}**   
   {{< var c.arh128.desc >}}   
- {{< var c.arh191.long >}}   
+ **{{< var c.arh191.long >}}**   
   See also {{< var c.art91.short >}}   
   {{< var c.arh191.desc >}}   
- {{< var c.arh201.long >}}  
+ **{{< var c.arh201.long >}}**  
   {{< var c.arh201.desc >}}  
- {{< var c.arh218.long >}}  
+ **{{< var c.arh218.long >}}**  
   {{< var c.arh218.desc >}}  
- {{< var c.arh231.long >}}  
+ **{{< var c.arh231.long >}}**  
   {{< var c.arh231.desc >}}  
- {{< var c.arh248.long >}}  
+ **{{< var c.arh248.long >}}**  
   {{< var c.arh248.desc >}}  
- {{< var c.arh268.long >}}  
+ **{{< var c.arh268.long >}}**  
   {{< var c.arh268.desc >}}  
- {{< var c.arh296.long >}}  
+ **{{< var c.arh296.long >}}**  
   {{< var c.arh296.desc >}}  
- {{< var c.arh297.long >}}  
+ **{{< var c.arh297.long >}}**  
   {{< var c.arh297.desc >}}  
- {{< var c.arh298.long >}}  
+ **{{< var c.arh298.long >}}**  
   {{< var c.arh298.desc >}}  
- {{< var c.arh307.long >}}  
+ **{{< var c.arh307.long >}}**  
   {{< var c.arh307.desc >}}  
- {{< var c.arh310.long >}}  
+ **{{< var c.arh310.long >}}**  
   {{< var c.arh310.desc >}}  
- {{< var c.arh391.long >}}  
+ **{{< var c.arh391.long >}}**  
   See also {{< var c.art391.short >}}  
   {{< var c.arh391.desc >}}  
- {{< var c.arh394.long >}}  
+ **{{< var c.arh394.long >}}**  
   {{< var c.arh394.desc >}}  
- {{< var c.arh444.long >}}  
+ **{{< var c.arh444.long >}}**  
   {{< var c.arh444.desc >}}  
- {{< var c.arh464.long >}}  
+ **{{< var c.arh464.long >}}**  
   {{< var c.arh464.desc >}}  
- {{< var c.arh474.long >}}  
+ **{{< var c.arh474.long >}}**  
   {{< var c.arh474.desc >}}  
- {{< var c.arh494.long >}}  
+ **{{< var c.arh494.long >}}**  
   {{< var c.arh494.desc >}}  
