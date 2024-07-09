@@ -26,22 +26,22 @@ Six courses, chosen from the following, in consultation with the Classical Studi
 - {{< var c.phl220.long >}}
 
 ### COURSES IN CLASSICAL STUDIES
-- **{{< var c.cla108.long >}}**
+ **{{< var c.cla108.long >}}**
 
   {{< var c.cla108.desc >}} 
 
-- **{{< var c.cla120.long >}}**
+ **{{< var c.cla120.long >}}**
 
   {{< var c.cla120.desc >}}
 
-- **{{< var c.cla130.long >}}**
+ **{{< var c.cla130.long >}}**
 
   {{< var c.cla130.desc >}} 
 
-- **{{< var c.cla155.long >}}**
+ **{{< var c.cla155.long >}}**
 
   {{< var c.cla155.desc >}}
 
-- **{{< var c.cla284.long >}}**
+ **{{< var c.cla284.long >}}**
 
   {{< var c.cla284.desc >}} 
