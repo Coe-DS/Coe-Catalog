@@ -2,7 +2,7 @@
 
 R. Christensen, Cozine (Chair), Ellis, Hughes, Keyes, Leonardo, Leveille, Luttinger, Mommer, Sanchini, Storer (Co-Chair). 
 
-In addition to a major in biology, the college also offers collateral majors in ENVIRONMENTAL SCIENCE (see @sec-environmental-science), MOLECULAR BIOLOGY (see @sec-molecular-biology), and NEUROSCIENCE (see @sec-neuroscience). The biology program provides students with an early introduction to experimental design and use of instrumentation to investigate properties of cells and organisms. Opportunities to work one-on-one with faculty, in honors and independent study work or in research participation, is also available to students.
+In addition to a major in biology, the college also offers collateral majors in **ENVIRONMENTAL SCIENCE** (see @sec-environmental-science), **MOLECULAR BIOLOGY** (see @sec-molecular-biology), and **NEUROSCIENCE** (see @sec-neuroscience). The biology program provides students with an early introduction to experimental design and use of instrumentation to investigate properties of cells and organisms. Opportunities to work one-on-one with faculty, in honors and independent study work or in research participation, is also available to students.
 
 ### Biology Major
 
