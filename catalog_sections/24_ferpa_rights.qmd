@@ -1,4 +1,4 @@
-# STUDENT NOTIFICATION OF RIGHTS UNDER FERPA
+# STUDENT NOTIFICATION OF RIGHTS UNDER FERPA {#sec-ferpa-rights}
 
 The Family Educational Rights and Privacy Act (FERPA) affords students certain rights with respect to their education records. They are: 
 
