@@ -15,10 +15,10 @@ Steffens, Westberg (Program Directors).
 To graduate as a Crimson Fellow, a student must earn at least a 3.3 cumulative grade point average for all courses taken at Coe College and complete all of the following: 
 
 1. {{< var c.cfp104.long >}} (0.2 cc)
-2. {{< var c.CFP205.long >}} 
-3. {{< var c.CFP301.long >}} (0.5 cc)
-4. {{< var c.CFP302.long >}} (0.5 cc)
-5. {{< var c.CFP401.long >}} (0.5 cc)
+2. {{< var c.cfp205.long >}} 
+3. {{< var c.cfp301.long >}} (0.5 cc)
+4. {{< var c.cfp302.long >}} (0.5 cc)
+5. {{< var c.cfp401.long >}} (0.5 cc)
 
 Applications to the Crimson Fellows Program are accepted and reviewed on a rolling basis.
 
