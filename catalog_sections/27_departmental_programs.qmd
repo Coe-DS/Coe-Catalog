@@ -94,6 +94,8 @@
 
 {{< include departmental_programs/_PHL_courses.qmd >}}
 
+{{< include departmental_programs/_PE_courses.qmd >}}
+
 {{< include departmental_programs/_PHY_courses.qmd >}}
 
 {{< include departmental_programs/_POL_courses.qmd >}}
