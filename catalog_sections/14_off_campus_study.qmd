@@ -18,13 +18,13 @@ The New York Term is open to all students who meet the basic requirements for of
 
 The central course, Fine Arts in New York City (NYT-250), which includes attendance at concerts, theatre, and dance productions as well as tours to art exhibits and film screenings, consists of five 0.4 credit courses: art, music, theatre, dance, and film. A faculty member for each area grades the respective course. An internship (or other project approved in advance by the College) completes the program.
 
-There is an extra fee for New York Term. All Coe financial aid applies, and students are eligible to apply for additional financial aid based on the additional costs of the term. (See Section 24.0.6 for descriptions and course offerings.)
+There is an extra fee for New York Term. All Coe financial aid applies, and students are eligible to apply for additional financial aid based on the additional costs of the term. (See @sec-academic-programs-ny-term for descriptions and course offerings.)
 
 ### Washington Term 
 
 B. Nesmith (Program Director).
 
-The Washington Term is open to all students who meet the basic requirements for off-campus study. Students accepted for Washington Term spend Fall or Spring Term in the nation’s capital. Washington provides an unusual opportunity to study national politics and government and to enjoy a variety of cultural activities in the fine arts.  (See Section 24.1.2 for descriptions and course offerings.)
+The Washington Term is open to all students who meet the basic requirements for off-campus study. Students accepted for Washington Term spend Fall or Spring Term in the nation’s capital. Washington provides an unusual opportunity to study national politics and government and to enjoy a variety of cultural activities in the fine arts.  (See @sec-academic-programs-washington-term for descriptions and course offerings.)
 
 ### Wilderness Field Station
 
@@ -87,7 +87,9 @@ Beyond tuition and fees, the participating student is responsible for the follow
 
 Nordmann (Program Director).
 
-Course offerings in Business, Economics, and Asian studies.  Students pay the cost of living at the destination.  Credits earned from the Kongju exchange program are evaluated on a P/NP basis. 
+Course offerings in Business, Economics, and Asian studies.  Students pay the cost of living at the destination.  
+
+Credits earned from the Kongju exchange program are evaluated on a P/NP basis. 
 
 ### OCC-210 — Coe/Chiang Mai University (Thailand) 
 
@@ -109,13 +111,17 @@ Credits earned from the Rangsit University exchange program are evaluated on a P
 
 Carstens (Program Director).
 
-Courses in English are available in such areas as business, social sciences, and environmental studies.  Students pay cost of living at the destination.  Credits earned from the Mid Sweden exchange program are evaluated on a P/NP basis. 
+Courses in English are available in such areas as business, social sciences, and environmental studies.  Students pay cost of living at the destination.  
+
+Credits earned from the Mid Sweden exchange program are evaluated on a P/NP basis. 
 
 ### OCC-220 — Coe/Nagoya-Gakuin University (Japan) 
 
 Nordmann (Program Director).
 
-One year of Japanese language study is recommended for students applying for this program.  Exchange students from Coe pay room expenses at Coe College. In return, students receive a room expense waiver. Other costs of living are paid at Nagoya-Gakuin University. Credits earned from the Nagoya-Gakuin exchange program are evaluated on a P/NP basis. 
+One year of Japanese language study is recommended for students applying for this program.  Exchange students from Coe pay room expenses at Coe College. In return, students receive a room expense waiver. Other costs of living are paid at Nagoya-Gakuin University. 
+
+Credits earned from the Nagoya-Gakuin exchange program are evaluated on a P/NP basis. 
 
 ### OCC-225 — Coe/Northern Ireland Scholars Program (Northern Ireland, UK)
 
@@ -137,7 +143,9 @@ Credits earned from the Jaume I exchange program are evaluated on a P/NP basis.
 
 Nordmann (Program Director).
 
-Courses offered in English on areas including the arts, linguistics, international studies, business, biology, and political science. Students pay cost of living at destination.  Credits earned from the Sookmyung exchange program are evaluated on a P/NP basis. 
+Courses offered in English on areas including the arts, linguistics, international studies, business, biology, and political science. Students pay cost of living at destination.  
+
+Credits earned from the Sookmyung exchange program are evaluated on a P/NP basis. 
 
 ### OCC-240 — Coe/University of Landau (Germany) 
 
@@ -151,7 +159,9 @@ Credits earned from the Landau exchange program are evaluated on a P/NP basis.
 
 Janca-Aji (Program Director).
 
-Courses in French are offered in a wide range of topics for students who pass a proficiency test in French.  Students pay cost of living at destination.  Credits earned from the Quebec exchange program are evaluated on a P/NP basis. 
+Courses in French are offered in a wide range of topics for students who pass a proficiency test in French.  Students pay cost of living at destination.  
+
+Credits earned from the Quebec exchange program are evaluated on a P/NP basis. 
 
 ### OCC-250 — Coe/Izmir Institute of Technology (Turkey) 
 
@@ -165,7 +175,9 @@ Credits earned on the Izmir exchange program are evaluated on a P/NP basis.
 
 Janca-Aji (Program Director).
 
-Students choose from courses in English on business, communications, and marketing or a wide range of courses in French. Students pay costs of living at the destination.  Credits earned from the France exchange program are evaluated on a P/NP basis. 
+Students choose from courses in English on business, communications, and marketing or a wide range of courses in French. Students pay costs of living at the destination.  
+
+Credits earned from the France exchange program are evaluated on a P/NP basis. 
 
 ### OCC-260 — Coe/National University of Villa Maria (Argentina)
 
@@ -177,7 +189,9 @@ Credits earned on the Argentina exchange program are evaluated on a P/NP basis.
 
 Duru (Program Advisor)
 
-Teaches entire majors in English in psychology, sociology, international relations, political science, economics, business.  Students pay cost of living at the destination.  Credits earned from the Altinbas exchange program are evaluated on a P/NP basis.
+Teaches entire majors in English in psychology, sociology, international relations, political science, economics, business.  Students pay cost of living at the destination.  
+
+Credits earned from the Altinbas exchange program are evaluated on a P/NP basis.
 
 ### OCC-270 — Coe/Ashesi University (Ghana)
 
@@ -199,7 +213,9 @@ Credits earned from the Salford exchange program are evaluated on a P/NP basis.
 
 Janca-Aji (Program Director).
 
-Coe students take courses at the Institute of French Language and Civilization.  Students pay costs of living at the destination. Credits earned from the Neuchatel exchange program are evaluated on a P/NP basis. 
+Coe students take courses at the Institute of French Language and Civilization.  Students pay costs of living at the destination. 
+
+Credits earned from the Neuchatel exchange program are evaluated on a P/NP basis. 
 
 ### OCC-290 — Coe/Jinan University (China)
 
@@ -213,6 +229,8 @@ Credits earned from the Jinan exchange program are evaluated on a P/NP basis.
 
 Duru (Program Advisor).
 
-Offers English curriculum in psychology, business, economics, international relations, and other areas.  Students pay costs of living at the destination.  Credits earned from the Istanbul Kultur University exchange program are evaluated on a P/NP basis.
+Offers English curriculum in psychology, business, economics, international relations, and other areas.  Students pay costs of living at the destination.  
+
+Credits earned from the Istanbul Kultur University exchange program are evaluated on a P/NP basis.
 
 
