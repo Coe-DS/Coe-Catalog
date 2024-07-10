@@ -15,10 +15,10 @@ Steffens, Westberg (Program Directors).
 To graduate as a Crimson Fellow, a student must earn at least a 3.3 cumulative grade point average for all courses taken at Coe College and complete all of the following: 
 
 1. CFP 104 Topics in Crimson Fellows Program (0.2 cc)
-2. +++MISSING INFO: c.CFP205.long +++ 
-3. +++MISSING INFO: c.CFP301.long +++ (0.5 cc)
-4. +++MISSING INFO: c.CFP302.long +++ (0.5 cc)
-5. +++MISSING INFO: c.CFP401.long +++ (0.5 cc)
+2. CFP 205 Introduction to Engaged Scholarship 
+3. CFP 301 Communicating Across Disciplines I (0.5 cc)
+4. CFP 302 Communicating Across Disciplines II (0.5 cc)
+5. CFP 401 Action Research I (0.5 cc)
 
 Applications to the Crimson Fellows Program are accepted and reviewed on a rolling basis.
 
