@@ -12,7 +12,7 @@ The HEOA provides that a prompt readmission of a previously enrolled or admitted
 Coe College is an equal opportunity employer in the recruitment and hiring of faculty and staff. 
 
 ## Family Educational Rights and Privacy Act (FERPA) {.unnumbered .unlisted} 
-The provisions of the Family Educational Rights and Privacy Act (FERPA) prohibit the College from releasing grades or other information about academic standing to parents unless the student has released such information in writing. Further information concerning Coe College procedures in compliance with FERPA is available in the Office of the Registrar and included on p. 68 of this catalog. 
+The provisions of the Family Educational Rights and Privacy Act (FERPA) prohibit the College from releasing grades or other information about academic standing to parents unless the student has released such information in writing. Further information concerning Coe College procedures in compliance with FERPA is available in the Office of the Registrar and included in @sec-ferpa-rights of this catalog. 
 
 ## Solomon Amendment of 1997 {.unnumbered .unlisted}  
 Pursuant to the regulations of the Solomon Amendment of 1997, Coe College is required to make student recruiting information available to military recruiters who request it. 
