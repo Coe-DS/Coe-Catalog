@@ -26,10 +26,10 @@ Completion of **one** of the following options *(see @sec-diverse-cultural-persp
     (A semester-long U.S. off-campus study experience can fulfill the U.S. Pluralism and DCP requirement.)
 - Elementary World Language Option (all of the following):
   - Any DCP course (course number that ends in 6, 7, 8)
-  - Two elementary world language courses in the same language not previously studied (may also fulfill one of the Humanities Core courses)
+  - **Two** elementary world language courses in the same language not previously studied (may also fulfill one of the Humanities Core courses)
 - Intermediate World Language Option (all of the following):
   - Any DCP course (course number that ends in 6, 7, or 8)
-  - One intermediate (-215) or above World Language course (*may also fulfill one of the Humanities Core course requirements*)
+  - **One** intermediate (-215) or above World Language course (*may also fulfill one of the Humanities Core course requirements*)
 
 ## Diverse Cultural Perspectives: Non-Western Perspectives {#sec-diverse-cultural-perspectives-non-western}
 
