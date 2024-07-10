@@ -37,6 +37,7 @@ The Non-Western Perspectives (NWP) group includes courses in which a preponderan
 
 - {{< var c.ant116.long >}}
 - {{< var c.ant286.long >}}
+- {{< var c.ant486.long >}}
 - {{< var c.arh106.long >}}
 - {{< var c.arh296.long >}}
 - {{< var c.asc106.long >}}
@@ -68,7 +69,7 @@ The Non-Western Perspectives (NWP) group includes courses in which a preponderan
 - {{< var c.his466.long >}}
 - {{< var c.is116.long >}}
 - {{< var c.is126.long >}}
-- {{< var c.is136.long >}}
+- {{< var c.is316.long >}}
 - {{< var c.jpn106.long >}}
 - {{< var c.mu166.long >}}
 - {{< var c.phl206.long >}}
@@ -291,6 +292,7 @@ Courses with an INT prefix and those on this list count as internship credit:
 - {{< var c.psy494.long >}}
 - {{< var c.rel494.long >}}
 - {{< var c.rhe494.long >}}
+- {{< var c.scj494.long >}}
 - {{< var c.soc494.long >}}
 - {{< var c.smt494.long >}}
 - {{< var c.spa494.long >}}
