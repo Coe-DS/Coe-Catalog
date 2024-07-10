@@ -37,6 +37,7 @@ The Non-Western Perspectives (NWP) group includes courses in which a preponderan
 
 - ANT 116 Cultural Anthropology
 - ANT 286 Topics in Anthropology:NWP
+- ANT 486 Advanced Topics in Anthropology:NWP
 - ARH 106 World Art
 - ARH 296 Topics in Art History:Global Persp
 - ASC 106 May Term in Asia
@@ -68,7 +69,7 @@ The Non-Western Perspectives (NWP) group includes courses in which a preponderan
 - HIS 466 Seminar Modern East Asian History
 - IS 116 Intro to International Studies
 - IS 126 HumanRightsBurmeseMigrant
-- IS 136 May Term in Mongolia
+- IS 316 Top in Internl Stds:Non-West Persp
 - JPN 106 Images Foreign Culture
 - MU 166 Topics in Music:Non-Western Perspct
 - PHL 206 Buddhist Thought
@@ -291,6 +292,7 @@ Courses with an INT prefix and those on this list count as internship credit:
 - PSY 494 Internship in Psychology
 - REL 494 Internship in Religion
 - RHE 494 Internship in Writing
+- SCJ 494 Internship in Social and Criminal J
 - SOC 494 Internship in Sociology
 - SMT 494 Internship in Sports Management
 - SPA 494 Internship in Spanish
