@@ -39,98 +39,52 @@ The following courses do not satisfy any of the requirements for a major or mino
 
 ### Courses in Sociology 
 
- **{{< var c.soc107.long >}}**
-
-  {{< var c.soc107.desc >}} 
-
- **{{< var c.soc207.long >}}**
-
-  {{< var c.soc207.desc >}}
-
- **{{< var c.soc217.long >}}**
-
+ **{{< var c.soc107.long >}}**  
+  {{< var c.soc107.desc >}}  
+ **{{< var c.soc207.long >}}**  
+  {{< var c.soc207.desc >}}  
+ **{{< var c.soc217.long >}}**  
   {{< var c.soc217.desc >}}  
-
- **{{< var c.soc226.long >}}**
-
-  {{< var c.soc226.desc >}}
-
- **{{< var c.soc235.long >}}**
-
+ **{{< var c.soc226.long >}}**  
+  {{< var c.soc226.desc >}}  
+ **{{< var c.soc235.long >}}**  
   {{< var c.soc235.desc >}}  
-
- **{{< var c.soc236.long >}}**
-
-  {{< var c.soc236.desc >}}
-
- **{{< var c.soc237.long >}}**
-
+ **{{< var c.soc236.long >}}**  
+  {{< var c.soc236.desc >}}  
+ **{{< var c.soc237.long >}}**  
   {{< var c.soc237.desc >}}  
-
- **{{< var c.soc238.long >}}**
-
-  {{< var c.soc238.desc >}}
-
- **{{< var c.soc247.long >}}**
-
-  {{< var c.soc247.desc >}}
-
- **{{< var c.soc275.long >}}**
-
+ **{{< var c.soc238.long >}}**  
+  {{< var c.soc238.desc >}}  
+ **{{< var c.soc247.long >}}**  
+  {{< var c.soc247.desc >}}  
+ **{{< var c.soc275.long >}}**  
   {{< var c.soc275.desc >}}  
-
- **{{< var c.soc328.long >}}**
-
-  {{< var c.soc328.desc >}}
-
- **{{< var c.soc338.long >}}**
-
+ **{{< var c.soc328.long >}}**  
+  {{< var c.soc328.desc >}}  
+ **{{< var c.soc338.long >}}**  
   {{< var c.soc338.desc >}}  
-
- **{{< var c.soc351.long >}}**
-
-  {{< var c.soc351.desc >}}
-
- **{{< var c.soc355.long >}}**
-
-  {{< var c.soc355.desc >}}
-
- **{{< var c.soc365.long >}}**
-
+ **{{< var c.soc351.long >}}**  
+  {{< var c.soc351.desc >}}  
+ **{{< var c.soc355.long >}}**  
+  {{< var c.soc355.desc >}}  
+ **{{< var c.soc365.long >}}**  
   {{< var c.soc365.desc >}}  
-
- **{{< var c.soc375.long >}}**
-
-  {{< var c.soc375.desc >}}
-
- **{{< var c.soc417.long >}}**
-
+ **{{< var c.soc375.long >}}**  
+  {{< var c.soc375.desc >}}  
+ **{{< var c.soc417.long >}}**  
   {{< var c.soc417.desc >}}  
-
- **{{< var c.soc425.long >}}**
-
-  {{< var c.soc425.desc >}}
-
- **{{< var c.soc435.long >}}**
-
-  {{< var c.soc435.desc >}}
-
- **{{< var c.soc444.long >}}**
-
+ **{{< var c.soc425.long >}}**  
+  {{< var c.soc425.desc >}}  
+ **{{< var c.soc435.long >}}**  
+  {{< var c.soc435.desc >}}  
+ **{{< var c.soc444.long >}}**  
   {{< var c.soc444.desc >}}  
-
- **{{< var c.soc445.long >}}**
-
-  {{< var c.soc445.desc >}}
-
- **{{< var c.soc450.long >}}**
-
+ **{{< var c.soc445.long >}}**  
+  {{< var c.soc445.desc >}}  
+ **{{< var c.soc450.long >}}**  
   {{< var c.soc450.desc >}}  
-
- **{{< var c.soc464.long >}}**
-
-  {{< var c.soc464.desc >}}
-
- **{{< var c.soc494.long >}}**
-  {{< var c.soc494.desc >}}
+ **{{< var c.soc464.long >}}**  
+  {{< var c.soc464.desc >}}  
+ **{{< var c.soc494.long >}}**  
+  {{< var c.soc494.desc >}}  
 
