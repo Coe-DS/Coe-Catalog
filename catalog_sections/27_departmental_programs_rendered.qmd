@@ -79,13 +79,13 @@ A major in African American studies requires a minimum cumulative 2.0 GPA in all
 ### COURSES IN AFRICAN AMERICAN STUDIES {#sec-courses-in-african-american-studies}
 
  **AAM 107 Intro to African American Studies** 
-What is African American culture, and what accounts for its cultural distinctions? This course introduces students to the study of African American culture and the field of African American Studies. through an interdiciplinary approach (literature, history, music, art and film) students will examine central themes and key debates pertinent to African American culture and history from its beginning to present.
+  What is African American culture, and what accounts for its cultural distinctions? This course introduces students to the study of African American culture and the field of African American Studies. through an interdiciplinary approach (literature, history, music, art and film) students will examine central themes and key debates pertinent to African American culture and history from its beginning to present.
  **AAM 137 African American Literature** 
-Reading and discussion of the writings of African Americans, with emphasis on the 20th century. May include some relevant writings on African Americans by other groups. Study of the artistic values and of the social and cultural significance of these writings. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different.
+  Reading and discussion of the writings of African Americans, with emphasis on the 20th century. May include some relevant writings on African Americans by other groups. Study of the artistic values and of the social and cultural significance of these writings. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different.
  **AAM 217 Sport and Black Culture** 
-Examines through cultural analysis the complex relationships between sport and Black culture.  This course addresses the way sport has evolved from being merely a physical activity to a cultural expression in Black communities.  This course emphasizes the historical patterns and current conditions of Blacks; participation in sport through various articles, videos, and books.  The course also examines how many Black people have used sport as a means of resistance, survival, and social mobility. Students learn to analyze cultural expression, to understand race and its continuing impact in American life, and to understand how various sports pursuits by Black athletes are invested with multiple meanings. Major topics and themes covered include: the concept of race, Black culture, the historical presence of Black athletes in sport, their current impact, and their dominance in certain sports.
+  Examines through cultural analysis the complex relationships between sport and Black culture.  This course addresses the way sport has evolved from being merely a physical activity to a cultural expression in Black communities.  This course emphasizes the historical patterns and current conditions of Blacks; participation in sport through various articles, videos, and books.  The course also examines how many Black people have used sport as a means of resistance, survival, and social mobility. Students learn to analyze cultural expression, to understand race and its continuing impact in American life, and to understand how various sports pursuits by Black athletes are invested with multiple meanings. Major topics and themes covered include: the concept of race, Black culture, the historical presence of Black athletes in sport, their current impact, and their dominance in certain sports.
  **AAM 227 Blackness & Identity in America** 
-Gathers a wide range of scholarship about race and identity to explore what race is, why it matters, racial dynamics in
+  Gathers a wide range of scholarship about race and identity to explore what race is, why it matters, racial dynamics in
 organizations, and how best to address them. Students will explore questions of identity, privilege, ethnicity, gender,
 and class. In this course, “race” is reviewed as a shorthand for the interconnected complexity of race, ethnicity,
 culture, and color, and will be carefully analyzed to distinguish among such terms and ideas. Students will critically
@@ -93,20 +93,20 @@ analyze the social construct and the popular understandings of race and identity
 institutions. Students will understand and evaluate the foundational concepts and theories of race and identity and
 synthesize their knowledge through research, presentation, and writing.
  **AAM 287 Topics in African American Studies** 
-Examines an important theme or subject specific to African American experiences and culture. Content varies and is determined by the instructor. Students learn to understand African American experiences in context, to analyze texts and events from multiple disciplinary perspectives, and to write in clear, analytical prose. May be taken more than once for credit, provided the topics are substantially different.
+  Examines an important theme or subject specific to African American experiences and culture. Content varies and is determined by the instructor. Students learn to understand African American experiences in context, to analyze texts and events from multiple disciplinary perspectives, and to write in clear, analytical prose. May be taken more than once for credit, provided the topics are substantially different.
  **AAM 367 Topics in AfricanAmericanLiterature**
-See also English (ENG-367), @sec-courses-in-english
-None
+  See also English (ENG-367), @sec-courses-in-english
+  None
  **AAM 387 Adv Topics in African American Stud** 
-Examines an important theme or subject specific to African American experiences and culture. Content varies and is determined by the instructor. Students learn to understand African American experiences in context, to analyze texts and events from multiple disciplinary perspectives, and to write in clear, analytical prose. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: Introduction to African American Studies (AAM-107) or consent of instructor.
+  Examines an important theme or subject specific to African American experiences and culture. Content varies and is determined by the instructor. Students learn to understand African American experiences in context, to analyze texts and events from multiple disciplinary perspectives, and to write in clear, analytical prose. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: Introduction to African American Studies (AAM-107) or consent of instructor.
  **AAM 444 Ind Study-Afr-Am St** 
-Study of individually chosen research topics in African American studies under the direction of a faculty member in the area. May be taken for an X status grade with consent of instructor prior to registration. Prerequisites: Introduction to African American Studies (AAM-107) or African American Literature (AAM-137); consent of African American Studies administrative coordinator and submission of a written proposal for a project.
+  Study of individually chosen research topics in African American studies under the direction of a faculty member in the area. May be taken for an X status grade with consent of instructor prior to registration. Prerequisites: Introduction to African American Studies (AAM-107) or African American Literature (AAM-137); consent of African American Studies administrative coordinator and submission of a written proposal for a project.
  **+++MISSING INFO: c.aam447/457.long +++** 
-+++MISSING INFO: c.aam447/457.desc +++
+  +++MISSING INFO: c.aam447/457.desc +++
  **AAM 467 Seminar in African American Lit** 
-Intensive study of selected works and subjects in African American literature. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different. Prerequisites: junior standing and The Art of Literary Research (ENG-301). May be taken more than once.
+  Intensive study of selected works and subjects in African American literature. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different. Prerequisites: junior standing and The Art of Literary Research (ENG-301). May be taken more than once.
  **AAM 494 Internship in African American Stds** 
-None 
+  None 
 
 
 ## ANTHROPOLOGY (Minor Only)
@@ -139,67 +139,67 @@ The following courses do **not** satisfy any of the requirements for a minor in 
 
 ### Courses in Anthropology
 
-- **ANT 109 Intro to Archaeology:Method & Thry**
+ **ANT 109 Intro to Archaeology:Method & Thry**
 
 An introduction to the theoretical approaches and field methodologies of archaeology. The goal of this class is to familiarize the student with the history and theoretical frameworks of archaeology, in addition to the scientific methods with which material culture is collected, investigated, and evaluated. Major topics and themes covered in this class include: archaeological theory, excavation and survey, artifact analysis, death, social systems, economy, religion, and ethical practices in cultural heritage management.
 
-- **ANT 115 Ancient Greece:Hist as Archaeology**
+ **ANT 115 Ancient Greece:Hist as Archaeology**
 
 Explores the various ways in which archaeology can inform our understanding of ancient Greek history by visiting the monuments, museums, and archaeological sites in modern Greece. The course emphasizes the combination of the historical textual evidence and the ancient physical evidence to enrich our understanding of Greek social, political, and cultural history. THe course also involves an examination of the evolution of ancient institutions and practices that range from the rise of the Athenian democracy, to the first theatrical productions of comedy and tragedy, to the establishment of the ancient Olympics. Archaeological theory, archaeiligical practice, and historical process constitute the nexus around which the course revolves. (Offered May Term only)
 
-- **ANT 116 Cultural Anthropology**
+ **ANT 116 Cultural Anthropology**
 
 An introduction to cultural anthropology, presenting its place within the broader discipline of anthropology and outlining its characteristic methodological and theoretical approaches to the study of human life. The course emphasizes the diversity of approaches to common human experiences in a variety of cultural contexts.
 
-- **ANT 125 Art & Archaeology Classical World**
+ **ANT 125 Art & Archaeology Classical World**
 
 A survey of the art, architecture, and archaeological remains of the Greek and Roman civilizations from early Aegean Bronze Age cultures to the fall of the Roman empire.
 
-- **ANT 215 Ethnographic Methods**
+ **ANT 215 Ethnographic Methods**
 
 An introduction to ethnographic research methods, presenting a number of tools for collecting and analyzing ethnographic data. The course emphasizes the relationship between research questions and the methodological tools used by anthropologists to study those questions. Prerequisite: Cultural Anthropology (ANT-116) or consent of instructor.
 
-- **ANT 284 Topics in Anthropology/Archaeology**
+ **ANT 284 Topics in Anthropology/Archaeology**
 
 A focused examination of an anthropological theme, theory or research method. Content varies and is determined by the instructor. May be taken more than once for credit, provided the topics are substantially different.
 
-- **ANT 286 Topics in Anthropology:NWP**
+ **ANT 286 Topics in Anthropology:NWP**
 
 A focused examination of an anthropological theme, theory or research method. Content varies and is determined by the instructor. May be taken more than once for credit, provided the topics are substantially different.
 
-- **ANT 288 Topics Anthropology/Archaeology:DWP**
+ **ANT 288 Topics Anthropology/Archaeology:DWP**
 
 A focused examination of an archaeological theme, theory or research method. Content varies and is determined by the instructor. May be taken more than once for credit, provided the topics are substantially different.
 
-- **ANT 415 Ancient Greek Pottery Studies**
+ **ANT 415 Ancient Greek Pottery Studies**
 
 Considers Greek ceramics from both scientific and iconological perspectives. Students study issues of production, construction and distribution and then look at Greek pottery iconographically, focusing on the major stylistic periods but emphasizing regional variations through Greece. Discussions of connoisseurship and themes prevalent in Greek vase-painting such as death, myth, and gender round out the course's survey of evidence. Prerequisite: consent of instructor.
 
-- **ANT 444 Independent Study: Anthropology**
+ **ANT 444 Independent Study: Anthropology**
 
 Independent study under faculty guidance of a research problem chosen by the student. May be taken for an X status grade with consent of instructor prior to registration. This course does not satisfy any of the requirements for a minor in anthropology. Prerequisites: Previous or concurrent enrollment in Anthropology Theory (ANT-450) and consent of department chair. (Offered by arrangement)
 
-- **ANT 450 Anthropological Theory**
+ **ANT 450 Anthropological Theory**
 
 An examination of the historical development of anthropological theory, emphasizing American, British and French traditions from the 19th century through the present. Prerequisite: Cultural Anthropology (ANT-116) or consent of instructor.
 
-- **ANT 474 Research Participation:Anthropology**
+ **ANT 474 Research Participation:Anthropology**
 
 Individual or group investigation with a faculty member on a research topic or topics of mutual interest. The student must obtain approval for a specific project and make necessary arrangements prior to the term of registration for the course. May be taken for an X status grade with consent of instructor prior to registration.  This course does not satisfy any of the requirements for a minor in anthropology. Prerequisites: Cultural Anthropology (ANT-116) and consent of the instructor. (Offered by arrangement)
 
-- **ANT 484 AdvTop: Anthropology or Archaeology**
+ **ANT 484 AdvTop: Anthropology or Archaeology**
 
 Same as ANT-284, except at an advanced level. Prerequisite: Introduction to Archaeology (ANT-109) or Cultural Anthropology (ANT-116) or consent of instructor.
 
-- **ANT 486 Advanced Topics in Anthropology:NWP**
+ **ANT 486 Advanced Topics in Anthropology:NWP**
 
 Same as ANT-286, except at an advanced level. Prerequisite: Cultural Anthropology (ANT-116) or consent of instructor.
 
-- **ANT 488 Adv Top Anthro/Archaeo:DWP**
+ **ANT 488 Adv Top Anthro/Archaeo:DWP**
 
 Same as ANT-228, except at an advanced level. Prerequisite: Introduction to Archaeology (ANT-109) or Cultural Anthropology (ANT-116) or consent of instructor.
 
-- **ANT 494 Internship in Anthropolgy**
+ **ANT 494 Internship in Anthropolgy**
 
 Placement with a career-related organization. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a minor in anthropology. Prerequisites: declared minor in anthropology, junior standing and consent of department chair. (Offered by arrangement)
 
