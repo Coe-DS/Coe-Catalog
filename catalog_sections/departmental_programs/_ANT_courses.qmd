@@ -28,66 +28,66 @@ The following courses do **not** satisfy any of the requirements for a minor in 
 
 ### Courses in Anthropology
 
-- **{{< var c.ant109.long >}}**
+ **{{< var c.ant109.long >}}**
 
 {{< var c.ant109.desc >}}
 
-- **{{< var c.ant115.long >}}**
+ **{{< var c.ant115.long >}}**
 
 {{< var c.ant115.desc >}}
 
-- **{{< var c.ant116.long >}}**
+ **{{< var c.ant116.long >}}**
 
 {{< var c.ant116.desc >}}
 
-- **{{< var c.ant125.long >}}**
+ **{{< var c.ant125.long >}}**
 
 {{< var c.ant125.desc >}}
 
-- **{{< var c.ant215.long >}}**
+ **{{< var c.ant215.long >}}**
 
 {{< var c.ant215.desc >}}
 
-- **{{< var c.ant284.long >}}**
+ **{{< var c.ant284.long >}}**
 
 {{< var c.ant284.desc >}}
 
-- **{{< var c.ant286.long >}}**
+ **{{< var c.ant286.long >}}**
 
 {{< var c.ant286.desc >}}
 
-- **{{< var c.ant288.long >}}**
+ **{{< var c.ant288.long >}}**
 
 {{< var c.ant288.desc >}}
 
-- **{{< var c.ant415.long >}}**
+ **{{< var c.ant415.long >}}**
 
 {{< var c.ant415.desc >}}
 
-- **{{< var c.ant444.long >}}**
+ **{{< var c.ant444.long >}}**
 
 {{< var c.ant444.desc >}}
 
-- **{{< var c.ant450.long >}}**
+ **{{< var c.ant450.long >}}**
 
 {{< var c.ant450.desc >}}
 
-- **{{< var c.ant474.long >}}**
+ **{{< var c.ant474.long >}}**
 
 {{< var c.ant474.desc >}}
 
-- **{{< var c.ant484.long >}}**
+ **{{< var c.ant484.long >}}**
 
 {{< var c.ant484.desc >}}
 
-- **{{< var c.ant486.long >}}**
+ **{{< var c.ant486.long >}}**
 
 {{< var c.ant486.desc >}}
 
-- **{{< var c.ant488.long >}}**
+ **{{< var c.ant488.long >}}**
 
 {{< var c.ant488.desc >}}
 
-- **{{< var c.ant494.long >}}**
+ **{{< var c.ant494.long >}}**
 
 {{< var c.ant494.desc >}}
