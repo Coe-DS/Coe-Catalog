@@ -280,25 +280,25 @@ Further information for all these requirements and programs is available from th
 
 **100-level courses** (*except ART-130, see below*) are open to any student and may offer the opportunity to explore two or more areas of art making in a studio environment.  ART-130 Art in the Elementary Classroom does not satisfy any of the requirements for a major or minor in Art or Art History.  It also does not count as a 100-level art course needed for some courses as a prerequisite.
 
-- **ART101 Art Appreciation**
+ **ART101 Art Appreciation**
 
 None
 
-- **ART 102 Sculpture: Material Investigations**
+ **ART 102 Sculpture: Material Investigations**
 
 Focuses on how material choices inform meaning. Students will use a variety of traditional and non-traditional materials to make sculptural art objects.
 
-- **ART 103 Ceramic Sculpture**
+ **ART 103 Ceramic Sculpture**
 
 Provides instruction on the creation of hand-built ceramic sculptures. Projects will utilize
 pinch, coil building, soft and stiff slab construction, and additive and subtractive
 processes.
 
-- **ART 105 Narrative Ceramics**
+ **ART 105 Narrative Ceramics**
 
 Studies the history and evolution of ceramics as a storytelling medium. Projects will include tile-making, coil-building, surface decoration, and sculptural techniques as a means to explore how artists have used clay to create compelling narratives.
 
-- **ART 115 Drawing**
+ **ART 115 Drawing**
 
 Introduces a variety of drawing media, including graphite, charcoal, brush and ink, pastels, and collage. Students are challenged to observe the visual world around them and to respond to that observation with interpretive choices in mark-making and composition to produce visual expression. Media may include graphite, charcoal, brush and ink, pastels, and collage.
 
@@ -306,42 +306,42 @@ Introduces a variety of drawing media, including graphite, charcoal, brush and i
 
 Introduces paint media to represent, amplify, and interpret the world. Students are also encouraged to discover the possibilities of color, shape, texture and mark-making.
 
-- **ART 130 Art in the Elementary Classroom**
+ **ART 130 Art in the Elementary Classroom**
 
 Provides an overview of the role of art in the elementary curriculum. Students learn to incorporate art activities into other content areas and gain an understanding of the objective of elementary classes taught by elementary art specialist teachers. This course does not satisfy the College’s general education fine arts core group requirement nor does it satisfy major or minor requirements or prerequisites for Art or Art History. Prerequisite: admission to the Education Program or approval of the education department. (0.5 course credit)
 
-- **ART 131 Scultpure: Do, Undo, Redo**
+ **ART 131 Scultpure: Do, Undo, Redo**
 
 Practices the inherent creative aspects of making, unmaking and remaking in response to these various states of transformation. Artworks are made using clay and other sculptural materials while documenting the exploratory processes through drawing, photography and more.
 
-- **ART 135 Ceramics: Form, Function & Meaning**
+ **ART 135 Ceramics: Form, Function & Meaning**
 
 Focuses on the creation of wheel thrown and handbuilt objects within the context of a social and cultural lens. Explores the relationship between making and meaning in the 21st century. Projects focus on fuctional work and its uses.
 
-- **ART 145 Digital Studio**
+ **ART 145 Digital Studio**
 
 Explores contemporary digital imaging and design. Students produce a series of studio
 projects ranging from digital photography, collage, gif animation, vector graphics, and
 two-dimensional design. Includes introductory-level instruction of digital cameras and
 Adobe Creative Suite: Lightroom, Photoshop, Illustrator.
 
-- **ART 150 Time Based Media**
+ **ART 150 Time Based Media**
 
 Explores the aesthetic and experiential qualities of time. The course includes readings, discussions, and screenings of historical and contemporary works plus hands-on studio projects using video, sound, performance, installation, and more. Includes introductory-level instruction in digital cameras and Adobe Lightroom and Premiere Pro. Through media production, students cultivate a range of technical skills plus a critical understanding of media culture.
 
-- **ART 151 Layers of Meaning**
+ **ART 151 Layers of Meaning**
 
 Pursues meaning through multiplicity of imagery. Some work may be done in collage, but other materials and techniques, such as drawing, painting, and digital art, are used to juxtapose and layer imagery and meaning.
 
-- **ART 155 Photography: Light Writing**
+ **ART 155 Photography: Light Writing**
 
 Examines the ways that a photographic image can be viewed and interpreted. The course includes readings and research on the masters of photography. Technical skills include historic black and white analog photography including manual camera controls, film and print processing.
 
-- **ART 175 Printmaking**
+ **ART 175 Printmaking**
 
 Focuses on traditional and contemporary printmaking techniques, introducing students to the fundamentals of materials including paper, ink, presses, and image processing. This course explores the development of technical, compositional, and conceptual skills through the evolution of printmaking’s history of multiplicity.
 
-- **ART 191 Topics in Studio Art**
+ **ART 191 Topics in Studio Art**
 
 Focuses on a specific theme or topic. Topics vary. May be taken more than once for credit, provided the topics are substantially different.
 
@@ -349,100 +349,125 @@ Focuses on a specific theme or topic. Topics vary. May be taken more than once f
 
 Focus Courses are seven-week courses designed to prepare the student for a serious artistic practice. 
 
-- **ART-201 Focus Course: Creative Process**
+ **ART-201 Focus Course: Creative Process**
 
 Applies the tools and methods of creative processes. An abbreviated course offered seven weeks of a term designed to prepare the student for a serious artistic practice.  Students propose, iterate, and produce an object or set of objects in an exploration of their own creative process. Prerequisite: two ART- courses (each 1.0 course credit) or consent of instructor. (0.25 course credit)
-- **ART-202 Focus Course: Portfolio Development**
+
+ **ART-202 Focus Course: Portfolio Development**
 
 Prepares students for developing a portfolio that reflects the breadth and skills of their own artistic practice and production. Prerequisite: two ART- courses (each 1.0 course credit) or consent of instructor. (0.25 course credit)
-- **ART-203 Focus Course: Contemporary Artistic Practice** 
+
+ **ART-203 Focus Course: Contemporary Artistic Practice** 
 
 Highlights the art, writings, routines and habits of contemporary artists and practitioners. An abbreviated course offered seven weeks of a term designed to prepare the student for a serious artistic practice.  Prerequisite: two ART- courses (each 1.0 course credit) or consent of instructor. (0.25 course credit)
-- **ART-211 Focus Course: Artist Statements/Artist Talks**
+
+ **ART-211 Focus Course: Artist Statements/Artist Talks**
 
 Guides students through the construction of artist statements and artist talks to present their work to a wider public. An abbreviated course offered seven weeks of a term designed to prepare the student for a serious artistic practice. Prerequisite: two ART- courses (each 1.0 course credit) or consent of instructor. (0.25 course credit)
-- **ART-212 Focus Course: Artist Websites** 
+
+ **ART-212 Focus Course: Artist Websites** 
 
 Guides students through best practices in the process of developing and maintaining a professional website. An abbreviated course offered seven weeks of a term designed to prepare the student for a serious artistic practice.  Prerequisite: two ART- courses (each 1.0 course credit) or consent of instructor. (0.25 course credit)
-- **ART-213 Focus Course: Critique**
+
+ **ART-213 Focus Course: Critique**
 
 Offers students the opportunity to practice and improve critique skills. An abbreviated course offered seven weeks of a term designed to prepare the student for a serious artistic practice. Prerequisite: two ART- courses (each 1.0 course credit) or consent of instructor. (0.25 course credit)
-- **ART-291 Focus Course: Topics in Studio Art**
+
+ **ART-291 Focus Course: Topics in Studio Art**
 
 Focuses on a specific theme or topic. An abbreviated course offered seven weeks of a term designed to prepare the student for a serious artistic practice. Topics vary. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: two ART- courses (each 1.0 course credit) or consent of instructor. (0.25 course credit)
 
 
 **300-level courses** offer students the opportunity to expand their technical and conceptual skills at a more advanced level. Courses numbered ART 300–349 are offered without prerequisite and open to any student. Courses numbered ART 350–399 have one or more prerequisites.
 
-- **ART-301 Socially Engaged Art**
+ **ART-301 Socially Engaged Art**
 
 Invites collaboration with individuals, communities, and institutions in the creation of participatory art. The genre explores social forms such as dinner parties, conversations, and projects that intervene or intersect with real-world systems. Coursework is done collaboratively and independently on projects that critically engage with contemporary issues and explore a variety of contexts. A variety of media will be used as a means to define interests and inform social interventions.
-- **ART-313 Color and Design** 
+
+ **ART-313 Color and Design** 
 
 Examines the theory and practice of color, with emphasis on the use of color as a compositional element. 
-- **ART-315 Installation Art**
+
+ **ART-315 Installation Art**
 
 Creates art environments that offer a unique experience for the viewer. Projects will include research, planning, drafting, and exhibiting artistic creations in spaces across campus and throughout the local community.
-- **ART- 325 Contemporary Photographic Genres**
+
+ **ART- 325 Contemporary Photographic Genres**
 
 Creates, researches, and analyzes contemporary digital photography. Readings and writings support the weekly production of imagery. Technical skills include camera functions, Adobe Photoshop, and Adobe Lightroom. Cameras and software provided.
-- **ART-328 Art and Industry** 
+
+ **ART-328 Art and Industry** 
 
 Explores the relationship between art, mass production and the steady, habitual effort of making. Topics of inquiry include the Arts and Crafts Movement, the birth of industry and technology, and how 20th and 21st-century artists have responded to the frenzy of mass production and consumerism. Artworks are created using varying methods of mass production such as tile making, mold making and surface decoration techniques as a way to explore repetitive modes of making.
-- **ART-330 Methods of Teaching Art K–12**
+
+ **ART-330 Methods of Teaching Art K–12**
 
 Includes discussion, lecture, and studio work on campus, as well as experience in public school classes off campus. This course does not satisfy the College’s general education fine arts core group requirement nor does it satisfy major or minor requirements or prerequisites for Art of Art History. Prerequisite: art major or minor and admission to the Education Program. 
-- **ART-331 Open Studio** 
+
+ **ART-331 Open Studio** 
 
 Provides an opportunity for independent work in the studio with a midterm and final critique. P/NP basis only. May be taken more than once. This course does not satisfy any of the requirements for a major or minor in art. Prerequisites: Ceramics: Form, Function, & Meaning (ART-135) or consent of instructor.
-- **ART-352 Mark Making**
+
+ **ART-352 Mark Making**
 
 Offers instruction on materials and techniques that involve mark making. These may include painting and drawing on various surfaces, or digital painting. Through guided projects and independent work, students explore the connections between form and expression, with the aim of developing a visual language that is uniquely their own.  Prerequisite: any 100-level ART- course.
-- **ART 360 Advanced 3D**
+
+ **ART 360 Advanced 3D**
 
 Focuses on the conceptual, aesthetic, and technical skills necessary to create more advanced and sophisticated artworks. Designed to build upon the foundations provided in beginning-level Ceramics and Sculpture classes. Prerequisite: any 100-level ART course.
-- **ART-361 Documentary**
+
+ **ART-361 Documentary**
 
 Explores theory and practice of documentary filmmaking through readings, research projects, screenings, and in-class discussions. Students produce studio projects ranging from short-form documentaries, podcasts, still photography portfolios, and more. Prerequisite: Digital Studio (ART-145), Time-Based Media (ART-150), or with permission by instructor.
-- **ART-363 Graphic Design Studio**
+
+ **ART-363 Graphic Design Studio**
 
 Focuses on graphic design and the communication arts industry. Projects use traditional and digital tools, materials and procedures with a focus on finding creative visual solutions to communication problems. Prerequisite: Digital Studio (ART-145), or Workshop: Digital Toolbox (WKS-204), or Workshop: Vector Graphics (WKS-213), or consent of instructor.
-- **ART-364 The Human Form** 
+
+ **ART-364 The Human Form** 
 
 Focuses on the observation and interpretation of the human form. Working from life, students develop skills in capturing the gesture and form of the body and use those skills to create interpretive and expressive artworks, principally using drawing materials, but also exploring with paint and other materials. Prerequisite any 100-level ART- course.
-- **ART-370 Video Art and Production**
 
-Explores the theoretical and technical foundations of video as a visual art medium. Students produce a series of short video projects that are presented during formal critiques, enabling students to cultivate meaningful dialogue about their work. Through production, students develop the technical and professional experience needed to enter
-the media industry. Prerequisite: Digital Studio (ART-145), Time-Based Media (ART-150), or with permission by instructor.
-- **ART-371 Typography and Design**
+ **ART-370 Video Art and Production**
+
+Explores the theoretical and technical foundations of video as a visual art medium. Students produce a series of short video projects that are presented during formal critiques, enabling students to cultivate meaningful dialogue about their work. Through production, students develop the technical and professional experience needed to enter the media industry. Prerequisite: Digital Studio (ART-145), Time-Based Media (ART-150), or with permission by instructor.
+
+ **ART-371 Typography and Design**
 
 Investigates the history, theory and practice of letterforms and typography in graphics, advertising, design and visual communication. Projects address principles of typography, letter structure, typeface selection, fundamentals of computer typesetting, and typographic layout. Prerequisite: Digital Studio (ART-145), or Workshop: Digital Toolbox (WKS-204), or Workshop: Vector Graphics (WKS-213), or consent of instructor.
-- **ART-373 Screen Printing**
+
+ **ART-373 Screen Printing**
 
 Utilizes silkscreen printing as a medium that can be integrated with photography, digital imagery, and three-dimensional objects. Course offers an exploration of the formal elements of design with an emphasis on the use of color. Coursework includes studio production, lectures, demonstrations and critiques. Prerequisite any 100-level ART- course.
-- **ART-374 Multiples in Printmaking**
+
+ **ART-374 Multiples in Printmaking**
 
 Utilizes intaglio and lithography as a medium to explore artistic vision, personal imagery and design. Using the process of intaglio, students investigate the states of development of an image by printing multiple variations of the plate. Using the process of lithography, students learn how to create a limited edition of prints. Prerequisite any 100-level studio ART- course.
-- **ART-391 Advanced Topics in Studio Art**
+
+ **ART-391 Advanced Topics in Studio Art**
 
 See also Art History (ARH-391), @sec-courses-in-art-history
 Focuses on a specific advanced studio art theme or topic. Topics vary. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: any 100- or 200-level ART- course or consent of instructor.
-- **ART-394 Directed Studies in Art** 
+
+ **ART-394 Directed Studies in Art** 
 
 Investigates a topic in studio art selected by the student and instructor to fit the student’s particular interests and educational needs. May be taken more than once for credit. Prerequisites: junior standing and consent of department chair. 
 
 **400-level courses**
 
-- **ART-444 Independent Study**
+ **ART-444 Independent Study**
 
 Focuses on a topic for independent work on a selected project under the direction of a faculty member of the department. Prerequisite: consent of instructor.
-- **ART-464 Senior Seminar I**
+
+ **ART-464 Senior Seminar I**
 
 Prepares students for advanced research in studio art. Emphasis is on preparation of work toward the senior exhibit. Only art majors are admitted to this course. Materials fee (where applicable) should be discussed with instructor. Prerequisite: declared major in art and successful completion of Junior Review.
-- **ART-474 Senior Seminar II & Senior Exhibition** 
+
+ **ART-474 Senior Seminar II & Senior Exhibition** 
 
 Prepares students for advanced research in studio art. Emphasis is on preparation of work toward the senior exhibit. Only art majors are admitted to this course. Materials fee (where applicable) should be discussed with instructor. Prerequisite: successful completion of Senior Seminar I (ART-464).
-- **ART-494 Internship in Art** 
+
+ **ART-494 Internship in Art** 
 
 Investigates an area of interest related to the major, through voluntary field placement supervised by a faculty member of the art and art history department. A minimum of 140 hours on-site experience is required. P/NP basis only. Prerequisites: declared major in art, junior standing, and consent of department chair.  
 
@@ -633,25 +658,25 @@ Chandler, Libby (Chair).
 No students will be admitted to the Athletic Training Education Program after December 8, 2017
 
 ### Courses in Athletic Training
--**AT 100 Basic Athletic Training**  
+**AT 100 Basic Athletic Training**  
 An overview of the athletic training profession designed to lead student's knowledge of the profession from the general foundations to specific educational competencies. Included in this course are laboratory sessions used to instruct and practice athletic training competencies and proficiencies. Credit is given for Prevention and Care of Athletic Injuries & Laboratory (PE 175 OR Basic Athletic Training (AT-100), not both.
 
 Prerequisite: Application to the Athletic Training Education Program  
--**+++MISSING INFO: c.at20_/30_/40_.long +++**  
+**+++MISSING INFO: c.at20_/30_/40_.long +++**  
 +++MISSING INFO: c.at20_/30_/40_.desc +++  
--**+++MISSING INFO: c.at225/220.long +++**  
+**+++MISSING INFO: c.at225/220.long +++**  
 +++MISSING INFO: c.at225/220.desc +++  
--**+++MISSING INFO: c.at235/230.long +++**  
+**+++MISSING INFO: c.at235/230.long +++**  
 +++MISSING INFO: c.at235/230.desc +++  
--**AT 375 General Medical Conditions**  
+**AT 375 General Medical Conditions**  
 Study of the etiology, clinical manifestations and management of common diseases/conditions that affect athletes and others involved in physical activity. Additional topics include pharmacology, counseling and psychosocial interventions. Prerequisites: Human Anatomy (BIO-215), Human Physiology (BIO-225), and admission to Athletic Training Education Program.  
--**AT 385 Therapeutic Modalities**  
+**AT 385 Therapeutic Modalities**  
 Investigation into the concepts, indications/contraindications, physiological effects, and clinical implications of physical modalities used in a therapeutic setting. Prerequisite: Human Physiology (BIO-225).  
--**+++MISSING INFO: c.at395/390.long +++**  
+**+++MISSING INFO: c.at395/390.long +++**  
 +++MISSING INFO: c.at395/390.desc +++  
--**AT 425 Administration of Athletic Training**  
+**AT 425 Administration of Athletic Training**  
 Introduction to the organization and administration of an athletic training program including facility planning/design, information/resource management, legal/ethical considerations, risk management, insurance systems, and professional development. Prerequisite: senior standing in the Athletic Training Education Program.  
--**AT 494 Internship in Athletic Training**  
+**AT 494 Internship in Athletic Training**  
 Comprehensive experience in athletic training through voluntary field placement supervised by a certified athletic trainer (ATC®). A minimum of 140 hours on-site experience is required. P/NP basis only. Prerequisite: senior standing in the Athletic Training Education Program.  
 
 
@@ -5883,7 +5908,8 @@ A major in Sociology requires a cumulative 2.0 GPA in all courses counted toward
 3. SOC 450 Sociological Theory
 
 4. **Three** additional sociology courses, including at least one course numbered 400–449 (not including SOC 444 Ind Study-Soc , which does not count towards the major)
-	The following courses do not satisfy any of the requirements for a major or minor in sociology:
+
+The following courses do not satisfy any of the requirements for a major or minor in sociology:
 	- SOC 275 Directed Readings in Sociology
 	- SOC 365 Research Participation I or SOC 375 Research Participation II
 	- SOC 444 Ind Study-Soc
@@ -5892,56 +5918,56 @@ A major in Sociology requires a cumulative 2.0 GPA in all courses counted toward
 
 ### Courses in Sociology 
 
-- **SOC 107 Introductory Sociology**
+ **SOC 107 Introductory Sociology**
   An introduction to sociology, the scientific study of human social behavior. The course explores the place of the discipline in the social sciences and the interplay of theory and empirical evidence in building an understanding of society, and it provides exposure to a wide range of research topics and results from different areas of study in the field.  
-- **SOC 207 Sociology of the Family**
+ **SOC 207 Sociology of the Family**
   Sociological description and analysis of the family as a major social institution. Topics covered may include, but are not limited to: the various ways in which “families” are defined, and the different forms that families take; the relationship of family life to social processes such as socialization, stratification, and modernization, and the role of families in the interdependent network of social institutions. Prerequisite: Introductory Sociology (SOC-107) or consent of instructor.
-- **SOC 217 Sociology of Religion**
+ **SOC 217 Sociology of Religion**
   Examines the ways in which religion affects—and is affected by—the social context in which it occurs. Although the primary emphasis is on religion in the contemporary United States, considerable cross-cultural and historical material is included as well. The concept of secularization (that both the public and private impact of religion decline as societies modernize) is examined in light of empirical evidence. Prerequisite: Introductory Sociology (SOC-107) or consent of instructor. (Offered on an occasional basis)  
-- **SOC 226 Gender and Globalizaton**
+ **SOC 226 Gender and Globalizaton**
   Examines processes of globalization through a gendered lens. Focus on the ways global issues such as labor, intimacy, poverty, pop culture, and environmental degradation affect people of different genders in various ways. Also notes how people respond to the forces of globalization and addresses the effects of globalization on the lives of people in the non-Western world. Prerequisite: Introductory Sociology (SOC-107), or consent of instructor.
-- **SOC 235 Methods of Sociological Research**
+ **SOC 235 Methods of Sociological Research**
   An exploration of the various strategies researchers employ to gather information and test hypotheses about the social world. Topics include data collection, sampling, conceptualization and measurement, and both qualitative and quantitative methods of analysis. Prerequisite: Introductory Sociology (SOC-107), sophomore standing or consent of instructor.  
-- **SOC 236 Topics in Sociology NWP**
+ **SOC 236 Topics in Sociology NWP**
   Same as Topics in Sociology (SOC-237) except topic(s) relate to non-Western cultures. Prerequisite: Introductory Sociology (SOC-107) or consent of instructor.
-- **SOC 237 Topics in Sociology:U S Pluralism**
+ **SOC 237 Topics in Sociology:U S Pluralism**
   A course of selected focus that centers on a particular sociological issue, problem, theory, or methodology related to United States Pluralism. Content varies and is determined by the instructor. May be repeated for credit, provided the topics are substantially different. Prerequisite: Introductory Sociology (SOC-107) or consent of instructor. (Offered on an occasional basis)  
-- **SOC 238 Topics in Soc Div West Perspectives**
+ **SOC 238 Topics in Soc Div West Perspectives**
   Same as Topics in Sociology (SOC-237) except topic(s) relate to diverse Western cultures.
 Prerequisite: Introductory Sociology (SOC 107)
-- **SOC 247 Sociology of Race**
+ **SOC 247 Sociology of Race**
   The purpose of this course is twofold: first, students will develop an understanding of the social, political, and economic pressures shaping definitions of ‘race’ over time; second, we will explore the intersections of ‘race’ with ethnicity, gender, class, and sexuality. Students will examine these via in-depth evaluations of the following topics: the historical emergence of ‘race,’ contemporary and historical whiteness, harmonious and discordant inter-racial interactions, stereotyping, discrimination, racism, race and crime, economic inequality, and changing racial demographics. Efforts will be made throughout the course to make the material relevant to students’ lives.
-- **SOC 275 Directed Readings in Sociology**
+ **SOC 275 Directed Readings in Sociology**
   Study of major literature on a selected topic in sociology directed by a sociology department faculty member. This course does not satisfy any of the requirements for a major or minor in sociology. Prerequisites: declared sociology major, minor, or elementary education emphasis, sophomore standing, or consent of department.  
-- **SOC 328 Urban Sociology**
+ **SOC 328 Urban Sociology**
   Analysis of cities as they affect social behavior, and the study of the urban form as it is produced and modified by wider changes in the world economy. Emphasis is theoretical, historical, and comparative. Problems addressed include restructuring, poverty, and underdevelopment. Prerequisites: Introductory Sociology (SOC-107), sophomore standing or consent of instructor.
-- **SOC 338 Political Sociology**
+ **SOC 338 Political Sociology**
   Examines the interconnections between politics and society. Emphasis is on the relationship between the state and social structures of capatalist societies. Theoretical, historical, and comparative materials are considered. Topics may include polititcal power, the polititcs of the welfare state, policy-making, and political participation.
 Prerequisite: Introductory Sociology (SOC 107) or consent of the instructor.  
-- **SOC 351 Criminology**
+ **SOC 351 Criminology**
   Examines the social meaning of criminal behavior. Looks at the relationship between crime and society - in particular, how the production and destribution of economic, political, and cultural resources shape the construction of "law" and "crime". Includes a comparison of different types of crime, criminals, and victims, as well as at efforts to understand and control them. Prerequisite: Introductory Sociology (SOC-107).
-- **SOC 355 Deviant Behavior**
+ **SOC 355 Deviant Behavior**
   Emphasis on theories and research in understanding deviant behaviors and deviant careers. Approaches include learning, strain, conflict, and labeling theories. Prerequisite: Introductory Sociology (SOC-107), consent of instructor.
-- **SOC 365 Research Participation I**
+ **SOC 365 Research Participation I**
   Individual or group investigation with a sociology department faculty member on a research topic or topics of mutual interest. The student must obtain approval for a specific project and make necessary arrangements prior to the term of registration for the course. This course does not satisfy any of the requirements for a major or minor in sociology. Prerequisites: Introductory Sociology (SOC-107) and consent of instructor. (Offered by arrangement)  
-- **SOC 375 Research Participation II**
+ **SOC 375 Research Participation II**
   A continuation of Research Participation I. The student must obtain approval for a specific project and make necessary arrangements prior to the term of registration for the course. This course does not satisfy any of the requirements for a major or minor in sociology. Prerequisites: Research Participation I (SOC-365) and consent of instructor. (Offered by arrangement)
-- **SOC 417 Sociology of Sex & Sexuality**
+ **SOC 417 Sociology of Sex & Sexuality**
   Examines how social contexts in the United States shape sexuality. Gender is a significant theme throughout the course, with a focus on topics such as past and current research about sexual behavior and identities; the social construction of sexual orientations; connections among thnicity, race, and sexulaity; domestic and international sex work; sexual violence. 
 Prerequisite: Methods of Sociological Research (SOC 235) or consent of instructor.  
-- **SOC 425 Social Change**
+ **SOC 425 Social Change**
   Theories of change applied to substantive areas (for example, modernization, economic development or restructuring, social values, and social definitions), selected by the instructor. The course addresses the differential experiences of the consequences of change among various social groups. Prerequisite: Methods of Social Research (SOC-235) or consent of instructor. (Offered alternate years)
-- **SOC 435 Advanced Topics in Sociology**
+ **SOC 435 Advanced Topics in Sociology**
   Examines a particular sociological issue, problem, theory, or methodology. Content varies and is determined by the instructor. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: Methods of Sociological Research (SOC-235) or consent of instructor.
-- **SOC 444 Ind Study-Soc**
+ **SOC 444 Ind Study-Soc**
   None  
-- **SOC 445 Small Groups**
+ **SOC 445 Small Groups**
   Theory and research on the processes of social interaction and social psychology with special application to studies of groups. Prerequisite: Methods of Social Research (SOC-235) or consent of instructor.
-- **SOC 450 Sociological Theory**
+ **SOC 450 Sociological Theory**
   Examines the major paradigms and theories in contemporary sociology. The course places particular emphasis on the ways in which those paradigms and theories affect—and are affected by—the process of empirical research. Prerequisites: Methods of Sociological Research (SOC-235) and three other sociology courses above the introductory level or consent of instructor.  
-- **SOC 464 Capstone Seminar in Sociology**
+ **SOC 464 Capstone Seminar in Sociology**
   Concepts, theories, and methodologies learned in previous sociology courses are applied to the intensive study of a topic selected by the instructor. Prerequisite: Sociological Theory (SOC-450), and senior standing, or consent of department chair.
-- **SOC 494 Internship in Sociology**
+ **SOC 494 Internship in Sociology**
   A field placement with a career-related organization. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a major or minor in sociology. Prerequisite: declared major in sociology, junior standing, or consent of department chair.
 
 
