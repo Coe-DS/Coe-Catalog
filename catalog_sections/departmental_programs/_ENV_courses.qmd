@@ -20,7 +20,7 @@ Chemistry majors:
 3. {{< var c.chm211.long >}} and {{< var c.bio211L.long >}}  
 4. {{< var c.chm221.long >}}  
 5. **Two** of the following with the associated laboratories:  
-	{{< var c.bio115.long >}}  
+	>{{< var c.bio115.long >}}  
 	{{< var c.bio165.long >}}  
 	{{< var c.bio175.long >}}  
 	{{< var c.bio185.long >}}  
