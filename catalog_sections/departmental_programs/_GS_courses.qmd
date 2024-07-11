@@ -36,18 +36,18 @@ A minor in gender studies requires a minimum cumulative 2.0 GPA in all courses c
 		{{< var c.the288.long >}}  
 
 ### Courses in Gender and Sexuality Studies
-- **{{< var c.gs107.long >}}**
-  {{< var c.gs107.desc >}} 
-- **{{< var c.gs127.long >}}**
-  {{< var c.gs127.desc >}} 
-- **{{< var c.gs136.long >}}**
-  {{< var c.gs136.desc >}} 
-- **{{< var c.gs247.long >}}**
-  {{< var c.gs247.desc >}} 
-- **{{< var c.gs327.long >}}**
-  {{< var c.gs327.desc >}} 
-- **{{< var c.gs387.long >}}**
-  {{< var c.gs387.desc >}} 
+ **{{< var c.gs107.long >}}**  
+  {{< var c.gs107.desc >}}   
+ **{{< var c.gs127.long >}}**  
+  {{< var c.gs127.desc >}}   
+ **{{< var c.gs136.long >}}**  
+  {{< var c.gs136.desc >}}   
+ **{{< var c.gs247.long >}}**  
+  {{< var c.gs247.desc >}}   
+ **{{< var c.gs327.long >}}**  
+  {{< var c.gs327.desc >}}   
+ **{{< var c.gs387.long >}}**  
+  {{< var c.gs387.desc >}}   
 **NOTE:** *Students are encouraged to complete {{< var c.gs327.long >}} before enrolling in {{< var c.gs387.long >}}. *
 
 
