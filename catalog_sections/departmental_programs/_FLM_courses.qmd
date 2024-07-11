@@ -79,24 +79,24 @@ A minor in film studies requires six courses chosen in consultation with the Fil
 
 
 ### Courses in Film Studies
-- **{{< var c.flm105/flm105L.long >}}**
-  {{< var c.flm105/flm105L.desc >}} 
-- **{{< var c.flm200/flm200L.long >}}**
-  {{< var c.flm200/flm200L.desc >}} 
-- **{{< var c.flm225.long >}}**
-  {{< var c.flm225.desc >}} 
-- **{{< var c.flm250.long >}}**
-  {{< var c.flm250.desc >}} 
-- **{{< var c.flm350.long >}}**
-  {{< var c.flm350.desc >}} 
-- **{{< var c.flm442.long >}}**
-  {{< var c.flm442.desc >}} 
-- **{{< var c.flm464.long >}}**
-  {{< var c.flm464.desc >}} 
-- **{{< var c.flm474.long >}}**
-  {{< var c.flm474.desc >}} 
-- **{{< var c.flm494.long >}}**
-  {{< var c.flm494.desc >}} 
+ **{{< var c.flm105/flm105L.long >}}**  
+  {{< var c.flm105/flm105L.desc >}}   
+ **{{< var c.flm200/flm200L.long >}}**  
+  {{< var c.flm200/flm200L.desc >}}   
+ **{{< var c.flm225.long >}}**  
+  {{< var c.flm225.desc >}}   
+ **{{< var c.flm250.long >}}**  
+  {{< var c.flm250.desc >}}   
+ **{{< var c.flm350.long >}}**  
+  {{< var c.flm350.desc >}}   
+ **{{< var c.flm442.long >}}**  
+  {{< var c.flm442.desc >}}   
+ **{{< var c.flm464.long >}}**  
+  {{< var c.flm464.desc >}}   
+ **{{< var c.flm474.long >}}**  
+  {{< var c.flm474.desc >}}   
+ **{{< var c.flm494.long >}}**  
+  {{< var c.flm494.desc >}}   
 
 
 
