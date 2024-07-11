@@ -20,6 +20,10 @@ Students ordinarily are graduated under the provisions of the catalog of their m
 | D+ |                                   | 1.3 grade points per course credit |
 | D  | Passing, below expectation        | 1.0 grade points per course credit |
 | D- |                                   | 0.7 grade points per course credit |
+| F  | Failure                           | 0.0 grade points per course credit |
+| WF | Failure                           | 0.0 grade points per course credit |
+| P  | Pass                              | Credit awarded, no grade points given |
+| NP | Not Pass                          | No credit and no grade points |
 
 ### Status Marks
  
