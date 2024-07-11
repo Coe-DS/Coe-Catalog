@@ -11,7 +11,7 @@ A major in film requires a minimum cumulative 2.0 GPA in all courses counted tow
 4. {{< var c.flm225.long >}} and {{< var c.flm225L.long >}}  
 5. {{< var c.flm464.long >}} and {{< var c.flm474.long >}}  
 6. **Five** courses chosen from the following, in consultation with the Film Studies administrative coordinator.  At least two of the courses must be completed at the 300 level or above, and no more than two courses may be selected with the same prefix.  
-	{{< var c.art145.long >}}  
+	>{{< var c.art145.long >}}  
 	{{< var c.art155.long >}}  
 	{{< var c.art325.long >}}  
 	{{< var c.art361.long >}}  
@@ -48,7 +48,7 @@ A minor in film studies requires six courses chosen in consultation with the Fil
 3. {{< var c.flm200.long >}} and {{< var c.flm200L.long >}}  
 4. {{< var c.flm225.long >}} and {{< var c.flm225L.long >}}  
 5. **One** of the following:  
-	{{< var c.art145.long >}}  
+	>{{< var c.art145.long >}}  
 	{{< var c.art155.long >}}  
 	{{< var c.art325.long >}}  
 	{{< var c.art361.long >}}  
@@ -69,7 +69,7 @@ A minor in film studies requires six courses chosen in consultation with the Fil
 	{{< var c.the220.long >}}  
 	{{< var c.the290.long >}}  
 6. **One** of the following:  
-	{{< var c.crw350.long >}}  
+	>{{< var c.crw350.long >}}  
 	{{< var c.com337.long >}}  
 	{{< var c.com341.long >}}  
 	{{< var c.com357.long >}}  
