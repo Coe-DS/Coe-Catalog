@@ -33,7 +33,7 @@ Chemistry majors:
 Any course taught at the Wilderness Field Station with BIO prefix.
 
 *Recommended:*  
-Any course taught at the Wilderness Field Station  
+>Any course taught at the Wilderness Field Station  
 	{{< var c.bio105.long >}}  
 	{{< var c.mth145.long >}}  
 	{{< var c.rhe257.long >}}  
