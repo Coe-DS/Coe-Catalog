@@ -46,49 +46,49 @@ A grade of "C" (2.0) or higher must be earned in all courses counted toward a mi
 
 
 ### Courses in French
-- **FRE 115 Elementary French I**
-  Designed for students with no previous knowledge of French. In the first term, emphasis is placed on oral practice and exposure to aspects of contemporary French culture. Activities in class are designed to develop the student's proficiency in understanding, speaking, writing, and reading the French language. In the second term, these skills are developed further in the context of class discussion and short compositions. Note: FRE-115 is not open to students with one or more full years of French in secondary school without consent of the instructor in consultation with the student's advisor. 
-- **FRE 125 Elementary French II**
-  Designed for students with no previous knowledge of French. In the first term, emphasis is placed on oral practice and exposure to aspects of contemporary French culture. Activities in class are designed to develop the student's proficiency in understanding, speaking, writing, and reading the French language. In the second term, these skills are developed further in the context of class discussion and short compositions. Note: FRE-115 is not open to students with one or more full years of French in secondary school without consent of the instructor in consultation with the student's advisor.
-- **FRE 145 French Literature in Translation**
-  Reading, in translation, of a selection of works centering on a theme, genre, time period, or author. Students preparing a French major or minor must write a paper in French. Taught in English.
-- **FRE 146 French Literature Translation:NWP**
-  Same as French Literature in Translation (FRE-145) except selected works focus on francophone writers from Africa, Asia, or the Caribbean.
-- **FRE 148 French Literature Translation:DWP**
-  Same as French Literature in Translation (FRE-145) except selected works focus on diverse Western perspectives: women’s writing, gay and lesbian literature, or Quebeçois literature.
-- **FRE 158 France & Francophone World**
-  An interdisciplinary survey of topics and issues central to an understanding of contemporary France:social, cultural, political, and economic. Films and speakers may be included in the format of this course. Taught in English.
-- **+++MISSING INFO: c.fre199.long +++**
-  +++MISSING INFO: c.fre199.desc +++
-- **FRE 235 Intermediate French**
+ **FRE 115 Elementary French I**  
+  Designed for students with no previous knowledge of French. In the first term, emphasis is placed on oral practice and exposure to aspects of contemporary French culture. Activities in class are designed to develop the student's proficiency in understanding, speaking, writing, and reading the French language. In the second term, these skills are developed further in the context of class discussion and short compositions. Note: FRE-115 is not open to students with one or more full years of French in secondary school without consent of the instructor in consultation with the student's advisor.   
+ **FRE 125 Elementary French II**  
+  Designed for students with no previous knowledge of French. In the first term, emphasis is placed on oral practice and exposure to aspects of contemporary French culture. Activities in class are designed to develop the student's proficiency in understanding, speaking, writing, and reading the French language. In the second term, these skills are developed further in the context of class discussion and short compositions. Note: FRE-115 is not open to students with one or more full years of French in secondary school without consent of the instructor in consultation with the student's advisor.  
+ **FRE 145 French Literature in Translation**  
+  Reading, in translation, of a selection of works centering on a theme, genre, time period, or author. Students preparing a French major or minor must write a paper in French. Taught in English.  
+ **FRE 146 French Literature Translation:NWP**  
+  Same as French Literature in Translation (FRE-145) except selected works focus on francophone writers from Africa, Asia, or the Caribbean.  
+ **FRE 148 French Literature Translation:DWP**  
+  Same as French Literature in Translation (FRE-145) except selected works focus on diverse Western perspectives: women’s writing, gay and lesbian literature, or Quebeçois literature.  
+ **FRE 158 France & Francophone World**  
+  An interdisciplinary survey of topics and issues central to an understanding of contemporary France:social, cultural, political, and economic. Films and speakers may be included in the format of this course. Taught in English.  
+ **+++MISSING INFO: c.fre199.long +++**  
+  +++MISSING INFO: c.fre199.desc +++  
+ **FRE 235 Intermediate French**  
   Reviews French grammar and vocabulary thoroughly in the context of an introduction to French and Francophone culture. Includes short readings and compositions, films, discussions, and immersion activities to improve language skills. Designed for students who have completed two semesters of
-French at Coe or with 2-4 years of high school French. Prerequisite: placement, Elementary French II (FRE-125) or consent of instructor.
-- **FRE 315 French Composition & Conversation**
-  Serves as the capstone of previous language courses, sharpens oral and written communication skills, and introduces students to the particular ways in which native speakers of French tend to express themselves through listening exercises, discussion, immersion activities, interviews, and compositions on cultural aspects of communication. This course is required of all students majoring or minoring in French. It is expected that this course be followed by Introduction to French Literature (FRE-335) or History of French: Language and Culture (FRE-3XX), in the following term. Prerequisite: Intermediate French II (FRE-225) or consent of instructor.
-- **FRE 335 Introduction to French Literature**
-  Close reading and critical analysis of different genres of literary texts through discussion, performance, and imitation. Students learn to use literary theory, to write, revise, and edit longer papers, and to develop their own creative voices in French. Prerequisite: French Composition and Conversation (FRE-315) or consent of instructor.
-- **FRE 339 French for Health Care**
-  Prepares students for using French in health and wellness contexts. Students learn essential vocabulary, improve written and oral communication skills, examine cultural differences, develop skills in translation and medical interpretation, and complete an independent project based on professional interests. May involve community engagement. Can be taken by arrangement. Prerequisite: Oral and Written Communication Skills (FRE-315) or consent of instructor.
-- **FRE 340 French & Fracophone Cinema (WE)**
-  Surveys some of the major genres, directors, and films of French and francophone cinema from the Lumière brothers to the present, as well as discussions of French film culture and cinema’s relations to history, literature, and other forms of visual and media arts. Students produce their own short films in French. Prerequisite: Oral and Written Communication Skills (FRE-315) or consent of instructor.
-- **FRE 345 History of Fr: Language & Culture**
-  None
-- **FRE 394 Directed Learning  in French**
-  For students wishing to investigate a particular aspect of French literature unavailable through the regular sequence of courses offered. Periodic conferences and papers are required. May be taken more than once for credit. Prerequisite: Introduction to French Literature (FRE-335) or consent of instructor.
-- **FRE 400 Advanced Language Skills**
-  Focuses on improving linguistic skills and deepening understanding of how French is used in a variety of contexts and media through intensive practice. Topics vary from term to term. May be taken more than once for credit for a maximum of 2.0 credits. Prerequisite: Oral and Written Communication Skills (FRE-315) or consent of instructor. (0.5 course credit)
-- **FRE 444 Ind Study-French**
-  Independent investigation of a selected project in French under the direction of a faculty member of the department. May be taken for an X status grade with consent of instructor prior to registration. Prerequisite: consent of department chair.
-- **FRE 446 Colonial & Multicultural Narratives**
-  A study of the history of "la francophonie" in terms of France's colonial experiments, and their literary legacies, and current issues of immigration and multiculturalism. Includes novels and films from France, Cameroon, Senegal, Canada, Morocco, and Martinique. Prerequisite: Introduction to French Literature (FRE- 335) or History of French: Language and Culture (FRE-345).
-- **FRE 452 Adv Language Skills & Trnsltn Wkshp**
-  Focus on improving linguistic skills and deepening understanding of how French is used in a variety of contexts and media through intensive practice translating from and into French May be taken more than once for credit for a maximum of 3.0 credits. Prerequisite: French Composition and Conversation (FRE-315) or consent of instructor.
-- **FRE 494 Internship in French**
-  Exploration of a career area related to French. Application and supervision through the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major in French. Prerequisites: junior standing and consent of department chair.
-- **FRE 495 Top in French/Francophone Lit & Clt**
-  Literature and culture course centering on a theme, region, time period, or genre. Approach and content vary from term to term as determined by the instructor. Topics include: Writing and Painting in 19th-century Paris, Contemporary Writing in French, Postcolonial Lives. May be taken more than once for credit for a maximum of 3.0 credits. Prerequisite: Introduction to French Literature (FRE- 335), or History of French: Language and Culture (FRE-3XX).
-- **FRE 499 Exit Exam and Interview**
-  Evalutates the student's progress in French and experinece of the program. To be completed with faculty in French during the last semester before graduation. P/NP basis only. Prerequisite: consent of instructor. (0.0 course credit) 
+French at Coe or with 2-4 years of high school French. Prerequisite: placement, Elementary French II (FRE-125) or consent of instructor.  
+ **FRE 315 French Composition & Conversation**  
+  Serves as the capstone of previous language courses, sharpens oral and written communication skills, and introduces students to the particular ways in which native speakers of French tend to express themselves through listening exercises, discussion, immersion activities, interviews, and compositions on cultural aspects of communication. This course is required of all students majoring or minoring in French. It is expected that this course be followed by Introduction to French Literature (FRE-335) or History of French: Language and Culture (FRE-3XX), in the following term. Prerequisite: Intermediate French II (FRE-225) or consent of instructor.  
+ **FRE 335 Introduction to French Literature**  
+  Close reading and critical analysis of different genres of literary texts through discussion, performance, and imitation. Students learn to use literary theory, to write, revise, and edit longer papers, and to develop their own creative voices in French. Prerequisite: French Composition and Conversation (FRE-315) or consent of instructor.  
+ **FRE 339 French for Health Care**  
+  Prepares students for using French in health and wellness contexts. Students learn essential vocabulary, improve written and oral communication skills, examine cultural differences, develop skills in translation and medical interpretation, and complete an independent project based on professional interests. May involve community engagement. Can be taken by arrangement. Prerequisite: Oral and Written Communication Skills (FRE-315) or consent of instructor.  
+ **FRE 340 French & Fracophone Cinema (WE)**  
+  Surveys some of the major genres, directors, and films of French and francophone cinema from the Lumière brothers to the present, as well as discussions of French film culture and cinema’s relations to history, literature, and other forms of visual and media arts. Students produce their own short films in French. Prerequisite: Oral and Written Communication Skills (FRE-315) or consent of instructor.  
+ **FRE 345 History of Fr: Language & Culture**  
+  None  
+ **FRE 394 Directed Learning  in French**  
+  For students wishing to investigate a particular aspect of French literature unavailable through the regular sequence of courses offered. Periodic conferences and papers are required. May be taken more than once for credit. Prerequisite: Introduction to French Literature (FRE-335) or consent of instructor.  
+ **FRE 400 Advanced Language Skills**  
+  Focuses on improving linguistic skills and deepening understanding of how French is used in a variety of contexts and media through intensive practice. Topics vary from term to term. May be taken more than once for credit for a maximum of 2.0 credits. Prerequisite: Oral and Written Communication Skills (FRE-315) or consent of instructor. (0.5 course credit)  
+ **FRE 444 Ind Study-French**  
+  Independent investigation of a selected project in French under the direction of a faculty member of the department. May be taken for an X status grade with consent of instructor prior to registration. Prerequisite: consent of department chair.  
+ **FRE 446 Colonial & Multicultural Narratives**  
+  A study of the history of "la francophonie" in terms of France's colonial experiments, and their literary legacies, and current issues of immigration and multiculturalism. Includes novels and films from France, Cameroon, Senegal, Canada, Morocco, and Martinique. Prerequisite: Introduction to French Literature (FRE- 335) or History of French: Language and Culture (FRE-345).  
+ **FRE 452 Adv Language Skills & Trnsltn Wkshp**  
+  Focus on improving linguistic skills and deepening understanding of how French is used in a variety of contexts and media through intensive practice translating from and into French May be taken more than once for credit for a maximum of 3.0 credits. Prerequisite: French Composition and Conversation (FRE-315) or consent of instructor.  
+ **FRE 494 Internship in French**  
+  Exploration of a career area related to French. Application and supervision through the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major in French. Prerequisites: junior standing and consent of department chair.  
+ **FRE 495 Top in French/Francophone Lit & Clt**  
+  Literature and culture course centering on a theme, region, time period, or genre. Approach and content vary from term to term as determined by the instructor. Topics include: Writing and Painting in 19th-century Paris, Contemporary Writing in French, Postcolonial Lives. May be taken more than once for credit for a maximum of 3.0 credits. Prerequisite: Introduction to French Literature (FRE- 335), or History of French: Language and Culture (FRE-3XX).  
+ **FRE 499 Exit Exam and Interview**  
+  Evalutates the student's progress in French and experinece of the program. To be completed with faculty in French during the last semester before graduation. P/NP basis only. Prerequisite: consent of instructor. (0.0 course credit)   
 
 
 

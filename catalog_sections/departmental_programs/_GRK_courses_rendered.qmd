@@ -2,14 +2,14 @@
 Langseth.
 
 ### Courses in Greek
-- **CLA 155 Latin/Greek Origins Med Terminology**
-  Examines the origins of contemporary medical terminology, in part by studying the development of a distinct technical vocabulary, with historical roots in the Greco-Roman, Arabic, and Modern-European worlds, which developed as physicians discovered distinct ways of communicating both with their patients and with each other. 
-- **GRK 115 Basic Greek**
-  An intensive examination and analysis of Greek grammar and syntax. Selected readings from works of the koine or Classical tradition. Combination of drill work, lecture, and discussion. Prerequisite: no prior instruction in Greek or up to two terms of secondary school Greek and consent of instructor.
-- **GRK 125 Selected Readings in Ancient Greek**
-  Review of basic grammar and syntax and examination of more advanced grammar and syntax. In-depth readings from authors selected from the koine or Classical tradition. Combination of drill work, lecture, and discussion. Prerequisite: Basic Greek (GRK-115) or two or more terms of secondary school Greek and consent of instructor.
-- **+++MISSING INFO: c.grk284/384.long +++**
-  +++MISSING INFO: c.grk284/384.desc +++
+ **CLA 155 Latin/Greek Origins Med Terminology**  
+  Examines the origins of contemporary medical terminology, in part by studying the development of a distinct technical vocabulary, with historical roots in the Greco-Roman, Arabic, and Modern-European worlds, which developed as physicians discovered distinct ways of communicating both with their patients and with each other.   
+ **GRK 115 Basic Greek**  
+  An intensive examination and analysis of Greek grammar and syntax. Selected readings from works of the koine or Classical tradition. Combination of drill work, lecture, and discussion. Prerequisite: no prior instruction in Greek or up to two terms of secondary school Greek and consent of instructor.  
+ **GRK 125 Selected Readings in Ancient Greek**  
+  Review of basic grammar and syntax and examination of more advanced grammar and syntax. In-depth readings from authors selected from the koine or Classical tradition. Combination of drill work, lecture, and discussion. Prerequisite: Basic Greek (GRK-115) or two or more terms of secondary school Greek and consent of instructor.  
+ **+++MISSING INFO: c.grk284/384.long +++**  
+  +++MISSING INFO: c.grk284/384.desc +++  
 
 
 

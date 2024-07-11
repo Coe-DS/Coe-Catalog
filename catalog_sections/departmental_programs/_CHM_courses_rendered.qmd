@@ -41,7 +41,7 @@ A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counte
 9. PHY-195/195L General Physics II & Laboratory +++MISSING INFO: c.phy195_195l.long +++
 
 10. **One** of the following combinations:
-      - +++MISSING INFO: c.chm465.long +++ **and** CHM 474 Seminar in Chemistry II
+      - CHM 464 Seminar in Chemistry I **and** CHM 474 Seminar in Chemistry II
       - OCC 365 Oak Ridge Science Semester **and** CHM 474 Seminar in Chemistry II
 
 *Recommended:*
