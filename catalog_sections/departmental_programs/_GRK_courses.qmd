@@ -2,14 +2,14 @@
 Langseth.
 
 ### Courses in Greek
-- **{{< var c.cla155.long >}}**
-  {{< var c.cla155.desc >}} 
-- **{{< var c.grk115.long >}}**
-  {{< var c.grk115.desc >}}
-- **{{< var c.grk125.long >}}**
-  {{< var c.grk125.desc >}}
-- **{{< var c.grk284/384.long >}}**
-  {{< var c.grk284/384.desc >}}
+ **{{< var c.cla155.long >}}**  
+  {{< var c.cla155.desc >}}   
+ **{{< var c.grk115.long >}}**  
+  {{< var c.grk115.desc >}}  
+ **{{< var c.grk125.long >}}**  
+  {{< var c.grk125.desc >}}  
+ **{{< var c.grk284/384.long >}}**  
+  {{< var c.grk284/384.desc >}}  
 
 
 
