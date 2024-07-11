@@ -9,7 +9,7 @@ Biology majors:
 	{{< var c.mth135.long >}}  
 	{{< var c.bio445.long >}} and {{< var c.bio445L.long >}}  
 	
-**or**
+**or**  
 
 Chemistry majors:  
 	{{< var c.mth145.long >}}  	
