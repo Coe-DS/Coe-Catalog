@@ -12,7 +12,7 @@ A major in history requires a minimum cumulative 2.0 GPA in all courses counted 
 	- {{< var c.his145.long >}} **or** {{< var c.his155.long >}}
 	- One additional U.S. History course
 
-			**OR**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **or**
 
 	- {{< var c.his145.long >}}
 	- {{< var c.his155.long >}}
