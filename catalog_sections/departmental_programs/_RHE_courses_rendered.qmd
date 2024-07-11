@@ -1,4 +1,123 @@
-## Rhetoric
+## Rhetoric {#sec-rhetoric}
 Carr (Chair), Donofrio, Harmsen, J. Nesmith, Opayemi, Spikes 
 
 The Rhetoric Department offers a major and a minor in both **Communication Studies** (see @sec-communication-studies ) and **Writing** (see @sec-writing ) and is responsible for offering courses in the study and practice of academic prose, non-fiction writing, journalism, and communication studies.  
+
+### Writing
+The writing major (within the Rhetoric department) is designed to help students become skilled, reflective writers capable of composing texts in a variety of genres, responding effectively to diverse rhetorical situations. 
+
+#### Writing Major
+A major in Writing requires a cumulative 2.0 GPA in all courses counted toward the major.
+
+1. RHE 200 Rhetorical Theory and Practice
+
+2. **One** of the following:
+   - RHE 225 Journalism/Media Wtg Wksp 
+   - RHE 255 The Essay 
+
+3. **One** of the following:
+	- RHE 377 Cultural Studies
+	- COM 382 ResearchMethods:Rhetorical/Critical **or** RHE 382 Research Methods:Rhetorical/Critica
+
+4. **Six** credits, including any course with an RHE prefix not already fulfilling another requirement, or any of the courses from the list below. No more than two courses with the CRW or COM prefix may count toward the major.
+
+	- COM 241 Intro to Multimedia Journalism
+	- COM 341 Digital Storytelling
+	- COM 361 Communication & Social Change
+	- COM 362 U.S. Public Address
+	- COM 382 ResearchMethods:Rhetorical/Critical or RHE 382 Research Methods:Rhetorical/Critica (if not used to fulfill requirement #3)
+	- +++MISSING INFO: c.com462.long +++
+	- CRW 115 Exploring Creative Writing
+	- CRW 255 Playwriting Workshop I
+	- CRW 280 Poetry Workshop I
+	- CRW 290 Fiction Workshop I
+	- CRW 355 Playwriting Workshop 2
+	- CRW 380 Poetry Workshop II
+	- CRW 390 Fiction Workshop II
+
+5. **One** of the following:
+	- RHE 415 How Writers Write (If not used to satisfy requirement #4)
+	- RHE 425 AdvTop Writing & Rhetorical Studies (if not used to satisfy requirement #4)
+	- RHE 444 Independent Study in Writing (WE)
+	- An Honors Thesis 
+
+6. A portfolio of works completed in the major (minimum 3, maximum 4), preceded by a preface that synthesizes major threads/themes of learning, and reflects on programmatic learning outcomes and on what takeaways from the major the student anticipates being most important as they prepare for their post-baccalaureate life. The portfolio should be submitted by the end of the term prior to the student’s intended graduation date, unless circumstances suggest it should be submitted later (confer with advisor and department chair).
+
+#### Writing Minor
+A minor in Writing requires five credits, including RHE 200 Rhetorical Theory and Practice and one RHE course numbered 300 or above. Any course with an RHE prefix or chosen from the list below may count toward the five credits; no more than two courses with CRW or COM prefix may count toward the minor. A cumulative 2.0 GPA is required in all courses counted toward the minor.
+
+	- COM 241 Intro to Multimedia Journalism
+	- COM 341 Digital Storytelling
+	- COM 361 Communication & Social Change
+	- COM 362 U.S. Public Address
+	- COM 382 ResearchMethods:Rhetorical/Critical **or** RHE 382 Research Methods:Rhetorical/Critica
+	- +++MISSING INFO: c.com462.long +++
+	- CRW 115 Exploring Creative Writing
+	- CRW 255 Playwriting Workshop I
+	- CRW 280 Poetry Workshop I
+	- CRW 290 Fiction Workshop I
+	- CRW 355 Playwriting Workshop 2
+	- CRW 380 Poetry Workshop II
+	- CRW 390 Fiction Workshop II
+
+### Courses in Rhetoric {#sec-courses-in-rhetoric}
+- **RHE 100 Directed Summer Reading**
+  Provides incoming students an opportunity to practice the academic reading and writing skills necessary for successful college work. Students read three books, prepare written responses to each book, and discuss the assignments with a faculty member during a conference in the first four weeks of the Fall Term. S/U basis only. (0.3 course credit)  
+- **RHE 112 Intro to Writing Center Theory**
+  Introduces foundations of writing center theory and pedagogy. Designed for Writing Center consultants who are concurrently beginning work at the writing center. Instruction takes place in weekly group meetings and individual conferences. Offered fall semesters only. (0.3 course credit)
+- **RHE 135 Writers Colony**
+  An intensive writing workshop taught off campus; students engage in individual and collaborative writing projects. (Offered May Term only)  
+- **RHE 137 Creative Nonfiction U.S.-Pluralism**
+  Introduces the field of creative nonfiction and examines how authors have portrayed and interpreted U.S.-based economic, ethnic, racial, social, political, and cultural tensions through a diverse blend of nonfiction genres. Students compose their own texts in creative nonfiction genres such as journals, essays, short memoirs, literary journalism, and personal narratives.
+- **RHE 146 Creative Nonfiction:Global Perspect**
+  Introduces students to the field of creative nonfiction and the use of personal narrative to explore and represent social and cultural issues. Course readings center international writers. Writing assignments encourage students to examine their own personal and cultural experiences.  
+- **RHE 175 Writers Studio**
+  A small-group workshop to help students develop basic writing, revising, and editing skills. May be taken for credit twice. Note: No more than 1.0 credit may be earned by enrolling in RHE-175 and RHE-375. (0.5 course credit)
+- **RHE 200 Rhetorical Theory and Practice**
+  Explores the forms and functions of written and spoken language, including the study of classical rhetoric (Plato, Aristotle, Quintilian) and recent developments in rhetorical theory.  
+- **RHE 210 Journalism Practicum**
+  For Cosmos staff members. Introduction to college newspaper production, with discussions on professionalism, news gathering, ethics, advertising, layout, and computer skills. May be repeated each term a student serves on the Cosmos staff. Advanced students assist with instructing beginners. To receive credit, students complete a term of service to the Cosmos and participate in the workshops at the level agreed upon among the instructor, the editor-in-chief, and the staff member. S/U basis only. A maximum of one credit may be applied to a writing minor and no more than one credit may count toward graduation. Credit for Journalism Practicum is regarded as internship credit . (0.2 course credit)
+- **RHE 225 Journalism/Media Wtg Wksp**
+  Introduces and analyzes several forms of writing for media in a digital age. In addition to print format, students create and analyze interactive and web-based texts while acquiring a systematic approach to compositions in a variety of media.  
+- **RHE 230 Grammar & Style Workshop**
+  None
+- **RHE 255 The Essay**
+  Practice in writing a variety of essay forms in non-fiction prose. Students read and discuss essayists chosen to represent a range of prose styles and subjects. Students also practice writing, workshopping, and revising nonfiction essays.  
+- **RHE 257 Environmental Rhetoric**
+  Examines how authors and organizations have attempted to define and influence the political, economic, social, and ethical debates on key environmental issues with particular attention to the birth and progress of global environmental movements. Students engage in close reading and analysis of a range of arguments and messaging pertaining to such movements.
+- **RHE 265 Professional Writing**
+  Planning, drafting, revising, and presenting documents for business and professional audiences; focus on effective writing and document design. Students compose a variety of texts—resumés, memos, letters, manuals, public relations materials, and/or reports—working both independently and collaboratively; students also give at least one oral presentation, based on a major writing assignment.  
+- **RHE 275 Advanced Writers Studio**
+  A small group, multi-genre workshop for experienced writers. May be taken more than once for credit for a maximum of 1.0 credit. No more than 1.0 credit may be earned by enrolling in RHE-175 and RHE-275. (0.5 course credit)
+- **RHE 284 Topics in Writing and Rhetoric**
+  Offers selected topics on specific concerns, problems, or trends in writing and rhetoric. Content varies as determined by instructor. May be taken more than once for credit, provided topics are distinct.  
+- **RHE 285 Technical Writing & Info Design**
+  Introduction to the effective communication of scientific and technical information for both specialist and non-expert audiences. Instruction in audience analysis, writing processes, research strategies, integration of graphics and visual information, and the designing, composing, revising, editing, and assessment of technical documents.
+- **RHE 312 Writing Center Theory & Practice**
+  Explores current topics in writing center research. Students plan and complete a project informed by research and share with writing center peers. Offered fall and spring terms. May be taken more than once for credit for a maximum of 0.9 credits. Prerequisite: Introduction to Writing Center Theory & Practice (RHE-112) (0.3 course credit)  
+- **RHE 345 Writing Wilderness**
+  An immersive writing workshop in which students write about their wilderness travel experiences in original prose and poetry. The focus of the student work will be the intersection of self and place. The class considers the idea of wilderness—as a concept, a place, a political designation, and a state of mind—through the lens of diverse environmental writers, theorists and poets across generations. Representative authors include Sigurd Olson, Annie Dillard, Terry Tempest Williams, Lorine Niedecker, Kimberly Blaeser, William Cronon, Robin Wall Kimmerer and Drew Lanham. Students in the class gain experience, confidence, and proficiency in wilderness travel and ethics.
+(Offered summers at the Wilderness Field Station)
+- **RHE 377 Cultural Studies**
+  An exploration of American culture as a series of “texts” to be read, analyzed, and interpreted from a variety of rhetorical perspectives. Subjects for analysis may include media, art, architecture, lifestyles, entertainment, music, film, theatre, and a wide range of literary genres.  
+- **RHE 382 Research Methods:Rhetorical/Critica**
+  Explores rhetorical/critical research methodologies. Students gain experience conducting research in the discipline, honing their analytical skills, and improving their communication competencies. Prerequisite: Rhetorical Theory & Practice (RHE-200).
+- **RHE 394 Drtd Learning in Writing & Rhetoric**
+  Completion of specialized study under the direction of a faculty member. Registration by consent of instructor and after submission of a written project proposal to the rhetoric department. May be taken more than once for credit with consent of department chair. Prerequisite: RHE-200 Rhetorical Theory and Practice, consent of instructor.
+- **RHE 415 How Writers Write**
+  Focuses on established and emergent theories about writing from the disciplines of rhetoric and writing studies. Students will apply relevant theory and/or research in a self-study. Students will also undertake and independent writing project of their own design, to be included with the self-study and other documents in a portfolio of polished work. Prerequisites: RHE-200 Rhetorical Theory & Practice, and either RHE-377 Cultural Studies or COM-382/RHE-382 Research Methods: Rhetorical/Critical  
+- **RHE 425 AdvTop Writing & Rhetorical Studies**
+  Exploration of a topic in writing and rhetorical studies. May be taken more than once for credit with consent of department chair. Exploration of a topic in writing and rhetorical studies. May be taken more than once for credit with consent of department chair. Prerequisites: RHE-200 Rhetorical Theory & Practice and either RHE-377 Cultural Studies or COM-382/RHE-382 Research Methods: Rhetorical/Critical
+- **RHE 444 Independent Study in Writing (WE)**
+  Independent projects in writing and rhetoric, culminating in a substantial artifact such as a thesis or a work/collection of works suitable for publication. May be taken more than once for credit for a maximum of 2.0 credits. A maximum of one course credit may count toward a writing major or minor. P/NP basis only. May be taken for an X status grade with consent of instructor prior to registration. Prerequisites: senior standing, written consent of instructor and departmental petition form. (0.5 or 1.0 course credit)  
+- **RHE 490 Publications Practicum**
+  A student may receive practicum credit while holding the position and performing the duties of the main editor of: The Cosmos, The Acorn, Colere, or The Pearl, or a comparable publication sponsored by the rhetoric department. Students must arrange with a supervising faculty member the amount of credit and a practicum agreement specifying skill development goals and the projects to be undertaken for the development of those skills. S/U basis only. No more than 2.0 course credits may be applied to graduation requirements. A maximum of one course credit may be applied to a writing major or minor. (0.5 or 1.0 course credit per term)
+—SECONDARY EDUCATION (MINOR ONLY)
+See Education, p. 100
+—SOCIAL & CRIMINAL JUSTICE
+L. Barnett (Administrative Coordinator)
+The Social & Criminal Justice Program offers students an opportunity to immerse themselves in an interdisciplinary major that draws from Coe’s rich tradition in the liberal arts, as well as the pre-professional opportunities at the college. Core courses in the major address multifaceted questions surrounding restorative, retributive, procedural, and distributive justice. While many programs addressing such issues are housed in the field of criminal justice studies, the SCJ faculty teach topics within the major from varying perspectives and disciplines, introducing students to the ways in which matters of justice are at work in — and essential to — many areas of study.
+The major is both local and global in nature, exhibiting the possibilities and limitations of social and criminal justice initiatives in the Cedar Rapids community, while also navigating matters of human rights and comparative justice systems that reveal our connections to the broader world.
+Through interdisciplinary engagement and a required practicum, the SCJ program demonstrates for students how a multiplicity of voices and viewpoints can help to shape new ideas about the impact of social justice initiatives upon the criminal justice system, and the foundations of individual and collective community engagement.
+- **RHE 494 Internship in Writing**
+  An internship with a focus on writing supervised by a faculty member of the department. A minimum of 140 hours on-site experience is required. S/U basis only. A maximum of one credit may count toward a major or minor in communication studies or writing with the consent of department chair. Prerequisites: junior standing and consent of department chair. 
