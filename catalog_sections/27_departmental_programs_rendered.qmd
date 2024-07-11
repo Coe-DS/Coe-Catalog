@@ -79,13 +79,13 @@ A major in African American studies requires a minimum cumulative 2.0 GPA in all
 ### COURSES IN AFRICAN AMERICAN STUDIES {#sec-courses-in-african-american-studies}
 
  **AAM 107 Intro to African American Studies** 
-  What is African American culture, and what accounts for its cultural distinctions? This course introduces students to the study of African American culture and the field of African American Studies. through an interdiciplinary approach (literature, history, music, art and film) students will examine central themes and key debates pertinent to African American culture and history from its beginning to present.
+What is African American culture, and what accounts for its cultural distinctions? This course introduces students to the study of African American culture and the field of African American Studies. through an interdiciplinary approach (literature, history, music, art and film) students will examine central themes and key debates pertinent to African American culture and history from its beginning to present.
  **AAM 137 African American Literature** 
-  Reading and discussion of the writings of African Americans, with emphasis on the 20th century. May include some relevant writings on African Americans by other groups. Study of the artistic values and of the social and cultural significance of these writings. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different.
+Reading and discussion of the writings of African Americans, with emphasis on the 20th century. May include some relevant writings on African Americans by other groups. Study of the artistic values and of the social and cultural significance of these writings. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different.
  **AAM 217 Sport and Black Culture** 
-  Examines through cultural analysis the complex relationships between sport and Black culture.  This course addresses the way sport has evolved from being merely a physical activity to a cultural expression in Black communities.  This course emphasizes the historical patterns and current conditions of Blacks; participation in sport through various articles, videos, and books.  The course also examines how many Black people have used sport as a means of resistance, survival, and social mobility. Students learn to analyze cultural expression, to understand race and its continuing impact in American life, and to understand how various sports pursuits by Black athletes are invested with multiple meanings. Major topics and themes covered include: the concept of race, Black culture, the historical presence of Black athletes in sport, their current impact, and their dominance in certain sports.
+Examines through cultural analysis the complex relationships between sport and Black culture.  This course addresses the way sport has evolved from being merely a physical activity to a cultural expression in Black communities.  This course emphasizes the historical patterns and current conditions of Blacks; participation in sport through various articles, videos, and books.  The course also examines how many Black people have used sport as a means of resistance, survival, and social mobility. Students learn to analyze cultural expression, to understand race and its continuing impact in American life, and to understand how various sports pursuits by Black athletes are invested with multiple meanings. Major topics and themes covered include: the concept of race, Black culture, the historical presence of Black athletes in sport, their current impact, and their dominance in certain sports.
  **AAM 227 Blackness & Identity in America** 
-  Gathers a wide range of scholarship about race and identity to explore what race is, why it matters, racial dynamics in
+Gathers a wide range of scholarship about race and identity to explore what race is, why it matters, racial dynamics in
 organizations, and how best to address them. Students will explore questions of identity, privilege, ethnicity, gender,
 and class. In this course, “race” is reviewed as a shorthand for the interconnected complexity of race, ethnicity,
 culture, and color, and will be carefully analyzed to distinguish among such terms and ideas. Students will critically
@@ -93,20 +93,20 @@ analyze the social construct and the popular understandings of race and identity
 institutions. Students will understand and evaluate the foundational concepts and theories of race and identity and
 synthesize their knowledge through research, presentation, and writing.
  **AAM 287 Topics in African American Studies** 
-  Examines an important theme or subject specific to African American experiences and culture. Content varies and is determined by the instructor. Students learn to understand African American experiences in context, to analyze texts and events from multiple disciplinary perspectives, and to write in clear, analytical prose. May be taken more than once for credit, provided the topics are substantially different.
+Examines an important theme or subject specific to African American experiences and culture. Content varies and is determined by the instructor. Students learn to understand African American experiences in context, to analyze texts and events from multiple disciplinary perspectives, and to write in clear, analytical prose. May be taken more than once for credit, provided the topics are substantially different.
  **AAM 367 Topics in AfricanAmericanLiterature**
-  See also English (ENG-367), @sec-courses-in-english
-  None
+See also English (ENG-367), @sec-courses-in-english
+None
  **AAM 387 Adv Topics in African American Stud** 
-  Examines an important theme or subject specific to African American experiences and culture. Content varies and is determined by the instructor. Students learn to understand African American experiences in context, to analyze texts and events from multiple disciplinary perspectives, and to write in clear, analytical prose. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: Introduction to African American Studies (AAM-107) or consent of instructor.
+Examines an important theme or subject specific to African American experiences and culture. Content varies and is determined by the instructor. Students learn to understand African American experiences in context, to analyze texts and events from multiple disciplinary perspectives, and to write in clear, analytical prose. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: Introduction to African American Studies (AAM-107) or consent of instructor.
  **AAM 444 Ind Study-Afr-Am St** 
-  Study of individually chosen research topics in African American studies under the direction of a faculty member in the area. May be taken for an X status grade with consent of instructor prior to registration. Prerequisites: Introduction to African American Studies (AAM-107) or African American Literature (AAM-137); consent of African American Studies administrative coordinator and submission of a written proposal for a project.
+Study of individually chosen research topics in African American studies under the direction of a faculty member in the area. May be taken for an X status grade with consent of instructor prior to registration. Prerequisites: Introduction to African American Studies (AAM-107) or African American Literature (AAM-137); consent of African American Studies administrative coordinator and submission of a written proposal for a project.
  **+++MISSING INFO: c.aam447/457.long +++** 
-  +++MISSING INFO: c.aam447/457.desc +++
++++MISSING INFO: c.aam447/457.desc +++
  **AAM 467 Seminar in African American Lit** 
-  Intensive study of selected works and subjects in African American literature. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different. Prerequisites: junior standing and The Art of Literary Research (ENG-301). May be taken more than once.
+Intensive study of selected works and subjects in African American literature. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different. Prerequisites: junior standing and The Art of Literary Research (ENG-301). May be taken more than once.
  **AAM 494 Internship in African American Stds** 
-  None 
+None 
 
 
 ## ANTHROPOLOGY (Minor Only)
