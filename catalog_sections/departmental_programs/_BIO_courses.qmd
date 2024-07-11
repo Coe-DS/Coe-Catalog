@@ -177,6 +177,6 @@ Laboratory and field experiences are essential to scientific understanding. They
  **{{< var c.occ365.long >}}**  
 See @sec-ACM-and-international-programs
 
-- **{{< var c.hss494.long >}}**
+ **{{< var c.hss494.long >}}**
 {{< var c.hss494.desc >}}
 
