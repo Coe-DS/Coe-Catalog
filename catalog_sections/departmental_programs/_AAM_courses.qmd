@@ -69,25 +69,25 @@ A major in African American studies requires a minimum cumulative 2.0 GPA in all
 ### COURSES IN AFRICAN AMERICAN STUDIES {#sec-courses-in-african-american-studies}
 
  **{{< var c.aam107.long >}}** 
-  {{< var c.aam107.desc >}}
+{{< var c.aam107.desc >}}
  **{{< var c.aam137.long >}}** 
-  {{< var c.aam137.desc >}}
+{{< var c.aam137.desc >}}
  **{{< var c.aam217.long >}}** 
-  {{< var c.aam217.desc >}}
+{{< var c.aam217.desc >}}
  **{{< var c.aam227.long >}}** 
-  {{< var c.aam227.desc >}}
+{{< var c.aam227.desc >}}
  **{{< var c.aam287.long >}}** 
-  {{< var c.aam287.desc >}}
+{{< var c.aam287.desc >}}
  **{{< var c.aam367.long >}}**
-  See also English (ENG-367), @sec-courses-in-english
-  {{< var c.aam367.desc >}}
+See also English (ENG-367), @sec-courses-in-english
+{{< var c.aam367.desc >}}
  **{{< var c.aam387.long >}}** 
-  {{< var c.aam387.desc >}}
+{{< var c.aam387.desc >}}
  **{{< var c.aam444.long >}}** 
-  {{< var c.aam444.desc >}}
+{{< var c.aam444.desc >}}
  **{{< var c.aam447/457.long >}}** 
-  {{< var c.aam447/457.desc >}}
+{{< var c.aam447/457.desc >}}
  **{{< var c.aam467.long >}}** 
-  {{< var c.aam467.desc >}}
+{{< var c.aam467.desc >}}
  **{{< var c.aam494.long >}}** 
-  {{< var c.aam494.desc >}} 
+{{< var c.aam494.desc >}} 
