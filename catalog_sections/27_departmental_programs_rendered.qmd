@@ -139,69 +139,38 @@ The following courses do **not** satisfy any of the requirements for a minor in 
 
 ### Courses in Anthropology
 
- **ANT 109 Intro to Archaeology:Method & Thry**
-
-An introduction to the theoretical approaches and field methodologies of archaeology. The goal of this class is to familiarize the student with the history and theoretical frameworks of archaeology, in addition to the scientific methods with which material culture is collected, investigated, and evaluated. Major topics and themes covered in this class include: archaeological theory, excavation and survey, artifact analysis, death, social systems, economy, religion, and ethical practices in cultural heritage management.
-
- **ANT 115 Ancient Greece:Hist as Archaeology**
-
-Explores the various ways in which archaeology can inform our understanding of ancient Greek history by visiting the monuments, museums, and archaeological sites in modern Greece. The course emphasizes the combination of the historical textual evidence and the ancient physical evidence to enrich our understanding of Greek social, political, and cultural history. THe course also involves an examination of the evolution of ancient institutions and practices that range from the rise of the Athenian democracy, to the first theatrical productions of comedy and tragedy, to the establishment of the ancient Olympics. Archaeological theory, archaeiligical practice, and historical process constitute the nexus around which the course revolves. (Offered May Term only)
-
- **ANT 116 Cultural Anthropology**
-
-An introduction to cultural anthropology, presenting its place within the broader discipline of anthropology and outlining its characteristic methodological and theoretical approaches to the study of human life. The course emphasizes the diversity of approaches to common human experiences in a variety of cultural contexts.
-
- **ANT 125 Art & Archaeology Classical World**
-
-A survey of the art, architecture, and archaeological remains of the Greek and Roman civilizations from early Aegean Bronze Age cultures to the fall of the Roman empire.
-
- **ANT 215 Ethnographic Methods**
-
-An introduction to ethnographic research methods, presenting a number of tools for collecting and analyzing ethnographic data. The course emphasizes the relationship between research questions and the methodological tools used by anthropologists to study those questions. Prerequisite: Cultural Anthropology (ANT-116) or consent of instructor.
-
- **ANT 284 Topics in Anthropology/Archaeology**
-
-A focused examination of an anthropological theme, theory or research method. Content varies and is determined by the instructor. May be taken more than once for credit, provided the topics are substantially different.
-
- **ANT 286 Topics in Anthropology:NWP**
-
-A focused examination of an anthropological theme, theory or research method. Content varies and is determined by the instructor. May be taken more than once for credit, provided the topics are substantially different.
-
- **ANT 288 Topics Anthropology/Archaeology:DWP**
-
-A focused examination of an archaeological theme, theory or research method. Content varies and is determined by the instructor. May be taken more than once for credit, provided the topics are substantially different.
-
- **ANT 415 Ancient Greek Pottery Studies**
-
-Considers Greek ceramics from both scientific and iconological perspectives. Students study issues of production, construction and distribution and then look at Greek pottery iconographically, focusing on the major stylistic periods but emphasizing regional variations through Greece. Discussions of connoisseurship and themes prevalent in Greek vase-painting such as death, myth, and gender round out the course's survey of evidence. Prerequisite: consent of instructor.
-
- **ANT 444 Independent Study: Anthropology**
-
-Independent study under faculty guidance of a research problem chosen by the student. May be taken for an X status grade with consent of instructor prior to registration. This course does not satisfy any of the requirements for a minor in anthropology. Prerequisites: Previous or concurrent enrollment in Anthropology Theory (ANT-450) and consent of department chair. (Offered by arrangement)
-
- **ANT 450 Anthropological Theory**
-
-An examination of the historical development of anthropological theory, emphasizing American, British and French traditions from the 19th century through the present. Prerequisite: Cultural Anthropology (ANT-116) or consent of instructor.
-
- **ANT 474 Research Participation:Anthropology**
-
-Individual or group investigation with a faculty member on a research topic or topics of mutual interest. The student must obtain approval for a specific project and make necessary arrangements prior to the term of registration for the course. May be taken for an X status grade with consent of instructor prior to registration.  This course does not satisfy any of the requirements for a minor in anthropology. Prerequisites: Cultural Anthropology (ANT-116) and consent of the instructor. (Offered by arrangement)
-
- **ANT 484 AdvTop: Anthropology or Archaeology**
-
-Same as ANT-284, except at an advanced level. Prerequisite: Introduction to Archaeology (ANT-109) or Cultural Anthropology (ANT-116) or consent of instructor.
-
- **ANT 486 Advanced Topics in Anthropology:NWP**
-
-Same as ANT-286, except at an advanced level. Prerequisite: Cultural Anthropology (ANT-116) or consent of instructor.
-
- **ANT 488 Adv Top Anthro/Archaeo:DWP**
-
-Same as ANT-228, except at an advanced level. Prerequisite: Introduction to Archaeology (ANT-109) or Cultural Anthropology (ANT-116) or consent of instructor.
-
- **ANT 494 Internship in Anthropolgy**
-
-Placement with a career-related organization. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a minor in anthropology. Prerequisites: declared minor in anthropology, junior standing and consent of department chair. (Offered by arrangement)
+ **ANT 109 Intro to Archaeology:Method & Thry**  
+An introduction to the theoretical approaches and field methodologies of archaeology. The goal of this class is to familiarize the student with the history and theoretical frameworks of archaeology, in addition to the scientific methods with which material culture is collected, investigated, and evaluated. Major topics and themes covered in this class include: archaeological theory, excavation and survey, artifact analysis, death, social systems, economy, religion, and ethical practices in cultural heritage management.  
+ **ANT 115 Ancient Greece:Hist as Archaeology**  
+Explores the various ways in which archaeology can inform our understanding of ancient Greek history by visiting the monuments, museums, and archaeological sites in modern Greece. The course emphasizes the combination of the historical textual evidence and the ancient physical evidence to enrich our understanding of Greek social, political, and cultural history. THe course also involves an examination of the evolution of ancient institutions and practices that range from the rise of the Athenian democracy, to the first theatrical productions of comedy and tragedy, to the establishment of the ancient Olympics. Archaeological theory, archaeiligical practice, and historical process constitute the nexus around which the course revolves. (Offered May Term only)  
+ **ANT 116 Cultural Anthropology**  
+An introduction to cultural anthropology, presenting its place within the broader discipline of anthropology and outlining its characteristic methodological and theoretical approaches to the study of human life. The course emphasizes the diversity of approaches to common human experiences in a variety of cultural contexts.  
+ **ANT 125 Art & Archaeology Classical World**  
+A survey of the art, architecture, and archaeological remains of the Greek and Roman civilizations from early Aegean Bronze Age cultures to the fall of the Roman empire.  
+ **ANT 215 Ethnographic Methods**  
+An introduction to ethnographic research methods, presenting a number of tools for collecting and analyzing ethnographic data. The course emphasizes the relationship between research questions and the methodological tools used by anthropologists to study those questions. Prerequisite: Cultural Anthropology (ANT-116) or consent of instructor.  
+ **ANT 284 Topics in Anthropology/Archaeology**  
+A focused examination of an anthropological theme, theory or research method. Content varies and is determined by the instructor. May be taken more than once for credit, provided the topics are substantially different.  
+ **ANT 286 Topics in Anthropology:NWP**  
+A focused examination of an anthropological theme, theory or research method. Content varies and is determined by the instructor. May be taken more than once for credit, provided the topics are substantially different.  
+ **ANT 288 Topics Anthropology/Archaeology:DWP**  
+A focused examination of an archaeological theme, theory or research method. Content varies and is determined by the instructor. May be taken more than once for credit, provided the topics are substantially different.  
+ **ANT 415 Ancient Greek Pottery Studies**  
+Considers Greek ceramics from both scientific and iconological perspectives. Students study issues of production, construction and distribution and then look at Greek pottery iconographically, focusing on the major stylistic periods but emphasizing regional variations through Greece. Discussions of connoisseurship and themes prevalent in Greek vase-painting such as death, myth, and gender round out the course's survey of evidence. Prerequisite: consent of instructor.  
+ **ANT 444 Independent Study: Anthropology**  
+Independent study under faculty guidance of a research problem chosen by the student. May be taken for an X status grade with consent of instructor prior to registration. This course does not satisfy any of the requirements for a minor in anthropology. Prerequisites: Previous or concurrent enrollment in Anthropology Theory (ANT-450) and consent of department chair. (Offered by arrangement)  
+ **ANT 450 Anthropological Theory**  
+An examination of the historical development of anthropological theory, emphasizing American, British and French traditions from the 19th century through the present. Prerequisite: Cultural Anthropology (ANT-116) or consent of instructor.  
+ **ANT 474 Research Participation:Anthropology**  
+Individual or group investigation with a faculty member on a research topic or topics of mutual interest. The student must obtain approval for a specific project and make necessary arrangements prior to the term of registration for the course. May be taken for an X status grade with consent of instructor prior to registration.  This course does not satisfy any of the requirements for a minor in anthropology. Prerequisites: Cultural Anthropology (ANT-116) and consent of the instructor. (Offered by arrangement)  
+ **ANT 484 AdvTop: Anthropology or Archaeology**  
+Same as ANT-284, except at an advanced level. Prerequisite: Introduction to Archaeology (ANT-109) or Cultural Anthropology (ANT-116) or consent of instructor.  
+ **ANT 486 Advanced Topics in Anthropology:NWP**  
+Same as ANT-286, except at an advanced level. Prerequisite: Cultural Anthropology (ANT-116) or consent of instructor.  
+ **ANT 488 Adv Top Anthro/Archaeo:DWP**  
+Same as ANT-228, except at an advanced level. Prerequisite: Introduction to Archaeology (ANT-109) or Cultural Anthropology (ANT-116) or consent of instructor.  
+ **ANT 494 Internship in Anthropolgy**  
+Placement with a career-related organization. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a minor in anthropology. Prerequisites: declared minor in anthropology, junior standing and consent of department chair. (Offered by arrangement)  
 
 
 ## ART AND ART HISTORY
@@ -261,195 +230,137 @@ Further information for all these requirements and programs is available from th
 
 **100-level courses** (*except ART-130, see below*) are open to any student and may offer the opportunity to explore two or more areas of art making in a studio environment.  ART-130 Art in the Elementary Classroom does not satisfy any of the requirements for a major or minor in Art or Art History.  It also does not count as a 100-level art course needed for some courses as a prerequisite.
 
- **ART101 Art Appreciation**
-
-None
-
- **ART 102 Sculpture: Material Investigations**
-
-Focuses on how material choices inform meaning. Students will use a variety of traditional and non-traditional materials to make sculptural art objects.
-
- **ART 103 Ceramic Sculpture**
-
+ **ART101 Art Appreciation**  
+None  
+ **ART 102 Sculpture: Material Investigations**  
+Focuses on how material choices inform meaning. Students will use a variety of traditional and non-traditional materials to make sculptural art objects.  
+ **ART 103 Ceramic Sculpture**  
 Provides instruction on the creation of hand-built ceramic sculptures. Projects will utilize
 pinch, coil building, soft and stiff slab construction, and additive and subtractive
-processes.
-
- **ART 105 Narrative Ceramics**
-
-Studies the history and evolution of ceramics as a storytelling medium. Projects will include tile-making, coil-building, surface decoration, and sculptural techniques as a means to explore how artists have used clay to create compelling narratives.
-
- **ART 115 Drawing**
-
-Introduces a variety of drawing media, including graphite, charcoal, brush and ink, pastels, and collage. Students are challenged to observe the visual world around them and to respond to that observation with interpretive choices in mark-making and composition to produce visual expression. Media may include graphite, charcoal, brush and ink, pastels, and collage.
-
-- **ART 125 Painting**
-
-Introduces paint media to represent, amplify, and interpret the world. Students are also encouraged to discover the possibilities of color, shape, texture and mark-making.
-
- **ART 130 Art in the Elementary Classroom**
-
-Provides an overview of the role of art in the elementary curriculum. Students learn to incorporate art activities into other content areas and gain an understanding of the objective of elementary classes taught by elementary art specialist teachers. This course does not satisfy the College’s general education fine arts core group requirement nor does it satisfy major or minor requirements or prerequisites for Art or Art History. Prerequisite: admission to the Education Program or approval of the education department. (0.5 course credit)
-
- **ART 131 Scultpure: Do, Undo, Redo**
-
-Practices the inherent creative aspects of making, unmaking and remaking in response to these various states of transformation. Artworks are made using clay and other sculptural materials while documenting the exploratory processes through drawing, photography and more.
-
- **ART 135 Ceramics: Form, Function & Meaning**
-
-Focuses on the creation of wheel thrown and handbuilt objects within the context of a social and cultural lens. Explores the relationship between making and meaning in the 21st century. Projects focus on fuctional work and its uses.
-
- **ART 145 Digital Studio**
-
+processes.  
+ **ART 105 Narrative Ceramics**  
+Studies the history and evolution of ceramics as a storytelling medium. Projects will include tile-making, coil-building, surface decoration, and sculptural techniques as a means to explore how artists have used clay to create compelling narratives.  
+ **ART 115 Drawing**  
+Introduces a variety of drawing media, including graphite, charcoal, brush and ink, pastels, and collage. Students are challenged to observe the visual world around them and to respond to that observation with interpretive choices in mark-making and composition to produce visual expression. Media may include graphite, charcoal, brush and ink, pastels, and collage.  
+- **ART 125 Painting**  
+Introduces paint media to represent, amplify, and interpret the world. Students are also encouraged to discover the possibilities of color, shape, texture and mark-making.  
+ **ART 130 Art in the Elementary Classroom**  
+Provides an overview of the role of art in the elementary curriculum. Students learn to incorporate art activities into other content areas and gain an understanding of the objective of elementary classes taught by elementary art specialist teachers. This course does not satisfy the College’s general education fine arts core group requirement nor does it satisfy major or minor requirements or prerequisites for Art or Art History. Prerequisite: admission to the Education Program or approval of the education department. (0.5 course credit)  
+ **ART 131 Scultpure: Do, Undo, Redo**  
+Practices the inherent creative aspects of making, unmaking and remaking in response to these various states of transformation. Artworks are made using clay and other sculptural materials while documenting the exploratory processes through drawing, photography and more.  
+ **ART 135 Ceramics: Form, Function & Meaning**  
+Focuses on the creation of wheel thrown and handbuilt objects within the context of a social and cultural lens. Explores the relationship between making and meaning in the 21st century. Projects focus on fuctional work and its uses.  
+ **ART 145 Digital Studio**  
 Explores contemporary digital imaging and design. Students produce a series of studio
 projects ranging from digital photography, collage, gif animation, vector graphics, and
 two-dimensional design. Includes introductory-level instruction of digital cameras and
-Adobe Creative Suite: Lightroom, Photoshop, Illustrator.
-
- **ART 150 Time Based Media**
-
-Explores the aesthetic and experiential qualities of time. The course includes readings, discussions, and screenings of historical and contemporary works plus hands-on studio projects using video, sound, performance, installation, and more. Includes introductory-level instruction in digital cameras and Adobe Lightroom and Premiere Pro. Through media production, students cultivate a range of technical skills plus a critical understanding of media culture.
-
- **ART 151 Layers of Meaning**
-
-Pursues meaning through multiplicity of imagery. Some work may be done in collage, but other materials and techniques, such as drawing, painting, and digital art, are used to juxtapose and layer imagery and meaning.
-
- **ART 155 Photography: Light Writing**
-
-Examines the ways that a photographic image can be viewed and interpreted. The course includes readings and research on the masters of photography. Technical skills include historic black and white analog photography including manual camera controls, film and print processing.
-
- **ART 175 Printmaking**
-
-Focuses on traditional and contemporary printmaking techniques, introducing students to the fundamentals of materials including paper, ink, presses, and image processing. This course explores the development of technical, compositional, and conceptual skills through the evolution of printmaking’s history of multiplicity.
-
- **ART 191 Topics in Studio Art**
-
-Focuses on a specific theme or topic. Topics vary. May be taken more than once for credit, provided the topics are substantially different.
+Adobe Creative Suite: Lightroom, Photoshop, Illustrator.  
+ **ART 150 Time Based Media**  
+Explores the aesthetic and experiential qualities of time. The course includes readings, discussions, and screenings of historical and contemporary works plus hands-on studio projects using video, sound, performance, installation, and more. Includes introductory-level instruction in digital cameras and Adobe Lightroom and Premiere Pro. Through media production, students cultivate a range of technical skills plus a critical understanding of media culture.  
+ **ART 151 Layers of Meaning**  
+Pursues meaning through multiplicity of imagery. Some work may be done in collage, but other materials and techniques, such as drawing, painting, and digital art, are used to juxtapose and layer imagery and meaning.  
+ **ART 155 Photography: Light Writing**  
+Examines the ways that a photographic image can be viewed and interpreted. The course includes readings and research on the masters of photography. Technical skills include historic black and white analog photography including manual camera controls, film and print processing.  
+ **ART 175 Printmaking**  
+Focuses on traditional and contemporary printmaking techniques, introducing students to the fundamentals of materials including paper, ink, presses, and image processing. This course explores the development of technical, compositional, and conceptual skills through the evolution of printmaking’s history of multiplicity.  
+ **ART 191 Topics in Studio Art**  
+Focuses on a specific theme or topic. Topics vary. May be taken more than once for credit, provided the topics are substantially different.  
 
 **Focus Courses**
 
 Focus Courses are seven-week courses designed to prepare the student for a serious artistic practice. 
 
- **ART-201 Focus Course: Creative Process**
-
+ **ART-201 Focus Course: Creative Process**  
 Applies the tools and methods of creative processes. An abbreviated course offered seven weeks of a term designed to prepare the student for a serious artistic practice.  Students propose, iterate, and produce an object or set of objects in an exploration of their own creative process. Prerequisite: two ART- courses (each 1.0 course credit) or consent of instructor. (0.25 course credit)
 
- **ART-202 Focus Course: Portfolio Development**
-
+ **ART-202 Focus Course: Portfolio Development**  
 Prepares students for developing a portfolio that reflects the breadth and skills of their own artistic practice and production. Prerequisite: two ART- courses (each 1.0 course credit) or consent of instructor. (0.25 course credit)
 
- **ART-203 Focus Course: Contemporary Artistic Practice** 
-
+ **ART-203 Focus Course: Contemporary Artistic Practice**  
 Highlights the art, writings, routines and habits of contemporary artists and practitioners. An abbreviated course offered seven weeks of a term designed to prepare the student for a serious artistic practice.  Prerequisite: two ART- courses (each 1.0 course credit) or consent of instructor. (0.25 course credit)
 
- **ART-211 Focus Course: Artist Statements/Artist Talks**
-
+ **ART-211 Focus Course: Artist Statements/Artist Talks**  
 Guides students through the construction of artist statements and artist talks to present their work to a wider public. An abbreviated course offered seven weeks of a term designed to prepare the student for a serious artistic practice. Prerequisite: two ART- courses (each 1.0 course credit) or consent of instructor. (0.25 course credit)
 
- **ART-212 Focus Course: Artist Websites** 
-
+ **ART-212 Focus Course: Artist Websites**  
 Guides students through best practices in the process of developing and maintaining a professional website. An abbreviated course offered seven weeks of a term designed to prepare the student for a serious artistic practice.  Prerequisite: two ART- courses (each 1.0 course credit) or consent of instructor. (0.25 course credit)
 
- **ART-213 Focus Course: Critique**
-
+ **ART-213 Focus Course: Critique**  
 Offers students the opportunity to practice and improve critique skills. An abbreviated course offered seven weeks of a term designed to prepare the student for a serious artistic practice. Prerequisite: two ART- courses (each 1.0 course credit) or consent of instructor. (0.25 course credit)
 
- **ART-291 Focus Course: Topics in Studio Art**
-
+ **ART-291 Focus Course: Topics in Studio Art**  
 Focuses on a specific theme or topic. An abbreviated course offered seven weeks of a term designed to prepare the student for a serious artistic practice. Topics vary. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: two ART- courses (each 1.0 course credit) or consent of instructor. (0.25 course credit)
 
 
 **300-level courses** offer students the opportunity to expand their technical and conceptual skills at a more advanced level. Courses numbered ART 300–349 are offered without prerequisite and open to any student. Courses numbered ART 350–399 have one or more prerequisites.
 
- **ART-301 Socially Engaged Art**
-
+ **ART-301 Socially Engaged Art**  
 Invites collaboration with individuals, communities, and institutions in the creation of participatory art. The genre explores social forms such as dinner parties, conversations, and projects that intervene or intersect with real-world systems. Coursework is done collaboratively and independently on projects that critically engage with contemporary issues and explore a variety of contexts. A variety of media will be used as a means to define interests and inform social interventions.
 
- **ART-313 Color and Design** 
-
+ **ART-313 Color and Design**  
 Examines the theory and practice of color, with emphasis on the use of color as a compositional element. 
 
- **ART-315 Installation Art**
-
+ **ART-315 Installation Art**  
 Creates art environments that offer a unique experience for the viewer. Projects will include research, planning, drafting, and exhibiting artistic creations in spaces across campus and throughout the local community.
 
- **ART- 325 Contemporary Photographic Genres**
-
+ **ART- 325 Contemporary Photographic Genres**  
 Creates, researches, and analyzes contemporary digital photography. Readings and writings support the weekly production of imagery. Technical skills include camera functions, Adobe Photoshop, and Adobe Lightroom. Cameras and software provided.
 
- **ART-328 Art and Industry** 
-
+ **ART-328 Art and Industry**  
 Explores the relationship between art, mass production and the steady, habitual effort of making. Topics of inquiry include the Arts and Crafts Movement, the birth of industry and technology, and how 20th and 21st-century artists have responded to the frenzy of mass production and consumerism. Artworks are created using varying methods of mass production such as tile making, mold making and surface decoration techniques as a way to explore repetitive modes of making.
 
- **ART-330 Methods of Teaching Art K–12**
-
+ **ART-330 Methods of Teaching Art K–12**  
 Includes discussion, lecture, and studio work on campus, as well as experience in public school classes off campus. This course does not satisfy the College’s general education fine arts core group requirement nor does it satisfy major or minor requirements or prerequisites for Art of Art History. Prerequisite: art major or minor and admission to the Education Program. 
 
- **ART-331 Open Studio** 
-
+ **ART-331 Open Studio**  
 Provides an opportunity for independent work in the studio with a midterm and final critique. P/NP basis only. May be taken more than once. This course does not satisfy any of the requirements for a major or minor in art. Prerequisites: Ceramics: Form, Function, & Meaning (ART-135) or consent of instructor.
 
- **ART-352 Mark Making**
-
+ **ART-352 Mark Making**  
 Offers instruction on materials and techniques that involve mark making. These may include painting and drawing on various surfaces, or digital painting. Through guided projects and independent work, students explore the connections between form and expression, with the aim of developing a visual language that is uniquely their own.  Prerequisite: any 100-level ART- course.
 
- **ART 360 Advanced 3D**
-
+ **ART 360 Advanced 3D**  
 Focuses on the conceptual, aesthetic, and technical skills necessary to create more advanced and sophisticated artworks. Designed to build upon the foundations provided in beginning-level Ceramics and Sculpture classes. Prerequisite: any 100-level ART course.
 
- **ART-361 Documentary**
-
+ **ART-361 Documentary**  
 Explores theory and practice of documentary filmmaking through readings, research projects, screenings, and in-class discussions. Students produce studio projects ranging from short-form documentaries, podcasts, still photography portfolios, and more. Prerequisite: Digital Studio (ART-145), Time-Based Media (ART-150), or with permission by instructor.
 
- **ART-363 Graphic Design Studio**
-
+ **ART-363 Graphic Design Studio**  
 Focuses on graphic design and the communication arts industry. Projects use traditional and digital tools, materials and procedures with a focus on finding creative visual solutions to communication problems. Prerequisite: Digital Studio (ART-145), or Workshop: Digital Toolbox (WKS-204), or Workshop: Vector Graphics (WKS-213), or consent of instructor.
 
- **ART-364 The Human Form** 
-
+ **ART-364 The Human Form**  
 Focuses on the observation and interpretation of the human form. Working from life, students develop skills in capturing the gesture and form of the body and use those skills to create interpretive and expressive artworks, principally using drawing materials, but also exploring with paint and other materials. Prerequisite any 100-level ART- course.
 
- **ART-370 Video Art and Production**
-
+ **ART-370 Video Art and Production**  
 Explores the theoretical and technical foundations of video as a visual art medium. Students produce a series of short video projects that are presented during formal critiques, enabling students to cultivate meaningful dialogue about their work. Through production, students develop the technical and professional experience needed to enter the media industry. Prerequisite: Digital Studio (ART-145), Time-Based Media (ART-150), or with permission by instructor.
 
- **ART-371 Typography and Design**
-
+ **ART-371 Typography and Design**  
 Investigates the history, theory and practice of letterforms and typography in graphics, advertising, design and visual communication. Projects address principles of typography, letter structure, typeface selection, fundamentals of computer typesetting, and typographic layout. Prerequisite: Digital Studio (ART-145), or Workshop: Digital Toolbox (WKS-204), or Workshop: Vector Graphics (WKS-213), or consent of instructor.
 
- **ART-373 Screen Printing**
-
+ **ART-373 Screen Printing**  
 Utilizes silkscreen printing as a medium that can be integrated with photography, digital imagery, and three-dimensional objects. Course offers an exploration of the formal elements of design with an emphasis on the use of color. Coursework includes studio production, lectures, demonstrations and critiques. Prerequisite any 100-level ART- course.
 
- **ART-374 Multiples in Printmaking**
-
+ **ART-374 Multiples in Printmaking**  
 Utilizes intaglio and lithography as a medium to explore artistic vision, personal imagery and design. Using the process of intaglio, students investigate the states of development of an image by printing multiple variations of the plate. Using the process of lithography, students learn how to create a limited edition of prints. Prerequisite any 100-level studio ART- course.
 
- **ART-391 Advanced Topics in Studio Art**
-
+ **ART-391 Advanced Topics in Studio Art**  
 See also Art History (ARH-391), @sec-courses-in-art-history
 Focuses on a specific advanced studio art theme or topic. Topics vary. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: any 100- or 200-level ART- course or consent of instructor.
 
- **ART-394 Directed Studies in Art** 
-
+ **ART-394 Directed Studies in Art**  
 Investigates a topic in studio art selected by the student and instructor to fit the student’s particular interests and educational needs. May be taken more than once for credit. Prerequisites: junior standing and consent of department chair. 
 
 **400-level courses**
 
- **ART-444 Independent Study**
-
+ **ART-444 Independent Study**  
 Focuses on a topic for independent work on a selected project under the direction of a faculty member of the department. Prerequisite: consent of instructor.
 
- **ART-464 Senior Seminar I**
-
+ **ART-464 Senior Seminar I**  
 Prepares students for advanced research in studio art. Emphasis is on preparation of work toward the senior exhibit. Only art majors are admitted to this course. Materials fee (where applicable) should be discussed with instructor. Prerequisite: declared major in art and successful completion of Junior Review.
 
- **ART-474 Senior Seminar II & Senior Exhibition** 
-
+ **ART-474 Senior Seminar II & Senior Exhibition**  
 Prepares students for advanced research in studio art. Emphasis is on preparation of work toward the senior exhibit. Only art majors are admitted to this course. Materials fee (where applicable) should be discussed with instructor. Prerequisite: successful completion of Senior Seminar I (ART-464).
 
- **ART-494 Internship in Art** 
-
+ **ART-494 Internship in Art**  
 Investigates an area of interest related to the major, through voluntary field placement supervised by a faculty member of the art and art history department. A minimum of 140 hours on-site experience is required. P/NP basis only. Prerequisites: declared major in art, junior standing, and consent of department chair.  
 
 
@@ -619,17 +530,17 @@ The major is interdisciplinary and requires that the students take courses in th
 
 ### Courses in Asian Studies
 
- **ASC 106 May Term in Asia**
+ **ASC 106 May Term in Asia**  
 Examines experientially the fast-changing nation of Vietnam through three weeks of study and travel in the country. Students will investigate and evaluate
 the contemporary nation, as well as the history and memory of its wartime experiences, through readings, written work, class discussions, and visits to
 important historical and cultural landmarks. Through these varied experiences, students will deepen their understandings of the cultural skills involved in
-overseas travel, the cultural differences and commonalities that shape human experiences, and the specific knowledge of Vietnam's culture and history.
- **ASC 176 China and Japan**
-An interdisciplinary examination of themes and ideas central to understanding the cultures of China and Japan. Materials used include primary texts in Taoism, Confucianism, and Buddhism, as well as works of poetry, fiction, and visual art.
- **ASC 186 Modern South Asia**
-India, Pakistan, Bangladesh, and Sri Lanka from a modern perspective. The preoccupation with identity, the reemergence of caste and religious conflicts, the strengths and weaknesses of political and economic development, and the implication of trends for the future. Includes selected topics on culture and history that provide insights to understanding the present.
- **+++MISSING INFO: c.asc216.long +++**
-See @sec-history
+overseas travel, the cultural differences and commonalities that shape human experiences, and the specific knowledge of Vietnam's culture and history.  
+ **ASC 176 China and Japan**  
+An interdisciplinary examination of themes and ideas central to understanding the cultures of China and Japan. Materials used include primary texts in Taoism, Confucianism, and Buddhism, as well as works of poetry, fiction, and visual art.  
+ **ASC 186 Modern South Asia**  
+India, Pakistan, Bangladesh, and Sri Lanka from a modern perspective. The preoccupation with identity, the reemergence of caste and religious conflicts, the strengths and weaknesses of political and economic development, and the implication of trends for the future. Includes selected topics on culture and history that provide insights to understanding the present.  
+ **+++MISSING INFO: c.asc216.long +++**  
+See @sec-history  
 
 
 ## Athletic Training
