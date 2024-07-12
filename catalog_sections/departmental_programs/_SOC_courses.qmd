@@ -31,11 +31,11 @@ A major in Sociology requires a cumulative 2.0 GPA in all courses counted toward
 
 The following courses do not satisfy any of the requirements for a major or minor in sociology:
 
-	- {{< var c.soc275.long >}}
-	- {{< var c.soc365.long >}} or {{< var c.soc375.long >}}
-	- {{< var c.soc444.long >}}
-	- {{< var c.soc494.long >}}
-	- {{< var c.soc499.long >}}
+- {{< var c.soc275.long >}}
+- {{< var c.soc365.long >}} or {{< var c.soc375.long >}}
+- {{< var c.soc444.long >}}
+- {{< var c.soc494.long >}}
+- {{< var c.soc499.long >}}
 
 ### Courses in Sociology 
 
