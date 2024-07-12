@@ -78,54 +78,35 @@ A major in African American studies requires a minimum cumulative 2.0 GPA in all
 
 ### COURSES IN AFRICAN AMERICAN STUDIES {#sec-courses-in-african-american-studies}
 
- **AAM 107 Intro to African American Studies** 
-
-What is African American culture, and what accounts for its cultural distinctions? This course introduces students to the study of African American culture and the field of African American Studies. through an interdiciplinary approach (literature, history, music, art and film) students will examine central themes and key debates pertinent to African American culture and history from its beginning to present.
-
- **AAM 137 African American Literature**
-
-Reading and discussion of the writings of African Americans, with emphasis on the 20th century. May include some relevant writings on African Americans by other groups. Study of the artistic values and of the social and cultural significance of these writings. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different.
-
- **AAM 217 Sport and Black Culture** 
-
-Examines through cultural analysis the complex relationships between sport and Black culture.  This course addresses the way sport has evolved from being merely a physical activity to a cultural expression in Black communities.  This course emphasizes the historical patterns and current conditions of Blacks; participation in sport through various articles, videos, and books.  The course also examines how many Black people have used sport as a means of resistance, survival, and social mobility. Students learn to analyze cultural expression, to understand race and its continuing impact in American life, and to understand how various sports pursuits by Black athletes are invested with multiple meanings. Major topics and themes covered include: the concept of race, Black culture, the historical presence of Black athletes in sport, their current impact, and their dominance in certain sports.
-
- **AAM 227 Blackness & Identity in America** 
-
+ **AAM 107 Intro to African American Studies**  
+What is African American culture, and what accounts for its cultural distinctions? This course introduces students to the study of African American culture and the field of African American Studies. through an interdiciplinary approach (literature, history, music, art and film) students will examine central themes and key debates pertinent to African American culture and history from its beginning to present.  
+ **AAM 137 African American Literature**  
+Reading and discussion of the writings of African Americans, with emphasis on the 20th century. May include some relevant writings on African Americans by other groups. Study of the artistic values and of the social and cultural significance of these writings. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different.  
+ **AAM 217 Sport and Black Culture**  
+Examines through cultural analysis the complex relationships between sport and Black culture.  This course addresses the way sport has evolved from being merely a physical activity to a cultural expression in Black communities.  This course emphasizes the historical patterns and current conditions of Blacks; participation in sport through various articles, videos, and books.  The course also examines how many Black people have used sport as a means of resistance, survival, and social mobility. Students learn to analyze cultural expression, to understand race and its continuing impact in American life, and to understand how various sports pursuits by Black athletes are invested with multiple meanings. Major topics and themes covered include: the concept of race, Black culture, the historical presence of Black athletes in sport, their current impact, and their dominance in certain sports.  
+ **AAM 227 Blackness & Identity in America**  
 Gathers a wide range of scholarship about race and identity to explore what race is, why it matters, racial dynamics in
 organizations, and how best to address them. Students will explore questions of identity, privilege, ethnicity, gender,
 and class. In this course, “race” is reviewed as a shorthand for the interconnected complexity of race, ethnicity,
 culture, and color, and will be carefully analyzed to distinguish among such terms and ideas. Students will critically
 analyze the social construct and the popular understandings of race and identity as reinforced through cultural
 institutions. Students will understand and evaluate the foundational concepts and theories of race and identity and
-synthesize their knowledge through research, presentation, and writing.
-
- **AAM 287 Topics in African American Studies** 
-
-Examines an important theme or subject specific to African American experiences and culture. Content varies and is determined by the instructor. Students learn to understand African American experiences in context, to analyze texts and events from multiple disciplinary perspectives, and to write in clear, analytical prose. May be taken more than once for credit, provided the topics are substantially different.
-
- **AAM 367 Topics in AfricanAmericanLiterature**
-
-See also English (ENG-367), @sec-courses-in-english
-
-None
-
- **AAM 387 Adv Topics in African American Stud** 
-
-Examines an important theme or subject specific to African American experiences and culture. Content varies and is determined by the instructor. Students learn to understand African American experiences in context, to analyze texts and events from multiple disciplinary perspectives, and to write in clear, analytical prose. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: Introduction to African American Studies (AAM-107) or consent of instructor.
-
- **AAM 444 Ind Study-Afr-Am St** 
-
-Study of individually chosen research topics in African American studies under the direction of a faculty member in the area. May be taken for an X status grade with consent of instructor prior to registration. Prerequisites: Introduction to African American Studies (AAM-107) or African American Literature (AAM-137); consent of African American Studies administrative coordinator and submission of a written proposal for a project.
-
- **+++MISSING INFO: c.aam447/457.long +++** 
-
-+++MISSING INFO: c.aam447/457.desc +++
-
- **AAM 467 Seminar in African American Lit** 
-Intensive study of selected works and subjects in African American literature. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different. Prerequisites: junior standing and The Art of Literary Research (ENG-301). May be taken more than once.
- **AAM 494 Internship in African American Stds** 
-None 
+synthesize their knowledge through research, presentation, and writing.  
+ **AAM 287 Topics in African American Studies**  
+Examines an important theme or subject specific to African American experiences and culture. Content varies and is determined by the instructor. Students learn to understand African American experiences in context, to analyze texts and events from multiple disciplinary perspectives, and to write in clear, analytical prose. May be taken more than once for credit, provided the topics are substantially different.  
+ **AAM 367 Topics in AfricanAmericanLiterature**  
+See also English (ENG-367), @sec-courses-in-english  
+None  
+ **AAM 387 Adv Topics in African American Stud**   
+Examines an important theme or subject specific to African American experiences and culture. Content varies and is determined by the instructor. Students learn to understand African American experiences in context, to analyze texts and events from multiple disciplinary perspectives, and to write in clear, analytical prose. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: Introduction to African American Studies (AAM-107) or consent of instructor.  
+ **AAM 444 Ind Study-Afr-Am St**  
+Study of individually chosen research topics in African American studies under the direction of a faculty member in the area. May be taken for an X status grade with consent of instructor prior to registration. Prerequisites: Introduction to African American Studies (AAM-107) or African American Literature (AAM-137); consent of African American Studies administrative coordinator and submission of a written proposal for a project.  
+ **+++MISSING INFO: c.aam447/457.long +++**  
++++MISSING INFO: c.aam447/457.desc +++  
+ **AAM 467 Seminar in African American Lit**  
+Intensive study of selected works and subjects in African American literature. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different. Prerequisites: junior standing and The Art of Literary Research (ENG-301). May be taken more than once.  
+ **AAM 494 Internship in African American Stds**   
+None  
 
 
 ## ANTHROPOLOGY (Minor Only)
@@ -3382,9 +3363,37 @@ A minor in Health and Society Studies requires a minimum cumulative 2.0 GPA in a
 
 
 
+## Interdisciplinary Studies {#sec-interdisciplinary-studies} 
+
+The interdisciplinary major is a rigorous academic program in which the individual student assumes primary responsibility for designing her or his own academic program. Since the interdisciplinary major is structured by the student to serve individual needs, the primary courses selected for the major invariably cross traditional departmental boundaries. In all instances, the interdisciplinary major must display internal topical coherence. Assisting the student in developing a coherent interdisciplinary major will be the supervising faculty member, the student’s academic advisor (if the advisor is not the supervising faculty member), faculty from those departments in which the student is taking primary courses, and the Academic Policies Committee. This committee is responsible for approving student-initiated majors and for offering, where necessary, constructive advice on student proposals. Further guidelines for interdisciplinary majors may be obtained from the Office of the Registrar. The decision to undertake and to seek approval of an interdisciplinary major should be made after the student has had sufficient consultation with the appropriate persons within the College. Normally, this decision is made in the sophomore year, but in no case is an interdisciplinary major approved after the student has embarked upon the final eight courses leading to graduation. Application for an interdisciplinary major must contain the following: 1) a list of the nine to 11 primary courses which constitute the major; 2) a list of secondary or supportive courses which are tangentially related to the major; and 3) a three- to four-page typewritten statement of the rationale for the proposal, indicating, among other things, the internal coherence of the major. 
+
+### Additional guidelines and requirements: 
+1. Courses for the major are selected from three or more academic disciplines. At least 40% of the courses in a proposed major must be taken at Coe. 
+2. A student’s program of study must include, among the primary and secondary courses listed on the proposal, at least five upper division classes within a single discipline or within two closely related disciplines. Students may consider an established, departmental minor when a minor appropriate to the proposed major is available. Students should not propose a major that simply recombines courses from majors and minors that will already be recognized on the student’s transcript. An interdisciplinary major should be substantially distinct from the student’s other majors and minors. 
+3. Students must complete an integrative senior project which demonstrates competence in bringing together at least two disciplines within the major. A student develops a project in consultation with the student’s academic advisor and at least one other faculty consultant from an appropriate department other than that of the academic advisor. The senior project must be reviewed. The form of the review, which may be similar to the defense of an honors project, is determined by the project advisor in consultation with the student. The project must also be reviewed by at least one other faculty member from a department other than that of the faculty advisor. Students may undertake the project with or without academic credit. Registration for credit may take one of two forms. Students may register for regular catalog courses in individualized instruction (e.g., directed readings or directed writing classes) or they may apply for an independent study which requires approval by the Chair of the Academic Policies Committee (Provost). 
+4. An interdisciplinary major may include an internship. 
+
+
+### Courses in Interdisciplinary Studies
+- **INT 494 Internship**
+  An internship related to the student’s field of interdisciplinary study supervised by the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. Prerequisites: junior standing and approval of an interdisciplinary major. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## International Business {#sec-international-business}
 
-Students majoring in business administration have two options: the BUSINESS ADMINISTRATION major (see @sec-business-administration-and-economics) and the INTERNATIONAL BUSINESS major. The international business major is designed to prepare students for specific challenges related to operating an organization in an international context. Because of significant overlap in the business administration and the international business requirements, only one of the two majors may be elected by a student.  
+Students majoring in business administration have two options: the **BUSINESS ADMINISTRATION** major (see @sec-business-administration-and-economics) and the **INTERNATIONAL BUSINESS** major. The international business major is designed to prepare students for specific challenges related to operating an organization in an international context. Because of significant overlap in the business administration and the international business requirements, only one of the two majors may be elected by a student.  
 
 ### International Business Major
 A major in international business requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
@@ -3430,36 +3439,8 @@ A major in international business requires a minimum cumulative 2.0 GPA in all c
 
 
 
-## Interdisciplinary Studies {#sec-interdisciplinary-studies} 
-
-The interdisciplinary major is a rigorous academic program in which the individual student assumes primary responsibility for designing her or his own academic program. Since the interdisciplinary major is structured by the student to serve individual needs, the primary courses selected for the major invariably cross traditional departmental boundaries. In all instances, the interdisciplinary major must display internal topical coherence. Assisting the student in developing a coherent interdisciplinary major will be the supervising faculty member, the student’s academic advisor (if the advisor is not the supervising faculty member), faculty from those departments in which the student is taking primary courses, and the Academic Policies Committee. This committee is responsible for approving student-initiated majors and for offering, where necessary, constructive advice on student proposals. Further guidelines for interdisciplinary majors may be obtained from the Office of the Registrar. The decision to undertake and to seek approval of an interdisciplinary major should be made after the student has had sufficient consultation with the appropriate persons within the College. Normally, this decision is made in the sophomore year, but in no case is an interdisciplinary major approved after the student has embarked upon the final eight courses leading to graduation. Application for an interdisciplinary major must contain the following: 1) a list of the nine to 11 primary courses which constitute the major; 2) a list of secondary or supportive courses which are tangentially related to the major; and 3) a three- to four-page typewritten statement of the rationale for the proposal, indicating, among other things, the internal coherence of the major. 
-
-### Additional guidelines and requirements: 
-1. Courses for the major are selected from three or more academic disciplines. At least 40% of the courses in a proposed major must be taken at Coe. 
-2. A student’s program of study must include, among the primary and secondary courses listed on the proposal, at least five upper division classes within a single discipline or within two closely related disciplines. Students may consider an established, departmental minor when a minor appropriate to the proposed major is available. Students should not propose a major that simply recombines courses from majors and minors that will already be recognized on the student’s transcript. An interdisciplinary major should be substantially distinct from the student’s other majors and minors. 
-3. Students must complete an integrative senior project which demonstrates competence in bringing together at least two disciplines within the major. A student develops a project in consultation with the student’s academic advisor and at least one other faculty consultant from an appropriate department other than that of the academic advisor. The senior project must be reviewed. The form of the review, which may be similar to the defense of an honors project, is determined by the project advisor in consultation with the student. The project must also be reviewed by at least one other faculty member from a department other than that of the faculty advisor. Students may undertake the project with or without academic credit. Registration for credit may take one of two forms. Students may register for regular catalog courses in individualized instruction (e.g., directed readings or directed writing classes) or they may apply for an independent study which requires approval by the Chair of the Academic Policies Committee (Provost). 
-4. An interdisciplinary major may include an internship. 
-
-
-### Courses in Interdisciplinary Studies
-- **INT 494 Internship**
-  An internship related to the student’s field of interdisciplinary study supervised by the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. Prerequisites: junior standing and approval of an interdisciplinary major. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## International Economics {#sec-international-economics}
-Students majoring in economics have two options: the ECONOMICS major (see @sec-economics) and the INTERNATIONAL ECONOMICS major. The international economics major is designed to allow students who are interested in international studies to explore issues of development, growth, and international finance, using the tools of economic analysis. Because of significant overlap in the economics and the international economics requirements, only one of the two majors may be elected by a student. Students majoring in economics or international economics may not minor in either economics or international economics.
+Students majoring in economics have two options: the **ECONOMICS** major (see @sec-economics) and the **INTERNATIONAL ECONOMICS** major. The international economics major is designed to allow students who are interested in international studies to explore issues of development, growth, and international finance, using the tools of economic analysis. Because of significant overlap in the economics and the international economics requirements, only one of the two majors may be elected by a student. Students majoring in economics or international economics may not minor in either economics or international economics.
 
 ### International Economics Major
 1. ECO 175 Principles of Macroeconomics
@@ -5911,11 +5892,11 @@ A major in Sociology requires a cumulative 2.0 GPA in all courses counted toward
 
 The following courses do not satisfy any of the requirements for a major or minor in sociology:
 
-	- SOC 275 Directed Readings in Sociology
-	- SOC 365 Research Participation I or SOC 375 Research Participation II
-	- SOC 444 Ind Study-Soc
-	- SOC 494 Internship in Sociology
-	- SOC 499 Career Related Independent Invest
+- SOC 275 Directed Readings in Sociology
+- SOC 365 Research Participation I or SOC 375 Research Participation II
+- SOC 444 Ind Study-Soc
+- SOC 494 Internship in Sociology
+- SOC 499 Career Related Independent Invest
 
 ### Courses in Sociology 
 
@@ -6172,6 +6153,7 @@ Theatre Arts students select one of the following **emphases**: general, acting,
 	- THE 350 Advanced Acting:Shakespeare
  
 *Strongly recommended:*
+
 	- Any dance course (DAN-101 through DAN-152)
 	- THE 162 Stage Make-Up 
 	- THE 452 Advanced Projects in Acting 

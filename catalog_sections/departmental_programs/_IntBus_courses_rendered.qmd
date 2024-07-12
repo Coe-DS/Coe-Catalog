@@ -1,6 +1,6 @@
 ## International Business {#sec-international-business}
 
-Students majoring in business administration have two options: the BUSINESS ADMINISTRATION major (see @sec-business-administration-and-economics) and the INTERNATIONAL BUSINESS major. The international business major is designed to prepare students for specific challenges related to operating an organization in an international context. Because of significant overlap in the business administration and the international business requirements, only one of the two majors may be elected by a student.  
+Students majoring in business administration have two options: the **BUSINESS ADMINISTRATION** major (see @sec-business-administration-and-economics) and the **INTERNATIONAL BUSINESS** major. The international business major is designed to prepare students for specific challenges related to operating an organization in an international context. Because of significant overlap in the business administration and the international business requirements, only one of the two majors may be elected by a student.  
 
 ### International Business Major
 A major in international business requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
