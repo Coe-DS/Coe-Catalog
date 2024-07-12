@@ -29,7 +29,7 @@ A major in data science requires a minimum cumulative 2.0 GPA in all courses cou
 
 ### Data Science Minor 
 
-1. DS 100 Introduction to Data Science or DS 120 Sports Analytics  
+1. DS 100 Introduction to Data Science **or** DS 120 Sports Analytics  
 2. CS 125 Computer Science I, or commensurate programming experience  
 3. One of the following Statistical Foundations courses:  
   a. BUS 190 Statistical Analysis  

@@ -13,9 +13,9 @@ Students majoring in economics have two options: the **ECONOMICS** major (see @s
 9. ECO 495 International Finance
 10. Two courses in world language numbered 115 or above
 11. **One** of the following:
-	A semester abroad
-	A May Term abroad
-	A capstone project in international economics, supervised by a member of the economics faculty
+	- A semester abroad
+	- A May Term abroad
+	- A capstone project in international economics, supervised by a member of the economics faculty
 
 **NOTE:** *International economics majors intending to do graduate work in international studies or intending to pursue a career with a governmental or non-governmental agency are strongly encouraged to consider a minor or major in political science or one of the International Studies tracks to complement the international economics major. Students are also encouraged to work closely with a member of the department to select complementary general education courses. *
 
