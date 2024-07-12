@@ -64,9 +64,9 @@
 
 {{< include departmental_programs/_HSS_courses.qmd >}}
 
-{{< include departmental_programs/_IntBus_courses.qmd >}}
-
 {{< include departmental_programs/_INT_courses.qmd >}}
+
+{{< include departmental_programs/_IntBus_courses.qmd >}}
 
 {{< include departmental_programs/_IntEco_courses.qmd >}}
 
