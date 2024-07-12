@@ -66,11 +66,11 @@ The major is interdisciplinary and requires that the students take courses in th
 
 ### Courses in Asian Studies
 
- **{{< var c.asc106.long >}}**
-{{< var c.asc106.desc >}}
- **{{< var c.asc176.long >}}**
-{{< var c.asc176.desc >}}
- **{{< var c.asc186.long >}}**
-{{< var c.asc186.desc >}}
- **{{< var c.asc216.long >}}**
-See @sec-history
+ **{{< var c.asc106.long >}}**  
+{{< var c.asc106.desc >}}  
+ **{{< var c.asc176.long >}}**  
+{{< var c.asc176.desc >}}  
+ **{{< var c.asc186.long >}}**  
+{{< var c.asc186.desc >}}  
+ **{{< var c.asc216.long >}}**  
+See @sec-history  
