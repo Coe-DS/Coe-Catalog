@@ -59,11 +59,11 @@ Theatre Arts students select one of the following **emphases**: general, acting,
  
 *Strongly recommended:*
 
-	- Any dance course (DAN-101 through DAN-152)
-	- {{< var c.the162.long >}} 
-	- {{< var c.the452.long >}} 
-	- {{< var c.phl105.long >}} 
-	- {{< var c.psy100.long >}} 
+- Any dance course (DAN-101 through DAN-152)
+- {{< var c.the162.long >}} 
+- {{< var c.the452.long >}} 
+- {{< var c.phl105.long >}} 
+- {{< var c.psy100.long >}} 
 
 **Directing**
 
