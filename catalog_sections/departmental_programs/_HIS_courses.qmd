@@ -47,7 +47,7 @@ A major in history requires a minimum cumulative 2.0 GPA in all courses counted 
 - **One** course in Asian history
 - **Two** additional history courses approved by the department
 
-			**OR**
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **or**
 
 - {{< var c.his145.long >}}
 - {{< var c.his155.long >}}
