@@ -25,6 +25,7 @@ The following requirements are designed to provide a framework within which the 
 
 ### Senior Seminar Course
 - **{{< var c.lit464.long >}}**
+  
   {{< var c.lit464.desc >}} 
 
 
