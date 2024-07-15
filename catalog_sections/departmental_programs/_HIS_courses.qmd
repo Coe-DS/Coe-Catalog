@@ -117,100 +117,148 @@ A major in history requires a minimum cumulative 2.0 GPA in all courses counted 
 
 ### Courses in History
 - **{{< var c.his115.long >}}**
+  
   {{< var c.his115.desc >}} 
 - **{{< var c.his125.long >}}**
+  
   {{< var c.his125.desc >}} 
 - **{{< var c.his136.long >}}**
+  
   {{< var c.his136.desc >}} 
 - **{{< var c.his145.long >}}**
+  
   {{< var c.his145.desc >}} 
 - **{{< var c.his155.long >}}**
+  
   {{< var c.his155.desc >}} 
 - **{{< var c.his205.long >}}**
+  
   {{< var c.his205.desc >}} 
 - **{{< var c.his208.long >}}**
+  
   {{< var c.his208.desc >}} 
 - **{{< var c.his216.long >}}**
+  
   {{< var c.his216.desc >}} 
 - **{{< var c.his217.long >}}**
+  
   {{< var c.his217.desc >}} 
 - **{{< var c.his218.long >}}**
+  
   {{< var c.his218.desc >}} 
 - **{{< var c.his227.long >}}**
+  
   {{< var c.his227.desc >}} 
 - **{{< var c.his238.long >}}**
+  
   {{< var c.his238.desc >}} 
 - **{{< var c.his246.long >}}**
+  
   {{< var c.his246.desc >}} 
 - **{{< var c.his248.long >}}**
+  
   {{< var c.his248.desc >}} 
 - **{{< var c.his256.long >}}**
+  
   {{< var c.his256.desc >}} 
 - **{{< var c.his257.long >}}**
+  
   {{< var c.his257.desc >}} 
 - **{{< var c.his268.long >}}**
+  
   {{< var c.his268.desc >}} 
 - **{{< var c.his272.long >}}**
+  
   {{< var c.his272.desc >}} 
 - **{{< var c.his275.long >}}**
+  
   {{< var c.his275.desc >}} 
 - **{{< var c.his276.long >}}**
+  
   {{< var c.his276.desc >}} 
 - **{{< var c.his278.long >}}**
+  
   {{< var c.his278.desc >}} 
 - **{{< var c.his285.long >}}**
+  
   {{< var c.his285.desc >}} 
 - **{{< var c.his286.long >}}**
+  
   {{< var c.his286.desc >}} 
 - **{{< var c.his288.long >}}**
+  
   {{< var c.his288.desc >}} 
 - **{{< var c.his292.long >}}**
+  
   {{< var c.his292.desc >}} 
 - **{{< var c.his297.long >}}**
+  
   {{< var c.his297.desc >}} 
 - **{{< var c.his300.long >}}**
+  
   {{< var c.his300.desc >}} 
 - **{{< var c.his306.long >}}**
+  
   {{< var c.his306.desc >}} 
 - **{{< var c.his308.long >}}**
+  
   {{< var c.his308.desc >}} 
 - **{{< var c.his316.long >}}**
+  
   {{< var c.his316.desc >}} 
 - **{{< var c.his317.long >}}**
+  
   {{< var c.his317.desc >}} 
 - **{{< var c.his318.long >}}**
+  
   {{< var c.his318.desc >}} 
 - **{{< var c.his325.long >}}**
+  
   {{< var c.his325.desc >}} 
 - **{{< var c.his328.long >}}**
+  
   {{< var c.his328.desc >}} 
 - **{{< var c.his335.long >}}**
+  
   {{< var c.his335.desc >}} 
 - **{{< var c.his347.long >}}**
+  
   {{< var c.his347.desc >}} 
 - **{{< var c.his355.long >}}**
+  
   {{< var c.his355.desc >}} 
 - **{{< var c.his365.long >}}**
+  
   {{< var c.his365.desc >}} 
 - **{{< var c.his372.long >}}**
+  
   {{< var c.his372.desc >}} 
 - **{{< var c.his387.long >}}**
+  
   {{< var c.his387.desc >}} 
 - **{{< var c.his395.long >}}**
+  
   {{< var c.his395.desc >}} 
 - **{{< var c.his444.long >}}**
+  
   {{< var c.his444.desc >}} 
 - **{{< var c.his465.long >}}**
+  
   {{< var c.his465.desc >}} 
 - **{{< var c.his466.long >}}**
+  
   {{< var c.his466.desc >}} 
 - **{{< var c.his472.long >}}**
+  
   {{< var c.his472.desc >}} 
 - **{{< var c.his473.long >}}**
+  
   {{< var c.his473.desc >}} 
 - **{{< var c.his474.long >}}**
+  
   {{< var c.his474.desc >}} 
 - **{{< var c.his494.long >}}**
+  
   {{< var c.his494.desc >}} 
 
 
