@@ -80,9 +80,9 @@
 
 {{< include departmental_programs/_LIT_courses.qmd >}}
 
-{{< include departmental_programs/_MolBio_courses.qmd >}}
-
 {{< include departmental_programs/_MTH_courses.qmd >}}
+
+{{< include departmental_programs/_MolBio_courses.qmd >}}
 
 {{< include departmental_programs/_MU_courses.qmd >}}
 
