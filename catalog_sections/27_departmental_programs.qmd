@@ -100,9 +100,9 @@
 
 {{< include departmental_programs/_POL_courses.qmd >}}
 
-{{< include departmental_programs/_PR_courses.qmd >}}
-
 {{< include departmental_programs/_PSY_courses.qmd >}}
+
+{{< include departmental_programs/_PR_courses.qmd >}}
 
 {{< include departmental_programs/_REL_courses.qmd >}}
 
