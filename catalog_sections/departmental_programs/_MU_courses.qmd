@@ -13,9 +13,9 @@ Students who major in music may select either the Bachelor of Arts degree or the
 Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 
 1. **Six** theory and history courses with a grade of “C” (2.0) or higher:
-	- {{< var c.mu109.long >}}/{{< var c.mu109L.long >}}
-	- {{< var c.mu209.long >}}/{{< var c.mu209L.long >}}
-	- {{< var c.mu309.long >}}/{{< var c.mu309L.long >}}
+	- {{< var c.mu109.long >}}/{{< var c.mu109l.long >}}
+	- {{< var c.mu209.long >}}/{{< var c.mu209l.long >}}
+	- {{< var c.mu309.long >}}/{{< var c.mu309l.long >}}
 	- {{< var c.mu255.long >}}
 	- {{< var c.mu355.long >}}
 	- {{< var c.mu458.long >}}
@@ -31,7 +31,7 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 	**Composition**
 
 	1. {{< var c.mu195.long >}}
-	2. {{< var c.mu409.long >}}/{{< var c.mu409L.long >}}
+	2. {{< var c.mu409.long >}}/{{< var c.mu409l.long >}}
 	3. {{< var c.mua413.long >}}
 	4. {{< var c.mua423.long >}}
 	5. **Eight** terms of participation in the Applied Music Course, which must include four terms each of MUA-202C and MUA-303C
@@ -42,7 +42,7 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 	
 	**Keyboard and Instrumental Performance**
 
-	1. {{< var c.mu409.long >}}/{{< var c.mu409L.long >}}
+	1. {{< var c.mu409.long >}}/{{< var c.mu409l.long >}}
 	2. **Four** of the following:
 		- {{< var c.mu140.long >}}
 		- {{< var c.mu151.long >}}
@@ -52,10 +52,10 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 		- {{< var c.mu166/284.long >}}
 		- {{< var c.mu385.long >}}
 		- {{< var c.mu444.long >}}
-		- {{< var c.mua133V.long >}}
-		- {{< var c.mua134V.long >}}
-		- {{< var c.mua413V.long >}}
-		- {{< var c.mua423V.long >}}
+		- {{< var c.mua133v.long >}}
+		- {{< var c.mua134v.long >}}
+		- {{< var c.mua413v.long >}}
+		- {{< var c.mua423v.long >}}
 		- One course credit in MUA-courses beyond those required in the Applied Music Course.
 	3. **Eight** terms of participation in the Applied Music Course. 
 	4. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements.) 
@@ -64,9 +64,9 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 
 	**Vocal Performance**
 
-	1. {{< var c.mua133V.long >}}
-	2. {{< var c.mua134V.long >}}
-	3. {{< var c.mu409.long >}}/{{< var c.mu409L.long >}}
+	1. {{< var c.mua133v.long >}}
+	2. {{< var c.mua134v.long >}}
+	3. {{< var c.mu409.long >}}/{{< var c.mu409l.long >}}
 	4. **Four** of the following:
 		- {{< var c.mu140.long >}}
 		- {{< var c.mu151.long >}}
@@ -76,7 +76,7 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 		- {{< var c.mu166/284.long >}}
 		- {{< var c.mu385.long >}}
 		- {{< var c.mu444.long >}}
-		- {{< var c.mua133V.long >}}
+		- {{< var c.mua133v.long >}}
 		- {{< var c.mua413.long >}}
 		- {{< var c.mua423.long >}}
 		- One course credit in MUA-courses beyond those required in the Applied Music Course. 
@@ -112,16 +112,16 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 ### BACHELOR OF ARTS: MUSIC MAJOR
 Candidates for the **BACHELOR OF ARTS** degree with a major in music must successfully complete:
 
-1. {{< var c.mu109.long >}}/{{< var c.mu109L.long >}}
-2. {{< var c.mu209.long >}}/{{< var c.mu209L.long >}}
-3. {{< var c.mu309.long >}}/{{< var c.mu309L.long >}}
+1. {{< var c.mu109.long >}}/{{< var c.mu109l.long >}}
+2. {{< var c.mu209.long >}}/{{< var c.mu209l.long >}}
+3. {{< var c.mu309.long >}}/{{< var c.mu309l.long >}}
 4. {{< var c.mu458.long >}}
 5. **Four** terms of participation in the Applied Music Course with piano as the primary or secondary performing area. (See @sec-MUA-classes)
 6. **One** of the following: 
 	- {{< var c.mu255.long >}}
 	- {{< var c.mu355.long >}}
 7. **One** of the following (if not used to satisfy #6):
-	- {{< var c.mua131V.long >}}
+	- {{< var c.mua131v.long >}}
 	- {{< var c.mu140.long >}}
 	- {{< var c.mu151.long >}}
 	- {{< var c.mu157.long >}}
@@ -132,19 +132,19 @@ Candidates for the **BACHELOR OF ARTS** degree with a major in music must succes
 	- {{< var c.mu285.long >}}
 	- {{< var c.mu355.long >}}
 	- {{< var c.mu409.long >}}
-	- {{< var c.mua133V.long >}}
-	- {{< var c.mua134V.long >}}
+	- {{< var c.mua133v.long >}}
+	- {{< var c.mua134v.long >}}
 8. The Senior Assessment Examination in the final term prior to graduation 
 
 ### Jazz Emphasis
 Students completing a **BACHELOR OF ARTS** degree may choose to supplement their music major with an Emphasis in Jazz.  Concurrent completion of a major in music is required.  A minimum of 6.1 course credits must be taken that do not count toward a major in music.
 
 1. {{< var c.mu157.long >}}
-2. {{< var c.mu409.long >}}/{{< var c.mu409L.long >}}
+2. {{< var c.mu409.long >}}/{{< var c.mu409l.long >}}
 3. **Five** terms of {{< var c.mua102.long >}}
 4. **Seven** terms of {{< var c.mua101.long >}}
-5. **Two** terms of {{< var c.mua102K.long >}}
-6. **Two** terms of {{< var c.mua103K.long >}}
+5. **Two** terms of {{< var c.mua102k.long >}}
+6. **Two** terms of {{< var c.mua103k.long >}}
 7. {{< var c.aam107.long >}}
 
 ### Music Industry Emphasis
@@ -167,10 +167,10 @@ Students completing a **BACHELOR OF ARTS** degree may choose to supplement their
 1. {{< var c.the150.long >}}
 2. {{< var c.the170.long >}}
 3. {{< var c.the270.long >}}
-4. **Two** terms of {{< var c.mua202V.long >}} with musical theatre repertoire (may not be used to satisfy the requirement of #1) 
+4. **Two** terms of {{< var c.mua202v.long >}} with musical theatre repertoire (may not be used to satisfy the requirement of #1) 
 5. **One** additional course credit in practical musical theatre chosen from a combination of the following:
-	- {{< var c.mua130V.long >}}
-	- {{< var c.mua131V.long >}}
+	- {{< var c.mua130v.long >}}
+	- {{< var c.mua131v.long >}}
 	- A musical theatre internship approved by the music or theatre arts department
 6. **Six** seven-week dance courses (DAN-101 through DAN-142) (0.2 cc)
 
@@ -181,7 +181,7 @@ Courses taken to satisfy requirements in the Bachelor of Arts in Music may NOT a
 
 1. {{< var c.psy100.long >}}
 2. {{< var c.bio103.long >}}
-3. {{< var c.bio155.long >}} & {{< var c.bio155L.long >}} (concurrent with BIO-155)
+3. {{< var c.bio155.long >}} & {{< var c.bio155l.long >}} (concurrent with BIO-155)
 4. **One** of the following:
 	- {{< var c.edu117.long >}}
 	- {{< var c.edu187.long >}}
@@ -198,13 +198,13 @@ Courses taken to satisfy requirements in the Bachelor of Arts in Music may NOT a
 	- {{< var c.mu195.long >}}
 	- {{< var c.mu285.long >}}
 	- {{< var c.mu409.long >}}
-	- {{< var c.mua102K.long >}}
+	- {{< var c.mua102k.long >}}
 	- Additional terms of ensemble participation, beyond those required for the Bachelor of Arts in Music: 
 		* Concert Band (0.3 each), Jazz Band (0.2 each), Concert Choir (0.3 each), Chorale (0.2 each), Orchestra (0.3 each), or Handbells (0.2 each) 
 	- Additional terms of hour lessons, beyond those required for the Bachelor of Arts in Music, on your primary instrument (0.6 each):  
-		* {{< var c.mua104K.long >}}
-		* {{< var c.mua151S.long >}}
-		* {{< var c.mua300A.long >}}
+		* {{< var c.mua104k.long >}}
+		* {{< var c.mua151s.long >}}
+		* {{< var c.mua300a.long >}}
 
 Strongly recommended:
 
@@ -238,104 +238,103 @@ Artist teachers in violin, viola, cello, string and electric bass, piano, piano 
 Composition lessons and classes in keyboard, brass, woodwind, and string literature are also available. Credit for applied music study is granted after the student has satisfactorily passed an examination by a faculty committee (jury exam) at the close of each term. Two hours daily practice per weekly hour lesson are expected of all students taking applied music. 
 
 ### APPLIED BRASSES--LESSONS
-- {{< var c.mua101B.long >}}
-- {{< var c.mua202B.long >}}
-- {{< var c.mua303B.long >}}
-- {{< var c.mua111B.long >}}
-- {{< var c.mua212B.long >}}
-- {{< var c.mua313B.long >}}
-- {{< var c.mua121B.long >}}
-- {{< var c.mua222B.long >}}
-- {{< var c.mua323B.long >}}
-- {{< var c.mua131B.long >}}
-- {{< var c.mua232B.long >}}
-- {{< var c.mua333B.long >}}
+- {{< var c.mua101b.long >}}
+- {{< var c.mua202b.long >}}
+- {{< var c.mua303b.long >}}
+- {{< var c.mua111b.long >}}
+- {{< var c.mua212b.long >}}
+- {{< var c.mua313b.long >}}
+- {{< var c.mua121b.long >}}
+- {{< var c.mua222b.long >}}
+- {{< var c.mua323b.long >}}
+- {{< var c.mua131b.long >}}
+- {{< var c.mua232b.long >}}
+- {{< var c.mua333b.long >}}
 
 ### APPLIED COMPOSITION--LESSONS
-- {{< var c.mua101C.long >}}
-- {{< var c.mua202C.long >}}
-- {{< var c.mua303C.long >}}
+- {{< var c.mua101c.long >}}
+- {{< var c.mua202c.long >}}
+- {{< var c.mua303c.long >}}
 - {{< var c.mua413.long >}}
 - {{< var c.mua423.long >}}
 
 ### APPLIED KEYBOARD--LESSONS
-- {{< var c.mua100K.long >}}
-- {{< var c.mua101K.long >}}
-- {{< var c.mua102K.long >}}
-- {{< var c.mua103K.long >}}
-- {{< var c.mua202K.long >}}
-- {{< var c.mua303K.long >}}
-- {{< var c.mua304K.long >}}
-- {{< var c.mua111K.long >}}
-- {{< var c.mua212K.long >}}
-- {{< var c.mua313K.long >}}
-- {{< var c.mua121K.long >}}
-- {{< var c.mua222K.long >}}
-- {{< var c.mua323K.long >}}
+- {{< var c.mua100k.long >}}
+- {{< var c.mua102k.long >}}
+- {{< var c.mua103k.long >}}
+- {{< var c.mua202k.long >}}
+- {{< var c.mua303k.long >}}
+- {{< var c.mua304k.long >}}
+- {{< var c.mua111k.long >}}
+- {{< var c.mua212k.long >}}
+- {{< var c.mua313k.long >}}
+- {{< var c.mua121k.long >}}
+- {{< var c.mua222k.long >}}
+- {{< var c.mua323k.long >}}
 
 ### APPLIED PERCUSSION--LESSONS
-- {{< var c.mua101P.long >}}
-- {{< var c.mua202P.long >}}
-- {{< var c.mua303P.long >}}
+- {{< var c.mua101p.long >}}
+- {{< var c.mua202p.long >}}
+- {{< var c.mua303p.long >}}
 
 ### APPLIED STRINGS--LESSONS
-- {{< var c.mua101S.long >}}
-- {{< var c.mua202S.long >}}
-- {{< var c.mua303S.long >}}
-- {{< var c.mua111S.long >}}
-- {{< var c.mua212S.long >}}
-- {{< var c.mua313S.long >}}
-- {{< var c.mua121S.long >}}
-- {{< var c.mua222S.long >}}
-- {{< var c.mua323S.long >}}
-- {{< var c.mua131S.long >}}
-- {{< var c.mua232S.long >}}
-- {{< var c.mua333S.long >}}
-- {{< var c.mua141S.long >}}
-- {{< var c.mua242S.long >}}
-- {{< var c.mua343S.long >}}
-- {{< var c.mua151S.long >}}
-- {{< var c.mua252S.long >}}
-- {{< var c.mua353S.long >}}
+- {{< var c.mua101s.long >}}
+- {{< var c.mua202s.long >}}
+- {{< var c.mua303s.long >}}
+- {{< var c.mua111s.long >}}
+- {{< var c.mua212s.long >}}
+- {{< var c.mua313s.long >}}
+- {{< var c.mua121s.long >}}
+- {{< var c.mua222s.long >}}
+- {{< var c.mua323s.long >}}
+- {{< var c.mua131s.long >}}
+- {{< var c.mua232s.long >}}
+- {{< var c.mua333s.long >}}
+- {{< var c.mua141s.long >}}
+- {{< var c.mua242s.long >}}
+- {{< var c.mua343s.long >}}
+- {{< var c.mua151s.long >}}
+- {{< var c.mua252s.long >}}
+- {{< var c.mua353s.long >}}
 
 ### APPLIED VOICE--LESSONS
 (Offerings vary each term and include sight singing and/or Alexander Technique.)
 
-- {{< var c.mua101V.long >}}
-- {{< var c.mua110V.long >}}
-- {{< var c.mua202V.long >}}
-- {{< var c.mua303V.long >}}
-- {{< var c.mua300A.long >}}
+- {{< var c.mua101v.long >}}
+- {{< var c.mua110v.long >}}
+- {{< var c.mua202v.long >}}
+- {{< var c.mua303v.long >}}
+- {{< var c.mua300a.long >}}
 
 ### APPLIED WOODWINDS--LESSONS
-- {{< var c.mua101W.long >}}
-- {{< var c.mua202W.long >}}
-- {{< var c.mua303W.long >}}
-- {{< var c.mua111W.long >}}
-- {{< var c.mua212W.long >}}
-- {{< var c.mua313W.long >}}
-- {{< var c.mua121W.long >}}
-- {{< var c.mua222W.long >}}
-- {{< var c.mua323W.long >}}
-- {{< var c.mua131W.long >}}
-- {{< var c.mua232W.long >}}
-- {{< var c.mua333W.long >}}
-- {{< var c.mua141W.long >}}
-- {{< var c.mua242W.long >}}
-- {{< var c.mua343W.long >}}
+- {{< var c.mua101w.long >}}
+- {{< var c.mua202w.long >}}
+- {{< var c.mua303w.long >}}
+- {{< var c.mua111w.long >}}
+- {{< var c.mua212w.long >}}
+- {{< var c.mua313w.long >}}
+- {{< var c.mua121w.long >}}
+- {{< var c.mua222w.long >}}
+- {{< var c.mua323w.long >}}
+- {{< var c.mua131w.long >}}
+- {{< var c.mua232w.long >}}
+- {{< var c.mua333w.long >}}
+- {{< var c.mua141w.long >}}
+- {{< var c.mua242w.long >}}
+- {{< var c.mua343w.long >}}
 
 ### APPLIED PEDAGOGY/ ENSEMBLE AND LITERATURE
-- {{< var c.mua133B.long >}}
-- {{< var c.mua134B.long >}}
-- {{< var c.mua133K.long >}}
-- {{< var c.mua134K.long >}}
-- {{< var c.mua133P.long >}}
-- {{< var c.mua134P.long >}}
-- {{< var c.mua133S.long >}}
-- {{< var c.mua134S.long >}}
-- {{< var c.mua133W.long >}}
-- {{< var c.mua134W.long >}}
-- {{< var c.mua134V.long >}}
+- {{< var c.mua133b.long >}}
+- {{< var c.mua134b.long >}}
+- {{< var c.mua133k.long >}}
+- {{< var c.mua134k.long >}}
+- {{< var c.mua133p.long >}}
+- {{< var c.mua134p.long >}}
+- {{< var c.mua133s.long >}}
+- {{< var c.mua134s.long >}}
+- {{< var c.mua133w.long >}}
+- {{< var c.mua134w.long >}}
+- {{< var c.mua134v.long >}}
 
 ### APPLIED TECHNIQUES
 - {{< var c.mua143.long >}}
@@ -358,8 +357,8 @@ Credit for participation in these regularly-offered ensembles is available under
 - {{< var c.mua105.long >}}
 - {{< var c.mua110.long >}}
 - {{< var c.mua111.long >}}
-- {{< var c.mua130V.long >}}
-- {{< var c.mua131V.long >}}
+- {{< var c.mua130v.long >}}
+- {{< var c.mua131v.long >}}
 - {{< var c.mua284.long >}}
 
 ### GENERAL SURVEY COURSES
@@ -373,19 +372,19 @@ Credit for participation in these regularly-offered ensembles is available under
 - {{< var c.mu166.long >}}
 - {{< var c.mu270.long >}}
 - {{< var c.mu284.long >}}
-- {{< var c.mua133V.long >}}
-- {{< var c.mua134V.long >}}
+- {{< var c.mua133v.long >}}
+- {{< var c.mua134v.long >}}
 
 ### THEORY COURSES 
 - {{< var c.mu109.long >}}
-- {{< var c.mu109L.long >}}
+- {{< var c.mu109l.long >}}
 - {{< var c.mu209.long >}}
-- {{< var c.mu209L.long >}}
+- {{< var c.mu209l.long >}}
 - {{< var c.mua211.long >}}
 - {{< var c.mu309.long >}}
-- {{< var c.mu309L.long >}}
+- {{< var c.mu309l.long >}}
 - {{< var c.mu409.long >}}
-- {{< var c.mu409L.long >}}
+- {{< var c.mu409l.long >}}
 
 ### COMPOSITION COURSES 
 - {{< var c.mu195.long >}}
@@ -410,7 +409,7 @@ Credit for participation in these regularly-offered ensembles is available under
 - {{< var c.mu364.long >}}
 - {{< var c.mu421.long >}}
 - {{< var c.mu422.long >}}
-- {{< var c.mua104K.long >}}
+- {{< var c.mua104k.long >}}
 
 ### ADVANCED STUDY IN MUSIC 
 - {{< var c.mua490.long >}}
@@ -428,9 +427,9 @@ Credit for participation in these regularly-offered ensembles is available under
 - **{{< var c.mu109.long >}}**
   
   {{< var c.mu109.desc >}} 
-- **{{< var c.mu109L.long >}}**
+- **{{< var c.mu109l.long >}}**
   
-  {{< var c.mu109L.desc >}} 
+  {{< var c.mu109l.desc >}} 
 - **{{< var c.mu140.long >}}**
   
   {{< var c.mu140.desc >}} 
@@ -458,9 +457,9 @@ Credit for participation in these regularly-offered ensembles is available under
 - **{{< var c.mu209.long >}}**
   
   {{< var c.mu209.desc >}} 
-- **{{< var c.mu209L.long >}}**
+- **{{< var c.mu209l.long >}}**
   
-  {{< var c.mu209L.desc >}} 
+  {{< var c.mu209l.desc >}} 
 - **{{< var c.mu251.long >}}**
   
   {{< var c.mu251.desc >}} 
@@ -481,9 +480,9 @@ Credit for participation in these regularly-offered ensembles is available under
 - **{{< var c.mu309.long >}}**
   
   {{< var c.mu309.desc >}} 
-- **{{< var c.mu309L.long >}}**
+- **{{< var c.mu309l.long >}}**
   
-  {{< var c.mu309L.desc >}} 
+  {{< var c.mu309l.desc >}} 
 - **{{< var c.mu355.long >}}**
   
   {{< var c.mu355.desc >}} 
@@ -508,9 +507,9 @@ Credit for participation in these regularly-offered ensembles is available under
 - **{{< var c.mu409.long >}}**
   
   {{< var c.mu409.desc >}} 
-- **{{< var c.mu409L.long >}}**
+- **{{< var c.mu409l.long >}}**
   
-  {{< var c.mu409L.desc >}} 
+  {{< var c.mu409l.desc >}} 
 - **{{< var c.mu421.long >}}**
   
   {{< var c.mu421.desc >}} 
@@ -550,18 +549,18 @@ Credit for participation in these regularly-offered ensembles is available under
 - **{{< var c.mua111.long >}}**
   
   {{< var c.mua111.desc >}} 
-- **{{< var c.mua130V.long >}}**
+- **{{< var c.mua130v.long >}}**
   
-  {{< var c.mua130V.desc >}} 
-- **{{< var c.mua131V.long >}}**
+  {{< var c.mua130v.desc >}} 
+- **{{< var c.mua131v.long >}}**
   
-  {{< var c.mua131V.desc >}} 
-- **{{< var c.mua133V.long >}}**
+  {{< var c.mua131v.desc >}} 
+- **{{< var c.mua133v.long >}}**
   
-  {{< var c.mua133V.desc >}} 
-- **{{< var c.mua134V.long >}}**
+  {{< var c.mua133v.desc >}} 
+- **{{< var c.mua134v.long >}}**
   
-  {{< var c.mua134V.desc >}} 
+  {{< var c.mua134v.desc >}} 
 - **{{< var c.mua211.long >}}**
   
   {{< var c.mua211.desc >}} 
