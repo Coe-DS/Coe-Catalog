@@ -24,136 +24,93 @@ The minor in English consists of five course credits, including {{< var c.eng111
 
 ### Courses in Literature {#sec-courses-in-english}
 
-- **{{< var c.eng105.long >}}**
-  
+ **{{< var c.eng105.long >}}**  
     {{< var c.eng105.desc >}}  
-- **{{< var c.eng107.long >}}**
-  
+ **{{< var c.eng107.long >}}**  
     {{< var c.eng107.desc >}}  
-- **{{< var c.eng108.long >}}**
-  
+ **{{< var c.eng108.long >}}**  
     {{< var c.eng108.desc >}}  
-- **{{< var c.eng110.long >}}**
-    
+ **{{< var c.eng110.long >}}**  
     {{< var c.eng110.desc >}}  
-- **{{< var c.eng111.long >}}**
-  
+ **{{< var c.eng111.long >}}**  
     {{< var c.eng111.desc >}}  
-- **{{< var c.eng112.long >}}**
-  
+ **{{< var c.eng112.long >}}**  
     {{< var c.eng112.desc >}}  
-- **{{< var c.eng115.long >}}**
-  
+ **{{< var c.eng115.long >}}**  
     {{< var c.eng115.desc >}}  
-- **{{< var c.eng117.long >}}**
-  
+ **{{< var c.eng117.long >}}**  
     {{< var c.eng117.desc >}}  
-- **{{< var c.eng127.long >}}**
-  
+ **{{< var c.eng127.long >}}**  
     {{< var c.eng127.desc >}}  
-- **{{< var c.eng137.long >}}**
-  
-    See also African American Studies (AAM-137), @sec-courses-in-african-american-studies
-  
+ **{{< var c.eng137.long >}}**  
+    See also African American Studies (AAM-137), @sec-courses-in-african-american-studies  
     {{< var c.eng137.desc >}}  
-- **{{< var c.eng146.long >}}**
-  
+ **{{< var c.eng146.long >}}**  
     {{< var c.eng146.desc >}}  
-- **{{< var c.eng157.long >}}**
-  
+ **{{< var c.eng157.long >}}**  
     {{< var c.eng157.desc >}}  
-- **{{< var c.eng175.long >}}**
-  
+ **{{< var c.eng175.long >}}**  
     {{< var c.eng175.desc >}}  
-- **{{< var c.eng206.long >}}**
-  
+ **{{< var c.eng206.long >}}**  
     {{< var c.eng206.desc >}}  
-- **{{< var c.eng207.long >}}**
-  
+ **{{< var c.eng207.long >}}**  
     {{< var c.eng207.desc >}}  
-- **{{< var c.eng208.long >}}**
-  
+ **{{< var c.eng208.long >}}**  
     {{< var c.eng208.desc >}}  
-- **{{< var c.eng281.long >}}**
-  
+ **{{< var c.eng281.long >}}**  
     {{< var c.eng281.desc >}}  
-- **{{< var c.eng291.long >}}**
-  
+ **{{< var c.eng291.long >}}**  
     {{< var c.eng291.desc >}}  
-- **{{< var c.eng301.long >}}**
-  
+ **{{< var c.eng301.long >}}**  
     {{< var c.eng301.desc >}}  
-- **{{< var c.eng312.long >}}**
-  
+ **{{< var c.eng312.long >}}**  
     {{< var c.eng312.desc >}}  
-- **{{< var c.eng327.long >}}**
-  
+ **{{< var c.eng327.long >}}**  
     {{< var c.eng327.desc >}}  
-- **{{< var c.eng337.long >}}**
-  
+ **{{< var c.eng337.long >}}**  
     {{< var c.eng337.desc >}}  
-- **{{< var c.eng347.long >}}**
-  
+ **{{< var c.eng347.long >}}**  
     {{< var c.eng347.desc >}}  
-- **{{< var c.eng357.long >}}**
-  
+ **{{< var c.eng357.long >}}**  
     {{< var c.eng357.desc >}}  
-- **{{< var c.eng367.long >}}**
-  
-    See Also African American Studies (AAM-367), @sec-courses-in-african-american-studies
-  
+ **{{< var c.eng367.long >}}**  
+    See Also African American Studies (AAM-367), @sec-courses-in-african-american-studies  
     {{< var c.eng367.desc >}}  
-- **{{< var c.eng375.long >}}**
-  
+ **{{< var c.eng375.long >}}**  
     {{< var c.eng375.desc >}}  
-- **{{< var c.eng378.long >}}**
-  
+ **{{< var c.eng378.long >}}**  
     {{< var c.eng378.desc >}}  
-- **{{< var c.eng380.long >}}**
-  
+ **{{< var c.eng380.long >}}**  
     {{< var c.eng380.desc >}}  
-- **{{< var c.eng382.long >}}**
-  
+ **{{< var c.eng382.long >}}**  
     {{< var c.eng382.desc >}}  
-- **{{< var c.eng383.long >}}**
-  
+ **{{< var c.eng383.long >}}**  
     {{< var c.eng383.desc >}}  
-- **{{< var c.eng384.long >}}**
-  
+ **{{< var c.eng384.long >}}**  
     {{< var c.eng384.desc >}}  
-- **{{< var c.eng385.long >}}**
-  
+ **{{< var c.eng385.long >}}**  
     {{< var c.eng385.desc >}}  
-- **{{< var c.eng388.long >}}**
-  
+ **{{< var c.eng388.long >}}**  
     {{< var c.eng388.desc >}}  
-- **{{< var c.eng390.long >}}**
-  
+ **{{< var c.eng390.long >}}**  
     {{< var c.eng390.desc >}}  
-- **{{< var c.eng392.long >}}**
-  
+ **{{< var c.eng392.long >}}**  
     {{< var c.eng392.desc >}}  
-- **{{< var c.eng393.long >}}**
-  
+ **{{< var c.eng393.long >}}**  
     {{< var c.eng393.desc >}}  
-- **{{< var c.eng394.long >}}**
-  
+ **{{< var c.eng394.long >}}**  
     {{< var c.eng394.desc >}}  
 
 ### ADVANCED STUDY IN ENGLISH
 Students registering for these courses must fulfill the **prerequisites** first and should consult with English department faculty if they have questions. 
 
-- **{{< var c.eng454.long >}}**
-  
+ **{{< var c.eng454.long >}}**  
     {{< var c.eng454.desc >}}  
-- **{{< var c.eng464.long >}}**
-  
-    {{< var c.eng464.desc >}}
-- **{{< var c.eng467.long >}}**
-  
-    {{< var c.eng467.desc >}}
-- **{{< var c.eng494.long >}}**
-  
-    {{< var c.eng494.desc >}}
+ **{{< var c.eng464.long >}}**  
+    {{< var c.eng464.desc >}}  
+ **{{< var c.eng467.long >}}**  
+    {{< var c.eng467.desc >}}  
+ **{{< var c.eng494.long >}}**  
+    {{< var c.eng494.desc >}}  
 
 
