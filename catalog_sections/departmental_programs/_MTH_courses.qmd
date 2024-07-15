@@ -55,42 +55,61 @@ A major in mathematics requires a minimum cumulative 2.0 GPA in all courses coun
 
 ### Courses in Mathematics
 - **{{< var c.mth105.long >}}**
+  
   {{< var c.mth105.desc >}} 
 - **{{< var c.mth135.long >}}**
+  
   {{< var c.mth135.desc >}} 
 - **{{< var c.mth145.long >}}**
+  
   {{< var c.mth145.desc >}} 
 - **{{< var c.mth215.long >}}**
+  
   {{< var c.mth215.desc >}} 
 - **{{< var c.mth255.long >}}**
+  
   {{< var c.mth255.desc >}} 
 - **{{< var c.mth265.long >}}**
+  
   {{< var c.mth265.desc >}} 
 - **{{< var c.mth305.long >}}**
+  
   {{< var c.mth305.desc >}} 
 - **{{< var c.mth325.long >}}**
+  
   {{< var c.mth325.desc >}} 
 - **{{< var c.mth385.long >}}**
+  
   {{< var c.mth385.desc >}} 
 - **{{< var c.mth395.long >}}**
+  
   {{< var c.mth395.desc >}} 
 - **{{< var c.mth415.long >}}**
+  
   {{< var c.mth415.desc >}} 
 - **{{< var c.mth425.long >}}**
+  
   {{< var c.mth425.desc >}} 
 - **{{< var c.mth444.long >}}**
+  
   {{< var c.mth444.desc >}} 
 - **{{< var c.mth445.long >}}**
+  
   {{< var c.mth445.desc >}} 
 - **{{< var c.mth454.long >}}**
+  
   {{< var c.mth454.desc >}} 
 - **{{< var c.mth455.long >}}**
+  
   {{< var c.mth455.desc >}} 
 - **{{< var c.mth463.long >}}**
+  
   {{< var c.mth463.desc >}} 
 - **{{< var c.mth484.long >}}**
+  
   {{< var c.mth484.desc >}} 
 - **{{< var c.mth494.long >}}**
+  
   {{< var c.mth494.desc >}} 
 
 
