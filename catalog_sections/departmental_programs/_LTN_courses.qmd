@@ -2,14 +2,14 @@
 Langseth.
 
 ### Courses in Latin
-- **{{< var c.cla155.long >}}**
-  {{< var c.cla155.desc >}} 
-- **{{< var c.ltn115.long >}}**
-  {{< var c.ltn115.desc >}} 
-- **{{< var c.ltn125.long >}}**
-  {{< var c.ltn125.desc >}} 
-- **{{< var c.ltn284/384.long >}}**
-  {{< var c.ltn284/384.desc >}} 
+ **{{< var c.cla155.long >}}**  
+  {{< var c.cla155.desc >}}  
+ **{{< var c.ltn115.long >}}**  
+  {{< var c.ltn115.desc >}}  
+ **{{< var c.ltn125.long >}}**  
+  {{< var c.ltn125.desc >}}  
+ **{{< var c.ltn284/384.long >}}**  
+  {{< var c.ltn284/384.desc >}}  
 
 
 
