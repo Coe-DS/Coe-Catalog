@@ -86,7 +86,7 @@ Further information for all these requirements and programs is available from th
  **{{< var c.art191.long >}}**  
 {{< var c.art191.desc >}}  
 
-**Focus Courses**
+***FOCUS COURSES***
 
 Focus Courses are seven-week courses designed to prepare the student for a serious artistic practice. 
 
