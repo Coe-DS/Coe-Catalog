@@ -49,7 +49,7 @@ Laboratory and field experiences are essential to scientific understanding. They
 {{< var c.bio103L.desc >}}  
  **{{< var c.bio105.long >}}**  
 {{< var c.bio105.desc >}}  
- **{{< var c.bio111.long >}}** 
+ **{{< var c.bio111.long >}}**  
 {{< var c.bio111.desc >}}  
  **{{< var c.bio111L.long >}}**  
 {{< var c.bio111L.desc >}}  
@@ -177,6 +177,6 @@ Laboratory and field experiences are essential to scientific understanding. They
  **{{< var c.occ365.long >}}**  
 See @sec-ACM-and-international-programs
 
- **{{< var c.hss494.long >}}**
+ **{{< var c.hss494.long >}}**  
 {{< var c.hss494.desc >}}
 
