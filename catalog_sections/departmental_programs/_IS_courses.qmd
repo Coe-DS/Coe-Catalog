@@ -91,9 +91,10 @@ International Relations combines theoretical approaches to and empirical knowled
 
 ### International Studies Major — Contemporary European Studies
 The Contemporary European Studies track emphasizes the study of cultural commonalities and differences in Europe since the mid-19th century.
-Contemporary European Studies
 
-1. Seven international studies core courses
+**Contemporary European Studies**
+
+1. Seven international studies core courses (see @sec-courses-in-IS)
 2. {{< var c.his365.long >}}
 3. {{< var c.pol298.long >}}
 4. **Three** of the following, two of which must be numbered 300 or above.  At least two academic disciplines must be represented.
@@ -105,7 +106,7 @@ Contemporary European Studies
 	- {{< var c.his238.long >}}
 	- {{< var c.his278.long >}}
 	- {{< var c.his292.long >}}
-	- {{< var c.is315.long >}}
+	- {{< var c.is315.long >}} (when appropriate)
 	- {{< var c.mu458.long >}}
 	- {{< var c.rel138.long >}}
 	- {{< var c.rel148.long >}}
@@ -116,15 +117,20 @@ Contemporary European Studies
 
 ### Courses in International Studies {#sec-courses-in-IS}
 - **{{< var c.is116.long >}}**
-  {{< var c.is116.desc >}} 
+  
+	{{< var c.is116.desc >}} 
 - **{{< var c.is126.long >}}**
-  {{< var c.is126.desc >}} 
+  
+	{{< var c.is126.desc >}} 
 - **{{< var c.is315.long >}}**
-  {{< var c.is315.desc >}} 
+  
+	{{< var c.is315.desc >}} 
 - **{{< var c.is316.long >}}**
-  {{< var c.is316.desc >}} 
+  
+	{{< var c.is316.desc >}} 
 - **{{< var c.is464.long >}}**
-  {{< var c.is464.desc >}} 
+  
+	{{< var c.is464.desc >}} 
 
 
 
