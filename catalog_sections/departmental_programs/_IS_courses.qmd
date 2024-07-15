@@ -59,7 +59,7 @@ The Global South examines the characteristics of regions in what has come to be 
 ### International Studies Major — International Relations track
 International Relations combines theoretical approaches to and empirical knowledge of state and non-state actors, power, and international structures. 
 
-1. **Seven** international studies core courses
+1. **Seven** international studies core courses (see @sec-courses-in-IS}
 2. {{< var c.pol108.long >}}
 3. {{< var c.pol310.long >}}
 4. **Three** courses to be chosen as indicated from the two lists below. No more than two of these three courses can be completed in the Political Science department.
@@ -84,7 +84,7 @@ International Relations combines theoretical approaches to and empirical knowled
 		- {{< var c.his395.long >}}
 		- {{< var c.is315.long >}}
 		- {{< var c.is316.long >}}
-                - {{< var c.pol305.long >}}
+		- {{< var c.pol305.long >}}
 		- {{< var c.pol365.long >}}
 		- {{< var c.pol386.long >}}
 		- {{< var c.pol398.long >}}
@@ -114,7 +114,7 @@ Contemporary European Studies
 	- A course approved by the International Studies administrative coordinator
 
 
-### Courses in International Studies
+### Courses in International Studies {#sec-courses-in-IS}
 - **{{< var c.is116.long >}}**
   {{< var c.is116.desc >}} 
 - **{{< var c.is126.long >}}**
