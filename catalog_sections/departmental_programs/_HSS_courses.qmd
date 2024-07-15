@@ -37,8 +37,8 @@ A minor in Health and Society Studies requires a minimum cumulative 2.0 GPA in a
 **NOTE:** *additional health-related courses may be approved as an elective with administrative coordinator approval.*
 
 ### Courses in Health and Society Studies
-- **{{< var c.hss100.long >}}**
-  {{< var c.hss100.desc >}} 
+ **{{< var c.hss100.long >}}**  
+  {{< var c.hss100.desc >}}  
 
 
 
