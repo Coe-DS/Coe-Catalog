@@ -9,22 +9,22 @@ A major in data science requires a minimum cumulative 2.0 GPA in all courses cou
 1. {{< var c.ds100.long >}} **or** {{< var c.ds120.long >}}  
 2. {{< var c.cs125.long >}}, or commensurate programming experience  
 3. **One** of the following Statistical Foundations courses:  
-  a. {{< var c.bus190.long >}}  
-  b. {{< var c.bus340.long >}}  
-  c. {{< var c.psy300.long >}}  
-  d. {{< var c.sta100.long >}} (7 weeks) and {{< var c.sta110.long >}} (7 weeks)  
-  e. {{< var c.sta100.long >}} (7 weeks) and {{< var c.sta130.long >}} (7 weeks)  
-  f. {{< var c.sta315.long >}}  
+    a. {{< var c.bus190.long >}}  
+    b. {{< var c.bus340.long >}}  
+    c. {{< var c.psy300.long >}}  
+    d. {{< var c.sta100.long >}} (7 weeks) and {{< var c.sta110.long >}} (7 weeks)  
+    e. {{< var c.sta100.long >}} (7 weeks) and {{< var c.sta130.long >}} (7 weeks)  
+    f. {{< var c.sta315.long >}}  
 4. {{< var c.ds230.long >}}
 5. {{< var c.ds260.long >}}
 6. {{< var c.eco375.long >}}
 7. {{< var c.ds315.long >}}
 8. {{< var c.ds370.long >}}
 9. **One** of the following Modeling Courses:
-  a. {{< var c.ds415.long >}}  
-  b. {{< var c.mth455.long >}}  
-  c. {{< var c.eco435.long >}}
-  d. {{< var c.eco445.long >}}
+    a. {{< var c.ds415.long >}}  
+    b. {{< var c.mth455.long >}}  
+    c. {{< var c.eco435.long >}}
+    d. {{< var c.eco445.long >}}
 10.	**Three** additional courses from a different discipline numbered 200+ with the same course prefix. These courses should be selected with advice from the Data Science faculty. 
 
 ### Data Science Minor 
