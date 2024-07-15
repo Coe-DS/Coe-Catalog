@@ -76,14 +76,14 @@ International Relations combines theoretical approaches to and empirical knowled
 		- {{< var c.pol296.long >}}
 
 	b. **Two** of the following:
-		- {{< var c.ant286/486.long >}}
+		- {{< var c.ant286/486.long >}} (when appropriate)
 		- {{< var c.eco446.long >}}
 		- {{< var c.eco495.long >}}
 		- {{< var c.his286.long >}}
 		- {{< var c.his335.long >}}
 		- {{< var c.his395.long >}}
-		- {{< var c.is315.long >}}
-		- {{< var c.is316.long >}}
+		- {{< var c.is315.long >}} (when appropriate)
+		- {{< var c.is316.long >}} (when appropriate)
 		- {{< var c.pol305.long >}}
 		- {{< var c.pol365.long >}}
 		- {{< var c.pol386.long >}}
