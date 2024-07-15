@@ -108,51 +108,51 @@ Statistics 	{{< var c.psy300.long >}} **or**
 
 ### Courses in Nursing
 
-- **{{< var c.nur100.long >}}**
+ **{{< var c.nur100.long >}}**  
   {{< var c.dsnur100.desc >}}  
-- **{{< var c.nur137.long >}}**
-See also {{< var c.psy137.long >}} , @sec-psychology
-  {{< var c.nur137.desc >}} 
-- **{{< var c.nur200.long >}}**
-  {{< var c.nur200.desc >}}
-- **{{< var c.nur215.long >}}**
+ **{{< var c.nur137.long >}}**  
+See also {{< var c.psy137.long >}} , @sec-psychology  
+  {{< var c.nur137.desc >}}  
+ **{{< var c.nur200.long >}}**  
+  {{< var c.nur200.desc >}}  
+ **{{< var c.nur215.long >}}**  
   {{< var c.nur215.desc >}}  
-- **{{< var c.nur268.long >}}**
-  {{< var c.nur268.desc >}} 
-- **{{< var c.nur297.long >}}**
-  {{< var c.nur297.desc >}} 
-- **{{< var c.nur300.long >}}**
-  {{< var c.nur300.desc >}}
-- **{{< var c.nur305.long >}}**
-  {{< var c.nur305.desc >}}
-- **{{< var c.nur315_315l_315c.long >}}**
-  {{< var c.nur315.desc >}} 
-- **{{< var c.nur345.long >}}**
+ **{{< var c.nur268.long >}}**  
+  {{< var c.nur268.desc >}}  
+ **{{< var c.nur297.long >}}**  
+  {{< var c.nur297.desc >}}  
+ **{{< var c.nur300.long >}}**  
+  {{< var c.nur300.desc >}}  
+ **{{< var c.nur305.long >}}**  
+  {{< var c.nur305.desc >}}  
+ **{{< var c.nur315_315l_315c.long >}}**  
+  {{< var c.nur315.desc >}}  
+ **{{< var c.nur345.long >}}**  
   {{< var c.nur345.desc >}}  
-- **{{< var c.nur355_335l_335c.long >}}**
-  {{< var c.nur355.desc >}} 
-- **{{< var c.nur360.long >}}**
+ **{{< var c.nur355_335l_335c.long >}}**  
+  {{< var c.nur355.desc >}}  
+ **{{< var c.nur360.long >}}**  
   {{< var c.nur360.desc >}}  
-- **{{< var c.nur375.long >}}**
-  {{< var c.nur375.desc >}} 
-- **{{< var c.nur387.long >}}**
-  {{< var c.nur387.desc >}} 
-- **{{< var c.nur415_415l_415c.long >}}**
-  {{< var c.nur415.desc >}} 
-- **{{< var c.nur425.long >}}**
-  {{< var c.nur425.desc >}} 
-- **{{< var c.nur430.long >}}**
-  {{< var c.nur430.desc >}} 
-- **{{< var c.nur431.long >}}**
-  {{< var c.nur431.desc >}} 
-- **{{< var c.nur444.long >}}**
-  {{< var c.nur444.desc >}} 
-- **{{< var c.nur455.long >}}**
-  {{< var c.nur455_445c.desc >}} 
-- **{{< var c.nur494.long >}}**
-  {{< var c.nur494.desc >}} 
-- **{{< var c.nur495.long >}}**
-  {{< var c.nur495.desc >}} 
+ **{{< var c.nur375.long >}}**  
+  {{< var c.nur375.desc >}}  
+ **{{< var c.nur387.long >}}**  
+  {{< var c.nur387.desc >}}  
+ **{{< var c.nur415_415l_415c.long >}}**  
+  {{< var c.nur415.desc >}}  
+ **{{< var c.nur425.long >}}**  
+  {{< var c.nur425.desc >}}  
+ **{{< var c.nur430.long >}}**  
+  {{< var c.nur430.desc >}}  
+ **{{< var c.nur431.long >}}**  
+  {{< var c.nur431.desc >}}  
+ **{{< var c.nur444.long >}}**  
+  {{< var c.nur444.desc >}}  
+ **{{< var c.nur455.long >}}**  
+  {{< var c.nur455_445c.desc >}}  
+ **{{< var c.nur494.long >}}**  
+  {{< var c.nur494.desc >}}  
+ **{{< var c.nur495.long >}}**  
+  {{< var c.nur495.desc >}}  
 
 
 
