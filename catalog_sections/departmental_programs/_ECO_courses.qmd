@@ -44,10 +44,10 @@ A major in economics requires a minimum cumulative 2.0 GPA in all courses counte
 
 ### Courses in Economics
 
-{{< var c.bus340.long >}};  
-{{< var c.bus341.long >}};  
-{{< var c.bus441.long >}};  
-{{< var c.bus495.long >}};  
+**{{< var c.bus340.long >}}**;  
+**{{< var c.bus341.long >}}**;  
+**{{< var c.bus441.long >}}**;  
+**{{< var c.bus495.long >}}**;  
 See Business Administration, Section 25.11
 
 **{{< var c.eco105.long >}}**   
@@ -80,7 +80,7 @@ See Data Science, @sec-data-science
   {{< var c.eco336.desc >}}  
 **{{< var c.bus340.long >}}**  
 See Business Administration, Section 25.11  
-  {{< var c.bus341.long >}}  
+  **{{< var c.bus341.long >}}**  
 See Business Administration, Section 25.11   
 **{{< var c.eco345.long >}}**  
   {{< var c.eco345.desc >}}  
