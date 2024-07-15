@@ -82,90 +82,47 @@ A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counte
 
 ### Courses in Chemistry
 
- **{{< var c.chm103_103l.long >}}**
-
-  {{< var c.chm103_103l.desc >}}
-
- **{{< var c.chm111_111l.long >}}**
-
-  {{< var c.chm111_111l.desc >}}
-
- **{{< var c.chm121_121l.long >}}**
-
-  {{< var c.chm121_121l.desc >}}
-
- **{{< var c.chm122_122l.long >}}**
-
-  {{< var c.chm122_122l.desc >}}
-
- **{{< var c.chm211.long >}}** 
-
-  {{< var c.chm211.desc >}}
-
- **{{< var c.chm211l.long >}}**
-
-  {{< var c.chm211l.desc >}}
-
- **{{< var c.chm321.long >}}**
-
-  {{< var c.chm321.desc >}}
-
- **{{< var c.chm322.long >}}**
-  
-  {{< var c.chm322.desc >}}
-
- **{{< var c.chm341_341l.long >}}**
-
-  {{< var c.chm341_341l.desc >}}
-
- **{{< var c.chm411.long >}}**
-
-  {{< var c.chm411.desc >}}
-
- **{{< var c.chm421.long >}}**
-
-  {{< var c.chm421.desc >}}
-
- **{{< var c.chm422.long >}}**
-
-  {{< var c.chm422.desc >}}
-
- **{{< var c.chm431_431l.long >}}**
-
-  {{< var c.chm431_431l.desc >}}
-
- **{{< var c.chm432.long >}}**
-
-  {{< var c.chm432.desc >}}
-
- **{{< var c.chm432l.long >}}**
-
-  {{< var c.chm432l.desc >}}
-
- **{{< var c.chm441.long >}}**
-
-  {{< var c.chm441.desc >}}
-
- **{{< var c.chm444.long >}}**
-
-  {{< var c.chm444.desc >}}
-
- **{{< var c.chm451.long >}}**
-
-  {{< var c.chm451.desc >}}
-
- **{{< var c.chm451l.long >}}**
-
-  {{< var c.chm451l.desc >}}
-
- **{{< var c.chm454.long >}}**
-
-  {{< var c.chm454.desc >}}
-
- **{{< var c.chm464_474.long >}}**
-
-  {{< var c.chm464_474.desc >}}
-
- **{{< var c.chm494.long >}}**
-
-  {{< var c.chm494.desc >}}
+ **{{< var c.chm103_103l.long >}}**  
+  {{< var c.chm103_103l.desc >}}  
+ **{{< var c.chm111_111l.long >}}**  
+  {{< var c.chm111_111l.desc >}}  
+ **{{< var c.chm121_121l.long >}}**  
+  {{< var c.chm121_121l.desc >}}  
+ **{{< var c.chm122_122l.long >}}**  
+  {{< var c.chm122_122l.desc >}}  
+ **{{< var c.chm211.long >}}**  
+  {{< var c.chm211.desc >}}  
+ **{{< var c.chm211l.long >}}**  
+  {{< var c.chm211l.desc >}}  
+ **{{< var c.chm321.long >}}**  
+  {{< var c.chm321.desc >}}  
+ **{{< var c.chm322.long >}}**  
+  {{< var c.chm322.desc >}}  
+ **{{< var c.chm341_341l.long >}}**  
+  {{< var c.chm341_341l.desc >}}  
+ **{{< var c.chm411.long >}}**  
+  {{< var c.chm411.desc >}}  
+ **{{< var c.chm421.long >}}**  
+  {{< var c.chm421.desc >}}  
+ **{{< var c.chm422.long >}}**  
+  {{< var c.chm422.desc >}}  
+ **{{< var c.chm431_431l.long >}}**  
+  {{< var c.chm431_431l.desc >}}  
+ **{{< var c.chm432.long >}}**  
+  {{< var c.chm432.desc >}}  
+ **{{< var c.chm432l.long >}}**  
+  {{< var c.chm432l.desc >}}  
+ **{{< var c.chm441.long >}}**  
+  {{< var c.chm441.desc >}}  
+ **{{< var c.chm444.long >}}**  
+  {{< var c.chm444.desc >}}  
+ **{{< var c.chm451.long >}}**  
+  {{< var c.chm451.desc >}}  
+ **{{< var c.chm451l.long >}}**  
+  {{< var c.chm451l.desc >}}  
+ **{{< var c.chm454.long >}}**  
+  {{< var c.chm454.desc >}}  
+ **{{< var c.chm464_474.long >}}**  
+  {{< var c.chm464_474.desc >}}  
+ **{{< var c.chm494.long >}}**  
+  {{< var c.chm494.desc >}}  
