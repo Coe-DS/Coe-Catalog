@@ -1937,20 +1937,20 @@ A major in data science requires a minimum cumulative 2.0 GPA in all courses cou
 1. DS 100 Introduction to Data Science **or** DS 120 Sports Analytics  
 2. CS 125 Computer Science I, or commensurate programming experience  
 3. **One** of the following Statistical Foundations courses:  
-    a. BUS 190 Statistical Analysis  
-    b. BUS 340 Applied Regression Analysis  
-    c. PSY 300 Stat Methods and Data Analysis  
-    d. STA 100 Statistical Reasoning I-Foundations (7 weeks) and STA 110 Stats IIA: Inferential Reasoning (7 weeks)  
-    e. STA 100 Statistical Reasoning I-Foundations (7 weeks) and STA 130 Stats IIB: Experimental Design (7 weeks)  
-    f. STA 315 Mathematical Probability  
+    a. BUS 190 Statistical Analysis
+    b. BUS 340 Applied Regression Analysis
+    c. PSY 300 Stat Methods and Data Analysis
+    d. STA 100 Statistical Reasoning I-Foundations (7 weeks) and STA 110 Stats IIA: Inferential Reasoning (7 weeks)
+    e. STA 100 Statistical Reasoning I-Foundations (7 weeks) and STA 130 Stats IIB: Experimental Design (7 weeks)
+    f. STA 315 Mathematical Probability
 4. DS 230 Data-Centric Computing
 5. DS 260 Data Analysis and Visualization
 6. ECO 375 Econometrics
 7. DS 315 Machine Learning
 8. DS 370 Database Systems and Data Managemen
 9. **One** of the following Modeling Courses:
-    a. DS 415 Deep Learning  
-    b. MTH 455 Mathematical Modeling  
+    a. DS 415 Deep Learning
+    b. MTH 455 Mathematical Modeling
     c. ECO 435 Time Series Analysis
     d. ECO 445 Econometrics II (WE)
 10.	**Three** additional courses from a different discipline numbered 200+ with the same course prefix. These courses should be selected with advice from the Data Science faculty. 
@@ -3060,6 +3060,60 @@ Langseth.
 
 
 
+## Health and Society Studies (Minor Only) {#sec-health-and-society-studies}
+Kelly, LeMay (Administrative Coordinators).
+
+The Health and Society Studies program is an interdisciplinary cluster of courses that allows students to examine the breadth of issues impacting health and healthcare from the perspectives of natural sciences, social sciences, and humanities.  This Health and Society Studies minor broadens students understanding of the impact of health and healthcare delivery issues, personally, professionally, and within our society.  In addition, the minor will provide a strong interdisciplinary foundation for students interested in graduate studies related to health professions.   Because required and elective courses are offered by faculty across the College, students are encouraged to meet with a Health and Society Studies administrative coordinator for informal advising before choosing the Health and Society minor.
+
+### Health and Society Studies Minor
+A minor in Health and Society Studies requires a minimum cumulative 2.0 GPA in all courses counted toward the minor. In addition, only (1) one course from a student's major or collateral major can count towards the Health and Society Studies Minor.
+
+**Required Courses**
+
+1. PHL 165 Bio-medical Ethics
+2. SOC 107 Introductory Sociology
+3. **One** of the following Biology courses:
+	- BIO 103 Anatomy & Physiology
+	- BIO 120 Biology, Health, & Society
+	- BIO 155 Organismal & Ecological Biology
+
+4. **Three** elective courses from the list below, only (1) one of which may be a 100-level course.
+	- ANT 116 Cultural Anthropology
+	- CLA 155 Latin/Greek Origins Med Terminology
+	- COM 236 Intercultural Communication
+	- COM 237 Interpersonal Communication
+	- COM 332 Health Communication (WE)
+	- KIN 115 Fundamentals:Exercise & Nutrition
+	- KIN 125 Public and Consumer Health
+	- KIN 155 Substance Abuse
+	- PHL 128 Morality & Moral Controversies
+	- ECO 221 Health Economics
+	- PHY 321 Health Physics
+	- PSY 205 Developmental Psychology
+	- PSY 235 Abnormal Psychology
+	- PSY 325 Health Psychology
+	- PSY 350 Drugs & Behavior
+	- SPA 339 Spanish for Health Care
+	- HSS 494 Health Professions Externship
+
+**NOTE:** *additional health-related courses may be approved as an elective with administrative coordinator approval.*
+
+### Courses in Health and Society Studies
+- **HSS 100 Exploration in Health & Society**
+  Allows students interested in health-related careers to explore various career options (e.g., medicine, dentistry, physical therapy, occupational therapy, nursing, psychological counseling); to assess and reflect on their own values, abilities, and motivations; and to develop some of the applied knowledge and skills necessary for entry into these occupations. Appropriate for first and second year students. (0.5 course credit) 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## History {#sec-history}
 Swenson Arnold, Buckaloo, Keenan (Chair), Nordmann, Ziskowski. 
 
@@ -3074,7 +3128,7 @@ A major in history requires a minimum cumulative 2.0 GPA in all courses counted 
 	- HIS 145 History of United States to 1865 **or** HIS 155 History of United States since 1865
 	- One additional U.S. History course
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **or**
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **or**
 
 	- HIS 145 History of United States to 1865
 	- HIS 155 History of United States since 1865
@@ -3109,7 +3163,7 @@ A major in history requires a minimum cumulative 2.0 GPA in all courses counted 
 - **One** course in Asian history
 - **Two** additional history courses approved by the department
 
-			**OR**
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **or**
 
 - HIS 145 History of United States to 1865
 - HIS 155 History of United States since 1865
@@ -3179,161 +3233,155 @@ A major in history requires a minimum cumulative 2.0 GPA in all courses counted 
 
 ### Courses in History
 - **HIS 115 History of Europe to 1500**
+  
   The development of Western civilization from the earliest times to 1500, with primary emphasis on the culture and thought of the Ancient, Medieval, and Renaissance eras. 
 - **HIS 125 History of Europe Since 1500**
+  
   The development of Western civilization from 1500 to modern times, with emphasis on the cultural and intellectual development of the West and such topics as the Reformation, the Enlightenment, the Industrial Revolution, Imperialism, and the rise of Totalitarianism. 
 - **HIS 136 East Asian Civilization**
+  
   A survey of East Asian civilization with emphasis on China from its origins to 1700. Particular attention is paid to cultural and political factors. 
 - **HIS 145 History of United States to 1865**
+  
   A survey of relations between indigenous, European, and African peoples in places that would become the United States from the colonial era through the Civil War. Topics include European colonization; indigenous resistance; racial slavery; the American Revolution and creation of the United States; westward territorial expansion; and the Civil War. 
 - **HIS 155 History of United States since 1865**
+  
   A survey of American history from the Reconstruction to the present. Topics include the changing American economy, the inclusion and exclusion of various Americans defined by race, class, and gender, and the emergence of the United States as a world power. 
 - **HIS 205 Historians Craft**
+  
   Introduction to the nature and craft of history. Emphases include use of sources, historiography, philosophy of history, and various forms of historical writing. The capstone assignment is a research paper. Prerequisite: sophomore standing. 
 - **HIS 208 The First World War (WE)**
+  
   Introduces students to the global history of the First World War and the start of the interwar period. The class focuses on the political, cultural, and social effects of the war through a study of historical documents, period literature, and film. Through class discussion, short compositions, response papers, and digital humanities work students will: critically analyze historical documents; identify and evaluate the significance of key actors, events, and ideas of the First World War; and synthesize evidence from to produce effective written and oral arguments. 
 - **HIS 216 History of Modern Korea (WE)**
+  
   Introduces students to modern Korean history by examining Korea’s transition from a politically isolated rural state to, in the South, an industrialized country electing its own government and, in the North, a totalitarian state capable of producing nuclear weapons. Students will examine historical documents, literature and film and use class discussion and formal papers to analyze key events such as: Korea’s colonization under Japan; the Korean War; South Korea’s economic and democratic “miracles;” North Korean communism and nuclear brinksmanship; and South Korea’s emergence as a major producer of exported entertainment like K-Pop and K-Drama. 
 - **HIS 217 American War in Vietnam**
+  
   Examines the American war in Vietnam from its earliest roots to its latest ramifications and from multiple perspectives. Emphases include the French Indochina War, American policy debate, the sources of American policy, Vietnamese perspectives, and the war in fiction and film. 
 - **HIS 218 The Second World War (WE)**
+  
   Introduces students to the global history of the Second World War, beginning with the interwar period and moving into the start of the Cold War. The course will focus on both the European and Pacific battle and home fronts, including the Holocaust, through a study of historical documents, period literature, and film. Through class discussion, short compositions, response papers, and digital humanities work students will: critically analyze historical documents; identify and evaluate the significance of key actors, events, and ideas of the Second World War; and synthesize evidence from to produce effective written and oral arguments. 
 - **HIS 227 American Civil War**
+  
   A study of events, issues, ideas, and forces leading to the American Civil War and the resulting Reconstruction. Topics emphasized include slavery, social, economic, and political events leading to the war, the political and military strategies of the war, the efforts of Americans on the homefront, and the trials and triumphs during Reconstruction. 
 - **HIS 238 Modern France**
+  
   An examination of the major political, cultural, and social developments in France from the end of the French Revolution to present day, with an emphasis on the changes and shifts in French national identity and global relations. 
 - **HIS 246 History of Modern China**
+  
   A history of modern China since 1700. Chinese states and society from the height of Qing culture, through the impact of the West and Japan, the rise of Chinese Republicanism and Marxism, the Liberation of 1949, the Great Leap Forward, the death of Mao Zedong, and rule of Deng Xiaoping, up to the present day. 
 - **HIS 248 The French Revolution**
+  
   An investigation of the origins and course of the French Revolution from the Ancien Regime to 1815. The course covers the Enlightenment, the collapse of the Ancien Regime, the opening of the Revolution, the Terror, and Napoleon. 
 - **HIS 256 History of Modern Japan**
+  
   A history of modern Japan since 1700. Historical analysis of Edo period culture, politics and society, rapid Meiji era changes, constitutionalism and imperialism, Japan’s expansion in Asia, World War II, the post-war social change, and economic recovery and rise to international leadership, up to the present. 
 - **HIS 257 Native American History**
+  
   Examines the history of Native Americans and their relationships to Europe and Anglo-America from pre- Columbian times to the present. Emphases include understanding Native cultures, early Anglo-Indian relations, the western “Indian wars,” and the Red Power movement of the 1970s. 
 - **HIS 268 Latin America**
+  
   Survey of the social, political, economic, and cultural factors of Latin America from the colonial era to the present, with an emphasis on how these factors influence present day Latin America. 
 - **HIS 272 History of Medieval Europe**
+  
   A survey of Medieval Europe focusing on the intellectual, cultural, religious, artistic, and literary achievements of the High Middle Ages from roughly 1000 A.D. to 1300 A.D. 
 - **HIS 275 Ancient Greek History**
+  
   An examination of the evolution of certain key institutions and traditions in the ancient Greek world—political, constitutional, military, social, and economic—with particular emphasis on the revolutionary changes experienced during the Classical Age, i.e., the fifth and fourth centuries B.C. 
 - **HIS 276 The "Discovery" of America: Clash**
+  
   Focuses on the biggest empires in the Americas (Maya, Aztec, and Inca) and the process of conquest and colonization after Christopher Columbus’ arrival. The students will read accounts written during the 15th-17th centuries and consider how to critically engage them. The class aims to reflect not only on the stories of the conquistadores, but also on those of the conquered people through historical accounts that attempt to give a voice to the voiceless, analyze the challenges of facing a completely unknown culture, and the ethical implications of imposing your values and traditions on others. By the end of the class, the student will be able to provide an overview of the Spanish Conquest, its history, and controversies. Students also will develop
 skills to analyze primary and secondary sources and write small response papers as well as a small essay that demonstrates an understanding of the time period and the ability to support an argument. 
 - **HIS 278 History of the Holocaust (WE)**
+  
   Introduces students to the examination of the causes, experiences, and legacy of the Holocaust, studying viewpoints of victims, perpetrators, and bystanders. Students will study historical documents and literature as well as audiovisual sources in course discussions and written work as they cover social, cultural, and political history from pre-war Germany through World War II, and evaluate memory of the Holocaust in the time period since 1945. Through written work and course discussions, students will: identify and evaluate the significance of key actors, events, and ideas connected to the Holocaust; analyze primary and secondary sources; synthesize evidence to produce cogent written and oral arguments; and critically examine understanding of the Holocaust. 
 - **HIS 285 History of Ancient Rome**
+  
   An examination of the evolution of certain key institutions and traditions—political, constitutional, military, social, and economic—in the ancient Roman world, with emphasis on the revolutionary changes during the transition from the Republic to the Empire, i.e., the first centuries B.C. and A.D. 
 - **HIS 286 Modern Middle East**
+  
   A survey of recent history of the Middle East, from the 1800's to the present with an emphasis on the 20th century. Course focuses on the Middle East and its global interactions. 
 - **HIS 288 Renaissance & Reformation**
+  
   The European experience from the waning of the Middle Ages through the period of the religious wars, with the emphasis on art, the rise of nation states, overseas expansionism, the scientific revolution, and the Protestant and Catholic Reformations. 
 - **HIS 292 History of Modern England**
+  
   A survey of the major constitutional, political, and social developments in England from The Glorious Revolution to the present. Particular attention is paid to the growth of Empire, the Industrial Revolution, the rise of labor, and the effects of The Great War and World War II. 
 - **HIS 297 Women in America**
+  
   A survey of the role and power of a variety of women in America’s history from colonial times to the present, with an emphasis on understanding the place of women today. 
 - **HIS 300 Public History**
+  
   Introduces students to the methods and practices of public history. Public history refers to the many ways history is utilized and applied outside traditional academic research and college classroom settings. Through readings, discussions, site visits, guest speakers, and writing assignments, students will learn about the many ways history is applied, interpreted, and used by museums, historical sites, non-historians, and other publics. They will be introduced to career opportunities in public history and will engage with the cultural and historical resources of Cedar Rapids. Students will analyze primary and secondary sources, refine written and verbal communication skills, and demonstrate an understanding of and ability to use historical research techniques. The course culminates in the production of a hands-on, research-based, collaborative class history project (e.g., exhibit, website, historical markers, etc.) that will serve a public beyond the classroom. 
 - **HIS 306 Revolution, Social Struggle, Testim**
+  
   Revolution, Social Struggle, and Testimonio in Latin America 20th Century
 
 Introduces students to the testimonial literature in Latin America, a genre capable of allowing the oppressed to bring forward their perceptions, world view, and experience of a specific historical moment. This class includes narratives from Guatemala, Nicaragua, El Salvador, México, and Bolivia, among others. It will also include a theoretical segment that will reflect on
 the advantages and shortcomings of this genre. At the end of the class, students understand and describe major social problems during specific time frames in the 20th century of the nations studied, articulate the characteristics of this genre, and use a testimonio to gain an insight into a sociohistorical event. Through written assignments and discussions students will analyze the experience of marginalized communities in relation to specific institutional policies. The course ends with a testimonio project where students explore the genre using personal experience, family history, or by interviewing an acquaintance that can offer a special insight regarding a social problem. 
 - **HIS 308 Legacies of the Cold War inLatin Am**
+  
   Legacies of the Cold War in Argentina, Peru, Colombia, and Chile Is an interdisciplinary class centered on the relation between the Cold War and the internal violence that several South American nations lived through during the second half of the 20th century. The influence of anti-imperialist ideas throughout Latin America, the development of the guerrilla movement and its revolutions, and the militarized counter-revolution served as the
 political basis for moments of crisis that each nation endured: The National Reorganization Process in Argentina (1976-1982), the Civil War in Peru (1980-2000), the Military Dictatorship in Chile (1973-1990), and the long-term war in Colombia (1948-present). The classwork with historical and anthropological accounts, testimonios, art, film, and theory to give a more diverse image of experiences and implications of these events for different sectors of the communities. At the end of the course, the student will understand major Latin American historical trends in relation to the Cold War, as well as the specificities of the conflict in each one of these nations. They also will be able to analyze one of the factors that play a role in the development of these
 crises through a small research project that is developed by written assignments. 
 - **HIS 316 Topics in History:Non-Western Persp**
+  
   An intensive study of a selected topic (or topics) in history related to non-Western cultures through lectures or group discussion or directed learning or research and writing. (Offered on an occasional basis) 
 - **HIS 317 Topics in History:US Pluralism**
+  
   An intensive study of a selected topic (or topics) in history related to United States Pluralism through lectures or group discussion or directed learning, or research and writing. (Offered on an occasional basis) 
 - **HIS 318 Topics in History :Div West Persp**
+  
   An intensive study of a selected topic (or topics) in history related to Diverse Western Perspectives through lectures or group discussion or directed learning or research and writing. (Offered on an occasional basis) 
 - **HIS 325 Recent American History I**
+  
   An examination of American domestic development from the last quarter of the 19th century to the present. Topics include immigration, workers in a changing economy, the World Wars, the Cold War, civil rights, the changing role of women in society, and the contested post-1960’s move to the political right. Prerequisite: History of the United States Since 1865 (HIS-155) or consent of instructor. 
 - **HIS 328 Modern France**
+  
   An examination of the major political, cultural, and social developments in France from the end of the French Revolution to present day, with an emphasis on the changes and shifts in French national identity and global relations. 
 - **HIS 335 Recent American History II**
+  
   An examination of American foreign relations from the 1890s to the present, including the World Wars, the Cold War, and the post-9/11 world. Prerequisite: History of the United States Since 1865 (HIS-155) or consent of instructor. 
 - **HIS 347 African American History**
+  
   An examination of changes and continuities in the lives of African Americans from the colonial era to the present. Emphases include the origins and evolving nature of slavery, race, and racism; development of African-American culture, individual struggles for freedom and civil rights; migrations; segregation; and large-scale movements for social and political change. 
 - **HIS 355 19th Century Europe**
+  
   The evolution of Europe from the French Revolution to World War I, with an emphasis on such topics as Liberalism, the Industrial Revolution, Nationalism, Marxian Socialism, Imperialism, and Great Power diplomacy. 
 - **HIS 365 20th Century Europe**
+  
   A historical survey of modern Europe from 1900 to the present. Emphases are on World War I, the Russian Revolution, the rise of Fascism, Hitler, Nazi Germany, Stalin and Soviet Communism, World War II and the Cold War, as well as the emergence of the European Community (EC) and the collapse of Communism and the Soviet Union. 
 - **HIS 372 Early Modern Europe**
+  
   The history of Europe from 1603-1815 with emphasis on the English Revolutions, the age of Absolute Monarchy, the Enlightenment, the decline of the Ancien Regime, the French Revolution, the Napoleonic era, and concluding with the Congress of Vienna. 
 - **HIS 387 American Colonial History**
+  
   The history of the American colonies from their founding through the American Revolution, focusing on the diverse perspectives of people varying in religion, ethnicity, and gender, as well as economic and political backgrounds. 
 - **HIS 395 United States Diplomatic History**
+  
   Begins with an examination of the relations of the colonies to international affairs. The course focuses attention on topics in American diplomatic history which provide a background for an understanding of the nation’s present status as a world power. 
 - **HIS 444 Ind Study-History**
+  
   Independent work on a selected project under the direction of a faculty member of the department. May be taken for an X status grade with consent of instructor prior to registration. Prerequisite: consent of instructor. 
 - **HIS 465 Seminar in Ancient History**
+  
   An intensive reading and research seminar on a selected topic in the history of the ancient world. Prerequisite: The Historian's Craft (WE) (HIS-205) and junior standing. 
 - **HIS 466 Seminar Modern East Asian History**
+  
   An intensive reading and research seminar on selected topics in the 19th- and 20th-century history of China, Japan and Korea. Prerequisite: The Historian’s Craft (HIS-205) and junior standing. 
 - **HIS 472 Seminar American History I**
+  
   An introduction to historical research in earlier American history (prior to 1865). Critical inquiry is emphasized in detailed examination of specific topics. Prerequisite: The Historian’s Craft (HIS-205) and junior standing. 
 - **HIS 473 Seminar American History II**
+  
   An introduction to historical research in later American history since 1865. Critical inquiry is emphasized in detailed examination of specific topics. Prerequisite: The Historian’s Craft (HIS-205) and junior standing. 
 - **HIS 474 Seminar Modern European History**
+  
   An intensive reading and research seminar on selected topics in 19th- and 20th-century European political, diplomatic, and intellectual history. Prerequisite: The Historian’s Craft (HIS-205) and junior standing. 
 - **HIS 494 Internship in History**
+  
   Part-time work experience for one term in a history-related field supervised by a faculty member of the department in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major or minor in history. Prerequisites: junior standing and consent of department chair. 
-
-
-
-
-
-
-
-
-
-
-
-## Health and Society Studies (Minor Only) {#sec-health-and-society-studies}
-Kelly, LeMay (Administrative Coordinators).
-
-The Health and Society Studies program is an interdisciplinary cluster of courses that allows students to examine the breadth of issues impacting health and healthcare from the perspectives of natural sciences, social sciences, and humanities.  This Health and Society Studies minor broadens students understanding of the impact of health and healthcare delivery issues, personally, professionally, and within our society.  In addition, the minor will provide a strong interdisciplinary foundation for students interested in graduate studies related to health professions.   Because required and elective courses are offered by faculty across the College, students are encouraged to meet with a Health and Society Studies administrative coordinator for informal advising before choosing the Health and Society minor.
-
-### Health and Society Studies Minor
-A minor in Health and Society Studies requires a minimum cumulative 2.0 GPA in all courses counted toward the minor. In addition, only (1) one course from a student's major or collateral major can count towards the Health and Society Studies Minor.
-
-**Required Courses**
-
-1. PHL 165 Bio-medical Ethics
-2. SOC 107 Introductory Sociology
-3. **One** of the following Biology courses:
-	- BIO 103 Anatomy & Physiology
-	- BIO 120 Biology, Health, & Society
-	- BIO 155 Organismal & Ecological Biology
-
-4. **Three** elective courses from the list below, only (1) one of which may be a 100-level course.
-	- ANT 116 Cultural Anthropology
-	- CLA 155 Latin/Greek Origins Med Terminology
-	- COM 236 Intercultural Communication
-	- COM 237 Interpersonal Communication
-	- COM 332 Health Communication (WE)
-	- KIN 115 Fundamentals:Exercise & Nutrition
-	- KIN 125 Public and Consumer Health
-	- KIN 155 Substance Abuse
-	- PHL 128 Morality & Moral Controversies
-	- ECO 221 Health Economics
-	- PHY 321 Health Physics
-	- PSY 205 Developmental Psychology
-	- PSY 235 Abnormal Psychology
-	- PSY 325 Health Psychology
-	- PSY 350 Drugs & Behavior
-	- SPA 339 Spanish for Health Care
-	- HSS 494 Health Professions Externship
-
-**NOTE:** *additional health-related courses may be approved as an elective with administrative coordinator approval.*
-
-### Courses in Health and Society Studies
-- **HSS 100 Exploration in Health & Society**
-  Allows students interested in health-related careers to explore various career options (e.g., medicine, dentistry, physical therapy, occupational therapy, nursing, psychological counseling); to assess and reflect on their own values, abilities, and motivations; and to develop some of the applied knowledge and skills necessary for entry into these occupations. Appropriate for first and second year students. (0.5 course credit) 
-
-
 
 
 
@@ -3497,8 +3545,8 @@ The Global South examines the characteristics of regions in what has come to be 
 
 		Subject to prior approval by the International Studies administrative coordinator:
 
-			- ECO 336 Divergent Economic Growth
-			- ECO 446 International Econ
+		- ECO 336 Divergent Economic Growth
+		- ECO 446 International Econ
 
 	b. **One** of the following:
 		- POL 386 International Development
@@ -3507,10 +3555,11 @@ The Global South examines the characteristics of regions in what has come to be 
 
 		Subject to prior approval by the International Studies administrative coordinator:  
 
-			- POL 310 International Organizations
+		- POL 310 International Organizations
 
 4. **Two or more** additional courses from either the courses under #3 or any of the following, subject to prior approval by the International Studies administrative coordinator.  (Not more than one of these two courses can be from political science and not more than one of these two courses can be from economics.).  At least one course must be completed at the 300 level or above. 
-    	- +++MISSING INFO: c.ant286/486.long +++
+    	
+	- +++MISSING INFO: c.ant286/486.long +++
 	- ASC 186 Modern South Asia
 	- ENG 146 Intro Postcolonial Literature
 	- GS 136 Gender in Non-Western World
@@ -3526,7 +3575,7 @@ The Global South examines the characteristics of regions in what has come to be 
 ### International Studies Major — International Relations track
 International Relations combines theoretical approaches to and empirical knowledge of state and non-state actors, power, and international structures. 
 
-1. **Seven** international studies core courses
+1. **Seven** international studies core courses (see @sec-courses-in-IS}
 2. POL 108 Introduction to Politics
 3. POL 310 International Organizations
 4. **Three** courses to be chosen as indicated from the two lists below. No more than two of these three courses can be completed in the Political Science department.
@@ -3543,24 +3592,25 @@ International Relations combines theoretical approaches to and empirical knowled
 		- POL 296 Topics Pol Sci: Non-West Persp
 
 	b. **Two** of the following:
-		- +++MISSING INFO: c.ant286/486.long +++
+		- +++MISSING INFO: c.ant286/486.long +++ (when appropriate)
 		- ECO 446 International Econ
 		- ECO 495 International Finance
 		- HIS 286 Modern Middle East
 		- HIS 335 Recent American History II
 		- HIS 395 United States Diplomatic History
-		- IS 315 Topics in International Studies
-		- IS 316 Top in Internl Stds:Non-West Persp
-                - POL 305 Terrorism
+		- IS 315 Topics in International Studies (when appropriate)
+		- IS 316 Top in Internl Stds:Non-West Persp (when appropriate)
+		- POL 305 Terrorism
 		- POL 365 American Foreign Policy
 		- POL 386 International Development
 		- POL 398 Religion & World Politics
 
 ### International Studies Major — Contemporary European Studies
 The Contemporary European Studies track emphasizes the study of cultural commonalities and differences in Europe since the mid-19th century.
-Contemporary European Studies
 
-1. Seven international studies core courses
+**Contemporary European Studies**
+
+1. Seven international studies core courses (see @sec-courses-in-IS)
 2. HIS 365 20th Century Europe
 3. POL 298 European Politics
 4. **Three** of the following, two of which must be numbered 300 or above.  At least two academic disciplines must be represented.
@@ -3572,7 +3622,7 @@ Contemporary European Studies
 	- HIS 238 Modern France
 	- HIS 278 History of the Holocaust (WE)
 	- HIS 292 History of Modern England
-	- IS 315 Topics in International Studies
+	- IS 315 Topics in International Studies (when appropriate)
 	- MU 458 Music History & Literature III
 	- REL 138 Modern Judaism
 	- REL 148 Islam
@@ -3581,17 +3631,22 @@ Contemporary European Studies
 	- A course approved by the International Studies administrative coordinator
 
 
-### Courses in International Studies
+### Courses in International Studies {#sec-courses-in-IS}
 - **IS 116 Intro to International Studies**
-  A range of case studies introduces students to the nomenclature and analytical approaches of international studies. Focus areas include migration and human geography; global economics, trade, and development; global governance; media and culture across borders. Global health, the environment, and gender issues are also included. 
+  
+	A range of case studies introduces students to the nomenclature and analytical approaches of international studies. Focus areas include migration and human geography; global economics, trade, and development; global governance; media and culture across borders. Global health, the environment, and gender issues are also included. 
 - **IS 126 HumanRightsBurmeseMigrant**
-  Offers the opportunity during a May-Term residency at a school on the border of Thailand and Myanmar to gain an understanding of the lives of Burmese youth who live as educational migrants in Thailand. Through teacher/ pupil interactions and tutoring students learn about the conditions that drive Burmese children from their homeland to seek an education in a foreign country and about the challenges these children face far from home. Students also gain insight into the rewards and pitfalls of international humnitarian work. Prerequisite: consent of instructor. (Offered May Term only). 
+  
+	Offers the opportunity during a May-Term residency at a school on the border of Thailand and Myanmar to gain an understanding of the lives of Burmese youth who live as educational migrants in Thailand. Through teacher/ pupil interactions and tutoring students learn about the conditions that drive Burmese children from their homeland to seek an education in a foreign country and about the challenges these children face far from home. Students also gain insight into the rewards and pitfalls of international humnitarian work. Prerequisite: consent of instructor. (Offered May Term only). 
 - **IS 315 Topics in International Studies**
-  A study of a selected topic or theme in international studies. Topics vary and may include interdisciplinary approaches to human migration, transitional justice, human rights. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: Introduction to International Studies (IS-116) or consent of instructor. 
+  
+	A study of a selected topic or theme in international studies. Topics vary and may include interdisciplinary approaches to human migration, transitional justice, human rights. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: Introduction to International Studies (IS-116) or consent of instructor. 
 - **IS 316 Top in Internl Stds:Non-West Persp**
-  Same as Topics in International Studies (IS-315) except selected works focus on Non-Western Perspectives. 
+  
+	Same as Topics in International Studies (IS-315) except selected works focus on Non-Western Perspectives. 
 - **IS 464 International Studies Colloquium**
-  Majors are required to discuss a set of readings to foster synthesis across the various tracks, submit 15-25 pages of finished writing on an issue in International Studies, and present their work orally to students and faculty.  The Colloquium is usually taken during Spring Term of the senior year. Satisfactory completion of the Colloquium is required for graduation with a major in international studies. S/U basis only. Prerequisite: consent of instructor. (0.5 course credit) 
+  
+	Majors are required to discuss a set of readings to foster synthesis across the various tracks, submit 15-25 pages of finished writing on an issue in International Studies, and present their work orally to students and faculty.  The Colloquium is usually taken during Spring Term of the senior year. Satisfactory completion of the Colloquium is required for graduation with a major in international studies. S/U basis only. Prerequisite: consent of instructor. (0.5 course credit) 
 
 
 
@@ -3607,16 +3662,22 @@ Potter.
 
 ### Courses in Japanese
 - **JPN 106 Images Foreign Culture**
+  
   A course dealing with the picture of human activity and values given in foreign short stores, novels, films, and other works of art, as well as in historical documents and the like. It celebrates and explores the special character of a national or ethnic identity. Topics vary from year to year. Taught in English. 
 - **JPN 115 Elementary Japanese I**
+  
   Beginning Japanese phonology, structure, and vocabulary. Study of hiragana and katakana syllabaries with introduction of some kanji. 
 - **JPN 125 Elementary Japanese II**
+  
   Continuing study of Japanese phonology, structure and vocabulary. Study of hiragana and katakana syllabaries with introduction of some kanji. Prerequisite: Elementary Japanese I (JPN-115) or consent of instructor. 
 - **JPN 215 Intermediate Japanese I**
+  
   Reading and discussion of selected Japanese texts, with continued work on grammatical structures. Increased emphasis on kanji. Prerequisite: Elementary Japanese II (JPN-165) or consent of instructor. 
 - **JPN 225 Intermediate Japanese II**
+  
   Reading and discussion of selected Japanese texts, with continued work on grammatical structures. Increased emphasis on kanji. Prerequisite: Intermediate Japanese I (JPN-215) or consent of instructor. 
 - **JPN 305 Topics in Japanese Language**
+  
   An advanced study of the Japanese language. May be taken more than once. Prerequisite: Intermediate Japanese II (JPN-225) or consent of instructor. 
 
 
@@ -3682,6 +3743,7 @@ A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses coun
 1. Teaching certification in an academic area 
 2. KIN 175 Prevention & Care Ath Inj
 3. KIN 201 Fundamentals of Coaching
+
 The Coaching Endorsement (#55, K-12) may be granted to any student with teacher certification completing a major in kinesiology and by taking KIN 205 Theory of Coaching **OR** KIN 201 Fundamentals of Coaching.
 
 ### State of Iowa Coaching Authorization
@@ -3712,58 +3774,81 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
 
 **All** of the following courses in the Athletic Training Group 
 
-	- KIN 110 Emergency Life Skills
-	- KIN 210 Athletic Injury Evaluation
-	- KIN 410 Athletic Injury Treatment & Rehab
+- KIN 110 Emergency Life Skills
+- KIN 210 Athletic Injury Evaluation
+- KIN 410 Athletic Injury Treatment & Rehab
 
 *Students interested in the Athletic Training Group track are strongly encouraged to meet with the Kinesiology faculty for informal advising as soon as they have chosen this major. Additional coursework may be needed for those students pursuing a licensure in Athletic Training. *
 
 ### Courses in Kinesiology
 - **+++MISSING INFO: c.kin100/102/103/104.long +++**
+  
   +++MISSING INFO: c.kin100/102/103/104.desc +++ 
 - **KIN 105 Foundations of Physical Movement**
+
   The foundations, historical development, professional qualification, and opportunities in the field of physical education. Movement education theory is studied as it applies to all grade levels along with the study of growth, maturation, physical activity and performance in young adolescents. 
 - **KIN 110 Emergency Life Skills**
+  
   Incorporates the latest principles of emergency care in order to become effective initial responders. Broader discussion will focus on the efficacy of Good Samaritan laws, while at the same time addressing current changes to society as it relates to these laws. In addition, this course will prepare students to recognize and care for a variety of first aid emergencies such as burns, cuts, scrapes, sudden illnesses, head, neck, back injuries, heat and cold emergencies. Students will gain both the competency and proficiencies associated with learning how to respond to breathing and cardiac emergencies. Successful students will receive a certificate for Adult First Aid/CPR/AED. (0.5 credit) 
 - **KIN 111 Phys Educ for Elementary Teacher**
+  
   Emphasizes a survey of modern health and physical education practice in school and community, and the development of exercise in the elementary school through singing games and rhythms, folk and square dancing, games, and sports. (0.5 course credit) 
 - **KIN 112 Health Educ for Elementary Tchr**
+  
   Surveys health-related issues that directly affect the lives of young children. Topics include health, fitness, substance abuse, and physical and mental insult. Students learn to identify and respond to children who have been placed at risk. (0.5 course credit) 
 - **KIN 115 Fundamentals:Exercise & Nutrition**
+  
   Study and evaluation of existing health patterns, which are tested to elicit positive behavior changes. Principles of exercise physiology and fitness, weight control and human nutrition, and problems associated with malnutrition and overnutrition are included to provide students with concepts for an enhanced lifestyle. 
 - **KIN 125 Public and Consumer Health**
+  
   Philosophy and practice of public and community health, including economic, sociological, and legal justification. Examination of health care products, services and consumer protection vehicles in today’s marketplace. Information and guidelines enable individuals to select health care products and services intelligently. 
 - **KIN 135 Concepts of Individual Wellness**
+  
   Examination of personal health and positive lifestyle through the enhancement of physical, social, and mental/emotional wellness. 
 - **KIN 155 Substance Abuse**
+  
   Effects of drugs on the body, problems and risks of drug abuse, and drug education programs are examined. 
 - **KIN 165 Master Activity Class for Teachers**
+  
   Covers all phases of the teaching methodology. This class assesses the skill acquisition of the learner. Students model instructional procedure. After introduction of the activity or skill, students pre-test, teach, and assess each other in the activity or skill. Activities and skills include the following: Soccer/ Football/Volleyball, Basketball/ Softball/Track and Field, Racquet Activities, Strength Conditioning/Fitness, Cycling/Bowling/Archery, Dance/Rhythms, and Aquatic Activities. 
 - **KIN 175 Prevention & Care Ath Inj**
+  
   Principles of human biology, hygienic applications to the care of the body, and the effects of alcohol and substance abuse. Also covered is the nature of injuries frequently sustained in athletic participation and the control, handling, and care of injuries. This course does not satisfy any of the requirements for a major in athletic training. Credit is given for Prevention and Care of Athletic Injuries & Laboratory (KIN-175) or Basic Athletic Training (AT-100), not both. 
 - **KIN 185 Group Exercise**
+  
   Explores the up-to-date, ever-changing, group aerobic activities available in the 21st century. Students discover the advantages and disadvantages, background, physical benefits, and techniques of performing a variety of group aerobic activities. Prerequisite: Foundations of Physical Movement (KIN-105). (0.5 course credit) 
 - **KIN 201 Fundamentals of Coaching**
+  
   Addresses the structure and function of the human body in relation to physical activity, theory and techniques of coaching interscholastic athletics. Topics include professional ethics and legal aspects of coaching as well as the study of human growth and development of children. 
 - **KIN 202 Family Life Education**
+  
   Examines family life and human relationships through the practice of equipping and empowering family members to develop knowledge and skills that enhance well-being. The course will examine human sexuality from a biological, psychological, and social perspective. Topics not limited to reproduction, development, communication and expression will be examined across the lifespan. Perspectives include diversity, variations from the majority, and the influence of gender, race, class, religion, sexual orientation, abilities, age, and culture on sexuality and sexual expression. Topics will also include the understanding of families by using the application of family theory and current research in order to understand family dynamics. 
 - **KIN 205 Theory of Coaching**
+  
   Sports treated from the standpoint of theory and practice. Topics vary from term to term and include, but are not limited to, football, basketball, baseball and softball, wrestling, track, swimming, and volleyball. May be taken more than once for credit, provided the topics are substantially different. (0.5 course credit) 
 - **KIN 210 Athletic Injury Evaluation**
+  
   Introduces students to the procedures used in the examination of injuries involving both the upper and lower extremity. This course will develop a student’s systematic ability to identify, evaluate, and monitor commonly experienced orthopedic injuries in athletics. Investigation into surface palpation, goniometry, manual muscle, and special testing will be developed. Prerequisite: Prevention and Care of Athletic Injuries & Laboratory (KIN-175). 
 - **KIN 215 Psychology of Coaching**
+  
   An introduction to the area of sport psychology, which focuses on the underlying psychological and psychophysiological factors that influence performance in sports and physical activity. The following topics are emphasized: motivation, positive mental attitude (goal setting, self talk, mental imagery), anxiety/stress, self confidence, concentration, communication skills, sportsmanship, and psychological preparation for competition. 
 - **KIN 225 Motor Learning**
+  
   Designed to acquaint students with research findings, empirical evidence, and theoretical constructs regarding the learning and teaching of motor skills. Emphasis placed upon the state of the learner, the learning process, and the conditions for learning. Prerequisite: sophomore standing. 
 - **KIN 315 Methods Elementary Sch PE & Health**
+  
   Analysis of the program of physical education and health for the elementary school. Selection of activities, teaching methods, program planning, equipment and facilities, class management, and evaluation is examined. Prerequisite: Practicum in Education (EDU-215) or consent of department chair. 
 - **KIN 347 Adapted Physical Education**
+  
   A program of activities adapted for individuals with physical disabilities. Development of a rehabilitative exercise program for correction of physical handicaps or deviations. 
 - **KIN 365 Measurement/Eval/Prescription KIN**
+  
   Study of various methods of measurement and evaluation of motor skills and motor performance in physical activity. Construction of skills tests, proper testing procedures, and basic statistics used in evaluating the results covered. Assessment of physical fitness components followed by prescribed activity to improve those components is studied. 
 - **KIN 385 Methods Strength Trng & Condition**
+  
   Application of resistance and movement training techniques. Topics include methods of teaching progressions for resistance training, flexibility, speed/agility training, stretching, plyometrics, safety, successful routines, and exercise prescription for beginning to advanced trainees. Prerequisites: Organismal and Ecological Biology (BIO-155), either Human Anatomy (BIO-215) or Anatomy and Physiology (BIO-103), and junior standing.
 NOTE: Students are encouraged to complete Advanced Weight Training (PE-103/-104) and Movement Training (PE-103/-104) before enrolling in KIN-385. 
+
 **NOTE:**  *Students are encouraged to complete Advanced Weight Training (PE-103/-104) and Movement Training (PE-103/-104) before enrolling in KIN-385.*
 - **KIN 405 Program Design**
   A theory-based course that discusses different strength and conditioning techniques used to program workouts for students, athletes, and members of the community. The course examines physiological factors, such as volume, intensity, rest, frequency, duration, and the acute and chronic effects of exercise. Students design and evaluate their own strength and conditioning programs based on the needs of the individual. Prerequisite: Methods of Teaching Strength Training and Conditioning (KIN-385). 
@@ -3782,6 +3867,24 @@ NOTE: Students are encouraged to complete Advanced Weight Training (PE-103/-104)
 - **KIN 495 Kinesiology**
   Application of the principles of structure and mechanics involved in human movement. Prerequisites: Organismal and Ecological Biology (BIO-155), and either both Human Anatomy (BIO-215) and Human Physiology (BIO-225), or Anatomy and Physiology (BIO-103). 
 
+
+
+
+
+
+
+## Latin (Courses Only) {#sec-latin}
+Langseth.
+
+### Courses in Latin
+- **CLA 155 Latin/Greek Origins Med Terminology**
+  Examines the origins of contemporary medical terminology, in part by studying the development of a distinct technical vocabulary, with historical roots in the Greco-Roman, Arabic, and Modern-European worlds, which developed as physicians discovered distinct ways of communicating both with their patients and with each other. 
+- **LTN 115 Basic Latin**
+  An intensive examination and analysis of Latin grammar and syntax. Selected readings from the great literary works of the Republic and Empire. A combination of lecture, drill work, and discussion. Prerequisite: no prior instruction in Latin or fewer than two terms of secondary school Latin and consent of instructor. 
+- **LTN 125 Selected Readings in Latin**
+  Review of basic grammar and syntax and examination of more advanced grammar and syntax. In-depth readings from selected authors. Combination of lecture, drill work, and class discussion. Prerequisite: Basic Latin (LTN-115) or two or more terms of secondary school Latin and consent of instructor. 
+- **+++MISSING INFO: c.ltn284/384.long +++**
+  +++MISSING INFO: c.ltn284/384.desc +++ 
 
 
 
@@ -3815,61 +3918,13 @@ The following requirements are designed to provide a framework within which the 
 
 ### Senior Seminar Course
 - **LIT 464 Seminar in World Literature**
+  
   Required of all literature majors in the senior year. While the subject changes from year to year, the seminar explores how literature from different countries relates to other human activities and disciplines. Thus, the emphasis may be on a historical period (literature and politics in the Renaissance); on an interdisciplinary topic (literature and Freudian analysis); or on a cross-cultural mix (literature, games and play). When the number of senior majors is too small to justify offering the seminar, other arrangements are made for majors to satisfy this requirement: either independent study or participation in an English department seminar, with the stipulation that the term paper be on a topic in comparative literature. 
 
 
 
 
 
-
-
-## Latin (Courses Only) {#sec-latin}
-Langseth.
-
-### Courses in Latin
-- **CLA 155 Latin/Greek Origins Med Terminology**
-  Examines the origins of contemporary medical terminology, in part by studying the development of a distinct technical vocabulary, with historical roots in the Greco-Roman, Arabic, and Modern-European worlds, which developed as physicians discovered distinct ways of communicating both with their patients and with each other. 
-- **LTN 115 Basic Latin**
-  An intensive examination and analysis of Latin grammar and syntax. Selected readings from the great literary works of the Republic and Empire. A combination of lecture, drill work, and discussion. Prerequisite: no prior instruction in Latin or fewer than two terms of secondary school Latin and consent of instructor. 
-- **LTN 125 Selected Readings in Latin**
-  Review of basic grammar and syntax and examination of more advanced grammar and syntax. In-depth readings from selected authors. Combination of lecture, drill work, and class discussion. Prerequisite: Basic Latin (LTN-115) or two or more terms of secondary school Latin and consent of instructor. 
-- **+++MISSING INFO: c.ltn284/384.long +++**
-  +++MISSING INFO: c.ltn284/384.desc +++ 
-
-
-
-
-
-
-## Molecular Biology (Collateral Major) {#sec-molecular-biology}
-Leonardo (Administrative Coordinator).
-
-This major might be considered by students interested in finding technical positions in academia or industry after graduation or those planning to pursue a graduate program in molecular biology, cell biology, or microbiology. 
-
-### Collateral Major in Molecular Biology
-A major in molecular biology requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
-
-Concurrent completion of a primary major in biology is required (see @sec-biology). Students choosing a collateral major in Molecular Biology may not select the collateral major in Biochemistry. 
-
-1. CHM 221 Organic Chemistry I
-2. CHM 321 Organic Chemistry II
-3. CHM 322 Organic Laboratory
-4. +++MISSING INFO: c.bio345/345L.long +++
-5. BIO 405 Current Topics in Molecular Biology
-6. One of the following:
-	- +++MISSING INFO: c.chm431/431L.long +++
-	- +++MISSING INFO: c.chm432/432L.long +++
-7. One of the following sequences:
-	- +++MISSING INFO: c.bio325/325L.long +++
-	- +++MISSING INFO: c.bio415/415L.long +++
-	- +++MISSING INFO: c.bio435/435L.long +++
-	- +++MISSING INFO: c.bio455/455L.long +++
-
-Strongly recommended:
-	
-- One of the following sequences:
-	- +++MISSING INFO: c.phy165/165L.long +++ and +++MISSING INFO: c.phy175/175L.long +++
-	- +++MISSING INFO: c.phy185/185L.long +++ and +++MISSING INFO: c.phy195/195L.long +++
 
 
 ## Mathematical Sciences {#sec-mathematical-sciences}
@@ -3929,45 +3984,95 @@ A major in mathematics requires a minimum cumulative 2.0 GPA in all courses coun
 
 ### Courses in Mathematics
 - **MTH 105 Math for Social Justice**
+  
   An introduction to contemporary mathematical thinking with emphasis on its connections to society. Logical thinking and the ability to read critically are interwoven with elementary mathematical skills. The course concentrates on discussions about mathematics—about its nature, its content, and its applications to a variety of topics, such as management science, network science, finance, data, statistics, probability, fairness, apportionment, voting theory, and social choice. This course is appropriate for a varied audience. This course does not satisfy any of the requirements for a major or minor in the mathematical sciences. Prerequisite: Some ability in arithmetic, geometry, and elementary algebra. 
 - **MTH 135 Calculus I**
+  
   An introduction to the concepts of limits, continuity, differentiation of elementary functions, applications, definite and indefinite integrals, and the Fundamental Theorem. Prerequisite: three years of secondary school mathematics, Algebra and Trigonometry (MTH-115), or consent of instructor. 
 - **MTH 145 Calculus II**
+  
   Further study of the techniques of differentiation and integration, the calculus of exponential, logarithmic and trigonometric functions, sequences, series, and applications. Prerequisite: Calculus I (MTH-135) or consent of instructor. 
 - **MTH 215 Foundations of Advanced Mathematics**
+  
   A survey of material common to all advanced study of mathematics, including elements of formal logic, axiomatic set theory, induction, relations, functions, cardinality, and various other topics in discrete mathematics. This course is specifically intended to serve both as a transition to upper-division mathematics courses and also as a survey of some areas of mathematics important for future teachers of mathematics and related fields. Prerequisite: Calculus I (MTH-135) or Computational Linear Algebra (MTH-165) or consent of instructor. 
 - **MTH 255 Calculus III**
+  
   Further study of curves, surfaces, power series, partial derivatives, iterated and multiple integrals, and an introduction to differential and integral vector calculus. Prerequisite: Calculus II (MTH-145) or consent of instructor. 
 - **MTH 265 Linear Algebra**
+  
   A study of the elementary concepts of vector spaces, including matrix algebra, basis and dimension, inner products, linear transformations. Prerequisites: Calculus II (MTH-145) and Foundations of Advanced Math (MTH-215) or consent of instructor. 
 - **MTH 305 Advanced Geometry**
+  
   A course designed to give the student an introduction to the modern approaches to geometry at an advanced level. Topics include foundations, Euclidean, projective, and non-Euclidean geometries. Prerequisites: Calculus II (MTH-145) and Foundations of Advanced Math (MTH-215), or consent of instructor. 
 - **MTH 325 Differential Equations WE**
+  
   The theory, solution, techniques, and applications of elementary types of ordinary differential equations. Prerequisite: Calculus II (MTH-145) or consent of instructor. 
 - **MTH 385 Modern Algebra I**
+  
   A rigorous introduction to advanced algebra. Topics include mappings, operations, groups, rings, fields, integral domains, and homomorphisms. Prerequisite: Computational Linear Algebra (MTH-165) and Foundations of Advanced Math (MTH-215), or consent of instructor. 
 - **MTH 395 Modern Algebra II**
+  
   A continuation of Modern Algebra I (MTH 385), including homomorphisms, permutation groups, symmetry, unique factorization domains, quotient rings, and field extensions. Prerequisite: Modern Algebra I (MTH-385). (Offered on an occasional basis) 
 - **MTH 415 Real Analysis I**
+  
   A rigorous introduction to selected topics in analysis. Topics selected from number systems, Euclidean spaces, metric spaces, limits, continuity, derivatives, and integrals. Prerequisites: Calculus II (MTH-145) and Foundations of Advanced Math (MTH-215). 
 - **MTH 425 Real Analysis II**
+  
   A continuation of Real Analysis I (MTH-415), including a study of such topics as Riemann Stieltjes and Lebesgue integration, series and series expansions. Prerequisite: Real Analysis I (MTH-415). (Offered by arrangement) 
 - **MTH 444 Ind Study-Math**
+  
   An opportunity for independent and intensive study in mathematics. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisite: appropriate background courses depending on the nature of the work planned and consent of supervising instructor. (Offered by arrangement) 
 - **MTH 445 Complex Analysis**
+  
   An introduction to the theory, techniques, and applications of functions of a complex variable. Topics include elementary and analytic functions, limits, differentiation, integration, series, mappings, and applications. Prerequisite: Calculus III (MTH-255) or consent of instructor. 
 - **MTH 454 Research in Mathematics**
+  
   Individual or group investigation with a mathematics faculty member on a research topic of mutual interest. The student must obtain approval for a specific project and make necessary arrangements prior to the term of registration for the course. This course is offered on an P/NP basis and does not satisfy any of the requirements for a major or minor in computer science. May be taken more than once for credit for a maximum of 2.0 credits. Prerequisites: Foundations of Advanced Mathematics (MTH-215) and consent of supervising instructor. (0.2-1.0 credit; Offered by arrangement) 
 - **MTH 455 Mathematical Modeling**
+  
   An introduction to the application of mathematical techniques used in the solution of real-world problems. These techniques include interpolation, ordinary differential equations, taylor series expansions, curve fitting, matrix inversion, numerical differentiation, and integration. Prerequisites: Introduction to Programming (CS-125); and Calculus II (MTH-145) 
 - **MTH 463 Set Theory & Toplogy**
+  
   A rigorous introduction to abstract set theory and to metric and topological spaces, including a discussion of such topics as separation, connectedness, and compactness. Prerequisites: Calculus II (MTH-145) and Foundations of Advanced Math (MTH-215), or consent of instructor. 
 - **MTH 484 Special Topics**
+  
   An opportunity to study current and topical material unavailable through the regular catalog offerings. Prerequisites: Calculus II (MTH-145) and Foundations of Advanced Math (MTH-215), or consent of instructor. 
 - **MTH 494 Internship in Mathematics**
+  
   Investigation of a career area related to the student’s interest in mathematics supervised by a faculty member of the department in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major or minor in mathematics. Prerequisites: junior standing and consent of supervising instructor. (Offered by arrangement) 
 
 
+
+
+## Molecular Biology (Collateral Major) {#sec-molecular-biology}
+Leonardo (Administrative Coordinator).
+
+This major might be considered by students interested in finding technical positions in academia or industry after graduation or those planning to pursue a graduate program in molecular biology, cell biology, or microbiology. 
+
+### Collateral Major in Molecular Biology
+A major in molecular biology requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
+
+Concurrent completion of a primary major in biology is required (see @sec-biology). Students choosing a collateral major in Molecular Biology may not select the collateral major in Biochemistry. 
+
+1. CHM 221 Organic Chemistry I
+2. CHM 321 Organic Chemistry II
+3. CHM 322 Organic Laboratory
+4. +++MISSING INFO: c.bio345/345L.long +++
+5. BIO 405 Current Topics in Molecular Biology
+6. One of the following:
+	- +++MISSING INFO: c.chm431/431L.long +++
+	- +++MISSING INFO: c.chm432/432L.long +++
+7. One of the following sequences:
+	- +++MISSING INFO: c.bio325/325L.long +++
+	- +++MISSING INFO: c.bio415/415L.long +++
+	- +++MISSING INFO: c.bio435/435L.long +++
+	- +++MISSING INFO: c.bio455/455L.long +++
+
+Strongly recommended:
+	
+- One of the following sequences:
+	- +++MISSING INFO: c.phy165/165L.long +++ and +++MISSING INFO: c.phy175/175L.long +++
+	- +++MISSING INFO: c.phy185/185L.long +++ and +++MISSING INFO: c.phy195/195L.long +++
 
 
 ## Music {#sec-music}
@@ -4088,7 +4193,7 @@ Candidates for the **BACHELOR OF ARTS** degree with a major in music must succes
 2. MU 209 Theory of Music II/+++MISSING INFO: c.mu209L.long +++
 3. MU 309 Theory of Music III/+++MISSING INFO: c.mu309L.long +++
 4. MU 458 Music History & Literature III
-5. **Four** terms of participation in the Applied Music Course with piano as the primary or secondary performing area. 
+5. **Four** terms of participation in the Applied Music Course with piano as the primary or secondary performing area. (See @sec-MUA-classes)
 6. **One** of the following: 
 	- MU 255 Music History & Literature I
 	- MU 355 Music History & Literature II
@@ -4202,9 +4307,10 @@ Intensive studies in performance and repertoire through lessons, ensembles, peda
 3. Additional ensembles, lessons, or courses in pedagogy, techniques, and literature (0.1-0.6 course credit) that are required for any of the areas of study that lead to one of the music degrees. The *Coe College Music Department Faculty/Student Handbook* (see above) contains descriptions and additional information about these ensembles and courses.
 **Prerequisite:** an audition; consent of department chair.
 
-### APPLIED MUSIC CLASSES
-Artist teachers in violin, viola, cello, string and electric bass, piano, piano accompanying^+^, harpsichord^+^, organ^+^, flute, oboe, clarinet, saxophone, bassoon, trumpet, horn, trombone, low brass, percussion, guitar, harp, composition^+^, and voice are available to all students who wish to study applied music. 
-**^+^Prerequisite:** proficiency in piano and consent of instructor. 
+### APPLIED MUSIC CLASSES {#sec-MUA-classes}
+Artist teachers in violin, viola, cello, string and electric bass, piano, piano accompanying\*, harpsichord\*, organ\*, flute, oboe, clarinet, saxophone, bassoon, trumpet, horn, trombone, low brass, percussion, guitar, harp, composition\*, and voice are available to all students who wish to study applied music. 
+
+**\*Prerequisite:** proficiency in piano and consent of instructor. 
 
 Composition lessons and classes in keyboard, brass, woodwind, and string literature are also available. Credit for applied music study is granted after the student has satisfactorily passed an examination by a faculty committee (jury exam) at the close of each term. Two hours daily practice per weekly hour lesson are expected of all students taking applied music. 
 
@@ -4271,6 +4377,7 @@ Composition lessons and classes in keyboard, brass, woodwind, and string literat
 
 ### APPLIED VOICE--LESSONS
 (Offerings vary each term and include sight singing and/or Alexander Technique.)
+
 - +++MISSING INFO: c.mua101V.long +++
 - +++MISSING INFO: c.mua110V.long +++
 - +++MISSING INFO: c.mua202V.long +++
@@ -4390,113 +4497,166 @@ Credit for participation in these regularly-offered ensembles is available under
 **MU Prefix**
 
 - **MU 100 Experiencing Music**
+  
   Provides a framework for informed music listening and for developing an appreciation for a diverse variety of musical styles. Emphasis is on traditional classical music, with some attention to jazz, electronic, and avant-garde styles. Attendance at live concerts is an integral part of the course. This course does not satisfy any of the requirements for a major in music. 
 - **MU 101 Music Fundamentals**
+  
   An introduction to the materials of music and an understanding of the musical system. The course includes basic keyboard knowledge as well as beginning song writing. 
 - **MU 109 Theory of Music I**
+  
   For students majoring in music and other students with background in music. Develops keyboard harmony, melodic and harmonic dictation, improvisation, four-part writing up to and including dominant seventh chords, and introduction to music notation software. Students seeking a BA in Music or one of the Bachelor Music degrees must also register for an appropriate Aural Skills Lab course. Prerequisite: Music Theory Placement exam or consent of the instructor. 
 - **+++MISSING INFO: c.mu109L.long +++**
+  
   +++MISSING INFO: c.mu109L.desc +++ 
 - **MU 140 Film Music**
+  
   An introduction to the history, principles, and techniques of music in film. In addition to lecture, film viewing and analysis, critical reading and response, student presentation, and short film-music projects elucidate the genre. 
 - **MU 151 Record Label**
+  
   Team-oriented class environment offering students practical experience operating 399 Records, a student-run record label. Students make all business and creative decisions, including discovering and developing performing artists on campus, recording, promoting and distributing a finished music product each term. May be taken more than once. (0.5 course credit) 
 - **MU 157 Introduction to Jazz History**
+  
   Surveys many styles of jazz by studying them in a historical perspective. Listening, discussion, and lecture components are emphasized. (Offered May Term only) 
 - **MU 161 Hip Hop Workshop**
+  
   Blend of seminar and studio sessions focusing on hip-hop repertoire, beat arrangement, and lyrical structure. Additional emphasis on vocal recording and editing proficiency, as well as active listening exercises to better apply music production techniques to original student works. Participation in the creative process is required, and collaboration among students is encouraged. 
 - **MU 166 Topics in Music:Non-Western Perspct**
+  
   A topics course that explores the music of one of more non-Western cultures, largely from a musicological viewpoint. Topics could include survey courses, such as World Music, or courses focused on the music of one particular continent, country, or sub-group. Prerequisite: consent of instructor. (Offered on an occasional basis) 
 - **MU 195 Music Production**
+  
   Exploration of audio engineering and recording practices, with special attention to electronic and popular music. Overview of intellectual property in the arts, the evolution of audio technology, and cultural movements that influenced new forms of experimental and commercial music. Students are introduced to the fundamentals of acoustics and sound design through audio production software, with hands-on projects detailing methods for producing music in a variety of genres. 
 - **MU 202 Arts Administration**
+  
   Introduces principles and the development of skills associated with the management of arts organizations. Financial and program planning, audience engagement, marketing and publicity. Supplemental guest lectures by professionals highlight arts advocacy and specific challenges facing nonprofits. 
 - **MU 205 Practicum in Music Education**
+  
   For students considering the teaching profession. Class discussions and reading assignments explore the purpose of music education in the public schools, requisites of good teachers and good teaching, and basic philosophies and methods of music education. Students spend a minimum of 60 hours observing and assisting public school music teachers in a range of activities. Prerequisites: Educational Foundations (EDU-205) and admission to the Teacher Education Program, or consent of Department Chair. (Offered Spring Term) 
 - **MU 209 Theory of Music II**
+  
   Continuation of Theory of Music I. Prerequisite: Theory of Music I (MU-109) or consent of instructor. 
 - **+++MISSING INFO: c.mu209L.long +++**
+  
   +++MISSING INFO: c.mu209L.desc +++ 
 - **MU 251 Record Label Seminar**
+  
   Same as MU-151, but at an advanced level. In addition to a weekly seminar providing intensive discussion of music industry topics, students oversee recording sessions and lead development meetings for 399 Records, as well as conduct independent research suitable to career aspirations. Students may not register for both MU-151 and MU-251 in the same term. May be taken more than once for credit for a maximum of 2.0 credits. Prerequisites: junior standing and MU-151 Record Label. (0.5 course credit) 
 - **MU 255 Music History & Literature I**
+  
   Study of the evolution of western music and musical systems, forms, styles, and media from ancient Near East, Greece, and Rome through the first half of the 18th century. Prerequisite: Theory of Music II (MU- 125) or consent of instructor. 
 - **MU 270 Musical Theatre Acting**
+
+  See also Theatre Arts (THE 270), @sec-courses-in-theatre-arts
+  
   A performance-based studio course focusing on the development of basic skills necessary for musical theatre
 performance. Students become familiar with the specialized requirements necessary for the merging of singing
 with dramatic action. Periodic performance projects (solos, duets, and ensemble numbers—some including
 dialogue) are supplemented by student research projects. The course is also designed to introduce students to a
 wide-ranging repertoire of available audition material. Additional rehearsal time outside of class is required. 
 - **MU 284 Topics in Music**
+  
   A course of selected focus that centers on a particular musical issue, problem, theory, or methodology. Topics vary, and they include, but are not limited to, Advanced Form and Analysis, Rock and Roll History, Music of the 1960’s, and Modern Musical Theatre. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: consent of instructor. (Offered on an occasional basis) 
 - **MU 285 Conducting I**
+  
   Basic conducting techniques: reading, analysis, and interpretation of choral, band, and orchestral literature. Laboratory experience with college ensembles. Prerequisite: Theory of Music III (MU-215) or consent of instructor. 
 - **MU 309 Theory of Music III**
+  
   Continuation of Theory of Music II, including musicianship training, form and analysis, chromatic harmony, and the basic compositional tools of the 18th and 19th centuries. Prerequisite: Theory of Music II (MU-209) or consent of instructor. 
 - **+++MISSING INFO: c.mu309L.long +++**
+  
   +++MISSING INFO: c.mu309L.desc +++ 
 - **MU 355 Music History & Literature II**
+  
   Study of western music of the 18th and 19th centuries in Europe and America. Prerequisite: Theory of Music II (MU-125) or consent of instructor. 
 - **MU 360 Elementary & General Music Methods**
+  
   Objectives, problems, and methods of teaching elementary music and general music in the schools. Course surveys elementary and general music curricula and develops a functional knowledge of: organization and management; fretted and classroom instruments; methods of teaching singing, rhythmic, and listening activities expected. Directed observation in elementary schools required. Prerequisite: Practicum in Music Education (MU-205). (0.5 course credit) (Offered Spring Term) 
 - **MU 361 Choral Music Methods**
+  
   Objectives, problems, and methods of teaching choral music in the schools. General survey of elementary and secondary choral music curricula and develops a functional knowledge of: organization and management; the changing voice; beginning, intermediate, and advanced choral techniques. Directed observation in elementary and secondary schools required. Credit is given for Choral Music Methods (MU-361) or Choral Music Methods for the Instrumental Teacher (MU-364), not both. Prerequisite: Practicum in Music Education (MU-205) (Offered Spring Term) 
 - **MU 362 InstrMusMethChrlTeachr**
+  
   Objectives, problems, and methods of teaching instrumental music in the schools. General survey of elementary and secondary instrumental music curricula. Students are introduced to: concert band and orchestral techniques; jazz band techniques; marching band techniques; beginning, intermediate, and advanced band and orchestral techniques. Credit is given for Instrumental Music Methods for the Choral Teacher (MU-362) or Instrumental Music Methods (MU-363), not both. Prerequisite: Practicum in Music Education (MU-205) (0.5 course credit) (Offered Spring Term) 
 - **MU 363 Instrumental Music Methods**
+  
   Objectives, problems, and methods of teaching instrumental music in the schools. General survey of elementary and secondary instrumental music curricula and develops a functional knowledge of: organization and management; concert band and orchestral techniques; jazz band techniques; marching band techniques; beginning, intermediate, and advanced band and orchestral techniques. Directed observation in elementary and secondary schools required. Credit is given for Instrumental Music Methods for the Choral Teacher (MU-362) or Instrumental Music Methods (MU-363), not both. Prerequisite: Practicum in Music Education (MU-205). (Offered Spring Term) 
 - **MU 364 ChrlMusMethInstTeach**
+  
   Objectives, problems, and methods of teaching choral music in the schools. General survey of elementary and secondary choral music curricula. Students are introduced to the changing voice and to beginning, intermediate, and advanced choral techniques. Credit is given for Choral Music Methods (MU-361) or Choral Music Methods for the Instrumental Teacher (MU-364), not both. Prerequisite: Practicum in Music Education (MU-205). (0.5 course credit) (Offered Spring Term) 
 - **MU 385 Conducting II**
+  
   Continuation of Conducting I. Prerequisite: Conducting I (MU-285). 
 - **MU 409 Theory of Music IV**
+  
   Further investigation of tonal music, including jazz harmony, harmonic and formal analysis, the rudiments of 18th-century counterpoint, and an introduction to contemporary music. Prerequisite: Theory of Music III (MU-309) or consent of instructor. 
 - **+++MISSING INFO: c.mu409L.long +++**
+  
   +++MISSING INFO: c.mu409L.desc +++ 
 - **MU 421 Student Teaching Elementary Music**
+  
   Directed observation and student teaching in the first six grades. Scheduled daily for seven weeks, approximately six hours per day. Prerequisite: satisfactory completion of all other requirements for the Bachelor of Music in Music Education. (2.0 course credits) (Offered Fall Term) 
 - **MU 422 Student Teaching Secondary Music**
+  
   Directed observation and student teaching in middle school and high school. Scheduled for seven weeks, approximately six hours per day. Prerequisite: satisfactory completion of all other requirements for the Bachelor of Music in Music Education. (2.0 course credits) (Offered Fall Term) 
 - **MU 444 Ind Study-Music**
+  
   Independent work on a selected project in music under the direction of a faculty member of the department. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisites: background courses and consent of department chair. 
 - **MU 458 Music History & Literature III**
+  
   Study of the composers and musical developments in Europe and America in the 20th and 21st centuries, together with the influences of music from other world cultures. Prerequisite: Theory of Music II (MU-209) or consent of instructor. 
 
 **MUA Prefix**
 
 - **MUA 100 Concert Band**
+  
   Open to all woodwind, brass, and percussion players. The ensemble offers students the opportunity to perform some of the great band repertoire of the 20th and 21st centuries, as well as carefully selected transcriptions of orchestral repertoire. A select Wind Ensemble within the Concert Band occasionally performs additional selections from the contemporary repertoire. The Concert Band tours on a regular basis. (0.3 course credit) 
 - **MUA 101 Jazz Ensemble**
+  
   Membership determined by an audition of interested saxophone, trombone, trumpet, piano, bass, guitar, drum set, and auxiliary percussion players. The ensemble offers students the opportunity to perform varied selections from the jazz repertoire of the 20th and 21st centuries, as well as the opportunity to improvise in the jazz idiom. The Jazz Ensemble tours on a regular basis and performs with three to five guest artists each year. (0.2 course credit) 
 - **MUA 102 Jazz & Improvisation Lab**
+  
   Open to all interested musicians. The ensemble offers students the opportunity to perform varied selections from the jazz repertoire of the 20th and 21st centuries, as well as the opportunity to improvise in the jazz idiom. The Lab gives students an outlet to practice a secondary instrument and also allows music education majors the opportunity to rehearse and conduct a jazz ensemble. (0.1 course credit) 
 - **MUA 103 Symphony Orchestra**
+  
   Membership determined by an audition of interested string, woodwind, brass, and percussion players. The ensemble offers students the opportunity to perform varied selections from the symphonic repertoire of the 18th through the 21st centuries, in both full orchestra and string orchestra formats. The Symphony Orchestra also occasionally performs works that feature soloists or combines with the Concert Choir to present masterworks. (0.3 course credit) 
 - **MUA 104 Concert Choir**
+  
   Membership determined by audition. The ensemble offers students the opportunity to perform a wide variety of repertoire covering many styles from the Renaissance through the 21st centuries. The Concert Choir also occasionally combines with the Symphony Orchestra to present large masterworks, and tours on a regular basis. (0.3 course credit) 
 - **MUA 105 Crimson Singers**
+  
   Presents concerts each term, on and off campus. Open to all interested musicians who sing. The Crimson Singers is a small auditioned, mixed singing ensemble focusing on Broadway, jazz, and popular music styles. Some selections will be choreographed. Participants will gain experience in show choir, jazz, and a cappella singing and performing styles. Previous show choir is preferable; it is not required. Students in the Crimson Singers are also encouraged to enroll in the Concert Choir. Registration for this course is by audition and the consent of the instructor. (0.3 course credit) 
 - **MUA 110 Vocal Jazz Ensemble**
+  
   Membership determined by audition. The Vocal Jazz Ensemble offers students the opportunity to perform in a wide variety of vocal and choral styles, with an emphasis on repertoire for smaller vocal ensemble including vocal jazz, madrigals, pop, and music of other cultures. The Vocal Jazz Ensemble may perform either on or off campus and tours on an occasional basis. (0.2 course credit) 
 - **MUA 111 Coe Handbell Ensemble**
+  
   Provides students the unique opportunity to play English Handbells in a team-ensemble experience. The course focuses on basic through advanced ringing techniques, music-reading skills, rhythmic skills, and coordination skills. Prerequisites: Music Fundamentals (MU-055) or Theory of Music I (MU-115), prior experience in a handbell or other music ensemble, or consent of instructor. (0.20 course credit) 
 - **+++MISSING INFO: c.mua130V.long +++**
+  
   +++MISSING INFO: c.mua130V.desc +++ 
 - **+++MISSING INFO: c.mua131V.long +++**
+  
   +++MISSING INFO: c.mua131V.desc +++ 
 - **+++MISSING INFO: c.mua133V.long +++**
+  
   +++MISSING INFO: c.mua133V.desc +++ 
 - **+++MISSING INFO: c.mua134V.long +++**
+  
   +++MISSING INFO: c.mua134V.desc +++ 
 - **MUA 211 Group Sight-Singing Lessons**
+  
   Study of aural skills in a group setting. Develops ear training and sight-singing proficiencies. Prerequisite: Theory of Music II (MU-209). (0.2 course credit) 
 - **MUA 284 Applied Music: Special Topics**
+  
   Private study in Applied Music topics not offered in MUA course listings for music majors or other interested and qualified students. The course provides extended, yet tangible, instruction and/or research pertaining to the student's specific applied music specialty or related music interest area. Prerequisites: consent of instructor and department chair. (0.3 and 0.6 course credit) 
 - **MUA 413 Orchestration**
+  
   None 
 - **MUA 423 Saxophone (Adv Std)**
+  
   None 
 - **MUA 490 Senior Recital**
+  
   A full-length senior recital in composition or performance area. S/U basis only. Prerequisite: consent of instructor. 
 
 

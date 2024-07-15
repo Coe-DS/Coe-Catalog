@@ -54,6 +54,7 @@ A major in Kinesiology requires a minimum cumulative 2.0 GPA in all courses coun
 1. Teaching certification in an academic area 
 2. KIN 175 Prevention & Care Ath Inj
 3. KIN 201 Fundamentals of Coaching
+
 The Coaching Endorsement (#55, K-12) may be granted to any student with teacher certification completing a major in kinesiology and by taking KIN 205 Theory of Coaching **OR** KIN 201 Fundamentals of Coaching.
 
 ### State of Iowa Coaching Authorization
@@ -84,58 +85,81 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
 
 **All** of the following courses in the Athletic Training Group 
 
-	- KIN 110 Emergency Life Skills
-	- KIN 210 Athletic Injury Evaluation
-	- KIN 410 Athletic Injury Treatment & Rehab
+- KIN 110 Emergency Life Skills
+- KIN 210 Athletic Injury Evaluation
+- KIN 410 Athletic Injury Treatment & Rehab
 
 *Students interested in the Athletic Training Group track are strongly encouraged to meet with the Kinesiology faculty for informal advising as soon as they have chosen this major. Additional coursework may be needed for those students pursuing a licensure in Athletic Training. *
 
 ### Courses in Kinesiology
 - **+++MISSING INFO: c.kin100/102/103/104.long +++**
+  
   +++MISSING INFO: c.kin100/102/103/104.desc +++ 
 - **KIN 105 Foundations of Physical Movement**
+
   The foundations, historical development, professional qualification, and opportunities in the field of physical education. Movement education theory is studied as it applies to all grade levels along with the study of growth, maturation, physical activity and performance in young adolescents. 
 - **KIN 110 Emergency Life Skills**
+  
   Incorporates the latest principles of emergency care in order to become effective initial responders. Broader discussion will focus on the efficacy of Good Samaritan laws, while at the same time addressing current changes to society as it relates to these laws. In addition, this course will prepare students to recognize and care for a variety of first aid emergencies such as burns, cuts, scrapes, sudden illnesses, head, neck, back injuries, heat and cold emergencies. Students will gain both the competency and proficiencies associated with learning how to respond to breathing and cardiac emergencies. Successful students will receive a certificate for Adult First Aid/CPR/AED. (0.5 credit) 
 - **KIN 111 Phys Educ for Elementary Teacher**
+  
   Emphasizes a survey of modern health and physical education practice in school and community, and the development of exercise in the elementary school through singing games and rhythms, folk and square dancing, games, and sports. (0.5 course credit) 
 - **KIN 112 Health Educ for Elementary Tchr**
+  
   Surveys health-related issues that directly affect the lives of young children. Topics include health, fitness, substance abuse, and physical and mental insult. Students learn to identify and respond to children who have been placed at risk. (0.5 course credit) 
 - **KIN 115 Fundamentals:Exercise & Nutrition**
+  
   Study and evaluation of existing health patterns, which are tested to elicit positive behavior changes. Principles of exercise physiology and fitness, weight control and human nutrition, and problems associated with malnutrition and overnutrition are included to provide students with concepts for an enhanced lifestyle. 
 - **KIN 125 Public and Consumer Health**
+  
   Philosophy and practice of public and community health, including economic, sociological, and legal justification. Examination of health care products, services and consumer protection vehicles in today’s marketplace. Information and guidelines enable individuals to select health care products and services intelligently. 
 - **KIN 135 Concepts of Individual Wellness**
+  
   Examination of personal health and positive lifestyle through the enhancement of physical, social, and mental/emotional wellness. 
 - **KIN 155 Substance Abuse**
+  
   Effects of drugs on the body, problems and risks of drug abuse, and drug education programs are examined. 
 - **KIN 165 Master Activity Class for Teachers**
+  
   Covers all phases of the teaching methodology. This class assesses the skill acquisition of the learner. Students model instructional procedure. After introduction of the activity or skill, students pre-test, teach, and assess each other in the activity or skill. Activities and skills include the following: Soccer/ Football/Volleyball, Basketball/ Softball/Track and Field, Racquet Activities, Strength Conditioning/Fitness, Cycling/Bowling/Archery, Dance/Rhythms, and Aquatic Activities. 
 - **KIN 175 Prevention & Care Ath Inj**
+  
   Principles of human biology, hygienic applications to the care of the body, and the effects of alcohol and substance abuse. Also covered is the nature of injuries frequently sustained in athletic participation and the control, handling, and care of injuries. This course does not satisfy any of the requirements for a major in athletic training. Credit is given for Prevention and Care of Athletic Injuries & Laboratory (KIN-175) or Basic Athletic Training (AT-100), not both. 
 - **KIN 185 Group Exercise**
+  
   Explores the up-to-date, ever-changing, group aerobic activities available in the 21st century. Students discover the advantages and disadvantages, background, physical benefits, and techniques of performing a variety of group aerobic activities. Prerequisite: Foundations of Physical Movement (KIN-105). (0.5 course credit) 
 - **KIN 201 Fundamentals of Coaching**
+  
   Addresses the structure and function of the human body in relation to physical activity, theory and techniques of coaching interscholastic athletics. Topics include professional ethics and legal aspects of coaching as well as the study of human growth and development of children. 
 - **KIN 202 Family Life Education**
+  
   Examines family life and human relationships through the practice of equipping and empowering family members to develop knowledge and skills that enhance well-being. The course will examine human sexuality from a biological, psychological, and social perspective. Topics not limited to reproduction, development, communication and expression will be examined across the lifespan. Perspectives include diversity, variations from the majority, and the influence of gender, race, class, religion, sexual orientation, abilities, age, and culture on sexuality and sexual expression. Topics will also include the understanding of families by using the application of family theory and current research in order to understand family dynamics. 
 - **KIN 205 Theory of Coaching**
+  
   Sports treated from the standpoint of theory and practice. Topics vary from term to term and include, but are not limited to, football, basketball, baseball and softball, wrestling, track, swimming, and volleyball. May be taken more than once for credit, provided the topics are substantially different. (0.5 course credit) 
 - **KIN 210 Athletic Injury Evaluation**
+  
   Introduces students to the procedures used in the examination of injuries involving both the upper and lower extremity. This course will develop a student’s systematic ability to identify, evaluate, and monitor commonly experienced orthopedic injuries in athletics. Investigation into surface palpation, goniometry, manual muscle, and special testing will be developed. Prerequisite: Prevention and Care of Athletic Injuries & Laboratory (KIN-175). 
 - **KIN 215 Psychology of Coaching**
+  
   An introduction to the area of sport psychology, which focuses on the underlying psychological and psychophysiological factors that influence performance in sports and physical activity. The following topics are emphasized: motivation, positive mental attitude (goal setting, self talk, mental imagery), anxiety/stress, self confidence, concentration, communication skills, sportsmanship, and psychological preparation for competition. 
 - **KIN 225 Motor Learning**
+  
   Designed to acquaint students with research findings, empirical evidence, and theoretical constructs regarding the learning and teaching of motor skills. Emphasis placed upon the state of the learner, the learning process, and the conditions for learning. Prerequisite: sophomore standing. 
 - **KIN 315 Methods Elementary Sch PE & Health**
+  
   Analysis of the program of physical education and health for the elementary school. Selection of activities, teaching methods, program planning, equipment and facilities, class management, and evaluation is examined. Prerequisite: Practicum in Education (EDU-215) or consent of department chair. 
 - **KIN 347 Adapted Physical Education**
+  
   A program of activities adapted for individuals with physical disabilities. Development of a rehabilitative exercise program for correction of physical handicaps or deviations. 
 - **KIN 365 Measurement/Eval/Prescription KIN**
+  
   Study of various methods of measurement and evaluation of motor skills and motor performance in physical activity. Construction of skills tests, proper testing procedures, and basic statistics used in evaluating the results covered. Assessment of physical fitness components followed by prescribed activity to improve those components is studied. 
 - **KIN 385 Methods Strength Trng & Condition**
+  
   Application of resistance and movement training techniques. Topics include methods of teaching progressions for resistance training, flexibility, speed/agility training, stretching, plyometrics, safety, successful routines, and exercise prescription for beginning to advanced trainees. Prerequisites: Organismal and Ecological Biology (BIO-155), either Human Anatomy (BIO-215) or Anatomy and Physiology (BIO-103), and junior standing.
 NOTE: Students are encouraged to complete Advanced Weight Training (PE-103/-104) and Movement Training (PE-103/-104) before enrolling in KIN-385. 
+
 **NOTE:**  *Students are encouraged to complete Advanced Weight Training (PE-103/-104) and Movement Training (PE-103/-104) before enrolling in KIN-385.*
 - **KIN 405 Program Design**
   A theory-based course that discusses different strength and conditioning techniques used to program workouts for students, athletes, and members of the community. The course examines physiological factors, such as volume, intensity, rest, frequency, duration, and the acute and chronic effects of exercise. Students design and evaluate their own strength and conditioning programs based on the needs of the individual. Prerequisite: Methods of Teaching Strength Training and Conditioning (KIN-385). 
