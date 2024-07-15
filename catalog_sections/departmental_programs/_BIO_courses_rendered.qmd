@@ -49,7 +49,7 @@ Introduces the student to the structure, function, and organization of the human
 +++MISSING INFO: c.bio103L.desc +++  
  **BIO105 Introductory Biology**  
 None  
- **BIO 111 Urban Ecology** 
+ **BIO 111 Urban Ecology**  
 Introduces the ecology of urban systems, investigating how humans and their built environments interact with and form ecosystems. Two main points of view will be represented: the city as an ecological system, and the responses and adaptations of organisms to this ecosystem. We will also investigate how humans respond to and interact with this biotic and abiotic environment. Labs will visit relevant areas of Cedar Rapids. One three hour workshop and one four-hour lab per week. (Offered alternate years.)  
  **+++MISSING INFO: c.bio111L.long +++**  
 +++MISSING INFO: c.bio111L.desc +++  
@@ -180,6 +180,6 @@ Investigation of an area of interest through voluntary field placement supervise
  **OCC 365 Oak Ridge Science Semester**  
 See @sec-ACM-and-international-programs
 
- **HSS 494 Health Professions Externship**
+ **HSS 494 Health Professions Externship**  
 This capstone experience for qualified junior and senior students, could finalize a career decision or create an opportunity for a different career path. Using the academic knowledge already obtained through course work, the student will now apply it to real world situations as experiential learning with professional mentors in our community and will gain additional knowledge of what the daily activities and difficulties can, or may be present in their particular internship profession. They will increase their own communication skills, learn interpersonal skills with mentors, staff, clients/patients, gain professional ethics skills, and gain additional topic knowledge while working with their mentors. Some will gain "hands on" training while others will gain their knowledge thru observation of techniques, personal interactions, and through researching pertinent subject matters. Some may gain public speaking experiences, while others may increase their professional writing abilities. Each intern experience will have its own unique set of learning outcomes. Junior or Senior standing with appropriate GPA.
 

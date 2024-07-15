@@ -40,7 +40,19 @@ A grade of “C” (2.0) or higher must be earned in all courses counted toward 
 **Category A: General Introductions**
 
 The following courses, all numbered PHL-105, are different versions of the same course. They share overlapping content and focus on the development of the same skills. Students can receive credit for only one PHL 105 Introduction to Philosophy: course.
-- **PHL 105 Introduction to Philosophy:**
+ **PHL 105 Introduction to Philosophy:**  
+  Minds:
+Examines what philosophers think about some of the most basic questions in life. What is real? What does it mean to have a mind? Could minds have an existence independent from our bodies? Is there anything we can know with absolute certainty? Are there objective moral values, and if so, could we know what they are? May not be taken more than once for credit.
+
+God:
+Focuses on questions about the nature and existence of God, human nature, personhood, and free will. Is there evidence for the existence of God and is the presence of suffering inthe world consistent with God's existence? Are human beings merely material beings or might we have non-physical minds or souls? What are persons and what constitutes personal identity over time? What does it mean to have free will? Do we possess free will? May not be taken more than once for credit.
+
+Masterworks:
+Central philosophical debates encountered though the examination of important classical and modern texts from the history of philosophy. Readings in the course focus on several major works from philosophers such as Plato, Descartes, Hume, Marx, and Sartre who discuss the meaning of life, belief in God, the mind-body problem, relativism of truth, and other important philosophical concerns. May not be taken more than once for credit.
+
+Science Fiction:
+Uses science fiction as a springboard for thinking about classic issues and problems in philosophy. Sci-fi classics such as The Matrix, Bladerunner, and Surrogates, raise fundamental philosophical questions such as: What the difference between appearance and reality and how can we distinguish between them? What is it to be a person? Should we think that all and only human beings can be person? What is a good human life? Is a pleasant life sufficient for living a good life? In this course such questions are examined through the lens of both philosophy and science fiction. May not be taken more than once for credit.   
+ **PHL 105 Introduction to Philosophy:**  
   Minds:
 Examines what philosophers think about some of the most basic questions in life. What is real? What does it mean to have a mind? Could minds have an existence independent from our bodies? Is there anything we can know with absolute certainty? Are there objective moral values, and if so, could we know what they are? May not be taken more than once for credit.
 
@@ -52,7 +64,7 @@ Central philosophical debates encountered though the examination of important cl
 
 Science Fiction:
 Uses science fiction as a springboard for thinking about classic issues and problems in philosophy. Sci-fi classics such as The Matrix, Bladerunner, and Surrogates, raise fundamental philosophical questions such as: What the difference between appearance and reality and how can we distinguish between them? What is it to be a person? Should we think that all and only human beings can be person? What is a good human life? Is a pleasant life sufficient for living a good life? In this course such questions are examined through the lens of both philosophy and science fiction. May not be taken more than once for credit.  
-- **PHL 105 Introduction to Philosophy:**
+ **PHL 105 Introduction to Philosophy:**  
   Minds:
 Examines what philosophers think about some of the most basic questions in life. What is real? What does it mean to have a mind? Could minds have an existence independent from our bodies? Is there anything we can know with absolute certainty? Are there objective moral values, and if so, could we know what they are? May not be taken more than once for credit.
 
@@ -63,8 +75,8 @@ Masterworks:
 Central philosophical debates encountered though the examination of important classical and modern texts from the history of philosophy. Readings in the course focus on several major works from philosophers such as Plato, Descartes, Hume, Marx, and Sartre who discuss the meaning of life, belief in God, the mind-body problem, relativism of truth, and other important philosophical concerns. May not be taken more than once for credit.
 
 Science Fiction:
-Uses science fiction as a springboard for thinking about classic issues and problems in philosophy. Sci-fi classics such as The Matrix, Bladerunner, and Surrogates, raise fundamental philosophical questions such as: What the difference between appearance and reality and how can we distinguish between them? What is it to be a person? Should we think that all and only human beings can be person? What is a good human life? Is a pleasant life sufficient for living a good life? In this course such questions are examined through the lens of both philosophy and science fiction. May not be taken more than once for credit. 
-- **PHL 105 Introduction to Philosophy:**
+Uses science fiction as a springboard for thinking about classic issues and problems in philosophy. Sci-fi classics such as The Matrix, Bladerunner, and Surrogates, raise fundamental philosophical questions such as: What the difference between appearance and reality and how can we distinguish between them? What is it to be a person? Should we think that all and only human beings can be person? What is a good human life? Is a pleasant life sufficient for living a good life? In this course such questions are examined through the lens of both philosophy and science fiction. May not be taken more than once for credit.  
+ **PHL 105 Introduction to Philosophy:**  
   Minds:
 Examines what philosophers think about some of the most basic questions in life. What is real? What does it mean to have a mind? Could minds have an existence independent from our bodies? Is there anything we can know with absolute certainty? Are there objective moral values, and if so, could we know what they are? May not be taken more than once for credit.
 
@@ -75,8 +87,8 @@ Masterworks:
 Central philosophical debates encountered though the examination of important classical and modern texts from the history of philosophy. Readings in the course focus on several major works from philosophers such as Plato, Descartes, Hume, Marx, and Sartre who discuss the meaning of life, belief in God, the mind-body problem, relativism of truth, and other important philosophical concerns. May not be taken more than once for credit.
 
 Science Fiction:
-Uses science fiction as a springboard for thinking about classic issues and problems in philosophy. Sci-fi classics such as The Matrix, Bladerunner, and Surrogates, raise fundamental philosophical questions such as: What the difference between appearance and reality and how can we distinguish between them? What is it to be a person? Should we think that all and only human beings can be person? What is a good human life? Is a pleasant life sufficient for living a good life? In this course such questions are examined through the lens of both philosophy and science fiction. May not be taken more than once for credit. 
-- **PHL 105 Introduction to Philosophy:**
+Uses science fiction as a springboard for thinking about classic issues and problems in philosophy. Sci-fi classics such as The Matrix, Bladerunner, and Surrogates, raise fundamental philosophical questions such as: What the difference between appearance and reality and how can we distinguish between them? What is it to be a person? Should we think that all and only human beings can be person? What is a good human life? Is a pleasant life sufficient for living a good life? In this course such questions are examined through the lens of both philosophy and science fiction. May not be taken more than once for credit.  
+ **PHL 105 Introduction to Philosophy:**  
   Minds:
 Examines what philosophers think about some of the most basic questions in life. What is real? What does it mean to have a mind? Could minds have an existence independent from our bodies? Is there anything we can know with absolute certainty? Are there objective moral values, and if so, could we know what they are? May not be taken more than once for credit.
 
@@ -87,85 +99,73 @@ Masterworks:
 Central philosophical debates encountered though the examination of important classical and modern texts from the history of philosophy. Readings in the course focus on several major works from philosophers such as Plato, Descartes, Hume, Marx, and Sartre who discuss the meaning of life, belief in God, the mind-body problem, relativism of truth, and other important philosophical concerns. May not be taken more than once for credit.
 
 Science Fiction:
-Uses science fiction as a springboard for thinking about classic issues and problems in philosophy. Sci-fi classics such as The Matrix, Bladerunner, and Surrogates, raise fundamental philosophical questions such as: What the difference between appearance and reality and how can we distinguish between them? What is it to be a person? Should we think that all and only human beings can be person? What is a good human life? Is a pleasant life sufficient for living a good life? In this course such questions are examined through the lens of both philosophy and science fiction. May not be taken more than once for credit. 
-- **PHL 105 Introduction to Philosophy:**
-  Minds:
-Examines what philosophers think about some of the most basic questions in life. What is real? What does it mean to have a mind? Could minds have an existence independent from our bodies? Is there anything we can know with absolute certainty? Are there objective moral values, and if so, could we know what they are? May not be taken more than once for credit.
-
-God:
-Focuses on questions about the nature and existence of God, human nature, personhood, and free will. Is there evidence for the existence of God and is the presence of suffering inthe world consistent with God's existence? Are human beings merely material beings or might we have non-physical minds or souls? What are persons and what constitutes personal identity over time? What does it mean to have free will? Do we possess free will? May not be taken more than once for credit.
-
-Masterworks:
-Central philosophical debates encountered though the examination of important classical and modern texts from the history of philosophy. Readings in the course focus on several major works from philosophers such as Plato, Descartes, Hume, Marx, and Sartre who discuss the meaning of life, belief in God, the mind-body problem, relativism of truth, and other important philosophical concerns. May not be taken more than once for credit.
-
-Science Fiction:
-Uses science fiction as a springboard for thinking about classic issues and problems in philosophy. Sci-fi classics such as The Matrix, Bladerunner, and Surrogates, raise fundamental philosophical questions such as: What the difference between appearance and reality and how can we distinguish between them? What is it to be a person? Should we think that all and only human beings can be person? What is a good human life? Is a pleasant life sufficient for living a good life? In this course such questions are examined through the lens of both philosophy and science fiction. May not be taken more than once for credit. 
+Uses science fiction as a springboard for thinking about classic issues and problems in philosophy. Sci-fi classics such as The Matrix, Bladerunner, and Surrogates, raise fundamental philosophical questions such as: What the difference between appearance and reality and how can we distinguish between them? What is it to be a person? Should we think that all and only human beings can be person? What is a good human life? Is a pleasant life sufficient for living a good life? In this course such questions are examined through the lens of both philosophy and science fiction. May not be taken more than once for credit.  
 
 **Category B: Ethical and Political Issues**
-- **PHL 128 Morality & Moral Controversies**
+ **PHL 128 Morality & Moral Controversies**  
   A critical examination of important moral issues facing contemporary society. The course uses a variety of common ethical theories. Possible topics include environmental ethics, euthanasia, animal rights, humanitarian aid, abortion, and capital punishment.  
-- **PHL 138 Freedom, State, and Society**
-  Addresses questions of our relation to society and to the state in particular. How much freedom should individuals be given over their own lives? What would an ideal society look like? What demands could social and political institutions legitimately make on us in the name of social order? Works from such philosophers as Plato, Rousseau, and Marx may be considered alongside literary texts such as Utopia or Brave New World. 
-- **PHL 165 Bio-medical Ethics**
-  Addresses a variety of issues in medical ethics and introduces various moral frameworks for thinking about these issues. Students are introduced to ethical theories, such as utilitarianism and Kantianism, and how they can be applied in the context of medical ethics. Topics addressed in the course are likely to include: abortion, euthanasia, peternalism, and patient autonomy, organ transplats and scarce medical resources, and genetic screening, among others. 
-- **PHL 205 Environmental Ethics**
-  Serves as a general introduction to environmental ethics. Students receive instruction in ethical theory and how it can be applied to issues in environmental ethics. Some topics likely to be addressed in the course are: defining our obligations to future generations, the definition of wilderness, sustainable agriculture, animal rights, anthropocentrism, the nature of the value of wilderness, environmental holism, and ecofeminism.   
+ **PHL 138 Freedom, State, and Society**  
+  Addresses questions of our relation to society and to the state in particular. How much freedom should individuals be given over their own lives? What would an ideal society look like? What demands could social and political institutions legitimately make on us in the name of social order? Works from such philosophers as Plato, Rousseau, and Marx may be considered alongside literary texts such as Utopia or Brave New World.  
+ **PHL 165 Bio-medical Ethics**  
+  Addresses a variety of issues in medical ethics and introduces various moral frameworks for thinking about these issues. Students are introduced to ethical theories, such as utilitarianism and Kantianism, and how they can be applied in the context of medical ethics. Topics addressed in the course are likely to include: abortion, euthanasia, peternalism, and patient autonomy, organ transplats and scarce medical resources, and genetic screening, among others.  
+ **PHL 205 Environmental Ethics**  
+  Serves as a general introduction to environmental ethics. Students receive instruction in ethical theory and how it can be applied to issues in environmental ethics. Some topics likely to be addressed in the course are: defining our obligations to future generations, the definition of wilderness, sustainable agriculture, animal rights, anthropocentrism, the nature of the value of wilderness, environmental holism, and ecofeminism.  
 
 **Category C: Logic**
-- **PHL 115 Logic**
-  An introduction to the discipline of logic on an elementary level. This course introduces skills that are essential to good critical reasoning—how to detect forms of arguments, how to test for validity, and how to construct valid arguments. This course focuses on both formal and informal logic.
+ **PHL 115 Logic**  
+  An introduction to the discipline of logic on an elementary level. This course introduces skills that are essential to good critical reasoning—how to detect forms of arguments, how to test for validity, and how to construct valid arguments. This course focuses on both formal and informal logic.  
 
 ##### Intermediate courses {.unnumbered}
 
-- **PHL 206 Buddhist Thought**
-See also REL 206 Buddhist Thought , @sec-religion 
+ **PHL 206 Buddhist Thought**  
+See also REL 206 Buddhist Thought , @sec-religion  
   A survey of major issues in Buddhist philosophy, including ethics, emptiness, idealism, the nature of mind, and the nature of reality. The course focuses on Indian Buddhist philosophical schools and also explores distinctive philosophical ideas from Buddhist traditions in China, Japan, and Tibet. 
 Prerequisite: Eastern Religions (REL-036), or Buddhism (REL-116), or consent of instructor.  
-- **PHL 210 Topics in Philosophy**
-  An examination of a selected topic in philosophy. Topics vary depending on the instructor. May be taken more than once for credit, provided the topics are substantially different. 
-- **PHL 220 Ancient Greek Philosophy**
-  A survey of the central ideas and figures in the philosophy of the ancient Greek world. Figures studied include the pre-Socratic philosophers, Socrates, Plato, and Aristotle. 
-- **PHL 230 Medieval Philosophy**
-  A survey of the major philosophical and theological ideas of the Middle Ages. Special emphasis is placed on the writings of such thinkers as Augustine, Anselm, and Thomas Aquinas. (This course is also applicable to the major in Religion.) 
-- **PHL 235 Philosophy of Science**
-  An examination of the nature of scientific activity and theory. Views of scientific method are considered, in addition to the ways in which scientific theories develop. Both classical theories of science focusing on the structure of scientific explanation and more recent views focusing on the dynamic nature of science are considered. Attention is also given to the question of whether different branches of science have different types of explanation. Some previous experience with science helpful. 
-- **PHL 240 Early Modern Philosophy**
-  An examination of the metaphysical and epistemological theories of major European philosophers of the 17th and 18th centuries. Readings are drawn from the works of Descartes, Spinoza, Leibniz, Locke, Berkeley, Hume, and Kant. 
-- **PHL 245 Minds, Brains, and Robots**
-  An examination of the central issues in the philosophy of mind. The primary focus of this course is on the nature of consciousness and its relation to the physical processes of the body. Questions to be addressed include the following: are the mind and brain distinct entities? Can awareness be produced by non-brain-like things, particularly machines? Does it make sense to think of the self as a unitary entity that underlies one’s many experiences? In what sense, if any, do persons possess free will? 
-- **PHL 255 Existentialism**
-  An examination of the writings of major figures representing modern existentialist views. This course includes both philosophical and literary texts, primarily from authors of the 20th century, such as Heidegger, Sartre, and Camus, and also traces the origins of this movement from 19th century figures, such as Kierkegaard and Nietzsche. Readings will explore themes such as finitude, authenticity, the absurd, bad faith, freedom and responsibility. 
-- **PHL 265 Political Philosophy**
-  An investigation of the central issues in social and political philosophy concerning the individual’s relation to society and to the state in particular. Questions may include: on what basis can states legitimately exercise authority over individuals? What are the proper ends and limits of state authority? What principles should our society pursue in allocating goods such as property, education, health, and welfare? 
-- **PHL 270 Ethical Theory**
-  An examination of central normative and meta-ethical theories. Some questions that may be addressed in the course are: should we seek to maximize the happiness of the universe in whatever we do? Are some actions good in themselves regardless of their consequences? Are there absolute moral truths? Or, are all moral truths relative? What justifies our moral claims, if anything does? Prerequisite: at least one previous course in philosophy or consent of instructor. 
-- **PHL 277 Philosophy of Gender & Race**
-  An examination of various issues involving the manner in which gender and race have been conceptualized in Western thought. This course considers ways in which gender and race pose problems for traditional conceptions of justice and equality will explore a variety of responses to these challenges by social and political theorists. 
-- **PHL 285 Law, Morality & Punishment**
-  An introduction to the central issues in the philosophy of law. This course includes a survey of central theories on the nature of law, such as natural law, positive law, and legal realism. It also covers such topics as the relationship between law and morality and various philosophical views on the nature and justification of punishment. 
+ **PHL 210 Topics in Philosophy**  
+  An examination of a selected topic in philosophy. Topics vary depending on the instructor. May be taken more than once for credit, provided the topics are substantially different.  
+ **PHL 220 Ancient Greek Philosophy**  
+  A survey of the central ideas and figures in the philosophy of the ancient Greek world. Figures studied include the pre-Socratic philosophers, Socrates, Plato, and Aristotle.  
+ **PHL 230 Medieval Philosophy**  
+  A survey of the major philosophical and theological ideas of the Middle Ages. Special emphasis is placed on the writings of such thinkers as Augustine, Anselm, and Thomas Aquinas. (This course is also applicable to the major in Religion.)  
+ **PHL 235 Philosophy of Science**  
+  An examination of the nature of scientific activity and theory. Views of scientific method are considered, in addition to the ways in which scientific theories develop. Both classical theories of science focusing on the structure of scientific explanation and more recent views focusing on the dynamic nature of science are considered. Attention is also given to the question of whether different branches of science have different types of explanation. Some previous experience with science helpful.  
+ **PHL 240 Early Modern Philosophy**  
+  An examination of the metaphysical and epistemological theories of major European philosophers of the 17th and 18th centuries. Readings are drawn from the works of Descartes, Spinoza, Leibniz, Locke, Berkeley, Hume, and Kant.  
+ **PHL 245 Minds, Brains, and Robots**  
+  An examination of the central issues in the philosophy of mind. The primary focus of this course is on the nature of consciousness and its relation to the physical processes of the body. Questions to be addressed include the following: are the mind and brain distinct entities? Can awareness be produced by non-brain-like things, particularly machines? Does it make sense to think of the self as a unitary entity that underlies one’s many experiences? In what sense, if any, do persons possess free will?  
+ **PHL 255 Existentialism**  
+  An examination of the writings of major figures representing modern existentialist views. This course includes both philosophical and literary texts, primarily from authors of the 20th century, such as Heidegger, Sartre, and Camus, and also traces the origins of this movement from 19th century figures, such as Kierkegaard and Nietzsche. Readings will explore themes such as finitude, authenticity, the absurd, bad faith, freedom and responsibility.  
+ **PHL 265 Political Philosophy**  
+  An investigation of the central issues in social and political philosophy concerning the individual’s relation to society and to the state in particular. Questions may include: on what basis can states legitimately exercise authority over individuals? What are the proper ends and limits of state authority? What principles should our society pursue in allocating goods such as property, education, health, and welfare?  
+ **PHL 270 Ethical Theory**  
+  An examination of central normative and meta-ethical theories. Some questions that may be addressed in the course are: should we seek to maximize the happiness of the universe in whatever we do? Are some actions good in themselves regardless of their consequences? Are there absolute moral truths? Or, are all moral truths relative? What justifies our moral claims, if anything does? Prerequisite: at least one previous course in philosophy or consent of instructor.  
+ **PHL 277 Philosophy of Gender & Race**  
+  An examination of various issues involving the manner in which gender and race have been conceptualized in Western thought. This course considers ways in which gender and race pose problems for traditional conceptions of justice and equality will explore a variety of responses to these challenges by social and political theorists.  
+ **PHL 285 Law, Morality & Punishment**  
+  An introduction to the central issues in the philosophy of law. This course includes a survey of central theories on the nature of law, such as natural law, positive law, and legal realism. It also covers such topics as the relationship between law and morality and various philosophical views on the nature and justification of punishment.  
 
 ##### Advanced seminars {.unnumbered} 
-- **PHL 305 Contemporary Continental Philosophy**
-  An examination of central philosophical topics and themes of philosophy on the European continent since 1900 e.g., structuralism, critical theory, and post-structuralism. Readings are drawn from such philosophers as Saussure, Habermas, Derrida, Foucault, and Lyotard. Prerequisite: two courses in philosophy or consent of instructor. 
-- **PHL 315 Advanced Topics in Philosophy**
-  An examination of a selected topic in philosophy. Topics vary depending on the instructor. May be repeated for credit, provided the topics are substantially different. Prerequisite: two courses in philosophy or consent of instructor. 
-- **PHL 320 Seminar in Ethics**
-  An advanced research seminar dealing with central topics in normative ethics and/or metaethics. Topics addressed may include: utilitarianism, Kantianism, Aristotelian virtue theory, moral realism, ethical relativism, etc. In this course emphasis is placed on the development of student research projects on central topics in ethical theory. Prerequisite: two courses in philosophy or consent of instructor. 
-- **PHL 335 Late Modern Philosophy**
-  An examination of the works of influential European thinkers of the late 18th and 19th century. The course begins with the study of German idealism, a movement that includes philosophers such as Kant, Fichte, and Hegel, followed by an examination of later 19th-century figures such as Marx and Nietzsche. Prerequisite: at least one previous course in philosophy or consent of instructor. 
-- **PHL 345 Philosophy of Language**
-  Questions how linguistic signs allow us to communicate meaning. Does meaning become established by reference to objective content that is independent of individual speakers? Or, is meaning a function of private mental states in the minds of language users? These questions belong to the field of semantics or philosophy of language, which studies the nature of meaning and reference in linguistic systems. Course materials primarily consists of works from contemporary philosophy. Prerequiste: two courses in philosophy or consent of instructor. 
-- **PHL 355 Seminar in Metaphysics**
-  An advanced research seminar dealing with cetral topics in metaphysics. Topics addressed may include: the nature and existence of God, the nature of the self and personal identity, free will, etc. In this course emphasis is placed on the development of student research projects on central topics in metaphysics. Prerequisite: two courses in philosophy or consent of instructor. 
-- **PHL 365 Philosophy of Art and Aesthetic Exp**
-  None 
-- **PHL 394 Directed Learning in Philosophy**
-  A course of readings selected by the student and instructor to fit the individual student’s particular interests and educational needs. Readings may focus on either a philosophical problem or one or more philosophers. Prerequisite: consent of instructor. 
-- **PHL 444 Ind Study-Philos**
-  Independent study in some philosophical problem or the thought of some major philosopher, under the direction of a faculty member of the department. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisite: consent of instructor. 
-- **PHL 464 Seminar in Philosophy of Religion**
-  An advanced research seminar dealing with central topics in the philosophy of religion. Topics addressed may include: the evidence for God, non-evidential defenses of the rationality of religious belief, miracles, the problem of evil, etc. In this course emphasis is placed on the development of student research projects on central topics in the philosophy or religion. Prerequisites: two courses in philosophy or consent of instructor. 
-- **PHL 490 Philosophy Colloquium**
-  Majors are required to submit 10-15 pages of finished philosophical prose, and present their work orally to students and faculty. Although the Colloquium is usually taken during Spring Term of the senior year, it is open to all juniors and seniors with appropriate background in philosophy. Satisfactory completion of the Colloquium is required for graduation with a major in philosophy. S/U basis only. 
-- **PHL 494 Internship in Philosophy**
-  Exploration of a career area related to the student’s interest in philosophy supervised by a faculty member of the department in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major in philosophy. Prerequisites: declared major in philosophy, junior standing, and consent of department chair. 
+ **PHL 305 Contemporary Continental Philosophy**  
+  An examination of central philosophical topics and themes of philosophy on the European continent since 1900 e.g., structuralism, critical theory, and post-structuralism. Readings are drawn from such philosophers as Saussure, Habermas, Derrida, Foucault, and Lyotard. Prerequisite: two courses in philosophy or consent of instructor.  
+ **PHL 315 Advanced Topics in Philosophy**  
+  An examination of a selected topic in philosophy. Topics vary depending on the instructor. May be repeated for credit, provided the topics are substantially different. Prerequisite: two courses in philosophy or consent of instructor.  
+ **PHL 320 Seminar in Ethics**  
+  An advanced research seminar dealing with central topics in normative ethics and/or metaethics. Topics addressed may include: utilitarianism, Kantianism, Aristotelian virtue theory, moral realism, ethical relativism, etc. In this course emphasis is placed on the development of student research projects on central topics in ethical theory. Prerequisite: two courses in philosophy or consent of instructor.  
+ **PHL 335 Late Modern Philosophy**  
+  An examination of the works of influential European thinkers of the late 18th and 19th century. The course begins with the study of German idealism, a movement that includes philosophers such as Kant, Fichte, and Hegel, followed by an examination of later 19th-century figures such as Marx and Nietzsche. Prerequisite: at least one previous course in philosophy or consent of instructor.  
+ **PHL 345 Philosophy of Language**  
+  Questions how linguistic signs allow us to communicate meaning. Does meaning become established by reference to objective content that is independent of individual speakers? Or, is meaning a function of private mental states in the minds of language users? These questions belong to the field of semantics or philosophy of language, which studies the nature of meaning and reference in linguistic systems. Course materials primarily consists of works from contemporary philosophy. Prerequiste: two courses in philosophy or consent of instructor.  
+ **PHL 355 Seminar in Metaphysics**  
+  An advanced research seminar dealing with cetral topics in metaphysics. Topics addressed may include: the nature and existence of God, the nature of the self and personal identity, free will, etc. In this course emphasis is placed on the development of student research projects on central topics in metaphysics. Prerequisite: two courses in philosophy or consent of instructor.  
+ **PHL 365 Philosophy of Art and Aesthetic Exp**  
+  None  
+ **PHL 394 Directed Learning in Philosophy**  
+  A course of readings selected by the student and instructor to fit the individual student’s particular interests and educational needs. Readings may focus on either a philosophical problem or one or more philosophers. Prerequisite: consent of instructor.  
+ **PHL 444 Ind Study-Philos**  
+  Independent study in some philosophical problem or the thought of some major philosopher, under the direction of a faculty member of the department. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisite: consent of instructor.  
+ **PHL 464 Seminar in Philosophy of Religion**  
+  An advanced research seminar dealing with central topics in the philosophy of religion. Topics addressed may include: the evidence for God, non-evidential defenses of the rationality of religious belief, miracles, the problem of evil, etc. In this course emphasis is placed on the development of student research projects on central topics in the philosophy or religion. Prerequisites: two courses in philosophy or consent of instructor.  
+ **PHL 490 Philosophy Colloquium**  
+  Majors are required to submit 10-15 pages of finished philosophical prose, and present their work orally to students and faculty. Although the Colloquium is usually taken during Spring Term of the senior year, it is open to all juniors and seniors with appropriate background in philosophy. Satisfactory completion of the Colloquium is required for graduation with a major in philosophy. S/U basis only.  
+ **PHL 494 Internship in Philosophy**  
+  Exploration of a career area related to the student’s interest in philosophy supervised by a faculty member of the department in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major in philosophy. Prerequisites: declared major in philosophy, junior standing, and consent of department chair.  

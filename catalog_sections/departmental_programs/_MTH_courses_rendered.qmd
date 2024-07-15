@@ -54,62 +54,41 @@ A major in mathematics requires a minimum cumulative 2.0 GPA in all courses coun
 	- MTH 484 Special Topics
 
 ### Courses in Mathematics
-- **MTH 105 Math for Social Justice**
-  
-  An introduction to contemporary mathematical thinking with emphasis on its connections to society. Logical thinking and the ability to read critically are interwoven with elementary mathematical skills. The course concentrates on discussions about mathematics—about its nature, its content, and its applications to a variety of topics, such as management science, network science, finance, data, statistics, probability, fairness, apportionment, voting theory, and social choice. This course is appropriate for a varied audience. This course does not satisfy any of the requirements for a major or minor in the mathematical sciences. Prerequisite: Some ability in arithmetic, geometry, and elementary algebra. 
-- **MTH 135 Calculus I**
-  
-  An introduction to the concepts of limits, continuity, differentiation of elementary functions, applications, definite and indefinite integrals, and the Fundamental Theorem. Prerequisite: three years of secondary school mathematics, Algebra and Trigonometry (MTH-115), or consent of instructor. 
-- **MTH 145 Calculus II**
-  
-  Further study of the techniques of differentiation and integration, the calculus of exponential, logarithmic and trigonometric functions, sequences, series, and applications. Prerequisite: Calculus I (MTH-135) or consent of instructor. 
-- **MTH 215 Foundations of Advanced Mathematics**
-  
-  A survey of material common to all advanced study of mathematics, including elements of formal logic, axiomatic set theory, induction, relations, functions, cardinality, and various other topics in discrete mathematics. This course is specifically intended to serve both as a transition to upper-division mathematics courses and also as a survey of some areas of mathematics important for future teachers of mathematics and related fields. Prerequisite: Calculus I (MTH-135) or Computational Linear Algebra (MTH-165) or consent of instructor. 
-- **MTH 255 Calculus III**
-  
-  Further study of curves, surfaces, power series, partial derivatives, iterated and multiple integrals, and an introduction to differential and integral vector calculus. Prerequisite: Calculus II (MTH-145) or consent of instructor. 
-- **MTH 265 Linear Algebra**
-  
-  A study of the elementary concepts of vector spaces, including matrix algebra, basis and dimension, inner products, linear transformations. Prerequisites: Calculus II (MTH-145) and Foundations of Advanced Math (MTH-215) or consent of instructor. 
-- **MTH 305 Advanced Geometry**
-  
-  A course designed to give the student an introduction to the modern approaches to geometry at an advanced level. Topics include foundations, Euclidean, projective, and non-Euclidean geometries. Prerequisites: Calculus II (MTH-145) and Foundations of Advanced Math (MTH-215), or consent of instructor. 
-- **MTH 325 Differential Equations WE**
-  
-  The theory, solution, techniques, and applications of elementary types of ordinary differential equations. Prerequisite: Calculus II (MTH-145) or consent of instructor. 
-- **MTH 385 Modern Algebra I**
-  
-  A rigorous introduction to advanced algebra. Topics include mappings, operations, groups, rings, fields, integral domains, and homomorphisms. Prerequisite: Computational Linear Algebra (MTH-165) and Foundations of Advanced Math (MTH-215), or consent of instructor. 
-- **MTH 395 Modern Algebra II**
-  
-  A continuation of Modern Algebra I (MTH 385), including homomorphisms, permutation groups, symmetry, unique factorization domains, quotient rings, and field extensions. Prerequisite: Modern Algebra I (MTH-385). (Offered on an occasional basis) 
-- **MTH 415 Real Analysis I**
-  
-  A rigorous introduction to selected topics in analysis. Topics selected from number systems, Euclidean spaces, metric spaces, limits, continuity, derivatives, and integrals. Prerequisites: Calculus II (MTH-145) and Foundations of Advanced Math (MTH-215). 
-- **MTH 425 Real Analysis II**
-  
-  A continuation of Real Analysis I (MTH-415), including a study of such topics as Riemann Stieltjes and Lebesgue integration, series and series expansions. Prerequisite: Real Analysis I (MTH-415). (Offered by arrangement) 
-- **MTH 444 Ind Study-Math**
-  
-  An opportunity for independent and intensive study in mathematics. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisite: appropriate background courses depending on the nature of the work planned and consent of supervising instructor. (Offered by arrangement) 
-- **MTH 445 Complex Analysis**
-  
-  An introduction to the theory, techniques, and applications of functions of a complex variable. Topics include elementary and analytic functions, limits, differentiation, integration, series, mappings, and applications. Prerequisite: Calculus III (MTH-255) or consent of instructor. 
-- **MTH 454 Research in Mathematics**
-  
-  Individual or group investigation with a mathematics faculty member on a research topic of mutual interest. The student must obtain approval for a specific project and make necessary arrangements prior to the term of registration for the course. This course is offered on an P/NP basis and does not satisfy any of the requirements for a major or minor in computer science. May be taken more than once for credit for a maximum of 2.0 credits. Prerequisites: Foundations of Advanced Mathematics (MTH-215) and consent of supervising instructor. (0.2-1.0 credit; Offered by arrangement) 
-- **MTH 455 Mathematical Modeling**
-  
-  An introduction to the application of mathematical techniques used in the solution of real-world problems. These techniques include interpolation, ordinary differential equations, taylor series expansions, curve fitting, matrix inversion, numerical differentiation, and integration. Prerequisites: Introduction to Programming (CS-125); and Calculus II (MTH-145) 
-- **MTH 463 Set Theory & Toplogy**
-  
-  A rigorous introduction to abstract set theory and to metric and topological spaces, including a discussion of such topics as separation, connectedness, and compactness. Prerequisites: Calculus II (MTH-145) and Foundations of Advanced Math (MTH-215), or consent of instructor. 
-- **MTH 484 Special Topics**
-  
-  An opportunity to study current and topical material unavailable through the regular catalog offerings. Prerequisites: Calculus II (MTH-145) and Foundations of Advanced Math (MTH-215), or consent of instructor. 
-- **MTH 494 Internship in Mathematics**
-  
-  Investigation of a career area related to the student’s interest in mathematics supervised by a faculty member of the department in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major or minor in mathematics. Prerequisites: junior standing and consent of supervising instructor. (Offered by arrangement) 
-
-
+ **MTH 105 Math for Social Justice**  
+  An introduction to contemporary mathematical thinking with emphasis on its connections to society. Logical thinking and the ability to read critically are interwoven with elementary mathematical skills. The course concentrates on discussions about mathematics—about its nature, its content, and its applications to a variety of topics, such as management science, network science, finance, data, statistics, probability, fairness, apportionment, voting theory, and social choice. This course is appropriate for a varied audience. This course does not satisfy any of the requirements for a major or minor in the mathematical sciences. Prerequisite: Some ability in arithmetic, geometry, and elementary algebra.  
+ **MTH 135 Calculus I**  
+  An introduction to the concepts of limits, continuity, differentiation of elementary functions, applications, definite and indefinite integrals, and the Fundamental Theorem. Prerequisite: three years of secondary school mathematics, Algebra and Trigonometry (MTH-115), or consent of instructor.  
+ **MTH 145 Calculus II**  
+  Further study of the techniques of differentiation and integration, the calculus of exponential, logarithmic and trigonometric functions, sequences, series, and applications. Prerequisite: Calculus I (MTH-135) or consent of instructor.  
+ **MTH 215 Foundations of Advanced Mathematics**  
+  A survey of material common to all advanced study of mathematics, including elements of formal logic, axiomatic set theory, induction, relations, functions, cardinality, and various other topics in discrete mathematics. This course is specifically intended to serve both as a transition to upper-division mathematics courses and also as a survey of some areas of mathematics important for future teachers of mathematics and related fields. Prerequisite: Calculus I (MTH-135) or Computational Linear Algebra (MTH-165) or consent of instructor.  
+ **MTH 255 Calculus III**  
+  Further study of curves, surfaces, power series, partial derivatives, iterated and multiple integrals, and an introduction to differential and integral vector calculus. Prerequisite: Calculus II (MTH-145) or consent of instructor.  
+ **MTH 265 Linear Algebra**  
+  A study of the elementary concepts of vector spaces, including matrix algebra, basis and dimension, inner products, linear transformations. Prerequisites: Calculus II (MTH-145) and Foundations of Advanced Math (MTH-215) or consent of instructor.  
+ **MTH 305 Advanced Geometry**  
+  A course designed to give the student an introduction to the modern approaches to geometry at an advanced level. Topics include foundations, Euclidean, projective, and non-Euclidean geometries. Prerequisites: Calculus II (MTH-145) and Foundations of Advanced Math (MTH-215), or consent of instructor.  
+ **MTH 325 Differential Equations WE**  
+  The theory, solution, techniques, and applications of elementary types of ordinary differential equations. Prerequisite: Calculus II (MTH-145) or consent of instructor.  
+ **MTH 385 Modern Algebra I**  
+  A rigorous introduction to advanced algebra. Topics include mappings, operations, groups, rings, fields, integral domains, and homomorphisms. Prerequisite: Computational Linear Algebra (MTH-165) and Foundations of Advanced Math (MTH-215), or consent of instructor.  
+ **MTH 395 Modern Algebra II**  
+  A continuation of Modern Algebra I (MTH 385), including homomorphisms, permutation groups, symmetry, unique factorization domains, quotient rings, and field extensions. Prerequisite: Modern Algebra I (MTH-385). (Offered on an occasional basis)  
+ **MTH 415 Real Analysis I**  
+  A rigorous introduction to selected topics in analysis. Topics selected from number systems, Euclidean spaces, metric spaces, limits, continuity, derivatives, and integrals. Prerequisites: Calculus II (MTH-145) and Foundations of Advanced Math (MTH-215).  
+ **MTH 425 Real Analysis II**  
+  A continuation of Real Analysis I (MTH-415), including a study of such topics as Riemann Stieltjes and Lebesgue integration, series and series expansions. Prerequisite: Real Analysis I (MTH-415). (Offered by arrangement)  
+ **MTH 444 Ind Study-Math**  
+  An opportunity for independent and intensive study in mathematics. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisite: appropriate background courses depending on the nature of the work planned and consent of supervising instructor. (Offered by arrangement)  
+ **MTH 445 Complex Analysis**  
+  An introduction to the theory, techniques, and applications of functions of a complex variable. Topics include elementary and analytic functions, limits, differentiation, integration, series, mappings, and applications. Prerequisite: Calculus III (MTH-255) or consent of instructor.  
+ **MTH 454 Research in Mathematics**  
+  Individual or group investigation with a mathematics faculty member on a research topic of mutual interest. The student must obtain approval for a specific project and make necessary arrangements prior to the term of registration for the course. This course is offered on an P/NP basis and does not satisfy any of the requirements for a major or minor in computer science. May be taken more than once for credit for a maximum of 2.0 credits. Prerequisites: Foundations of Advanced Mathematics (MTH-215) and consent of supervising instructor. (0.2-1.0 credit; Offered by arrangement)  
+ **MTH 455 Mathematical Modeling**  
+  An introduction to the application of mathematical techniques used in the solution of real-world problems. These techniques include interpolation, ordinary differential equations, taylor series expansions, curve fitting, matrix inversion, numerical differentiation, and integration. Prerequisites: Introduction to Programming (CS-125); and Calculus II (MTH-145)  
+ **MTH 463 Set Theory & Toplogy**  
+  A rigorous introduction to abstract set theory and to metric and topological spaces, including a discussion of such topics as separation, connectedness, and compactness. Prerequisites: Calculus II (MTH-145) and Foundations of Advanced Math (MTH-215), or consent of instructor.  
+ **MTH 484 Special Topics**  
+  An opportunity to study current and topical material unavailable through the regular catalog offerings. Prerequisites: Calculus II (MTH-145) and Foundations of Advanced Math (MTH-215), or consent of instructor.  
+ **MTH 494 Internship in Mathematics**  
+  Investigation of a career area related to the student’s interest in mathematics supervised by a faculty member of the department in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major or minor in mathematics. Prerequisites: junior standing and consent of supervising instructor. (Offered by arrangement)  

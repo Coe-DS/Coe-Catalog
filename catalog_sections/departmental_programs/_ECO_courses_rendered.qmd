@@ -44,10 +44,10 @@ A major in economics requires a minimum cumulative 2.0 GPA in all courses counte
 
 ### Courses in Economics
 
-BUS 340 Applied Regression Analysis;  
-BUS 341 Introductory Business Analytics;  
-BUS 441 Advanced Business Analytics;  
-BUS 495 Investment Analysis;  
+**BUS 340 Applied Regression Analysis**;  
+**BUS 341 Introductory Business Analytics**;  
+**BUS 441 Advanced Business Analytics**;  
+**BUS 495 Investment Analysis**;  
 See Business Administration, Section 25.11
 
 **ECO 105 Econ & Public Int**   
@@ -80,7 +80,7 @@ See Data Science, @sec-data-science
   A combination of modern macroeconomic growth theory and its application to the underdeveloped economies of the world. The course begins with the basics of growth theory and identifies the commonly cited lessons for growth in order to analyze underdeveloped economies, especially those of Sub-Saharan Africa. A preponderance of content is aimed at investigating the growth-promoting and growth-inhibiting institutions currently in place in underdeveloped economies. Prerequisites: Principles of Macroeconomics (ECO-205) and Principles of Microeconomics (ECO-215).  
 **BUS 340 Applied Regression Analysis**  
 See Business Administration, Section 25.11  
-  BUS 341 Introductory Business Analytics  
+  **BUS 341 Introductory Business Analytics**  
 See Business Administration, Section 25.11   
 **ECO 345 Intermediate Price Theory**  
   Concepts and methods of analysis, including analysis of demand, theory of production, costs, pricing under different market structures, and functional distribution. General equilibrium analysis serves to introduce welfare economics. Prerequisites: Principles of Macroeconomics (ECO-175) and Principles of Microeconomics (ECO-215).  
