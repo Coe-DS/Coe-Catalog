@@ -284,93 +284,63 @@ Exemptions from these requirements may be granted in unusual circumstances with 
 
 ### Courses in Education
 
-- **{{< var c.edu105.long >}}**
-  
+ **{{< var c.edu105.long >}}**  
     {{< var c.edu105.desc >}}  
-- **{{< var c.edu109.long >}}**
-
+ **{{< var c.edu109.long >}}**  
     {{< var c.edu109.desc >}}  
-- **{{< var c.edu117.long >}}**
-  
+**{{< var c.edu117.long >}}**  
     {{< var c.edu117.desc >}}  
-- **{{< var c.edu187.long >}}**
-  
+ **{{< var c.edu187.long >}}**  
     {{< var c.edu187.desc >}}  
-- **{{< var c.edu195.long >}}**
-  
+ **{{< var c.edu195.long >}}**  
     {{< var c.edu195.desc >}}  
-- **{{< var c.edu215.long >}}**
-  
+ **{{< var c.edu215.long >}}**  
     {{< var c.edu215.desc >}}  
-- **{{< var c.edu219.long >}}**
-  
+ **{{< var c.edu219.long >}}**  
     {{< var c.edu219.desc >}}  
-- **{{< var c.edu220.long >}}**
-  
+ **{{< var c.edu220.long >}}**  
     {{< var c.edu220.desc >}}  
-- **{{< var c.edu237.long >}}**
-  
+ **{{< var c.edu237.long >}}**  
     {{< var c.edu237.desc >}}  
-- **{{< var c.edu241.long >}}**
-  
+ **{{< var c.edu241.long >}}**  
     {{< var c.edu241.desc >}}  
-- **{{< var c.edu260.long >}}**
-  
+ **{{< var c.edu260.long >}}**  
     {{< var c.edu260.desc >}}  
-- **{{< var c.edu270.long >}}**
-  
+ **{{< var c.edu270.long >}}**  
     {{< var c.edu270.desc >}}  
-- **{{< var c.edu275.long >}}**
-  
+ **{{< var c.edu275.long >}}**  
     {{< var c.edu275.desc >}}  
-- **{{< var c.edu284.long >}}**
-  
+ **{{< var c.edu284.long >}}**  
     {{< var c.edu284.desc >}}  
-- **{{< var c.edu300.long >}}**
-  
+ **{{< var c.edu300.long >}}**  
     {{< var c.edu300.desc >}}  
-- **{{< var c.edu305.long >}}**
-  
+ **{{< var c.edu305.long >}}**  
     {{< var c.edu305.desc >}}  
-- **{{< var c.edu310.long >}}**
-  
+ **{{< var c.edu310.long >}}**  
     {{< var c.edu310.desc >}}  
-- **{{< var c.edu311.long >}}**
-  
+ **{{< var c.edu311.long >}}**  
     {{< var c.edu311.desc >}}  
-- **{{< var c.edu312.long >}}**
-  
+ **{{< var c.edu312.long >}}**    
     {{< var c.edu312.desc >}}  
-- **{{< var c.edu313.long >}}**
-  
+ **{{< var c.edu313.long >}}**  
     {{< var c.edu313.desc >}}  
-- **{{< var c.edu320.long >}}**
-  
+ **{{< var c.edu320.long >}}**  
     {{< var c.edu320.desc >}}  
-- **{{< var c.edu321.long >}}**
-  
+ **{{< var c.edu321.long >}}**  
     {{< var c.edu321.desc >}}  
-- **{{< var c.edu335.long >}}**
-  
+ **{{< var c.edu335.long >}}**  
     {{< var c.edu335.desc >}}  
-- **{{< var c.edu345.long >}}**
-  
+ **{{< var c.edu345.long >}}**  
     {{< var c.edu345.desc >}}  
-- **{{< var c.edu355.long >}}**
-  
+ **{{< var c.edu355.long >}}**  
     {{< var c.edu355.desc >}}  
-- **{{< var c.edu365.long >}}**
-  
+ **{{< var c.edu365.long >}}**  
     {{< var c.edu365.desc >}}  
-- **{{< var c.edu395.long >}}**
-  
+ **{{< var c.edu395.long >}}**  
     {{< var c.edu395.desc >}}  
-- **{{< var c.edu444.long >}}**
-  
+ **{{< var c.edu444.long >}}**  
     {{< var c.edu444.desc >}}  
-- **{{< var c.edu454.long >}}**
-  
+ **{{< var c.edu454.long >}}**  
     {{< var c.edu454.desc >}}  
-- **{{< var c.edu494.long >}}**
-  
+ **{{< var c.edu494.long >}}**  
     {{< var c.edu494.desc >}}  
