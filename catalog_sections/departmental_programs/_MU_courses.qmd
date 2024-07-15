@@ -469,7 +469,7 @@ Credit for participation in these regularly-offered ensembles is available under
   {{< var c.mu255.desc >}} 
 - **{{< var c.mu270.long >}}**
 
-  See also Theatre Arts ({{< var c.the270.short >}})
+  See also Theatre Arts ({{< var c.the270.short >}}), @sec-courses-in-theatre-arts
   
   {{< var c.mu270.desc >}} 
 - **{{< var c.mu284.long >}}**
