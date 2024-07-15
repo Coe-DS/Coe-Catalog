@@ -116,21 +116,16 @@ The Contemporary European Studies track emphasizes the study of cultural commona
 
 
 ### Courses in International Studies {#sec-courses-in-IS}
-- **{{< var c.is116.long >}}**
-  
-	{{< var c.is116.desc >}} 
-- **{{< var c.is126.long >}}**
-  
-	{{< var c.is126.desc >}} 
-- **{{< var c.is315.long >}}**
-  
-	{{< var c.is315.desc >}} 
-- **{{< var c.is316.long >}}**
-  
-	{{< var c.is316.desc >}} 
-- **{{< var c.is464.long >}}**
-  
-	{{< var c.is464.desc >}} 
+ **{{< var c.is116.long >}}**  
+	{{< var c.is116.desc >}}   
+ **{{< var c.is126.long >}}**  
+	{{< var c.is126.desc >}}   
+ **{{< var c.is315.long >}}**  
+	{{< var c.is315.desc >}}   
+ **{{< var c.is316.long >}}**  
+	{{< var c.is316.desc >}}   
+ **{{< var c.is464.long >}}**  
+	{{< var c.is464.desc >}}   
 
 
 
