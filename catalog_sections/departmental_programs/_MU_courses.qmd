@@ -300,6 +300,7 @@ Composition lessons and classes in keyboard, brass, woodwind, and string literat
 
 ### APPLIED VOICE--LESSONS
 (Offerings vary each term and include sight singing and/or Alexander Technique.)
+
 - {{< var c.mua101V.long >}}
 - {{< var c.mua110V.long >}}
 - {{< var c.mua202V.long >}}
@@ -419,108 +420,161 @@ Credit for participation in these regularly-offered ensembles is available under
 **MU Prefix**
 
 - **{{< var c.mu100.long >}}**
+  
   {{< var c.mu100.desc >}} 
 - **{{< var c.mu101.long >}}**
+  
   {{< var c.mu101.desc >}} 
 - **{{< var c.mu109.long >}}**
+  
   {{< var c.mu109.desc >}} 
 - **{{< var c.mu109L.long >}}**
+  
   {{< var c.mu109L.desc >}} 
 - **{{< var c.mu140.long >}}**
+  
   {{< var c.mu140.desc >}} 
 - **{{< var c.mu151.long >}}**
+  
   {{< var c.mu151.desc >}} 
 - **{{< var c.mu157.long >}}**
+  
   {{< var c.mu157.desc >}} 
 - **{{< var c.mu161.long >}}**
+  
   {{< var c.mu161.desc >}} 
 - **{{< var c.mu166.long >}}**
+  
   {{< var c.mu166.desc >}} 
 - **{{< var c.mu195.long >}}**
+  
   {{< var c.mu195.desc >}} 
 - **{{< var c.mu202.long >}}**
+  
   {{< var c.mu202.desc >}} 
 - **{{< var c.mu205.long >}}**
+  
   {{< var c.mu205.desc >}} 
 - **{{< var c.mu209.long >}}**
+  
   {{< var c.mu209.desc >}} 
 - **{{< var c.mu209L.long >}}**
+  
   {{< var c.mu209L.desc >}} 
 - **{{< var c.mu251.long >}}**
+  
   {{< var c.mu251.desc >}} 
 - **{{< var c.mu255.long >}}**
+  
   {{< var c.mu255.desc >}} 
 - **{{< var c.mu270.long >}}**
+
+  See also Theatre Arts ({{< var c.the270.short >}})
+  
   {{< var c.mu270.desc >}} 
 - **{{< var c.mu284.long >}}**
+  
   {{< var c.mu284.desc >}} 
 - **{{< var c.mu285.long >}}**
+  
   {{< var c.mu285.desc >}} 
 - **{{< var c.mu309.long >}}**
+  
   {{< var c.mu309.desc >}} 
 - **{{< var c.mu309L.long >}}**
+  
   {{< var c.mu309L.desc >}} 
 - **{{< var c.mu355.long >}}**
+  
   {{< var c.mu355.desc >}} 
 - **{{< var c.mu360.long >}}**
+  
   {{< var c.mu360.desc >}} 
 - **{{< var c.mu361.long >}}**
+  
   {{< var c.mu361.desc >}} 
 - **{{< var c.mu362.long >}}**
+  
   {{< var c.mu362.desc >}} 
 - **{{< var c.mu363.long >}}**
+  
   {{< var c.mu363.desc >}} 
 - **{{< var c.mu364.long >}}**
+  
   {{< var c.mu364.desc >}} 
 - **{{< var c.mu385.long >}}**
+  
   {{< var c.mu385.desc >}} 
 - **{{< var c.mu409.long >}}**
+  
   {{< var c.mu409.desc >}} 
 - **{{< var c.mu409L.long >}}**
+  
   {{< var c.mu409L.desc >}} 
 - **{{< var c.mu421.long >}}**
+  
   {{< var c.mu421.desc >}} 
 - **{{< var c.mu422.long >}}**
+  
   {{< var c.mu422.desc >}} 
 - **{{< var c.mu444.long >}}**
+  
   {{< var c.mu444.desc >}} 
 - **{{< var c.mu458.long >}}**
+  
   {{< var c.mu458.desc >}} 
 
 **MUA Prefix**
 
 - **{{< var c.mua100.long >}}**
+  
   {{< var c.mua100.desc >}} 
 - **{{< var c.mua101.long >}}**
+  
   {{< var c.mua101.desc >}} 
 - **{{< var c.mua102.long >}}**
+  
   {{< var c.mua102.desc >}} 
 - **{{< var c.mua103.long >}}**
+  
   {{< var c.mua103.desc >}} 
 - **{{< var c.mua104.long >}}**
+  
   {{< var c.mua104.desc >}} 
 - **{{< var c.mua105.long >}}**
+  
   {{< var c.mua105.desc >}} 
 - **{{< var c.mua110.long >}}**
+  
   {{< var c.mua110.desc >}} 
 - **{{< var c.mua111.long >}}**
+  
   {{< var c.mua111.desc >}} 
 - **{{< var c.mua130V.long >}}**
+  
   {{< var c.mua130V.desc >}} 
 - **{{< var c.mua131V.long >}}**
+  
   {{< var c.mua131V.desc >}} 
 - **{{< var c.mua133V.long >}}**
+  
   {{< var c.mua133V.desc >}} 
 - **{{< var c.mua134V.long >}}**
+  
   {{< var c.mua134V.desc >}} 
 - **{{< var c.mua211.long >}}**
+  
   {{< var c.mua211.desc >}} 
 - **{{< var c.mua284.long >}}**
+  
   {{< var c.mua284.desc >}} 
 - **{{< var c.mua413.long >}}**
+  
   {{< var c.mua413.desc >}} 
 - **{{< var c.mua423.long >}}**
+  
   {{< var c.mua423.desc >}} 
 - **{{< var c.mua490.long >}}**
+  
   {{< var c.mua490.desc >}} 
 
