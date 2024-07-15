@@ -116,7 +116,7 @@ Candidates for the **BACHELOR OF ARTS** degree with a major in music must succes
 2. {{< var c.mu209.long >}}/{{< var c.mu209L.long >}}
 3. {{< var c.mu309.long >}}/{{< var c.mu309L.long >}}
 4. {{< var c.mu458.long >}}
-5. **Four** terms of participation in the Applied Music Course with piano as the primary or secondary performing area. 
+5. **Four** terms of participation in the Applied Music Course with piano as the primary or secondary performing area. (See @sec-MUA-classes)
 6. **One** of the following: 
 	- {{< var c.mu255.long >}}
 	- {{< var c.mu355.long >}}
@@ -230,9 +230,10 @@ Intensive studies in performance and repertoire through lessons, ensembles, peda
 3. Additional ensembles, lessons, or courses in pedagogy, techniques, and literature (0.1-0.6 course credit) that are required for any of the areas of study that lead to one of the music degrees. The *Coe College Music Department Faculty/Student Handbook* (see above) contains descriptions and additional information about these ensembles and courses.
 **Prerequisite:** an audition; consent of department chair.
 
-### APPLIED MUSIC CLASSES
-Artist teachers in violin, viola, cello, string and electric bass, piano, piano accompanying^+^, harpsichord^+^, organ^+^, flute, oboe, clarinet, saxophone, bassoon, trumpet, horn, trombone, low brass, percussion, guitar, harp, composition^+^, and voice are available to all students who wish to study applied music. 
-**^+^Prerequisite:** proficiency in piano and consent of instructor. 
+### APPLIED MUSIC CLASSES {#sec-MUA-classes}
+Artist teachers in violin, viola, cello, string and electric bass, piano, piano accompanying\*, harpsichord\*, organ\*, flute, oboe, clarinet, saxophone, bassoon, trumpet, horn, trombone, low brass, percussion, guitar, harp, composition\*, and voice are available to all students who wish to study applied music. 
+
+**\*Prerequisite:** proficiency in piano and consent of instructor. 
 
 Composition lessons and classes in keyboard, brass, woodwind, and string literature are also available. Credit for applied music study is granted after the student has satisfactorily passed an examination by a faculty committee (jury exam) at the close of each term. Two hours daily practice per weekly hour lesson are expected of all students taking applied music. 
 
