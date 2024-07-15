@@ -65,7 +65,7 @@ Further information for all these requirements and programs is available from th
 {{< var c.art105.desc >}}  
  **{{< var c.art115.long >}}**  
 {{< var c.art115.desc >}}  
-- **{{< var c.art125.long >}}**  
+ **{{< var c.art125.long >}}**  
 {{< var c.art125.desc >}}  
  **{{< var c.art130.long >}}**  
 {{< var c.art130.desc >}}  
