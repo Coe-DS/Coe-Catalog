@@ -48,8 +48,7 @@ A major in economics requires a minimum cumulative 2.0 GPA in all courses counte
 **BUS 341 Introductory Business Analytics**;  
 **BUS 441 Advanced Business Analytics**;  
 **BUS 495 Investment Analysis**;  
-See Business Administration, Section 25.11
-
+See Business Administration, Section 25.11  
 **ECO 105 Econ & Public Int**   
   Designed to give students the opportunity to learn the fundamentals of the economic approach to problems and enable them to apply elementary concepts such as supply and demand, marginal costs and benefits, and the national income identity to problems like the environment, public choice, the budget deficit, the trade deficit, etc. The core of the course consists of the analytics of the economic way of thinking; the applications change from time to time. This course does not satisfy any of the requirements for a major or minor in economics.   
 **ECO 115 Intro Political Econ**   
@@ -85,7 +84,7 @@ See Business Administration, Section 25.11
 **ECO 345 Intermediate Price Theory**  
   Concepts and methods of analysis, including analysis of demand, theory of production, costs, pricing under different market structures, and functional distribution. General equilibrium analysis serves to introduce welfare economics. Prerequisites: Principles of Macroeconomics (ECO-175) and Principles of Microeconomics (ECO-215).  
 **BUS 350 Principles of Finance**  
-See Business Administration, Section 25.11
+See Business Administration, Section 25.11  
 **ECO 355 Industrial Organization**  
   An upper division course devoted to the environment that firms operate within, the tools to analyze market processes under imperfect competition, and the consequences for economic performance. Topics include the structure-conduct-performance paradigm and the fundamentals of game theory. Prerequisites: Principles of Macroeconomics (ECO-205) and Principles of Microeconomics (ECO-215).  
 **ECO 365 Law & Economics**  
@@ -99,8 +98,8 @@ See Business Administration, Section 25.11
 **ECO 402 Seminar in Microeconomics**  
   An advanced study of selected microeconomic theories and practices. May be taken more than once for credit, provided the topics are substantially different. (See instructor for specific content.) Prerequisite: Intermediate Price Theory (ECO-345) or consent of instructor.  
 **BUS 441 Advanced Business Analytics**  
-See Business Administration, Section 25.11 
-**ECO 422 Macroeconomics Policy**  
+See Business Administration, Section 25.11  
+**ECO 422 Macroeconomics Policy**    
   Investigates modern Macroeconomic schools of thought as they pertain to the conduct of Macroeconomic Policy following the Great Depression and Keynesian Revolution in Economics. This course will survey the significant contributions of influential thinkers in contemporary Macroeconomics. Prerequisite: Intermediate Macroeconomic Theory (ECO-315).  
 **ECO 424 Political Economy**  
   Examines alternative approaches to economic theory. This course requires critical engagement with various theoretical frameworks ranging from Marxist to Austrian schools of thought, focusing primarily on the dominant models within each school of thought. Prerequisites: Principles of Macroeconomics (ECO-175) and Principles of Microeconomics (ECO-215).  

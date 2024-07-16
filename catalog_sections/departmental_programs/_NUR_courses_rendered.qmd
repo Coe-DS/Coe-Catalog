@@ -109,7 +109,7 @@ Statistics 	PSY 300 Stat Methods and Data Analysis **or**
 ### Courses in Nursing
 
  **NUR 100 Nursing Issues**  
-  +++MISSING INFO: c.dsnur100.desc +++  
+  An introduction to the nursing degree program. The seminar provides an opportunity for pre-nursing students to interact with nursing students and faculty to explore the process of becoming a nurse. Topics include professional role development and current issues in clinical nursing practice. Pre-nursing students must enroll each term. May be taken for credit a maximum of two times. Prerequisite: first-year student. (0.2 course credit)  
  **NUR 137 Human Sexuality**  
 See also PSY 137 Human Sexuality , @sec-psychology  
   See also Psychology (PSY-137), p. 170

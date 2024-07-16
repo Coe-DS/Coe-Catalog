@@ -101,7 +101,7 @@ Central philosophical debates encountered though the examination of important cl
 Science Fiction:
 Uses science fiction as a springboard for thinking about classic issues and problems in philosophy. Sci-fi classics such as The Matrix, Bladerunner, and Surrogates, raise fundamental philosophical questions such as: What the difference between appearance and reality and how can we distinguish between them? What is it to be a person? Should we think that all and only human beings can be person? What is a good human life? Is a pleasant life sufficient for living a good life? In this course such questions are examined through the lens of both philosophy and science fiction. May not be taken more than once for credit.  
 
-**Category B: Ethical and Political Issues**
+**Category B: Ethical and Political Issues**  
  **PHL 128 Morality & Moral Controversies**  
   A critical examination of important moral issues facing contemporary society. The course uses a variety of common ethical theories. Possible topics include environmental ethics, euthanasia, animal rights, humanitarian aid, abortion, and capital punishment.  
  **PHL 138 Freedom, State, and Society**  
@@ -111,11 +111,11 @@ Uses science fiction as a springboard for thinking about classic issues and prob
  **PHL 205 Environmental Ethics**  
   Serves as a general introduction to environmental ethics. Students receive instruction in ethical theory and how it can be applied to issues in environmental ethics. Some topics likely to be addressed in the course are: defining our obligations to future generations, the definition of wilderness, sustainable agriculture, animal rights, anthropocentrism, the nature of the value of wilderness, environmental holism, and ecofeminism.  
 
-**Category C: Logic**
+**Category C: Logic**  
  **PHL 115 Logic**  
   An introduction to the discipline of logic on an elementary level. This course introduces skills that are essential to good critical reasoning—how to detect forms of arguments, how to test for validity, and how to construct valid arguments. This course focuses on both formal and informal logic.  
 
-##### Intermediate courses {.unnumbered}
+##### **Intermediate courses** {.unnumbered}
 
  **PHL 206 Buddhist Thought**  
 See also REL 206 Buddhist Thought , @sec-religion  
@@ -144,7 +144,7 @@ Prerequisite: Eastern Religions (REL-036), or Buddhism (REL-116), or consent of 
  **PHL 285 Law, Morality & Punishment**  
   An introduction to the central issues in the philosophy of law. This course includes a survey of central theories on the nature of law, such as natural law, positive law, and legal realism. It also covers such topics as the relationship between law and morality and various philosophical views on the nature and justification of punishment.  
 
-##### Advanced seminars {.unnumbered} 
+##### **Advanced seminars** {.unnumbered} 
  **PHL 305 Contemporary Continental Philosophy**  
   An examination of central philosophical topics and themes of philosophy on the European continent since 1900 e.g., structuralism, critical theory, and post-structuralism. Readings are drawn from such philosophers as Saussure, Habermas, Derrida, Foucault, and Lyotard. Prerequisite: two courses in philosophy or consent of instructor.  
  **PHL 315 Advanced Topics in Philosophy**  
