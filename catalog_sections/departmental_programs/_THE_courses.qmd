@@ -127,82 +127,82 @@ Theatre Arts students select one of the following **emphases**: general, acting,
 
 ### Courses in Theatre Arts {#sec-courses-in-theatre-arts}
 
-- **{{< var c.the100.long >}}**
+ **{{< var c.the100.long >}}**  
   {{< var c.the100.desc >}}  
-- **{{< var c.the102.long >}}**
-  {{< var c.the102.desc >}}
-- **{{< var c.the112.long >}}**
+ **{{< var c.the102.long >}}**  
+  {{< var c.the102.desc >}}  
+ **{{< var c.the112.long >}}**  
   {{< var c.the112.desc >}}  
-- **{{< var c.the118.long >}}**
-  {{< var c.the118.desc >}}
-- **{{< var c.the130.long >}}**
+ **{{< var c.the118.long >}}**  
+  {{< var c.the118.desc >}}  
+ **{{< var c.the130.long >}}**  
   {{< var c.the130.desc >}}  
-- **{{< var c.the140.long >}}**
-  {{< var c.the140.desc >}}
-- **{{< var c.the145.long >}}**
+ **{{< var c.the140.long >}}**  
+  {{< var c.the140.desc >}}  
+ **{{< var c.the145.long >}}**  
   {{< var c.the145.desc >}}  
-- **{{< var c.the150.long >}}**
-  {{< var c.the150.desc >}}
-- **{{< var c.the160.long >}}**
+ **{{< var c.the150.long >}}**  
+  {{< var c.the150.desc >}}  
+ **{{< var c.the160.long >}}**  
   {{< var c.the160.desc >}}  
-- **{{< var c.the162.long >}}**
-  {{< var c.the162.desc >}}
-- **{{< var c.the170.long >}}**
+ **{{< var c.the162.long >}}**  
+  {{< var c.the162.desc >}}  
+ **{{< var c.the170.long >}}**  
   {{< var c.the170.desc >}}  
-- **{{< var c.the185.long >}}**
-  {{< var c.the185.desc >}}
-- **{{< var c.the220.long >}}**
+ **{{< var c.the185.long >}}**  
+  {{< var c.the185.desc >}}  
+ **{{< var c.the220.long >}}**  
   {{< var c.the220.desc >}}  
-- **{{< var c.the228.long >}}**
-  {{< var c.the228.desc >}}
-- **{{< var c.the230.long >}}**
+ **{{< var c.the228.long >}}**  
+  {{< var c.the228.desc >}}  
+ **{{< var c.the230.long >}}**  
   {{< var c.the230.desc >}}  
-- **{{< var c.the232.long >}}**
-  {{< var c.the232.desc >}}
-- **{{< var c.the238.long >}}**
+ **{{< var c.the232.long >}}**  
+  {{< var c.the232.desc >}}  
+ **{{< var c.the238.long >}}**  
   {{< var c.the238.desc >}}  
-- **{{< var c.the242.long >}}**
-  {{< var c.the242.desc >}}
-- **{{< var c.the250.long >}}**
+ **{{< var c.the242.long >}}**  
+  {{< var c.the242.desc >}}  
+ **{{< var c.the250.long >}}**  
   {{< var c.the250.desc >}}  
-- **{{< var c.the255.long >}}**
-See {{< var c.crw255.long >}} , @sec-courses-in-creative-writing
-  {{< var c.the255.desc >}}
-- **{{< var c.the260.long >}}**
+ **{{< var c.the255.long >}}**  
+See {{< var c.crw255.long >}} , @sec-courses-in-creative-writing  
+  {{< var c.the255.desc >}}  
+ **{{< var c.the260.long >}}**  
   {{< var c.the260.desc >}}  
-- **{{< var c.the270.long >}}**
-See {{< var c.mu270.long >}} , @sec-courses-in-music
-  {{< var c.the270.desc >}}
-- **{{< var c.the280.long >}}**
+ **{{< var c.the270.long >}}**  
+See {{< var c.mu270.long >}} , @sec-courses-in-music  
+  {{< var c.the270.desc >}}  
+ **{{< var c.the280.long >}}**  
   {{< var c.the280.desc >}}  
-- **{{< var c.the288.long >}}**
-  {{< var c.the288.desc >}}
-- **{{< var c.the290.long >}}**
+ **{{< var c.the288.long >}}**  
+  {{< var c.the288.desc >}}  
+ **{{< var c.the290.long >}}**  
   {{< var c.the290.desc >}}  
-- **{{< var c.the350.long >}}**
-  {{< var c.the350.desc >}}
-- **{{< var c.the355.long >}}**
-See also {{< var c.crw355.long >}} , @sec-courses-in-creative-writing
+ **{{< var c.the350.long >}}**  
+  {{< var c.the350.desc >}}  
+ **{{< var c.the355.long >}}**  
+See also {{< var c.crw355.long >}} , @sec-courses-in-creative-writing  
   {{< var c.the355.desc >}}  
-- **{{< var c.the390.long >}}**
-  {{< var c.the390.desc >}}
-- **{{< var c.the442.long >}}**
+ **{{< var c.the390.long >}}**  
+  {{< var c.the390.desc >}}  
+ **{{< var c.the442.long >}}**  
   {{< var c.the442.desc >}}  
-- **{{< var c.the444.long >}}**
-  {{< var c.the444.desc >}}
-- **{{< var c.the452.long >}}**
+ **{{< var c.the444.long >}}**  
+  {{< var c.the444.desc >}}  
+ **{{< var c.the452.long >}}**  
   {{< var c.the452.desc >}}  
-- **{{< var c.the455.long >}}**
-See also {{< var c.crw455.long >}} , @sec-courses-in-creative-writing
-  {{< var c.the455.desc >}}
-- **{{< var c.the462.long >}}**
+ **{{< var c.the455.long >}}**  
+See also {{< var c.crw455.long >}} , @sec-courses-in-creative-writing  
+  {{< var c.the455.desc >}}  
+ **{{< var c.the462.long >}}**  
   {{< var c.the462.desc >}}  
-- **{{< var c.the464.long >}}**
-  {{< var c.the464.desc >}}
-- **{{< var c.the486.long >}}**
+ **{{< var c.the464.long >}}**  
+  {{< var c.the464.desc >}}  
+ **{{< var c.the486.long >}}**  
   {{< var c.the486.desc >}}  
-- **{{< var c.the488.long >}}**
-  {{< var c.the488.desc >}}
-- **{{< var c.the494.long >}}**
-  {{< var c.the494.desc >}} 
+ **{{< var c.the488.long >}}**  
+  {{< var c.the488.desc >}}  
+ **{{< var c.the494.long >}}**  
+  {{< var c.the494.desc >}}  
 
