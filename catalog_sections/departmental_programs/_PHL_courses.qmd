@@ -51,7 +51,7 @@ The following courses, all numbered PHL-105, are different versions of the same 
  **{{< var c.phl105.long >}}**  
   {{< var c.phl105.desc >}}  
 
-**Category B: Ethical and Political Issues**
+**Category B: Ethical and Political Issues**  
  **{{< var c.phl128.long >}}**  
   {{< var c.phl128.desc >}}  
  **{{< var c.phl138.long >}}**  
@@ -61,7 +61,7 @@ The following courses, all numbered PHL-105, are different versions of the same 
  **{{< var c.phl205.long >}}**  
   {{< var c.phl205.desc >}}  
 
-**Category C: Logic**
+**Category C: Logic**  
  **{{< var c.phl115.long >}}**  
   {{< var c.phl115.desc >}}  
 
