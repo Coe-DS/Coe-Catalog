@@ -58,10 +58,10 @@ Concurrent completion of any of the majors listed on @sec-areas-of-study  of the
 	- {{< var c.rhe415.long >}} (if not used to satisfy #6)
 
 ### Courses in Public Relations 
-- **{{< var c.pr205.long >}}**
+ **{{< var c.pr205.long >}}**  
   {{< var c.pr205.desc >}}  
-- **{{< var c.pr494.long >}}**
-  {{< var c.pr494.desc >}}
+ **{{< var c.pr494.long >}}**  
+  {{< var c.pr494.desc >}}  
 
 
 
