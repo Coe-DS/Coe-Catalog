@@ -48,8 +48,8 @@ A minor in Physics requires a cumulative 2.0 GPA in all courses counted toward t
 ### Courses in Physics 
  **{{< var c.phy105.long >}}**  
   {{< var c.phy105.desc >}}  
- **{{< var c.phy114.long >}}**  
-  {{< var c.phy114.desc >}}  
+ **{{< var c.phy114_114l.long >}}**  
+  {{< var c.phy114_114l.desc >}}  
  **{{< var c.phy121.long >}}**  
   {{< var c.phy121.desc >}}  
  **{{< var c.phy155_155l.long >}}**  
