@@ -65,7 +65,7 @@ The following courses, all numbered PHL-105, are different versions of the same 
  **{{< var c.phl115.long >}}**  
   {{< var c.phl115.desc >}}  
 
-##### Intermediate courses {.unnumbered}
+##### **Intermediate courses** {.unnumbered}
 
  **{{< var c.phl206.long >}}**  
 See also {{< var c.rel206.long >}} , @sec-religion  
@@ -93,7 +93,7 @@ See also {{< var c.rel206.long >}} , @sec-religion
  **{{< var c.phl285.long >}}**  
   {{< var c.phl285.desc >}}  
 
-##### Advanced seminars {.unnumbered} 
+##### **Advanced seminars** {.unnumbered} 
  **{{< var c.phl305.long >}}**  
   {{< var c.phl305.desc >}}  
  **{{< var c.phl315.long >}}**  
