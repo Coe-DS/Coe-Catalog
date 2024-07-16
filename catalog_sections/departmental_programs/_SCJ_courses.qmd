@@ -87,23 +87,23 @@ A major in Social & Criminal Justice requires a cumulative 2.0 GPA in all course
 
 ### Courses Social & Criminal Justice
 
-- **{{< var c.scj101.long >}}**
+ **{{< var c.scj101.long >}}**  
   {{< var c.scj101.desc >}}  
-- **{{< var c.scj190.long >}}**
-  {{< var c.scj190.desc >}}
-- **{{< var c.scj201.long >}}**
+ **{{< var c.scj190.long >}}**  
+  {{< var c.scj190.desc >}}  
+ **{{< var c.scj201.long >}}**  
   {{< var c.scj201.desc >}}  
-- **{{< var c.scj220.long >}}**
-  {{< var c.scj220.desc >}}
-- **{{< var c.scj301.long >}}**
+ **{{< var c.scj220.long >}}**  
+  {{< var c.scj220.desc >}}  
+ **{{< var c.scj301.long >}}**  
   {{< var c.scj301.desc >}}  
-- **{{< var c.scj350.long >}}**
-  {{< var c.scj350.desc >}}
-- **{{< var c.scj390.long >}}**
+ **{{< var c.scj350.long >}}**  
+  {{< var c.scj350.desc >}}  
+ **{{< var c.scj390.long >}}**  
   {{< var c.scj390.desc >}}  
-- **{{< var c.scj444.long >}}**
-  {{< var c.scj444.desc >}}
-- **{{< var c.scj490.long >}}**
-  {{< var c.scj490.desc >}}
-- **{{< var c.scj494.long >}}**
+ **{{< var c.scj444.long >}}**  
+  {{< var c.scj444.desc >}}  
+ **{{< var c.scj490.long >}}**  
+  {{< var c.scj490.desc >}}  
+ **{{< var c.scj494.long >}}**  
   {{< var c.scj494.desc >}}  
