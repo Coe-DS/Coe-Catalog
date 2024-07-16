@@ -109,7 +109,7 @@ Statistics 	{{< var c.psy300.long >}} **or**
 ### Courses in Nursing
 
  **{{< var c.nur100.long >}}**  
-  {{< var c.dsnur100.desc >}}  
+  {{< var c.nur100.desc >}}  
  **{{< var c.nur137.long >}}**  
 See also {{< var c.psy137.long >}} , @sec-psychology  
   {{< var c.nur137.desc >}}  
