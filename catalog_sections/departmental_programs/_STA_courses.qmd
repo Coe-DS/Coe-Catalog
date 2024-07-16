@@ -4,17 +4,17 @@ Cross.
 
 ### Courses in Statistics 
 
-- **{{< var c.sta100.long >}}**
+ **{{< var c.sta100.long >}}**  
   {{< var c.sta100.desc >}}  
-- **{{< var c.sta105.long >}}**
-  {{< var c.sta105.desc >}}
-- **{{< var c.sta110.long >}}**
-  {{< var c.sta110.desc >}}
-- **{{< var c.sta130.long >}}**
-  {{< var c.sta130.desc >}}
-- **{{< var c.sta315.long >}}**
-  {{< var c.sta315.desc >}}
-- **{{< var c.sta325.long >}}**
-  {{< var c.sta325.desc >}}
+ **{{< var c.sta105.long >}}**  
+  {{< var c.sta105.desc >}}  
+ **{{< var c.sta110.long >}}**  
+  {{< var c.sta110.desc >}}  
+ **{{< var c.sta130.long >}}**  
+  {{< var c.sta130.desc >}}  
+ **{{< var c.sta315.long >}}**  
+  {{< var c.sta315.desc >}}  
+ **{{< var c.sta325.long >}}**  
+  {{< var c.sta325.desc >}}  
 
 
