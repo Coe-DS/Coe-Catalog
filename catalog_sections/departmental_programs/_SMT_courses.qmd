@@ -4,13 +4,13 @@ See Sports Management Concentration in Business, @sec-sports-management-concentr
 
 ### Courses in Sports Management
 
-- **{{< var c.smt100.long >}}**
+ **{{< var c.smt100.long >}}**  
   {{< var c.smt100.desc >}}  
-- **{{< var c.smt300.long >}}**
-  {{< var c.smt300.desc >}}
-- **{{< var c.smt454.long >}}**
-  {{< var c.smt454.desc >}}
-- **{{< var c.smt494.long >}}**
-  {{< var c.smt494.desc >}}
+ **{{< var c.smt300.long >}}**  
+  {{< var c.smt300.desc >}}  
+ **{{< var c.smt454.long >}}**  
+  {{< var c.smt454.desc >}}  
+ **{{< var c.smt494.long >}}**  
+  {{< var c.smt494.desc >}}  
 
 
