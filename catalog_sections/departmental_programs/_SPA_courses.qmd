@@ -22,69 +22,69 @@ A grade of “C” (2.0) or higher must be earned in all courses counted toward 
 The Spanish Studies major requires: 1) successful completion of four courses beyond {{< var c.spa225.long >}} , with {{< var c.spa336.long >}} or {{< var c.spa338.long >}} recommended as one of the four; and 2) successful completion of a departmentally approved list of five courses proposed by the student which exhibits both internal coherence and relevance to the coursework in Spanish. Typically, application to the department for the approval of the interdisciplinary elected courses is to be made no later than the Spring Term of the junior year. {{< var c.spa115.long >}} , {{< var c.spa125.long >}} , {{< var c.spa135.long >}}, {{< var c.spa215.long >}} , and {{< var c.spa225.long >}} are regarded as skill-building courses, and do not count toward the major in Spanish Studies.
 
 ### Courses in Spanish
-- **{{< var c.spa115_125.long >}}**
+ **{{< var c.spa115_125.long >}}**  
   {{< var c.spa115_125.desc >}}  
-- **{{< var c.spa129.long >}}**
-  {{< var c.spa129.desc >}}
-- **{{< var c.spa135.long >}}**
+ **{{< var c.spa129.long >}}**  
+  {{< var c.spa129.desc >}}  
+ **{{< var c.spa135.long >}}**  
   {{< var c.spa135.desc >}}  
-- **{{< var c.spa148.long >}}**
-  {{< var c.spa148.desc >}}
-- **{{< var c.spa215.long >}}**
+ **{{< var c.spa148.long >}}**  
+  {{< var c.spa148.desc >}}  
+ **{{< var c.spa215.long >}}**  
   {{< var c.spa215.desc >}}  
-- **{{< var c.spa258.long >}}**
-  {{< var c.spa258.desc >}}
-- **{{< var c.spa315.long >}}**
+ **{{< var c.spa258.long >}}**  
+  {{< var c.spa258.desc >}}  
+ **{{< var c.spa315.long >}}**  
   {{< var c.spa315.desc >}}  
-- **{{< var c.spa325.long >}}**
-  {{< var c.spa325.desc >}}
-- **{{< var c.spa330.long >}}**
+ **{{< var c.spa325.long >}}**  
+  {{< var c.spa325.desc >}}  
+ **{{< var c.spa330.long >}}**  
   {{< var c.spa330.desc >}}  
-- **{{< var c.spa336.long >}}**
-  {{< var c.spa336.desc >}}
-- **{{< var c.spa338.long >}}**
+ **{{< var c.spa336.long >}}**  
+  {{< var c.spa336.desc >}}  
+ **{{< var c.spa338.long >}}**  
   {{< var c.spa338.desc >}}  
-- **{{< var c.spa339.long >}}**
-  {{< var c.spa339.desc >}}
-- **{{< var c.spa345.long >}}**
+ **{{< var c.spa339.long >}}**  
+  {{< var c.spa339.desc >}}  
+ **{{< var c.spa345.long >}}**  
   {{< var c.spa345.desc >}}  
-- **{{< var c.spa349.long >}}**
-  {{< var c.spa349.desc >}}
-- **{{< var c.spa394.long >}}**
+ **{{< var c.spa349.long >}}**  
+  {{< var c.spa349.desc >}}  
+ **{{< var c.spa394.long >}}**  
   {{< var c.spa394.desc >}}  
-- **{{< var c.spa412.long >}}**
-  {{< var c.spa412.desc >}}
-- **{{< var c.spa418.long >}}**
-  {{< var c.spa418.desc >}}
-- **{{< var c.spa421.long >}}**
-  {{< var c.spa421.desc >}}
-- **{{< var c.spa428.long >}}**
-  {{< var c.spa428.desc >}}
-- **{{< var c.spa431.long >}}**
-  {{< var c.spa431.desc >}}
-- **{{< var c.spa432.long >}}**
-  {{< var c.spa432.desc >}}
-- **{{< var c.spa442.long >}}**
-  {{< var c.spa442.desc >}}
-- **{{< var c.spa443.long >}}**
+ **{{< var c.spa412.long >}}**  
+  {{< var c.spa412.desc >}}  
+ **{{< var c.spa418.long >}}**  
+  {{< var c.spa418.desc >}}  
+ **{{< var c.spa421.long >}}**  
+  {{< var c.spa421.desc >}}  
+ **{{< var c.spa428.long >}}**  
+  {{< var c.spa428.desc >}}  
+ **{{< var c.spa431.long >}}**  
+  {{< var c.spa431.desc >}}  
+ **{{< var c.spa432.long >}}**  
+  {{< var c.spa432.desc >}}  
+ **{{< var c.spa442.long >}}**  
+  {{< var c.spa442.desc >}}  
+ **{{< var c.spa443.long >}}**  
   {{< var c.spa443.desc >}}  
-- **{{< var c.spa444.long >}}**
-  {{< var c.spa444.desc >}}
-- **{{< var c.spa446.long >}}**
-  {{< var c.spa446.desc >}}
-- **{{< var c.spa451.long >}}**
-  {{< var c.spa451.desc >}}
-- **{{< var c.spa455.long >}}**
-  {{< var c.spa455.desc >}}
-- **{{< var c.spa457.long >}}**
-  {{< var c.spa457.desc >}}
-- **{{< var c.spa458.long >}}**
-  {{< var c.spa458.desc >}}
-- **{{< var c.spa475.long >}}**
-  {{< var c.spa475.desc >}}
-- **{{< var c.spa476.long >}}**
-  {{< var c.spa476.desc >}}
-- **{{< var c.spa464.long >}}**
-  {{< var c.spa464.desc >}}
-- **{{< var c.spa494.long >}}**
-  {{< var c.spa494.desc >}}
+ **{{< var c.spa444.long >}}**  
+  {{< var c.spa444.desc >}}  
+ **{{< var c.spa446.long >}}**  
+  {{< var c.spa446.desc >}}  
+ **{{< var c.spa451.long >}}**  
+  {{< var c.spa451.desc >}}  
+ **{{< var c.spa455.long >}}**  
+  {{< var c.spa455.desc >}}  
+ **{{< var c.spa457.long >}}**  
+  {{< var c.spa457.desc >}}  
+ **{{< var c.spa458.long >}}**  
+  {{< var c.spa458.desc >}}  
+ **{{< var c.spa475.long >}}**  
+  {{< var c.spa475.desc >}}  
+ **{{< var c.spa476.long >}}**  
+  {{< var c.spa476.desc >}}  
+ **{{< var c.spa464.long >}}**  
+  {{< var c.spa464.desc >}}  
+ **{{< var c.spa494.long >}}**  
+  {{< var c.spa494.desc >}}  
