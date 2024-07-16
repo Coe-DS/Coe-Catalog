@@ -98,8 +98,8 @@ See Business Administration, Section 25.11
 **{{< var c.eco402.long >}}**  
   {{< var c.eco402.desc >}}  
 **{{< var c.bus441.long >}}**  
-See Business Administration, Section 25.11 
-**{{< var c.eco422.long >}}**  
+See Business Administration, Section 25.11  
+**{{< var c.eco422.long >}}**    
   {{< var c.eco422.desc >}}  
 **{{< var c.eco424.long >}}**  
   {{< var c.eco424.desc >}}  
