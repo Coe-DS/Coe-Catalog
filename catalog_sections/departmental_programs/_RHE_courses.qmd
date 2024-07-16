@@ -46,70 +46,70 @@ A major in Writing requires a cumulative 2.0 GPA in all courses counted toward t
 #### Writing Minor
 A minor in Writing requires five credits, including {{< var c.rhe200.long >}} and one RHE course numbered 300 or above. Any course with an RHE prefix or chosen from the list below may count toward the five credits; no more than two courses with CRW or COM prefix may count toward the minor. A cumulative 2.0 GPA is required in all courses counted toward the minor.
 
-	- {{< var c.com241.long >}}
-	- {{< var c.com341.long >}}
-	- {{< var c.com361.long >}}
-	- {{< var c.com362.long >}}
-	- {{< var c.com382.long >}} **or** {{< var c.rhe382.long >}}
-	- {{< var c.com462.long >}}
-	- {{< var c.crw115.long >}}
-	- {{< var c.crw255.long >}}
-	- {{< var c.crw280.long >}}
-	- {{< var c.crw290.long >}}
-	- {{< var c.crw355.long >}}
-	- {{< var c.crw380.long >}}
-	- {{< var c.crw390.long >}}
+- {{< var c.com241.long >}}
+- {{< var c.com341.long >}}
+- {{< var c.com361.long >}}
+- {{< var c.com362.long >}}
+- {{< var c.com382.long >}} **or** {{< var c.rhe382.long >}}
+- {{< var c.com462.long >}}
+- {{< var c.crw115.long >}}
+- {{< var c.crw255.long >}}
+- {{< var c.crw280.long >}}
+- {{< var c.crw290.long >}}
+- {{< var c.crw355.long >}}
+- {{< var c.crw380.long >}}
+- {{< var c.crw390.long >}}
 
-### Courses in Rhetoric {#sec-courses-in-rhetoric}
-- **{{< var c.rhe100.long >}}**
+### Courses in Rhetoric {#sec-courses-in-rhetoric}  
+ **{{< var c.rhe100.long >}}**  
   {{< var c.rhe100.desc >}}  
-- **{{< var c.rhe112.long >}}**
-  {{< var c.rhe112.desc >}}
-- **{{< var c.rhe135.long >}}**
+ **{{< var c.rhe112.long >}}**  
+  {{< var c.rhe112.desc >}}  
+ **{{< var c.rhe135.long >}}**  
   {{< var c.rhe135.desc >}}  
-- **{{< var c.rhe137.long >}}**
-  {{< var c.rhe137.desc >}}
-- **{{< var c.rhe146.long >}}**
+ **{{< var c.rhe137.long >}}**  
+  {{< var c.rhe137.desc >}}  
+ **{{< var c.rhe146.long >}}**  
   {{< var c.rhe146.desc >}}  
-- **{{< var c.rhe175.long >}}**
-  {{< var c.rhe175.desc >}}
-- **{{< var c.rhe200.long >}}**
+ **{{< var c.rhe175.long >}}**  
+  {{< var c.rhe175.desc >}}  
+ **{{< var c.rhe200.long >}}**  
   {{< var c.rhe200.desc >}}  
-- **{{< var c.rhe210.long >}}**
-  {{< var c.rhe210.desc >}}
-- **{{< var c.rhe225.long >}}**
+ **{{< var c.rhe210.long >}}**  
+  {{< var c.rhe210.desc >}}  
+ **{{< var c.rhe225.long >}}**  
   {{< var c.rhe225.desc >}}  
-- **{{< var c.rhe230.long >}}**
-  {{< var c.rhe230.desc >}}
-- **{{< var c.rhe255.long >}}**
+ **{{< var c.rhe230.long >}}**  
+  {{< var c.rhe230.desc >}}  
+ **{{< var c.rhe255.long >}}**  
   {{< var c.rhe255.desc >}}  
-- **{{< var c.rhe257.long >}}**
-  {{< var c.rhe257.desc >}}
-- **{{< var c.rhe265.long >}}**
+ **{{< var c.rhe257.long >}}**  
+  {{< var c.rhe257.desc >}}  
+ **{{< var c.rhe265.long >}}**  
   {{< var c.rhe265.desc >}}  
-- **{{< var c.rhe275.long >}}**
-  {{< var c.rhe275.desc >}}
-- **{{< var c.rhe284.long >}}**
+ **{{< var c.rhe275.long >}}**  
+  {{< var c.rhe275.desc >}}  
+ **{{< var c.rhe284.long >}}**  
   {{< var c.rhe284.desc >}}  
-- **{{< var c.rhe285.long >}}**
-  {{< var c.rhe285.desc >}}
-- **{{< var c.rhe312.long >}}**
+ **{{< var c.rhe285.long >}}**  
+  {{< var c.rhe285.desc >}}  
+ **{{< var c.rhe312.long >}}**  
   {{< var c.rhe312.desc >}}  
-- **{{< var c.rhe345.long >}}**
-  {{< var c.rhe345.desc >}}
-- **{{< var c.rhe377.long >}}**
+ **{{< var c.rhe345.long >}}**  
+  {{< var c.rhe345.desc >}}  
+ **{{< var c.rhe377.long >}}**  
   {{< var c.rhe377.desc >}}  
-- **{{< var c.rhe382.long >}}**
-  {{< var c.rhe382.desc >}}
-- **{{< var c.rhe394.long >}}**
-  {{< var c.rhe394.desc >}}
-- **{{< var c.rhe415.long >}}**
+ **{{< var c.rhe382.long >}}**  
+  {{< var c.rhe382.desc >}}  
+ **{{< var c.rhe394.long >}}**  
+  {{< var c.rhe394.desc >}}  
+ **{{< var c.rhe415.long >}}**  
   {{< var c.rhe415.desc >}}  
-- **{{< var c.rhe425.long >}}**
-  {{< var c.rhe425.desc >}}
-- **{{< var c.rhe444.long >}}**
+ **{{< var c.rhe425.long >}}**  
+  {{< var c.rhe425.desc >}}  
+ **{{< var c.rhe444.long >}}**  
   {{< var c.rhe444.desc >}}  
-- **{{< var c.rhe490.long >}}**
-  {{< var c.rhe490.desc >}}
-- **{{< var c.rhe494.long >}}**
-  {{< var c.rhe494.desc >}} 
+ **{{< var c.rhe490.long >}}**  
+  {{< var c.rhe490.desc >}}  
+ **{{< var c.rhe494.long >}}**    
+  {{< var c.rhe494.desc >}}  
