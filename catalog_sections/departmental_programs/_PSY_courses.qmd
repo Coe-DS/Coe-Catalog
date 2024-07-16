@@ -54,57 +54,57 @@ A major in Psychology requires a cumulative 2.0 GPA in all courses counted towar
 
 ### Courses in Psychology
 
-- **{{< var c.psy100.long >}}**
+ **{{< var c.psy100.long >}}**  
   {{< var c.psy100.desc >}}  
-- **{{< var c.psy137.long >}}**
-  {{< var c.psy137.desc >}}
-- **{{< var c.psy200.long >}}**
+ **{{< var c.psy137.long >}}**  
+  {{< var c.psy137.desc >}}  
+ **{{< var c.psy200.long >}}**  
   {{< var c.psy200.desc >}}  
-- **{{< var c.psy205.long >}}**
-  {{< var c.psy205.desc >}}
-- **{{< var c.psy208.long >}}**
+ **{{< var c.psy205.long >}}**  
+  {{< var c.psy205.desc >}}  
+ **{{< var c.psy208.long >}}**  
   {{< var c.psy208.desc >}}  
-- **{{< var c.psy215.long >}}**
-  {{< var c.psy215.desc >}}
-- **{{< var c.psy235.long >}}**
+ **{{< var c.psy215.long >}}**  
+  {{< var c.psy215.desc >}}  
+ **{{< var c.psy235.long >}}**  
   {{< var c.psy235.desc >}}  
-- **{{< var c.psy245.long >}}**
-  {{< var c.psy245.desc >}}
-- **{{< var c.psy250.long >}}**
+ **{{< var c.psy245.long >}}**  
+  {{< var c.psy245.desc >}}  
+ **{{< var c.psy250.long >}}**  
   {{< var c.psy250.desc >}}  
-- **{{< var c.psy255.long >}}**
-  {{< var c.psy255.desc >}}
-- **{{< var c.psy260.long >}}**
-  {{< var c.psy260.desc >}}
-- **{{< var c.psy295.long >}}**
+ **{{< var c.psy255.long >}}**  
+  {{< var c.psy255.desc >}}  
+ **{{< var c.psy260.long >}}**  
+  {{< var c.psy260.desc >}}  
+ **{{< var c.psy295.long >}}**  
   {{< var c.psy295.desc >}}  
-- **{{< var c.psy300.long >}}**
-  {{< var c.psy300.desc >}}
-- **{{< var c.psy315.long >}}**
+ **{{< var c.psy300.long >}}**  
+  {{< var c.psy300.desc >}}  
+ **{{< var c.psy315.long >}}**  
   {{< var c.psy315.desc >}}  
-- **{{< var c.psy325.long >}}**
-  {{< var c.psy325.desc >}}
-- **{{< var c.psy335.long >}}**
+ **{{< var c.psy325.long >}}**  
+  {{< var c.psy325.desc >}}  
+ **{{< var c.psy335.long >}}**  
   {{< var c.psy335.desc >}}  
-- **{{< var c.psy350.long >}}**
-  {{< var c.psy350.desc >}}
-- **{{< var c.psy354.long >}}**
-  {{< var c.psy354.desc >}}
-- **{{< var c.psy355.long >}}**
+ **{{< var c.psy350.long >}}**  
+  {{< var c.psy350.desc >}}  
+ **{{< var c.psy354.long >}}**  
+  {{< var c.psy354.desc >}}  
+ **{{< var c.psy355.long >}}**  
   {{< var c.psy355.desc >}}  
-- **{{< var c.psy415.long >}}**
-  {{< var c.psy415.desc >}}
-- **{{< var c.psy444.long >}}**
+ **{{< var c.psy415.long >}}**  
+  {{< var c.psy415.desc >}}  
+ **{{< var c.psy444.long >}}**  
   {{< var c.psy444.desc >}}  
-- **{{< var c.psy450.long >}}**
-  {{< var c.psy450.desc >}}
-- **{{< var c.psy455.long >}}**
-  {{< var c.psy455.desc >}}
-- **{{< var c.psy464.long >}}**
+ **{{< var c.psy450.long >}}**  
+  {{< var c.psy450.desc >}}  
+ **{{< var c.psy455.long >}}**  
+  {{< var c.psy455.desc >}}  
+ **{{< var c.psy464.long >}}**  
   {{< var c.psy464.desc >}}  
-- **{{< var c.psy465.long >}}**
-  {{< var c.psy465.desc >}}
-- **{{< var c.psy475.long >}}**
-  {{< var c.psy475.desc >}}
-- **{{< var c.psy494.long >}}**
+ **{{< var c.psy465.long >}}**  
+  {{< var c.psy465.desc >}}  
+ **{{< var c.psy475.long >}}**  
+  {{< var c.psy475.desc >}}  
+ **{{< var c.psy494.long >}}**  
   {{< var c.psy494.desc >}}  
