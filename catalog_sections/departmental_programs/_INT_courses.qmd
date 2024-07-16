@@ -10,8 +10,8 @@ The interdisciplinary major is a rigorous academic program in which the individu
 
 
 ### Courses in Interdisciplinary Studies
-- **{{< var c.int494.long >}}**
-  {{< var c.int494.desc >}} 
+ **{{< var c.int494.long >}}**  
+  {{< var c.int494.desc >}}  
 
 
 
