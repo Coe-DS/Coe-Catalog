@@ -25,10 +25,8 @@ Students should declare an area of study by the end of their sophomore year. All
 - Film Studies
 - French & Francophone Studies
 - General Science
-- History
+- History  
 - Interdisciplinary
-:::
-::: {.column width="50%"}
 - French & Francophone Studies
 - Interdisciplinary Studies*
 - International Business
