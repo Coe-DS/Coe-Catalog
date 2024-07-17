@@ -12,7 +12,7 @@ Academic notices are issued at midterm to students who earn a D, F, or NP in one
 
 Academic warnings will be issued to students who earn a term grade point average below 2.00. Students receiving academic warnings are strongly encouraged to re-evaluate their current approach to their studies and/or their academic plans. They are expected to meet with their academic advisor and/or a Learning Commons staff member.
 
-### Academic Probation {#sec-academic-probation}
+## Academic Probation {#sec-academic-probation}
 
 The Academic Standing Committee reviews academic records of all students at the conclusion of both the Fall and Spring Terms. A student is placed on academic probation if the cumulative GPA falls below the minimum GPA levels listed below:
 
@@ -36,7 +36,7 @@ The status of academic probation is noted on a student’s transcript.
 
 Students on probation who are not meeting the conditions of their probation and not performing at a passing level in their courses may be withdrawn from the College during the term on the recommendation of the Academic Standing Committee. If the student had previously appealed a suspension, the suspension is reinstated. Otherwise, the student will exit the College with a leave of absence and is eligible to return on probation the following term. Students may appeal this decision to the Provost.
 
-### Academic Suspension {#sec-academic-suspension}
+## Academic Suspension {#sec-academic-suspension}
 
 Students who do not meet the conditions of their academic probation or who fall below retention thresholds (see below) will be considered for academic suspension by the Academic Standing Committee, and, if suspended, will be unable to take courses at Coe College for a period of at least one academic year. (One academic year is defined as a Fall and Spring Term, and does not count May or Summer Terms.) A registration hold preventing registration will be placed on the student’s account. A student already registered for the following term will be dropped from those courses.
 
@@ -61,19 +61,19 @@ To appeal for immediate readmission:
 Students who have been suspended for academic reasons from the College once, can return to the College either through a successful appeal for immediate readmission or through readmission after leaving for at least one academic year. A student who is suspended for academic reasons more than once cannot appeal for immediate readmission and must leave the College for at least one academic year.
 
 
-### Interim Suspension {#sec-interim-suspension}
+## Interim Suspension {#sec-interim-suspension}
 
 Interim Suspension is a situation where it is determined that a student’s continued presence at the college constitutes an immediate threat of harm to the student, other individuals, or to the stability and continuance of normal College functions.  The Provost and Dean of Students or their designee may suspend a student pending disciplinary proceedings. Such suspension may become effective immediately and without prior notice. 
  
 Interim suspension shall be considered an excused absence until the conclusion of formal hearings.  The student will be offered the opportunity to make up any academic work missed during the time in which the interim suspension was imposed. It is the student’s responsibility to make specific arrangements with faculty members to complete academic work. The Dean of Students will initiate communication with the appropriate faculty.
 
-### Readmission Following Suspension {#sec-readmission-following-suspension}
+## Readmission Following Suspension {#sec-readmission-following-suspension}
 
 Coe College’s academic suspension policy allows students, who are not readmitted immediately through appeal, to apply for readmission after at least one academic year has passed.
 
 To be considered for readmission, the student must submit a letter of appeal to the Office of the Provost. In the appeals letter, the student must present evidence that demonstrates how the circumstances that led to the student’s academic suspension have been addressed, and how the student plans to be successful in his or her academic future. Readmission is determined by the Academic Standing Committee. The Academic Standing Committee reserves the right to conduct its own investigation, review the case, and make a final decision concerning the student’s reinstatement to the College. When appropriate, certain academic stipulations may be applied. If a suspended student provides evidence of successful course completion elsewhere and/or written evidence of motivation and maturity necessary to be academically successful at Coe, the student may be readmitted on probation at Coe.
 
-### Exiting the College {#sec-official-withdrawal-process}
+## Exiting the College {#sec-official-withdrawal-process}
 
 The exit process at Coe College, whether through withdrawing or taking a leave of absence, is initiated by the student. The exit procedure is initiated in the Learning Commons (Stewart Memorial Library) and begins with an interview with the Associate Dean of Student Academics or the Director of the TRIO-Academic Achievement Program.  At the interview, the student is given an official exit form on which to secure signatures from the following: the Student Financial Services Office, to verify a balance due or a credit to be refunded, as well as Student Loan information, to be aware of financial aid adjustments; the Library, to ascertain that all materials have been returned; and the Resident Director of the student’s residence hall, to arrange for room checkout.  The completed exit form is returned to the Learning Commons which will then notify other pertinent areas of the student’s withdrawal.
 
@@ -83,23 +83,23 @@ If a student withdraws from all courses during a period of enrollment for which 
 
 Special consideration is given to students who withdrew due to a call to active duty. Coe’s “Military Call Up/Refund” and “Readmission of Service Member” policies are published on the Admission/Financial Aid webpage. Copies of these policies can be requested from the Student Financial Services Office.
 
-### Leave of Absence
+## Leave of Absence
 
 A student may find it necessary to interrupt a program of study at the College. Under this condition, the student may apply for a leave of absence. A leave of absence may be granted for a period not to exceed 12 months. Students may extend a leave of absence for up to a total of 36 months by contacting the Office of the Registrar via email at o-registrar@coe.edu. Students that do not renew their Leave of Absence, or return to Coe, will be officially withdrawn from the College. Coursework completed while on leave from the College is subject to the same conditions as work in transfer. 
 
-### Requesting a leave of Absence
+## Requesting a leave of Absence
 
 Students planning to leave of absence from the College should consult their academic advisor and then they **must declare** their intent to one of the following designated offices: Student Financial Services, Registrar, Residence Life, or the Learning Commons. Please refer to the previous section on exiting the College for the steps that follow. 
 
-### On Leave of Absence
+## On Leave of Absence
 
 The Coe community is committed to supporting students while they are away from the College. Thus, the Associate Dean of Student Academics may assign a designee who will be the point of contact to each student on a Leave of Absence. This designee will stay in contact with the student during their time away from the College, as appropriate, and will assist with the return process once the student is ready to resume coursework. 
 
-### Returning to Coe after a Leave of Absence
+## Returning to Coe after a Leave of Absence
 
 Students planning on returning to the College do not need to apply for readmission, but must submit a statement of intent to re-enroll to the Office of the Registrar and the Associate Dean of Student Academics, or designee, who will assist with the return process. Students are strongly encouraged to schedule a consultation with the Associate Dean of Student Academics, or designee, by December 1st for returning the Spring Term, or August 1st to return the Fall Term. If a student wants to register during the regular registration time (November for Spring Term or late March / early April for Fall Term), they will need to submit their statement of intent and contact the Associate Dean of Student Academics, or designee, at least two weeks before Registration. The exact date of Registration can be found on the Academic Calendar on the Coe website under the Academics tab. 
 
-### Withdrawal from the College and Readmission
+## Withdrawal from the College and Readmission
 
 Admission for work toward a degree terminates and the student is considered withdrawn from the College if: 
 
