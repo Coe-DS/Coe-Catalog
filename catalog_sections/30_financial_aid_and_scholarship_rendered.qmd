@@ -149,7 +149,7 @@ SAP is measured in three components: Cumulative Grade Point Average (GPA); Pace 
 
 1. **GPA:**  A student in an undergraduate program must meet minimum GPA standards.
 
-|   Total Course Credit Attemptted[^2]  |  Cumulative Minimun GPA  |
+|   Total Course Credit Attempted[^2]  |  Cumulative Minimun GPA  |
 |:-------------------------------------:|:------------------------:|
 | 0 – 4.99                              | 1.5                      |
 | 5 – 7.99                              | 1.75                     |
@@ -161,7 +161,7 @@ SAP is measured in three components: Cumulative Grade Point Average (GPA); Pace 
 
 2. **Pace:** A student must complete an incremental percentage of all cumulative credits attempted.
 
-|   Total Course Credit Attemptted[^2]  | Minimum Percentage of Attempted Course Credit Completed |
+|   Total Course Credit Attempted[^2]  | Minimum Percentage of Attempted Course Credit Completed |
 |:-------------------------------------:|:------------------------:|
 | 0 – 7.99                              | 58%                      |
 | 8 – 15.99                             | 64%                      |

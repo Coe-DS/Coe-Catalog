@@ -4235,56 +4235,17 @@ Candidates for the **Bachelor of Science in Nursing** degree must satisfactorily
 
 2. **Eight** required supporting courses:
 
-:::: {.columns}
-
-::: {.column width="20%"}
-Biology
-
-Chemistry
-
-Psychology
-
-Sociology
-
-Statistics 
-:::
-
-::: {.column width="10%"}
-
-:::
-
-::: {.column width="70%"}
-
-BIO 145 Cellular & Molecular Biology
-BIO 195 Introduction to Microbiology
-+++MISSING INFO: c.bio215_215l.long +++
-BIO 225 Human Physiology
-
-+++MISSING INFO: c.bio111_111l.long +++
-
-PSY 100 Introductory Psychology
-
-SOC 107 Introductory Sociology
-
-+++MISSING INFO: c.sta300.long +++ **or**
-STA 100 Statistical Reasoning I-Foundations (7 weeks) **and** STA 110 Stats IIA: Inferential Reasoning
-:::
-
-::::
-
-Biology         BIO 145 Cellular & Molecular Biology
-		BIO 195 Introduction to Microbiology
-		+++MISSING INFO: c.bio215_215l.long +++
-		BIO 225 Human Physiology
-		
-Chemistry	+++MISSING INFO: c.bio111_111l.long +++
-
-Psychology 	PSY 100 Introductory Psychology
-
-Sociology	SOC 107 Introductory Sociology
-
-Statistics 	PSY 300 Stat Methods and Data Analysis **or**
-		STA 100 Statistical Reasoning I-Foundations (7 weeks) **and** STA 110 Stats IIA: Inferential Reasoning
+   |   
+:-|---:
+Biology |	BIO 145 Cellular & Molecular Biology 
+&nbsp; |	BIO 195 Introduction to Microbiology
+&nbsp; |	+++MISSING INFO: c.bio215_215l.long +++
+&nbsp; |	BIO 225 Human Physiology
+Chemistry |	+++MISSING INFO: c.chm111_111l.long +++
+Psychology |	PSY 100 Introductory Psychology
+Sociology |	SOC 107 Introductory Sociology
+Statistics |	PSY 300 Stat Methods and Data Analysis **or**
+&nbsp; |	STA 100 Statistical Reasoning I-Foundations (7 weeks) **and** STA 110 Stats IIA: Inferential Reasoning
 
 3. NUR 100 Nursing Issues (0.2 course credit) (Pre-nursing students must enroll each term of the first year.  A maximum of two seminars may be counted for credit toward graduation.)
 
