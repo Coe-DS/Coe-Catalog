@@ -4582,9 +4582,9 @@ A major in physics requires a minimum cumulative 2.0 GPA in all courses counted 
 8.	Comprehensive evaluation
 	Satisfactory completion of written and oral examinations
 
-***Recommended:***
-	- CS 125 Computer Science I
-	- +++MISSING INFO: c.chm121_121l.long +++
+***Recommended:***  
+	- CS 125 Computer Science I  
+	- +++MISSING INFO: c.chm121_121l.long +++  
 
 ### Physics Minor
 A minor in Physics requires a cumulative 2.0 GPA in all courses counted toward the major.
