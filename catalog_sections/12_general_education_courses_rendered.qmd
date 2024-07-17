@@ -104,8 +104,8 @@ The United States Pluralism (USP) group includes courses in which a preponderanc
 
 
 - AAM 107 Intro to African American Studies
-- AAM 137 African American Literature	 
-- AAM 217 Sport and Black Culture	
+- AAM 137 African American Literature
+- AAM 217 Sport and Black Culture
 - AAM 227 Blackness & Identity in America
 - AAM 287 Topics in African American Studies
 - AAM 367 Topics in AfricanAmericanLiterature
@@ -113,30 +113,30 @@ The United States Pluralism (USP) group includes courses in which a preponderanc
 - AAM 447 Drtd Learn in African American Stds
 - AAM 457 Drtd Learn in African American Stds
 - AAM 467 Seminar in African American Lit
-- ARH 107 Gender and Art	
-- ARH 297 Topics in Art History: US Pluralism	
+- ARH 107 Gender and Art
+- ARH 297 Topics in Art History: US Pluralism
 - ARH 307 Modern and Contemporary Art
 - BUS 387 Adv Top:Human Res Mgt
-- BUS 437 Strategic Compensation	
+- BUS 437 Strategic Compensation
 - BUS 457 Employment and Discrimination Law
-- BUS 467 Consumer Behavior	
+- BUS 467 Consumer Behavior
 - COM 157 Introduction to Media Analysis
 - COM 237 Interpersonal Communication
-- COM 337 Persuasion	
+- COM 337 Persuasion
 - COM 357 Sex, Race, & Gender in Media
 - COM 437 Special Topic Applied Communication
 - COM 447 Special Topics Production
 - COM 457 Special Topics in Media Studies
 - COM 467 Special Topics in Public Discourse
-- ECO 237 Labor Economics	
-- ECO 247 Health Economics	
-- ECO 447 Urban Economics	
-- ECO 457 US Econ History	
-- EDU 117 Exceptional Learners	
-- EDU 187 Human Relations	
+- ECO 237 Labor Economics
+- ECO 247 Health Economics
+- ECO 447 Urban Economics
+- ECO 457 US Econ History
+- EDU 117 Exceptional Learners
+- EDU 187 Human Relations
 - EDU 237 English Language Learners
-- EDU 247 Foundations of Reading	
-- ENG 107 Exploring Literature:US Pluralism	
+- EDU 247 Foundations of Reading
+- ENG 107 Exploring Literature:US Pluralism
 - ENG 117 Asian American Literature
 - ENG 127 Social Justice and Literature
 - ENG 137 African American Literature
@@ -155,32 +155,32 @@ The United States Pluralism (USP) group includes courses in which a preponderanc
 - GS 327 Thry&Mthds/Gender &Sexuality Stdy
 - GS 387 Topics: Gender & Sexuality Studies
 - HIS 217 American War in Vietnam
-- HIS 227 American Civil War	
+- HIS 227 American Civil War
 - HIS 257 Native American History
-- HIS 297 Women in America	
-- HIS 317 Topics in History:US Pluralism	
+- HIS 297 Women in America
+- HIS 317 Topics in History:US Pluralism
 - HIS 347 African American History
 - HIS 387 American Colonial History
 - KIN 347 Adapted Physical Education
 - MU 157 Introduction to Jazz History
-- NUR 137 Human Sexuality	
-- NUR 297 Parent Child Relationships	
+- NUR 137 Human Sexuality
+- NUR 297 Parent Child Relationships
 - NUR 387 Alternative Therapies for Hlth/Heal
 - PHL 277 Philosophy of Gender & Race
 - POL 207 Religion & American Politics
 - POL 277 Women & Poltics in US
-- PSY 137 Human Sexuality	
-- REL 217 Religion in America	
+- PSY 137 Human Sexuality
+- REL 217 Religion in America
 - RHE 137 Creative Nonfiction U.S.-Pluralism
-- RHE 257 Environmental Rhetoric	
-- RHE 377 Cultural Studies	
-- SOC 107 Introductory Sociology	
-- SOC 207 Sociology of the Family	
-- SOC 217 Sociology of Religion	
-- SOC 237 Topics in Sociology:U S Pluralism	
-- SOC 247 Sociology of Race	
+- RHE 257 Environmental Rhetoric
+- RHE 377 Cultural Studies
+- SOC 107 Introductory Sociology
+- SOC 207 Sociology of the Family
+- SOC 217 Sociology of Religion
+- SOC 237 Topics in Sociology:U S Pluralism
+- SOC 247 Sociology of Race
 - SOC 417 Sociology of Sex & Sexuality
-- SPA 457 US LatinX Literature	
+- SPA 457 US LatinX Literature
 
 ## Diverse Cultural Perspectives: Diverse Western Perspectives {#sec-diverse-cultural-perspectives-western}
 
