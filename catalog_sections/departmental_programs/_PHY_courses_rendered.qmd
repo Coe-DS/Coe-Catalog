@@ -17,13 +17,13 @@ A major in physics requires a minimum cumulative 2.0 GPA in all courses counted 
 
 5. PHY 265 Electromagnetism 
 
-6. **Two of the following courses:**
+6. **Two** of the following courses:
 	- PHY 275 Mechanics Formulations
 	- PHY 315 Thermodynamics & Stat Mech
 	- PHY 335 Quantum Mechanics
 	- PHY 425 Solid State Physics
 
-7. **Four additional physics courses, all of which must be numbered 150 or above.**
+7. **Four** additional physics courses, all of which must be numbered 150 or above.
 
 8.	Comprehensive evaluation
 	Satisfactory completion of written and oral examinations
