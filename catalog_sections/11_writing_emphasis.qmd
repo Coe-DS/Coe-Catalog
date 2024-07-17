@@ -1,5 +1,5 @@
 # WRITING EMPHASIS COURSES {#sec-writing-emphasis-courses}
-**WRITING ACROSS THE CURRICULUM: STATEMENT OF GUIDING PRINCIPLES**
+##WRITING ACROSS THE CURRICULUM: STATEMENT OF GUIDING PRINCIPLES
 
 As stated in the Coe College Mission Statement, our reason to exist as an institution is to ready students intellectually, professionally, and socially to lead productive and satisfying lives in the global society of the 21st century. In accordance with this mission, our curriculum requires that students undertake “a series of intensive writing experiences, spread across four years of study.” This requirement is known as Writing Across the Curriculum, the guiding principles of which are detailed below.
 
@@ -40,7 +40,7 @@ Many writing emphasis sections are offered each year, and, in addition, the Coll
 
 In this catalog, writing emphasis courses are designated by a (WE) after the course title, e.g. “RHE-200 Rhetorical Theory & Practice (WE).” In other contexts, the course code may end with a “W” (e.g. RHE-200-W). All sections of such a course, regardless of instructor, will carry writing emphasis credit.
 
-**FULFILLING THE WRITING EMPHASIS REQUIREMENT**:
+##FULFILLING THE WRITING EMPHASIS REQUIREMENT
 
 Only designated WE courses in which a student earns a grade of “C” (2.0) or better count toward fulfillment of this requirement.
 
@@ -59,7 +59,7 @@ For all students, regardless of transfer credit, it is recommended (but not requ
 *Students seeking a second undergraduate degree from Coe should see Second Baccalaureate Degree @sec-second-baccalaureate-degree.
 
 
-## COURSE NUMBERING
+### COURSE NUMBERING
 - Courses numbered 100–199 are introductory to the subject. 
 - Courses numbered 200–299 assume a capacity for the independent acquisition of material and generally build on the methods and subject matter of 100-level courses. 
 - Courses numbered 300–399 are typically oriented toward a major or minor. They require a strong foundation of knowledge specific to the discipline. 
