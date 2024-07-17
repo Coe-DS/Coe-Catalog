@@ -29,56 +29,17 @@ Candidates for the **Bachelor of Science in Nursing** degree must satisfactorily
 
 2. **Eight** required supporting courses:
 
-:::: {.columns}
-
-::: {.column width="20%"}
-Biology
-
-Chemistry
-
-Psychology
-
-Sociology
-
-Statistics 
-:::
-
-::: {.column width="10%"}
-
-:::
-
-::: {.column width="70%"}
-
-{{< var c.bio145.long >}}
-{{< var c.bio195.long >}}
-{{< var c.bio215_215l.long >}}
-{{< var c.bio225.long >}}
-
-{{< var c.bio111_111l.long >}}
-
-{{< var c.psy100.long >}}
-
-{{< var c.soc107.long >}}
-
-{{< var c.sta300.long >}} **or**
-{{< var c.sta100.long >}} (7 weeks) **and** {{< var c.sta110.long >}}
-:::
-
-::::
-
-Biology         {{< var c.bio145.long >}}
-		{{< var c.bio195.long >}}
-		{{< var c.bio215_215l.long >}}
-		{{< var c.bio225.long >}}
-		
-Chemistry	{{< var c.bio111_111l.long >}}
-
-Psychology 	{{< var c.psy100.long >}}
-
-Sociology	{{< var c.soc107.long >}}
-
-Statistics 	{{< var c.psy300.long >}} **or**
-		{{< var c.sta100.long >}} (7 weeks) **and** {{< var c.sta110.long >}}
+   |   
+:-|---:
+Biology |	{{< var c.bio145.long >}} 
+&nbsp; |	{{< var c.bio195.long >}}
+&nbsp; |	{{< var c.bio215_215l.long >}}
+&nbsp; |	{{< var c.bio225.long >}}
+Chemistry |	{{< var c.chm111_111l.long >}}
+Psychology |	{{< var c.psy100.long >}}
+Sociology |	{{< var c.soc107.long >}}
+Statistics |	{{< var c.psy300.long >}} **or**
+&nbsp; |	{{< var c.sta100.long >}} (7 weeks) **and** {{< var c.sta110.long >}}
 
 3. {{< var c.nur100.long >}} (0.2 course credit) (Pre-nursing students must enroll each term of the first year.  A maximum of two seminars may be counted for credit toward graduation.)
 
