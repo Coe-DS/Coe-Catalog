@@ -109,7 +109,7 @@ According to state regulations, all teachers in Iowa “shall acquire a core of 
 
 
 
-### Elementary Licensure
+## Elementary Licensure
 **Requirements:**
 
 1. Students licensed at the elementary level, must have a 2.7 GPA or higher and a “C” or better in all courses in their major and in endorsement areas.
@@ -150,7 +150,7 @@ According to state regulations, all teachers in Iowa “shall acquire a core of 
 **NOTE:** ***Students seeking elementary licensure must have an advisor in the Education Department with whom they meet regularly (at least twice per year) to ensure timely completion of all graduation, general education, and licensure requirements.***
 
 
-### Secondary Licensure
+## Secondary Licensure
 Those interested in teaching at the secondary level must major in one or more teaching fields, minor in education, and meet the state requirements for a 5–12 endorsement (state-approved specialization in a particular subject area).  Teaching field(s) must be in subjects taught in the secondary schools and for which Coe has approval by the Iowa Department of Education.  
 	
 >>**5–12 endorsements include**: American Government, American History, Art, Biology, Business, Chemistry, Coaching (see Kinesiology), Economics, English/Language Arts, French, Health, Math, Music, Physical Education, Physics, Psychology, Science, Social Studies, Sociology, Spanish, Speech Communication and Theater or World History. 

@@ -1876,7 +1876,7 @@ According to state regulations, all teachers in Iowa “shall acquire a core of 
 
 
 
-### Elementary Licensure
+## Elementary Licensure
 **Requirements:**
 
 1. Students licensed at the elementary level, must have a 2.7 GPA or higher and a “C” or better in all courses in their major and in endorsement areas.
@@ -1917,7 +1917,7 @@ According to state regulations, all teachers in Iowa “shall acquire a core of 
 **NOTE:** ***Students seeking elementary licensure must have an advisor in the Education Department with whom they meet regularly (at least twice per year) to ensure timely completion of all graduation, general education, and licensure requirements.***
 
 
-### Secondary Licensure
+## Secondary Licensure
 Those interested in teaching at the secondary level must major in one or more teaching fields, minor in education, and meet the state requirements for a 5–12 endorsement (state-approved specialization in a particular subject area).  Teaching field(s) must be in subjects taught in the secondary schools and for which Coe has approval by the Iowa Department of Education.  
 	
 >>**5–12 endorsements include**: American Government, American History, Art, Biology, Business, Chemistry, Coaching (see Kinesiology), Economics, English/Language Arts, French, Health, Math, Music, Physical Education, Physics, Psychology, Science, Social Studies, Sociology, Spanish, Speech Communication and Theater or World History. 
@@ -3635,7 +3635,7 @@ The *Coe College Music Department Faculty/Student Handbook* supplements the desc
 
 Students who major in music may select either the Bachelor of Arts degree or the Bachelor of Music degree. 
 
-### BACHELOR OF MUSIC
+## BACHELOR OF MUSIC
 Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 
 1. **Six** theory and history courses with a grade of “C” (2.0) or higher:
@@ -3735,7 +3735,7 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 		
 **NOTE:** *A recital is not required to complete the music education area of study but may be given with the approval of the studio instructor. *
 
-### BACHELOR OF ARTS: MUSIC MAJOR
+## BACHELOR OF ARTS: MUSIC MAJOR
 Candidates for the **BACHELOR OF ARTS** degree with a major in music must successfully complete:
 
 1. MU 109 Theory of Music I/MU 109L Aural Skills Lab I
@@ -4210,7 +4210,7 @@ Bursch (Chair), Dehner, Guthrie, Kittrell, Siems, Umbarger-Mackey
 
 A description of policies unique to the nursing department is in the *Nursing Department Student Policies Manual*. Copies of the manual are available in the Nursing Department Office, Stuart Hall 415, and online.
 
-### The Bachelor of Science in Nursing Program
+## The Bachelor of Science in Nursing Program
 
 The baccalaureate nursing program is designed to prepare students for practice as professional nurses in a variety of settings. The upper division nursing courses draw upon broad and diverse knowledge gained from the liberal arts foundation to support the educational outcomes. 
 
@@ -5224,7 +5224,7 @@ Carr (Chair), Donofrio, Harmsen, J. Nesmith, Opayemi, Spikes
 
 The Rhetoric Department offers a major and a minor in both **Communication Studies** (see @sec-communication-studies ) and **Writing** (see @sec-writing ) and is responsible for offering courses in the study and practice of academic prose, non-fiction writing, journalism, and communication studies.  
 
-### Writing
+## Writing
 The writing major (within the Rhetoric department) is designed to help students become skilled, reflective writers capable of composing texts in a variety of genres, responding effectively to diverse rhetorical situations. 
 
 #### Writing Major

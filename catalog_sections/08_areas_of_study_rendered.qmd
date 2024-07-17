@@ -67,7 +67,7 @@ In addition to the areas of study/majors listed above, the following **COLLATERA
 - Environmental Studies
 - Organizational Science
 
-## AREAS OF STUDY (MINOR) FOR B.A.
+### AREAS OF STUDY (MINOR) FOR B.A.
 - African American Studies
 - Anthropology
 - Art
@@ -92,12 +92,12 @@ In addition to the areas of study/majors listed above, the following **COLLATERA
 - Mathematics
 
 
-## AREAS OF STUDY (MAJORS) FOR B.M.
+### AREAS OF STUDY (MAJORS) FOR B.M.
 - Keyboard or Instrumental Performance
 - Vocal Performance
 - Composition
 - Instrumental Music Education
 - Vocal Music Education
 
-## AREA OF STUDY (MAJOR) FOR B.S.N.
+### AREA OF STUDY (MAJOR) FOR B.S.N.
 - Nursing
