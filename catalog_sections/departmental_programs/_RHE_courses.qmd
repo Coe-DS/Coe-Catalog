@@ -3,7 +3,7 @@ Carr (Chair), Donofrio, Harmsen, J. Nesmith, Opayemi, Spikes
 
 The Rhetoric Department offers a major and a minor in both **Communication Studies** (see @sec-communication-studies ) and **Writing** (see @sec-writing ) and is responsible for offering courses in the study and practice of academic prose, non-fiction writing, journalism, and communication studies.  
 
-### Writing
+## Writing
 The writing major (within the Rhetoric department) is designed to help students become skilled, reflective writers capable of composing texts in a variety of genres, responding effectively to diverse rhetorical situations. 
 
 #### Writing Major
