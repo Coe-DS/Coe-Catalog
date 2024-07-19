@@ -1,0 +1,29 @@
+{
+    "c": {
+        "phy114_114l": {
+            "short": "'PHY 114/114L'",
+            "long": "'PHY 114/114L Modern Astronomy & Laboratory'",
+            "desc": "Introduces the objects and phenomena found in the universe, including the solar system, planets, moons, comets, meteors, the sun, stars, birth and death of stars, neutron stars, pulsars, black holes, galaxies, quasars, and cosmological evolution. Laboratory activities required. Lab is P/NP basis only. This course satisfies the general education laboratory science requirement. Prerequisite: competence in algebra.",
+            "namelink": "",
+            "namelinklong": ""
+        },
+	{
+        "phl105a": {
+            "short": "'PHL 105'",
+            "long": "'PHL 105 Introduction to Philosophy: Minds, Knowledge, and Value (WE)'",
+            "desc": "Examines what philosophers think about some of the most basic questions in life. What is real? What does it mean to have a mind? Could minds have an existence independent from our bodies? Is there anything we can know with absolute certainty? Are there objective moral values, and if so, could we know what they are? May not be taken more than once for credit.",
+            "namelink": "",
+            "namelinklong": ""
+        },
+	{
+        "phl105b": {
+            "short": "'PHL 105'",
+            "long": "'PHL 105 Introduction to Philosophy: God, Self, and Free Will (WE)'",
+            "desc": "Focuses on questions about the nature and existence of God, human nature, personhood, and free will. Is there evidence for the existence of God and is the presence of suffering in the world consistent with God’s existence? Are human beings merely material beings or might we have non-physical minds or souls? What are persons and what constitutes personal identity over time? What does it mean to have free will? Do we possess free will? May not be taken more than once for credit.",
+            "namelink": "",
+            "namelinklong": ""
+        }
+
+
+    }
+}
