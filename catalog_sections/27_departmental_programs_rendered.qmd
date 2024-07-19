@@ -1,12 +1,14 @@
 # DEPARTMENTAL PROGRAMS 
 
-## ACCOUNTING, MANAGERIAL
+## Accounting, Managerial
 
 See @sec-accounting
 
-## ACCOUNTING, PUBLIC
+
+## Accounting, Public
 
 See @sec-accounting
+
 
 ## African American Studies
 Rodgers (Administrative Coordinator). 
@@ -109,7 +111,7 @@ Intensive study of selected works and subjects in African American literature. M
 None  
 
 
-## ANTHROPOLOGY (Minor Only)
+## Anthropology (Minor Only)
 Fairbanks, Ziskowski
 
 ### Anthropology Minor
@@ -173,7 +175,7 @@ Same as ANT-228, except at an advanced level. Prerequisite: Introduction to Arch
 Placement with a career-related organization. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a minor in anthropology. Prerequisites: declared minor in anthropology, junior standing and consent of department chair. (Offered by arrangement)  
 
 
-## ART AND ART HISTORY
+## Art and Art History
 Cohen, Goodson, Knight-Lueth, Rogers (Chair), Thompson. 
 
 A major in art or art history is designed to provide a foundation in theory and practice. Students focus on making and meaning, and gain an understanding of visual and contextual history and analysis.  In studying the formal, technical and conceptual aspects of art and art history, students learn to communicate effectively to broad and diverse audiences. 
@@ -1061,7 +1063,7 @@ A study of the fundamental principles underlying investment decisions. The cours
 See @sec-economics  
 
 
-## ECONOMICS
+## Economics
 Economics is a social science concerning the study of how economic agents make choices in the face of scarcity. Economists study a broad variety of topics ranging from the theory of the consumer to economic growth and the wealth of nations. Students majoring in economics have two options: the economics major and the international economics major (see @sec-international-economics). The economics major is designed to permit a broad enough selection of courses for students to develop a general competence in economics, and to prepare students for graduate work in economics or other disciplines, such as law or business. The international economics major is designed to allow students who are interested in international studies to explore issues of development, growth, and international finance, using the tools of economic analysis.  
 Because of significant overlap in the economics and the international economics requirements, only one of the two majors may be elected by a student. Students majoring in economics or international economics may not minor in either economics or international economics.  See @sec-international-economics for the International Economics major and minor requirements.
 
@@ -2256,17 +2258,17 @@ Concurrent completion of a primary major in biology or chemistry is required.
 1. **One** of the following combinations:  
 Biology majors:  
 
->>>MTH 135 Calculus I    
->>>BIO 445 Environmental Microbiology and +++MISSING INFO: c.bio445L.long +++  
+>>MTH 135 Calculus I    
+>>BIO 445 Environmental Microbiology and +++MISSING INFO: c.bio445L.long +++  
 	
 >>>**or**    
 
->>Chemistry majors:  
+>Chemistry majors:  
 
->>>MTH 145 Calculus II    	
->>>PHY 185 General Physics I and +++MISSING INFO: c.phy185L.long +++    
->>>PHY 195 General Physics II and +++MISSING INFO: c.phy195L.long +++    
->>>BIO 445 Environmental Microbiology and +++MISSING INFO: c.bio445L.long +++    
+>>MTH 145 Calculus II    	
+>>PHY 185 General Physics I and +++MISSING INFO: c.phy185L.long +++    
+>>PHY 195 General Physics II and +++MISSING INFO: c.phy195L.long +++    
+>>BIO 445 Environmental Microbiology and +++MISSING INFO: c.bio445L.long +++    
 
 2. BIO 295 Spatial Ecology and +++MISSING INFO: c.bio295L.long +++  
 3. CHM 211 Analytical Chemistry and +++MISSING INFO: c.bio211L.long +++  
@@ -3639,7 +3641,7 @@ The *Coe College Music Department Faculty/Student Handbook* supplements the desc
 
 Students who major in music may select either the Bachelor of Arts degree or the Bachelor of Music degree. 
 
-## BACHELOR OF MUSIC
+## Bachelor of Music
 Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 
 1. **Six** theory and history courses with a grade of “C” (2.0) or higher:
@@ -3739,7 +3741,7 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 		
 **NOTE:** *A recital is not required to complete the music education area of study but may be given with the approval of the studio instructor. *
 
-## BACHELOR OF ARTS: MUSIC MAJOR
+## Bachelor of Arts: Music Major
 Candidates for the **BACHELOR OF ARTS** degree with a major in music must successfully complete:
 
 1. MU 109 Theory of Music I/MU 109L Aural Skills Lab I
