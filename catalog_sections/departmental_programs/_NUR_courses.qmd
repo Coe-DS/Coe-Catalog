@@ -30,7 +30,7 @@ Candidates for the **Bachelor of Science in Nursing** degree must satisfactorily
 2. **Eight** required supporting courses:
 
    |   
-:-|---:
+:-|-:
 Biology |	{{< var c.bio145.long >}} 
 &nbsp; |	{{< var c.bio195.long >}}
 &nbsp; |	{{< var c.bio215_215l.long >}}
