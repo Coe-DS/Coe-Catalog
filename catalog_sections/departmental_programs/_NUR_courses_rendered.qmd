@@ -30,7 +30,7 @@ Candidates for the **Bachelor of Science in Nursing** degree must satisfactorily
 2. **Eight** required supporting courses:
 
    |   
-:-|---:
+:-|-:
 Biology |	BIO 145 Cellular & Molecular Biology 
 &nbsp; |	BIO 195 Introduction to Microbiology
 &nbsp; |	+++MISSING INFO: c.bio215_215l.long +++

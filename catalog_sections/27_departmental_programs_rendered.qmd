@@ -586,10 +586,10 @@ Concurrent completion of a primary major in chemistry, including Calculus II and
 3.+++MISSING INFO: c.chm432/432L.long +++  
 4.**Two** of the following:
 
-    +++MISSING INFO: c.bio325/325L.long +++  
-    +++MISSING INFO: c.bio345/345L.long +++  
-    BIO 405 Current Topics in Molecular Biology  
-    +++MISSING INFO: c.bio435/435L.long +++  
+> +++MISSING INFO: c.bio325/325L.long +++  
+> +++MISSING INFO: c.bio345/345L.long +++  
+> BIO 405 Current Topics in Molecular Biology  
+> +++MISSING INFO: c.bio435/435L.long +++  
 
 Genetics (BIO-235) and Laboratory (BIO-235L) and all of the courses under #4 are strongly encouraged, especially for those planning graduate study.
 
@@ -2251,24 +2251,28 @@ St. Clair, Sanchini (Administrative Coordinators).
 
 ### Collateral Major in Environmental Science
 A major in environmental science requires a minimum cumulative 2.0 GPA in all courses counted toward the major. 
-Concurrent completion of a primary major in biology or chemistry is required.  
+Concurrent completion of a primary major in biology or chemistry is required.
+
 1. **One** of the following combinations:  
 Biology majors:  
->MTH 135 Calculus I    
-BIO 445 Environmental Microbiology and +++MISSING INFO: c.bio445L.long +++  
-	
-**or**  
 
-Chemistry majors:  
->MTH 145 Calculus II    	
-PHY 185 General Physics I and +++MISSING INFO: c.phy185L.long +++    
-PHY 195 General Physics II and +++MISSING INFO: c.phy195L.long +++    
-BIO 445 Environmental Microbiology and +++MISSING INFO: c.bio445L.long +++    
+>>>MTH 135 Calculus I    
+>>>BIO 445 Environmental Microbiology and +++MISSING INFO: c.bio445L.long +++  
+	
+>>>**or**    
+
+>>Chemistry majors:  
+
+>>>MTH 145 Calculus II    	
+>>>PHY 185 General Physics I and +++MISSING INFO: c.phy185L.long +++    
+>>>PHY 195 General Physics II and +++MISSING INFO: c.phy195L.long +++    
+>>>BIO 445 Environmental Microbiology and +++MISSING INFO: c.bio445L.long +++    
+
 2. BIO 295 Spatial Ecology and +++MISSING INFO: c.bio295L.long +++  
 3. CHM 211 Analytical Chemistry and +++MISSING INFO: c.bio211L.long +++  
 4. CHM 221 Organic Chemistry I  
 5. **Two** of the following with the associated laboratories:  
-	>BIO 115 Marine Biology  
+	BIO 115 Marine Biology  
 	BIO 165 Ecology and Biology of Birds  
 	BIO 175 Field Botany  
 	BIO 185 Entomology  
@@ -4236,7 +4240,7 @@ Candidates for the **Bachelor of Science in Nursing** degree must satisfactorily
 2. **Eight** required supporting courses:
 
    |   
-:-|---:
+:-|-:
 Biology |	BIO 145 Cellular & Molecular Biology 
 &nbsp; |	BIO 195 Introduction to Microbiology
 &nbsp; |	+++MISSING INFO: c.bio215_215l.long +++
