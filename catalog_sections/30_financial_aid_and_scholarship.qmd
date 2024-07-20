@@ -157,7 +157,6 @@ SAP is measured in three components: Cumulative Grade Point Average (GPA); Pace 
 | 12 – 15.99                            | 1.9                      |
 | 16 and above                          | 2.0                      |
 
-{tbl-colwidths="[50,50]"}
 
 2. **Pace:** A student must complete an incremental percentage of all cumulative credits attempted.
 
@@ -167,7 +166,6 @@ SAP is measured in three components: Cumulative Grade Point Average (GPA); Pace 
 | 8 – 15.99                             | 64%                      |
 | 16 and above                          | 70%                      |
 
-{tbl-colwidths="[50,50]"}
 
 
 [^1]: An academic year for the purpose of administering federal financial aid is defined as minimum two 15-week terms for a total 30 weeks during which the average undergraduate student is expected to complete a minimum of six (6.0) course credits.  Enrollment in a minimum of three (3.0) course credits per term is required in order to be considered a full-time student.  
