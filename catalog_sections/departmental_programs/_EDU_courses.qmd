@@ -166,7 +166,7 @@ Those interested in teaching at the secondary level must major in one or more te
 	- {{< var c.edu195.long >}}
 	- {{< var c.edu215.long >}}
 	- {{< var c.edu219.long >}}
-4. **One or more** of the following Methods courses:
+ **One or more** of the following Methods courses:
 	- {{< var c.edu310.long >}}
 	- {{< var c.edu311.long >}}
 	- {{< var c.edu312.long >}}
@@ -202,7 +202,7 @@ Preparation for teaching at the elementary (K–8) and secondary (5–12) levels
 	- {{< var c.edu195.long >}}
 	- {{< var c.edu215.long >}}
 	- {{< var c.edu219.long >}}
-4. **One or more** of the following Methods courses:
+ **One or more** of the following Methods courses:
 	- {{< var c.art230.long >}}
 	- {{< var c.kin315.long >}}
 	- {{< var c.kin415.long >}}
