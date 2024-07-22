@@ -43,7 +43,7 @@ book:
       chapters:
       - catalog_sections/15_campus_resources_rendered.qmd
       - catalog_sections/16_student_life_rendered.qmd
-    - part: "COLLEGE REGULATIONS"  
+    - part: "COLLEGE REGULATIONS AND POLICIES"  
       chapters:
       - catalog_sections/17_effective_catalog_rendered.qmd
       - catalog_sections/19_class_designation_rendered.qmd
