@@ -52,7 +52,7 @@ def replace_variables(qmd_file, current_directory):
     with open(course_extra_dir, 'r', encoding='utf-8') as json_file:
         course_extra_data = json.load(json_file)
 
-    course_data['c'].update(course_extra_dir['c'])
+    course_data['c'].update(course_extra_data['c'])
 
     with open(qmd_file, 'r', encoding='utf-8') as file:
         text = file.read()
