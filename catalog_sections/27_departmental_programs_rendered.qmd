@@ -1935,7 +1935,7 @@ Those interested in teaching at the secondary level must major in one or more te
 	- EDU 195 Educ Psychology & Development
 	- EDU 215 Practicum in Education
 	- EDU 219 Educational Technology Lab
-4. **One or more** of the following Methods courses:
+ **One or more** of the following Methods courses:
 	- EDU 310 Meth Secondary Business Educ
 	- EDU 311 Meth Secondary Language Arts
 	- EDU 312 Meth Secondary Social Studies
@@ -1971,7 +1971,7 @@ Preparation for teaching at the elementary (K–8) and secondary (5–12) levels
 	- EDU 195 Educ Psychology & Development
 	- EDU 215 Practicum in Education
 	- EDU 219 Educational Technology Lab
-4. **One or more** of the following Methods courses:
+ **One or more** of the following Methods courses:
 	- ART 230 Art of Children & Adolescents
 	- KIN 315 Methods Elementary Sch PE & Health
 	- KIN 415 Meth Secondary School PE & Health
@@ -4551,9 +4551,8 @@ Prerequisite: Eastern Religions (REL-036), or Buddhism (REL-116), or consent of 
   Exploration of a career area related to the student’s interest in philosophy supervised by a faculty member of the department in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major in philosophy. Prerequisites: declared major in philosophy, junior standing, and consent of department chair.  
 
 
-## Physical Education
+## Physical Education (See Kinesiology, @sec-kinesiology)
 
-See Kinesiology, @sec-kinesiology
 
 
 
