@@ -45,10 +45,15 @@ def find_qmd_files(qmd_directory):
 
 def replace_variables(qmd_file, current_directory):
     course_dir = os.path.join(current_directory,'courses.json')
+    course_extra_dir = os.path.join(current_directory,'courses_extra.json')
     
     with open(course_dir, 'r', encoding='utf-8') as json_file:
         course_data = json.load(json_file)
-    
+    with open(course_extra_dir, 'r', encoding='utf-8') as json_file:
+        course_extra_data = json.load(json_file)
+
+    course_data['c'].update(course_extra_dir['c'])
+
     with open(qmd_file, 'r', encoding='utf-8') as file:
         text = file.read()
         # Specify a pattern 
