@@ -40,7 +40,7 @@ Concurrent completion of any of the majors listed under [Areas of Study](catalog
 		ECO 155 Econ/Ethics of Alternative Energy  
 		ECO 215 Prin Microeconomics  
 		+++MISSING INFO: c.evs112.long +++ (if not used to satisfy #5)  
-		+++MISSING INFO: c.evs137.long +++  
+		EVS 137 Environmental Law: The Wilderness Act and the Battle Over the Boundary Waters  
 		POL 115 American National Gov & Pol  
 		POL 386 International Development  
 		SOC 328 Urban Sociology  
@@ -58,8 +58,8 @@ Concurrent completion of any of the majors listed under [Areas of Study](catalog
   An introduction to the economics of the environment and natural resource allocation. This course is focused on optimal resource allocation and the problems associated with externalities and public goods in the context of a market economy. Environmental issues and policy are analyzed using standard economic models. This course may be used to satisfy the requirements for a major in Environmental Studies but does not satisfy any of the requirements for a major or minor in economics. Prerequisite: Principles of Macroeconomics (ECO-175).   
  **+++MISSING INFO: c.evs112.long +++**  
   +++MISSING INFO: c.evs112.desc +++   
- **+++MISSING INFO: c.evs137.long +++**  
-  +++MISSING INFO: c.evs137.desc +++   
+ **EVS 137 Environmental Law: The Wilderness Act and the Battle Over the Boundary Waters**  
+  An introduction to environmental law and the effort to control the effects of human activity on land and water. After an overview of basic environmental law covering property rights and wilderness protection, the class applies the same to the Boundary Waters Canoe Area Wilderness (BWCAW), local communities, recreation, and use of the area. Significant time is spent on the legislative efforts to establish the BWCAW and subsequent judicial interpretation of those laws. Multiple trips to areas of different preservation status are taken to help evaluate the practical effects of the disparate levels of protection. (Offered summers at the Wilderness Field Station)   
  **EVS 484 Topics in Environmental Studies**  
   An intensive examination of selected works and subjects dealing with environmental issues. Specific topics vary from year to year. Prerequisite: junior standing or permission of instructor. May be taken more than once for credit with permission of instructor.   
 

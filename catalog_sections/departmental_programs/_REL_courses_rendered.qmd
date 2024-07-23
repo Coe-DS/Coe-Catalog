@@ -86,7 +86,7 @@ Recommended beginning courses for those contemplating a major in religion are: R
 	- REL 296 Topics in Religion NWP
 	- REL 338 Modern Religious Thought
 	- REL 385 Advanced Topics in Religion
-	- +++MISSING INFO: c.rel386.long +++
+	- REL 386 Advanced Topics in Religion: Non-Western Perspectives (WE)
 	- REL 394 Directed Learning in Religion
 	- REL 444 Ind Study-Relig
 	- REL 494 Internship in Religion 
@@ -127,7 +127,7 @@ Recommended beginning courses for those contemplating a major in religion are: R
 	- REL 296 Topics in Religion NWP
 	- REL 338 Modern Religious Thought
 	- REL 385 Advanced Topics in Religion
-	- +++MISSING INFO: c.rel386.long +++
+	- REL 386 Advanced Topics in Religion: Non-Western Perspectives (WE)
 	- REL 394 Directed Learning in Religion
 	- REL 444 Ind Study-Relig
 	- REL 494 Internship in Religion 
@@ -185,8 +185,8 @@ Recommended beginning courses for those contemplating a major in religion are: R
   An examination of the 13 letters attributed to Paul of Tarsus in the New Testament as well as biblical and extra-biblical sources for the life of this crucial figure who spread Christianity around the Roman Empire. Prerequisite: Introduction to Hebrew Bible (REL-105) or Introduction to New Testament (REL-115) or consent of instructor.  
  **REL 385 Advanced Topics in Religion**  
   Seminar examining a selected topic in religious studies. Content varies from year to year. May be taken for credit more than once. Prerequisite: one course in religion or consent of instructor.  
- **+++MISSING INFO: c.rel386.long +++**  
-  +++MISSING INFO: c.rel386.desc +++  
+ **REL 386 Advanced Topics in Religion: Non-Western Perspectives (WE)**  
+  Same as Advanced Topics in Religion (REL-385) except the course focuses on topics related to non-Western cultures. Content varies from year to year. May be taken more than once for credit. Prerequisite: one course in religion or consent of instructor.  
  **REL 394 Directed Learning in Religion**  
   A course of directed learning designed by the student and instructor to fit the individual student’s particular interests and educational needs. Prerequisite: consent of instructor.  
  **REL 444 Ind Study-Relig**  

@@ -20,7 +20,7 @@ The African American Studies major offers students the opportunity to study Afri
 A major in African American studies requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 
 1. AAM 107 Intro to African American Studies 
-2. +++MISSING INFO: c.aam_eng137.long +++ 
+2. AAM/ENG 137 African American Literature (WE)  
 3. HIS 347 African American History 
 4. One of the following: 
   	- HIS 145 History of United States to 1865 
@@ -33,7 +33,7 @@ A major in African American studies requires a minimum cumulative 2.0 GPA in all
 		- AAM 287 Topics in African American Studies 
 		- AAM 367 Topics in AfricanAmericanLiterature 
 		- AAM 387 Adv Topics in African American Stud 
-		- +++MISSING INFO: c.aam447_457.long +++ 
+		- AAM 447/457 Directed Studies in African American Studies 
 		- AAM 467 Seminar in African American Lit 
 		- AAM 494 Internship in African American Stds 
 		- COM 236 Intercultural Communication 
@@ -68,7 +68,7 @@ A major in African American studies requires a minimum cumulative 2.0 GPA in all
 
 ### African American Studies Minor 
 1. AAM 107 Intro to African American Studies     
-2. +++MISSING INFO: c.aam_eng137.long +++ 
+2. AAM/ENG 137 African American Literature (WE)  
 3. HIS 347 African American History     
 4. One of the following:
 
@@ -103,8 +103,8 @@ None
 Examines an important theme or subject specific to African American experiences and culture. Content varies and is determined by the instructor. Students learn to understand African American experiences in context, to analyze texts and events from multiple disciplinary perspectives, and to write in clear, analytical prose. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: Introduction to African American Studies (AAM-107) or consent of instructor.  
  **AAM 444 Ind Study-Afr-Am St**  
 Study of individually chosen research topics in African American studies under the direction of a faculty member in the area. May be taken for an X status grade with consent of instructor prior to registration. Prerequisites: Introduction to African American Studies (AAM-107) or African American Literature (AAM-137); consent of African American Studies administrative coordinator and submission of a written proposal for a project.  
- **+++MISSING INFO: c.aam447_457.long +++**  
-+++MISSING INFO: c.aam447_457.desc +++  
+ **AAM 447/457 Directed Studies in African American Studies**  
+Study of selected topics and primary texts not available within the regular offerings. Prerequisite: two courses in African American studies. Registration by consent of instructor, after submission of a written project proposal. Conferences with instructor and papers are required. May be taken more than once for credit with consent of African American Studies administrative coordinator.   
  **AAM 467 Seminar in African American Lit**  
 Intensive study of selected works and subjects in African American literature. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different. Prerequisites: junior standing and The Art of Literary Research (ENG-301). May be taken more than once.  
  **AAM 494 Internship in African American Stds**   
@@ -541,7 +541,7 @@ overseas travel, the cultural differences and commonalities that shape human exp
 An interdisciplinary examination of themes and ideas central to understanding the cultures of China and Japan. Materials used include primary texts in Taoism, Confucianism, and Buddhism, as well as works of poetry, fiction, and visual art.  
  **ASC 186 Modern South Asia**  
 India, Pakistan, Bangladesh, and Sri Lanka from a modern perspective. The preoccupation with identity, the reemergence of caste and religious conflicts, the strengths and weaknesses of political and economic development, and the implication of trends for the future. Includes selected topics on culture and history that provide insights to understanding the present.  
- **+++MISSING INFO: c.asc216.long +++**  
+ **ASC 216 History of Modern Korea (WE)**  
 See @sec-history  
 
 
@@ -2344,7 +2344,7 @@ Concurrent completion of any of the majors listed under [Areas of Study](catalog
 		ECO 155 Econ/Ethics of Alternative Energy  
 		ECO 215 Prin Microeconomics  
 		+++MISSING INFO: c.evs112.long +++ (if not used to satisfy #5)  
-		+++MISSING INFO: c.evs137.long +++  
+		EVS 137 Environmental Law: The Wilderness Act and the Battle Over the Boundary Waters  
 		POL 115 American National Gov & Pol  
 		POL 386 International Development  
 		SOC 328 Urban Sociology  
@@ -2362,8 +2362,8 @@ Concurrent completion of any of the majors listed under [Areas of Study](catalog
   An introduction to the economics of the environment and natural resource allocation. This course is focused on optimal resource allocation and the problems associated with externalities and public goods in the context of a market economy. Environmental issues and policy are analyzed using standard economic models. This course may be used to satisfy the requirements for a major in Environmental Studies but does not satisfy any of the requirements for a major or minor in economics. Prerequisite: Principles of Macroeconomics (ECO-175).   
  **+++MISSING INFO: c.evs112.long +++**  
   +++MISSING INFO: c.evs112.desc +++   
- **+++MISSING INFO: c.evs137.long +++**  
-  +++MISSING INFO: c.evs137.desc +++   
+ **EVS 137 Environmental Law: The Wilderness Act and the Battle Over the Boundary Waters**  
+  An introduction to environmental law and the effort to control the effects of human activity on land and water. After an overview of basic environmental law covering property rights and wilderness protection, the class applies the same to the Boundary Waters Canoe Area Wilderness (BWCAW), local communities, recreation, and use of the area. Significant time is spent on the legislative efforts to establish the BWCAW and subsequent judicial interpretation of those laws. Multiple trips to areas of different preservation status are taken to help evaluate the practical effects of the disparate levels of protection. (Offered summers at the Wilderness Field Station)   
  **EVS 484 Topics in Environmental Studies**  
   An intensive examination of selected works and subjects dealing with environmental issues. Specific topics vary from year to year. Prerequisite: junior standing or permission of instructor. May be taken more than once for credit with permission of instructor.   
 
@@ -4607,8 +4607,8 @@ A minor in Physics requires a cumulative 2.0 GPA in all courses counted toward t
 ### Courses in Physics 
  **PHY 105 Physics: An Historical Approach**  
   A course emphasizing important developments in physics from the time of Aristotle to the 20th century. Special attention is given to significant conceptual developments and major technological advances. Readings are selected from writings of some of the major figures in the history of physics, as well as modern commentators. The class experience includes reenactments of some historically significant experiments.  
- **+++MISSING INFO: c.phy114_114l.long +++**  
-  +++MISSING INFO: c.phy114_114l.desc +++  
+ **PHY 114/114L Modern Astronomy & Laboratory**  
+  Introduces the objects and phenomena found in the universe, including the solar system, planets, moons, comets, meteors, the sun, stars, birth and death of stars, neutron stars, pulsars, black holes, galaxies, quasars, and cosmological evolution. Laboratory activities required. Lab is P/NP basis only. This course satisfies the general education laboratory science requirement. Prerequisite: competence in algebra.  
  **PHY 121 Everyday Physics**  
   Covers the principle of physics we use in our daily life. Examples from everyday experience are used to explain the fundamental principles of linear and rotational motion, momentum, forces, energy, as well as electricity, magnetism, and medical applications.  
  **+++MISSING INFO: c.phy155_155l.long +++**  
@@ -5115,7 +5115,7 @@ Recommended beginning courses for those contemplating a major in religion are: R
 	- REL 296 Topics in Religion NWP
 	- REL 338 Modern Religious Thought
 	- REL 385 Advanced Topics in Religion
-	- +++MISSING INFO: c.rel386.long +++
+	- REL 386 Advanced Topics in Religion: Non-Western Perspectives (WE)
 	- REL 394 Directed Learning in Religion
 	- REL 444 Ind Study-Relig
 	- REL 494 Internship in Religion 
@@ -5156,7 +5156,7 @@ Recommended beginning courses for those contemplating a major in religion are: R
 	- REL 296 Topics in Religion NWP
 	- REL 338 Modern Religious Thought
 	- REL 385 Advanced Topics in Religion
-	- +++MISSING INFO: c.rel386.long +++
+	- REL 386 Advanced Topics in Religion: Non-Western Perspectives (WE)
 	- REL 394 Directed Learning in Religion
 	- REL 444 Ind Study-Relig
 	- REL 494 Internship in Religion 
@@ -5214,8 +5214,8 @@ Recommended beginning courses for those contemplating a major in religion are: R
   An examination of the 13 letters attributed to Paul of Tarsus in the New Testament as well as biblical and extra-biblical sources for the life of this crucial figure who spread Christianity around the Roman Empire. Prerequisite: Introduction to Hebrew Bible (REL-105) or Introduction to New Testament (REL-115) or consent of instructor.  
  **REL 385 Advanced Topics in Religion**  
   Seminar examining a selected topic in religious studies. Content varies from year to year. May be taken for credit more than once. Prerequisite: one course in religion or consent of instructor.  
- **+++MISSING INFO: c.rel386.long +++**  
-  +++MISSING INFO: c.rel386.desc +++  
+ **REL 386 Advanced Topics in Religion: Non-Western Perspectives (WE)**  
+  Same as Advanced Topics in Religion (REL-385) except the course focuses on topics related to non-Western cultures. Content varies from year to year. May be taken more than once for credit. Prerequisite: one course in religion or consent of instructor.  
  **REL 394 Directed Learning in Religion**  
   A course of directed learning designed by the student and instructor to fit the individual student’s particular interests and educational needs. Prerequisite: consent of instructor.  
  **REL 444 Ind Study-Relig**  

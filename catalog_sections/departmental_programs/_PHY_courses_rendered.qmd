@@ -48,8 +48,8 @@ A minor in Physics requires a cumulative 2.0 GPA in all courses counted toward t
 ### Courses in Physics 
  **PHY 105 Physics: An Historical Approach**  
   A course emphasizing important developments in physics from the time of Aristotle to the 20th century. Special attention is given to significant conceptual developments and major technological advances. Readings are selected from writings of some of the major figures in the history of physics, as well as modern commentators. The class experience includes reenactments of some historically significant experiments.  
- **+++MISSING INFO: c.phy114_114l.long +++**  
-  +++MISSING INFO: c.phy114_114l.desc +++  
+ **PHY 114/114L Modern Astronomy & Laboratory**  
+  Introduces the objects and phenomena found in the universe, including the solar system, planets, moons, comets, meteors, the sun, stars, birth and death of stars, neutron stars, pulsars, black holes, galaxies, quasars, and cosmological evolution. Laboratory activities required. Lab is P/NP basis only. This course satisfies the general education laboratory science requirement. Prerequisite: competence in algebra.  
  **PHY 121 Everyday Physics**  
   Covers the principle of physics we use in our daily life. Examples from everyday experience are used to explain the fundamental principles of linear and rotational motion, momentum, forces, energy, as well as electricity, magnetism, and medical applications.  
  **+++MISSING INFO: c.phy155_155l.long +++**  

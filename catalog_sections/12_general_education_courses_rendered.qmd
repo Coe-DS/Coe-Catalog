@@ -42,7 +42,7 @@ The Non-Western Perspectives (NWP) group includes courses in which a preponderan
 - ASC 176 China and Japan
 - ASC 186 Modern South Asia
 - ASC 196 Modern South East Asia
-- +++MISSING INFO: c.asc216.long +++
+- ASC 216 History of Modern Korea (WE)
 - BUS 446 International Business Management
 - BUS 466 Adv Top Mrktg:non-west persp
 - BUS 476 Ad Top Mgmt:non-west persp
@@ -86,7 +86,7 @@ The Non-Western Perspectives (NWP) group includes courses in which a preponderan
 - REL 296 Topics in Religion NWP
 - REL 306 Comparative Religion
 - REL 336 Tibetan Buddhist Cultrue
-- +++MISSING INFO: c.rel386.long +++
+- REL 386 Advanced Topics in Religion: Non-Western Perspectives (WE)
 - RHE 146 Creative Nonfiction:Global Perspect
 - SOC 226 Gender and Globalizaton
 - SOC 236 Topics in Sociology NWP
@@ -146,7 +146,7 @@ The United States Pluralism (USP) group includes courses in which a preponderanc
 - ENG 357 Studies in Latinx/ChicanxLiterature
 - ENG 367 Studies in African Am Literature
 - ENG 467 Seminar inLit:USPluralism
-- +++MISSING INFO: c.evs137.long +++
+- EVS 137 Environmental Law: The Wilderness Act and the Battle Over the Boundary Waters
 - GS 107 Intro Gender & Sexuality Studies
 - GS 127 Dress, Gender, and Identity
 - GS 247 Gender & Sexuality StudiesSymposium
