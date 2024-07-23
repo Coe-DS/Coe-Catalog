@@ -8,18 +8,18 @@ In addition to a major in biology, the college also offers collateral majors in 
 
 A major in biology requires a minimum cumulative 2.0 GPA over courses counted toward the major.
 
-1. +++MISSING INFO: c.bio145/145L.long +++
-2. +++MISSING INFO: c.bio155/155L.long +++
+1. +++MISSING INFO: c.bio145_145l.long +++
+2. +++MISSING INFO: c.bio155_155l.long +++
 3. BIO 202 Topics in Evolution
-4. +++MISSING INFO: c.bio205/205L.long +++
-5. +++MISSING INFO: c.bio235/235L.long +++
+4. +++MISSING INFO: c.bio205_205l.long +++
+5. +++MISSING INFO: c.bio235_235l.long +++
 6. **One** of the following:
-    - +++MISSING INFO: c.bio355/355L.long +++
-    - +++MISSING INFO: c.bio375/375L.long +++
+    - +++MISSING INFO: c.bio355_355l.long +++
+    - +++MISSING INFO: c.bio375_375l.long +++
 
 7. **Three** biology electives with the associated laboratories
-8. +++MISSING INFO: c.chm121/121L.long +++
-9. +++MISSING INFO: c.chm122/122L.long +++
+8. +++MISSING INFO: c.chm121_121l.long +++
+9. +++MISSING INFO: c.chm122_122l.long +++
 10. **One** of the following:
     - +++MISSING INFO: c.mth132.long +++ (strongly recommended for students considering attending graduate school)
     - STA 100 Statistical Reasoning I-Foundations and STA 110 Stats IIA: Inferential Reasoning
@@ -29,8 +29,8 @@ A major in biology requires a minimum cumulative 2.0 GPA over courses counted to
 
 *Strongly recommended:*
     **One** of the following sequences:
-    - +++MISSING INFO: c.phy165/165L.long +++ and +++MISSING INFO: c.phy175/175L.long +++
-    - +++MISSING INFO: c.phy185/185L.long +++ and +++MISSING INFO: c.phy195/195L.long +++
+    - +++MISSING INFO: c.phy165_165l.long +++ and +++MISSING INFO: c.phy175_175l.long +++
+    - +++MISSING INFO: c.phy185_185l.long +++ and +++MISSING INFO: c.phy195_195l.long +++
 
 With consent of the department chair, other chemistry or mathematics courses may be substituted.
 
@@ -41,18 +41,18 @@ Laboratory and field experiences are essential to scientific understanding. They
 ### Courses in Biology
  **BIO 100 Human Biology**  
 A study of Homo sapiens applying the same tools biologists use to study other organisms. Topics may include an overview of human evolution, reproduction, genetics, population genetics, adaptations of selected organs and organ systems, humans’ relationship to and impact on their environment, and other contemporary issues in human biology. Includes lecture and laboratory. This course does not satisfy any of the requirements for a major in biology.  
- **+++MISSING INFO: c.bio100L.long +++**  
-+++MISSING INFO: c.bio100L.desc +++  
+ **BIO 100L Human Biology Lab**  
+Three hours per week. Corequisite registration in BIO-100. This course does not satisfy any of the requirements for a major in biology. Nursing majors are not required to take BIO-100L. (0.2 course credit)  
  **BIO 103 Anatomy & Physiology**  
 Introduces the student to the structure, function, and organization of the human body. Designed for non-majors as well as students with health-related career interests. This course does not satisfy any of the requirements for a major in biology or nursing.  
- **+++MISSING INFO: c.bio103L.long +++**  
-+++MISSING INFO: c.bio103L.desc +++  
+ **BIO 103L Anatomy and Physiology Lab**  
+Three hours per week. Corequisite registration in BIO-103. This course does not satisfy any of the requirements for a major in biology or nursing. (0.2 course credit)  
  **BIO105 Introductory Biology**  
 None  
  **BIO 111 Urban Ecology**  
 Introduces the ecology of urban systems, investigating how humans and their built environments interact with and form ecosystems. Two main points of view will be represented: the city as an ecological system, and the responses and adaptations of organisms to this ecosystem. We will also investigate how humans respond to and interact with this biotic and abiotic environment. Labs will visit relevant areas of Cedar Rapids. One three hour workshop and one four-hour lab per week. (Offered alternate years.)  
- **+++MISSING INFO: c.bio111L.long +++**  
-+++MISSING INFO: c.bio111L.desc +++  
+ **BIO 111L Urban Ecology Lab**  
+Three hours per week. Labs will visit relevant areas of Cedar Rapids. Corequisite with Urban Ecology (BIO 111). (0.2 course credit).  
  **BIO 115 Marine Biology**  
 Surveys marine organisms and communities with emphasis on tropical coral reef systems. The primary field analyses focus on the dynamics of coral reefs, tidal regions, and turtle grass meadows. An off campus course taught at an appropriate site and involving extensive field work. Includes lecture and laboratory. 
 Prerequisite: consent of instructor. (Offered May Term only)  
@@ -60,120 +60,120 @@ Prerequisite: consent of instructor. (Offered May Term only)
 Introduces the basic principles, terms, and technologies needed to understand the role of biology in our lives. This course centers around answering questions in healthcare and in contemporary society, using the application of biological knowledge. Study skills for mastering college biology are also taught. Three lectures and one co-curricular skills workshop per week. Counts as a non-lab science course. This course does not satisfy any of the requirements for a major in biology.  
  **BIO 145 Cellular & Molecular Biology**  
 A study of biology at the cellular and molecular level, including cytology, metabolic, and genetic processes. Three lectures per week.  
- **+++MISSING INFO: c.bio145L.long +++**  
-+++MISSING INFO: c.bio145L.desc +++  
+ **BIO 145L Cellular and Molecular Biology Lab**  
+Introduces students to common biological techniques including enzyme assays and DNA studies. Students are also introduced to experimental design, collection of data, and statistical analysis of data. Instruction in writing of scientific papers is also provided. Three hours per week. Concurrent or previous registration in Cellular and Molecular Biology (BIO-145). Nursing majors are not required to take BIO-145L. (0.2 course credit)  
  **BIO 155 Organismal & Ecological Biology**  
 The study of organ systems, reproduction, and embryology, with an emphasis on human biology. Principles of evolution, ecology, and animal behavior are also studied. Three lectures per week.  
- **+++MISSING INFO: c.bio155L.long +++**  
-+++MISSING INFO: c.bio155L.desc +++  
+ **BIO 155L Organismal & Ecological Biology Lab**  
+Three hours per week. Concurrent with Organismal and Ecological Biology (BIO-155). (0.2 course credit)  
  **BIO 165 Ecology and Biology of Birds**  
 An introduction to the behavior, ecology and biology of birds, emphasizing identification of local species and such species’ adaptations to their biotic and abiotic environments. Binoculars furnished. This course satisfies the lab science course requirement. Offered Spring Term on campus and Summer at the Wilderness Field Station.  
- **+++MISSING INFO: c.bio165L.long +++**  
-+++MISSING INFO: c.bio165L.desc +++  
+ **BIO 165L Ecology & Biology of Birds LAB**  
+Lab for Ecology and Biology of Birds. Four hours per week. Corequisite with Ecology and Biology of Birds (BIO-165). (0.3 course credit)  
  **BIO 175 Field Botany**  
 Investigates tree and wildflower species encountered in Iowa’s forests, fields and prairies. Emphasizes hands-on description of structural characteristics,
 identification of species using a dichotomous key and characteristics of flowering plant families. A basic understanding of the distribution of plants
 within communities is also developed. A collection of local plants is required. (Offered in May Term)  
  **BIO 185 Entomology**  
 Introduces the biology of insects and related arthropods, focusing on how homeostatic problems common to all organisms have been solved. Topics include physiology, morphology, systematics, and the relationship among insects, plants, and humans.  
- **+++MISSING INFO: c.bio185L.long +++**   
-+++MISSING INFO: c.bio185L.desc +++  
+ **BIO 185L Entomology Lab**   
+Three hours per week. Consists of both in-class study as well as field trips emphasizing the ecology and behavior of local forms. A representative insect collection is made. Corequisite registration in BIO-185. (0.2 course credit)  
  **BIO 195 Introduction to Microbiology**  
 An elementary-level study of the principles of microbiology. Special attention is given to the medical aspect of the subject. Three lectures and one three hour laboratory per week. Designed for students with allied health career interests. This course does not satisfy any of the requirements for a major in biology. Prerequisite: Human Biology (BIO-100) or Cellular and Molecular Biology (BIO-145).  
- **+++MISSING INFO: c.bio195L.long +++**  
-+++MISSING INFO: c.bio195L.desc +++  
+ **BIO 195L Introduction to Microbiology Lab**  
+Three hours per week. Corequisite registration in BIO-195. (0.2 course credit)  
  **BIO 202 Topics in Evolution**  
 Investigates the roles of selective and non-selective evolutionary mechanisms, especially as they affect adaptation, speciation, and extinction. Selected aspects of the fossil record and current theories of hominid evolution are also part of the course. Counts as a non-lab science course. Prerequisites: Cellular and Molecular Biology (BIO-145). Note: Credit is given for either Topics in Evolution (BIO-202) or Organic Evolution (BIO-125), not both.  
  **BIO 205 General Botany**  
 A study of the basic structure and functions of plants, with emphasis on seed plants. Functional aspects of structure and development on the cellular, tissue, and whole plant level receive equal emphasis. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-140) and Organismal and Ecological Biology (BIO-155).  
- **+++MISSING INFO: c.bio205L.long +++**  
-+++MISSING INFO: c.bio205L.desc +++  
+ **BIO 205L General Botany Laboratory**  
+Three hours per week. Concurrent with General Botany (BIO-205). (0.2 course credit)  
  **BIO 215 Human Anatomy**  
 A survey of gross and microscopic human anatomy, providing necessary background for students in physiology and body mechanics. Three lectures per week. Prerequisites: Human Biology (BIO-100) or Cellular and Molecular Biology (BIO-145) or Organismal and Ecological Biology (BIO-155). This course does not satisfy any of the requirements for a major in biology. Credit is given for Human Anatomy (BIO-215) or Integrated Human Anatomy (BIO-245), not both.  
- **+++MISSING INFO: c.bio215L.long +++**  
-+++MISSING INFO: c.bio215L.desc +++  
+ **BIO 215L Human Anatomy Laboratory**  
+Three hours per week. Concurrent with Human Anatomy (BIO-215). (0.2 course credit)  
  **BIO 225 Human Physiology**  
 The functional study of the various systems of the human body, including the application of physiological principles to the health professions. Three lectures and one two-hour recitation per week. This course does not satisfy any of the requirements for a major in biology. Prerequisites: Human Anatomy (BIO-215) and either Human Biology (BIO-100), Cellular and Molecular Biology (BIO-145), or Organismal and Ecological Biology (BIO-155).  
  **BIO 235 Genetics**  
 An exploration of the three main branches of heredity: transmission (classical), molecular, and population genetics. Transmission genetics examines how genes and genetic traits are passed from generation to generation. Molecular genetics probes the structure, function, and regulation of genes, while population genetics investigates through mathematical models the distribution and behavior of genes in populations. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-140), and Organismal and Ecological Biology (BIO-155).  
- **+++MISSING INFO: c.bio235L.long +++**  
-+++MISSING INFO: c.bio235L.desc +++  
+ **BIO 235L Genetics Laboratory**  
+Three hours per week. Concurrent with Genetics (BIO-235). (0.2 course credit)  
  **BIO 275 Aquatic Ecology**  
 Study of the biota of lakes and streams in northern Minnesota and adjacent Ontario, and their abiotic environment. Extensive field sampling enables students to study predation, diel vertical migration, stream drift, induced morphological defenses, and food-web interactions. Regional and North American lake and stream biodiversity and the effects of introduced species and human intervention on aquatic ecosystems are reviewed. Prerequisites: Cellular and Molecular Biology (BIO-145) and Introduction to Biology Laboratory (BIO-140), or Organismal and Ecological Biology (BIO-155) and Laboratory (BIO-150). (Offered summers at the Wilderness Field Station)  
- **+++MISSING INFO: c.bio275L.long +++**  
-+++MISSING INFO: c.bio275L.desc +++  
+ **BIO 275L Aquatic Ecology Lab**  
+Field work at the Wilderness Field Station. Corequisite with Aquatic Ecology (BIO-275). (0.2 course credit)  
  **BIO 285 Animal Behavior**  
 Principles and methods in ethology are considered with emphasis on temporal and spatial patterns, adaptive significances, communication, aggression and territoriality, social organization, and the nature of regulatory mechanisms. Prerequisites: One of the following: Cellular and Molecular Biology (BIO-145) and Introduction to Biology Laboratory (BIO-140); Organismal and Ecological Biology (BIO-155) and Laboratory (BIO-150); or Statistical Methods and Data Analysis (PSY-301). (Offered summers at the Wilderness Field Station)  
- **+++MISSING INFO: c.bio285L.long +++**  
-+++MISSING INFO: c.bio285L.desc +++  
+ **BIO 285L Animal Behavior Laboratory**  
+Three hours per week. Concurrent with Animal Behavior (BIO-285). (0.2 course credit)  
  **BIO 295 Spatial Ecology**  
 Study of spatial patterns of organisms in natural, agricultural, and urban landscapes. Emphasis is on how the arrangements of organisms both reflect and feedback on underlying resources and geography. Students learn how to capture spatial characteristics of individuals, populations, species, communities, and landscapes sampled in the field, integrate them with satellite imagery, and analyze them statistically. Use of global positioning system hardware to provide spatial reference for field ecology surveys and use of ArcView as a data management, display, and analysis tool are important features of the course. Three lectures per week. Prerequisites: Organismal and Ecological Biology (BIO-155) and Laboratory (BIO-150).  
- **+++MISSING INFO: c.bio295L.long +++**  
-+++MISSING INFO: c.bio295L.desc +++  
+ **BIO 295L Spatial Ecology Laboratory**  
+Three hours per week. Concurrent with Spatial Ecology (BIO-295). (0.2 course credit)  
  **BIO 315 Integrated Human Anatomy**  
 Integrates macroscopic human anatomy at the organ and organ system levels with microscopic study of histology and development from an evolutionary and sometimes experimental perspective. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-145L), Organismal and Ecological Biology (BIO-155) and Laboratory (BIO-155L). Credit is given for Integrated Human Anatomy (BIO-315) or Human Anatomy (BIO-215), not both.  
- **+++MISSING INFO: c.bio315L.long +++**  
-+++MISSING INFO: c.bio315L.desc +++  
+ **BIO 315L Integrated Human Anatomy Lab**  
+Studies human anatomy using dissection, models, histological slides, and cadaveric specimens. Students learn to integrate written, verbal and visual material to master anatomical and histological terminology. Three hours per week. Concurrent or previous registration in Integrated Human Anatomy (BIO-315). (0.2 course credit)  
  **BIO 325 Microbiology**  
 Study of major fields of microbiology with emphasis on bacteria and viruses. Topics include bacterial cell structure, genetics, and pathogenesis as well as immunology and epidemiology. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-145L), Organismal and Ecological Biology (BIO-155), Organic Chemistry I (CHM-221) and Organic Laboratory (CHM-322) or Genetics (BIO-235).  
- **+++MISSING INFO: c.bio325L.long +++**  
-+++MISSING INFO: c.bio325L.desc +++  
+ **BIO 325L Microbiology Lab**  
+Four hours per week. Concurrent with Microbiology (BIO-325). (0.2 course credit)  
  **BIO 335 Conservation and Ecology of Mammals**  
 The study of mammals of Minnesota and the natural history, form/function relations, behavior, distributions, and interaction with their environment and other organisms. Class activities include direct observations, reading tracks and "sign." Live-trap mark and recapture studies supplemented by readings, lectures, and discussions. (Offered summers at the Wilderness Field Station)  
- **+++MISSING INFO: c.bio335L.long +++**  
-+++MISSING INFO: c.bio335L.desc +++  
+ **BIO 335L Conserv & Ecology of Mammals LAB**  
+Field work at the Wilderness Field Station. Corequisite registration with Conservation and Ecology of Mammals (BIO 335). (0.2 course credit)  
  **BIO 345 Techniques in Molecular Biology**  
 An intensive introduction to biological molecular techniques. Students learn how to manipulate recombinant DNA and express and detect protein products in prokaryotic systems. Course methods include cloning, restriction, mapping, ligation, labeling, purification, elution, blotting, hybridization, agarose, and acrylamide gels, protein expression and detection, and immunological techniques. On completing the course, students should have a working knowledge of most methods used in molecular biology research. Course consists of two discussion sessions per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-140), Genetics (BIO-235) and Laboratory (BIO-230), General Chemistry I (CHM-1XX), and General Chemistry II (CHM-1XX).  
- **+++MISSING INFO: c.bio345L.long +++**  
-+++MISSING INFO: c.bio345L.desc +++  
+ **BIO 345L Techniques in Molecular Biology Lab**  
+Six hours per week. Concurrent with Techniques in Molecular Biology (BIO-345). (0.5 course credit)  
  **BIO 355 Animal Physiology**  
 Study of how organ systems in animal species solve the fundamental problems of staying alive. This includes how to obtain energy, how to procure the raw materials necessary for constructing their bodies, how to gain oxygen from the environment, how to get rid of unneeded substances and toxic materials. The course addresses how these ends are achieved through the cooperation of cells, tissues, organs, and organ systems in a variety of organisms including mammals, birds, reptiles, amphibians, and fish as well as selected invertebrates. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-140), Organismal and Ecological Biology (BIO-155).  
- **+++MISSING INFO: c.bio355L.long +++**  
-+++MISSING INFO: c.bio355L.desc +++  
+ **BIO 355L Animal Physiology Lab**  
+Three hours per week concurrent with Animal Physiology (BIO-355). (0.2 course credit)  
  **BIO 365 Comparative Chordate Anat**  
 A survey of the chordates and the development and evolution of form in vertebrates, using primarily the shark, mudpuppy, and cat in laboratory. Two lectures, one discussion recitation per week. Prerequisite: Cellular and Molecular Biology (BIO-145), Organismal and Ecological Biology (BIO-155) and Topics in Evolution (BIO-202).  
- **+++MISSING INFO: c.bio365L.long +++**  
-+++MISSING INFO: c.bio365L.desc +++  
+ **BIO 365L Comp Chordate Anat Lab**  
+None  
  **BIO 375 Integrated Human Physiology**  
 The study of function in terms of basic physical and chemical processes; an introduction to the principles of physiligy using the human organism as a model. Three lectures per week. Prerequisite: Cellular and Molecular Biology (BIO-145), Organismal and Ecological Biology (BIO-155), and Introduction to Biology Laboratory (BIO-140)  
- **+++MISSING INFO: c.bio375L.long +++**  
-+++MISSING INFO: c.bio375L.desc +++  
+ **BIO 375L Integrated Human Physiology Lab**  
+Three hours per week. Concurrent with Integrated Human Physiology (BIO-375). (0.2 course credit)  
  **BIO 385 Behavior/Ecology of Vertebrates**  
 Identification, evolutionary history, behavior and ecological relationships of local mammals, birds, reptiles, amphibians, and fish. Students learn and apply survey techniques appropriate for particular groups to understand species/habitat relationships, diversity within groups, and the impact of humans on diversity.  Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145) and Topics in Evolution (BIO-202).  
- **+++MISSING INFO: c.bio385L.long +++**  
-+++MISSING INFO: c.bio385L.desc +++  
+ **BIO 385L Behavior/Ecology Vertebrates Lab**  
+Three hours per week. Concurrent with Behavior and Ecology of Vertebrates (BIO-385). (0.2 course credit)  
  **BIO 405 Current Topics in Molecular Biology**  
 An intensive exploration of Molecular Biology’s primary literature, focusing on recent advances in DNA, RNA and protein manipulation, characterization, and control. Students read research articles, critically evaluate published data, and communicate technical information effectively. Three lectures per week. Prerequisites: Techniques in Molecular Biology (BIO-345) and Genetics (BIO-235).  
  **BIO 415 Developmental Biology**  
 An exploration of the developmental processes that occur as an organism grows from fertilized egg to adult organism. The actions and interactions of cells and tissues are examined in the living, growing, and rapidly changing environment of the body. Classical embryology is examined through modern genetic techniques, with special emphasis on how differential gene expression makes us who we are. Survey of research methodologies are a prominent topic. Three lectures per week. Prerequisites: Genetics (BIO-235) and Laboratory (BIO-230).  
- **+++MISSING INFO: c.bio415L.long +++**  
-+++MISSING INFO: c.bio415L.desc +++  
+ **BIO 415L Developmental Biology lab**  
+Three hours per week. Concurrent with Developmental Biology (BIO-415). (0.2 course credit)  
  **BIO 425 Ecology**  
 Study of the interrelationship of living organisms with their environment. The structure and dynamics of populations, communities, and ecosystems are examined through lectures and laboratory or field observations. Three lectures per week. Prerequisites: General Botany (BIO-205) or consent of instructor.  
- **+++MISSING INFO: c.bio425L.long +++**  
-+++MISSING INFO: c.bio425L.desc +++  
+ **BIO 425L Ecology Lab**  
+Three hours per week. Concurrent with Ecology (BIO-425). (0.2 course credit)  
  **BIO 435 Cell Physiology**  
 The content, organization, and function of the cell and its components are studied. Other topics include the relationship of the cell to its environment, the cell membrane, enzymes, conversion of matter and energy, cell growth, and cell division. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-145L), Organismal and Ecological Biology (BIO-155), Genetics (BIO-235), and General Chemistry I and Laboratory (CHM-121/-121L).  
- **+++MISSING INFO: c.bio435L.long +++**  
-+++MISSING INFO: c.bio435L.desc +++  
+ **BIO 435L Cell Physiology Lab**  
+Three hours per week. Concurrent with Cell Physiology (BIO-435). (0.2 course credit)  
  **BIO 444 Independent Study**  
 Independent work on a selected project under direction of a member of the department. Students are limited to two registrations in Independent Study. May be taken for an X status grade with consent of instructor prior to registration.  Prerequisites: Courses providing appropriate background for the project selected and consent of department chair.  
  **BIO 445 Environmental Microbiology**  
 An examination of the role of microbes in the environment. Topics include microbial diversity, nutrient cycling including biogeochemistry, bioremediation, and biodegradation. The use of molecular methods and microsopy to study microbes in situ are special emphases of the course. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-145L), Organismal and Ecological Biology (BIO-155), Organic Chemistry I (CHM-221) with Organic Laboratory (CHM-322) or Genetics (BIO-235).  
- **+++MISSING INFO: c.bio445L.long +++**  
-+++MISSING INFO: c.bio445L.desc +++  
+ **BIO 445L Env Microbiology Lab**  
+Six hours per week. Concurrent with Environmental Microbiology (BIO-445). (0.50 course credit)  
  **BIO 454 Research Participation**  
 Participation in a research program designed and directed by a biology department faculty member, including some or all of the following: library research, research design, and field or laboratory investigations. Scheduled by arrangement with sponsoring professor with a time requirement of 10 hours per week minimum per course credit. P/NP basis only. May be taken for an X status grade with consent of instructor prior to registration.  Research participation credit does not satisfy any of the requirements for a major in biology. (0.2 – 1.0 course credit)  
  **BIO 455 Molecular Neurobiology**  
 Study of the organization and function of the nervous system, focusing on both cellular physiology and functional neuroanatomy. Topics include the cellular and molecular properties of brain cells, the neurological basis of behavior, and disorders of the nervous system. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-140), Organismal and Ecological Biology (BIO-155), General Chemistry I (CHM-155), General Chemistry II (CHM-165) and Genetics (BIO-235) and Lab (BIO-230)  
- **+++MISSING INFO: c.bio455L.long +++**  
-+++MISSING INFO: c.bio455L.desc +++  
- **+++MISSING INFO: c.bio462/463.long +++**  
-+++MISSING INFO: c.bio462/463.desc +++  
+ **BIO 455L Molecular Neurobiology Lab**  
+Three hours per week. Concurrent with Molecular Neurobiology (BIO-455L). (0.2 course credit)  
+ **+++MISSING INFO: c.bio462_463.long +++**  
++++MISSING INFO: c.bio462_463.desc +++  
  **BIO 465 Immunology**  
 An integrated series of lectures designed to familiarize students with cellular, molecular and biochemical aspects of the development of the immune system and the immune response, including B-and T-cell function, antibody structure and function, complement, and major histocompatibility complex formation, with special emphasis on the integration of these parts during the response to infectious agents. Special topics include immunomodulation, vaccination, autoimmunity, and neuro-immune interactions. The laboratory component utilizes existing instrumentation in the biology department and cell culture to explore different aspects of the immune system. Three lectures and one three hour laboratory period per week. Prerequisites: General Chemistry II (CHM 122/122L), Genetics (BIO-235), and Integrated Human Physiology (BIO-375) (or concurrent enrollment in BIO-375).  
- **+++MISSING INFO: c.bio465L.long +++**  
-+++MISSING INFO: c.bio465L.desc +++  
+ **BIO 465L Immunology Laboratory**  
+Three hours per week. Corequisite registration with Immunology (BIO-465). (0.2 course credit)  
  **BIO 494 Internship in Biology**  
 Investigation of an area of interest through voluntary field placement supervised by a faculty member of the department. A minimum of 140 hours on-site experience is required. P/NP basis only. This course does not satisfy any of the requirements for a major in biology. Prerequisites: declared major in biology, junior standing, and consent of department chair.  
 
