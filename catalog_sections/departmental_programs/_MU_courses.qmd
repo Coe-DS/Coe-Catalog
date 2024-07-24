@@ -49,7 +49,7 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 		- {{< var c.mu157.long >}}
 		- {{< var c.mu195.long >}}
 		- {{< var c.mu270.long >}}
-		- {{< var c.mu166/284.long >}}
+		- {{< var c.mu166_284.long >}}
 		- {{< var c.mu385.long >}}
 		- {{< var c.mu444.long >}}
 		- {{< var c.mua133v.long >}}
@@ -73,7 +73,7 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 		- {{< var c.mu157.long >}}
 		- {{< var c.mu195.long >}}
 		- {{< var c.mu270.long >}}
-		- {{< var c.mu166/284.long >}}
+		- {{< var c.mu166_284.long >}}
 		- {{< var c.mu385.long >}}
 		- {{< var c.mu444.long >}}
 		- {{< var c.mua133v.long >}}
@@ -128,7 +128,7 @@ Candidates for the **BACHELOR OF ARTS** degree with a major in music must succes
 	- {{< var c.mu195.long >}}
 	- {{< var c.mu255.long >}}
 	- {{< var c.mu270.long >}}
-	- {{< var c.mu166/284.long >}}
+	- {{< var c.mu166_284.long >}}
 	- {{< var c.mu285.long >}}
 	- {{< var c.mu355.long >}}
 	- {{< var c.mu409.long >}}
