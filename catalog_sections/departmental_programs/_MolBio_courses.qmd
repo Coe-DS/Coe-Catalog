@@ -11,19 +11,19 @@ Concurrent completion of a primary major in biology is required (see @sec-biolog
 1. {{< var c.chm221.long >}}
 2. {{< var c.chm321.long >}}
 3. {{< var c.chm322.long >}}
-4. {{< var c.bio345/345L.long >}}
+4. {{< var c.bio345_345L.long >}}
 5. {{< var c.bio405.long >}}
 6. One of the following:
-	- {{< var c.chm431/431L.long >}}
-	- {{< var c.chm432/432L.long >}}
+	- {{< var c.chm431_431L.long >}}
+	- {{< var c.chm432_432L.long >}}
 7. One of the following sequences:
-	- {{< var c.bio325/325L.long >}}
-	- {{< var c.bio415/415L.long >}}
-	- {{< var c.bio435/435L.long >}}
-	- {{< var c.bio455/455L.long >}}
+	- {{< var c.bio325_325L.long >}}
+	- {{< var c.bio415_415L.long >}}
+	- {{< var c.bio435_435L.long >}}
+	- {{< var c.bio455_455L.long >}}
 
 Strongly recommended:
 	
 - One of the following sequences:
-	- {{< var c.phy165/165L.long >}} and {{< var c.phy175/175L.long >}}
-	- {{< var c.phy185/185L.long >}} and {{< var c.phy195/195L.long >}}
+	- {{< var c.phy165_165L.long >}} and {{< var c.phy175_175L.long >}}
+	- {{< var c.phy185_185L.long >}} and {{< var c.phy195_195L.long >}}
