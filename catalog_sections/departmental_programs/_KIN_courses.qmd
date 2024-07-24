@@ -74,7 +74,7 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
 
 ### Kinesiology Major — Athletic Training 
 1. {{< var c.bio155.long >}}
-2. {{< var c.bio215/215L.long >}}
+2. {{< var c.bio215_215L.long >}}
 3. {{< var c.bio225.long >}}
 4. {{< var c.kin105.long >}}
 5. {{< var c.kin115.long >}}
@@ -92,8 +92,8 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
 *Students interested in the Athletic Training Group track are strongly encouraged to meet with the Kinesiology faculty for informal advising as soon as they have chosen this major. Additional coursework may be needed for those students pursuing a licensure in Athletic Training. *
 
 ### Courses in Kinesiology
- **{{< var c.kin100/102/103/104.long >}}**  
-  {{< var c.kin100/102/103/104.desc >}}  
+ **{{< var c.kin100_102_103_104.long >}}**  
+  {{< var c.kin100_102_103_104.desc >}}  
  **{{< var c.kin105.long >}}**  
   {{< var c.kin105.desc >}}  
  **{{< var c.kin110.long >}}**  
