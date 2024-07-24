@@ -2716,8 +2716,8 @@ Langseth.
   An intensive examination and analysis of Greek grammar and syntax. Selected readings from works of the koine or Classical tradition. Combination of drill work, lecture, and discussion. Prerequisite: no prior instruction in Greek or up to two terms of secondary school Greek and consent of instructor.  
  **GRK 125 Selected Readings in Ancient Greek**  
   Review of basic grammar and syntax and examination of more advanced grammar and syntax. In-depth readings from authors selected from the koine or Classical tradition. Combination of drill work, lecture, and discussion. Prerequisite: Basic Greek (GRK-115) or two or more terms of secondary school Greek and consent of instructor.  
- **+++MISSING INFO: c.grk284/384.long +++**  
-  +++MISSING INFO: c.grk284/384.desc +++  
+ **GRK 284/384 Topics in Greek**  
+  Close textual reading and analysis of major Greek writers in the koine or Classical tradition. Concern with stylistic differences, translating facility, and Greek culture. Combination of lecture, discussion, and translating. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: Selected Readings in Ancient Greek (GRK-125) or four or more terms of secondary school Greek and consent of instructor.   
 
 
 
@@ -3174,7 +3174,7 @@ The Global South examines the characteristics of regions in what has come to be 
 
 4. **Two or more** additional courses from either the courses under #3 or any of the following, subject to prior approval by the International Studies administrative coordinator.  (Not more than one of these two courses can be from political science and not more than one of these two courses can be from economics.).  At least one course must be completed at the 300 level or above. 
     	
-	- +++MISSING INFO: c.ant286/486.long +++
+	- +++MISSING INFO: c.ant286_486.long +++
 	- ASC 186 Modern South Asia
 	- ENG 146 Intro Postcolonial Literature
 	- GS 136 Gender in Non-Western World
@@ -3207,7 +3207,7 @@ International Relations combines theoretical approaches to and empirical knowled
 		- POL 296 Topics Pol Sci: Non-West Persp
 
 	b. **Two** of the following:
-		- +++MISSING INFO: c.ant286/486.long +++ (when appropriate)
+		- +++MISSING INFO: c.ant286_486.long +++ (when appropriate)
 		- ECO 446 International Econ
 		- ECO 495 International Finance
 		- HIS 286 Modern Middle East
@@ -3367,7 +3367,7 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
 
 ### Kinesiology Major — Athletic Training 
 1. BIO 155 Organismal & Ecological Biology
-2. +++MISSING INFO: c.bio215/215L.long +++
+2. +++MISSING INFO: c.bio215_215L.long +++
 3. BIO 225 Human Physiology
 4. KIN 105 Foundations of Physical Movement
 5. KIN 115 Fundamentals:Exercise & Nutrition
@@ -3385,8 +3385,8 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
 *Students interested in the Athletic Training Group track are strongly encouraged to meet with the Kinesiology faculty for informal advising as soon as they have chosen this major. Additional coursework may be needed for those students pursuing a licensure in Athletic Training. *
 
 ### Courses in Kinesiology
- **+++MISSING INFO: c.kin100/102/103/104.long +++**  
-  +++MISSING INFO: c.kin100/102/103/104.desc +++  
+ **+++MISSING INFO: c.kin100_102_103_104.long +++**  
+  +++MISSING INFO: c.kin100_102_103_104.desc +++  
  **KIN 105 Foundations of Physical Movement**  
   The foundations, historical development, professional qualification, and opportunities in the field of physical education. Movement education theory is studied as it applies to all grade levels along with the study of growth, maturation, physical activity and performance in young adolescents.  
  **KIN 110 Emergency Life Skills**  
@@ -3464,8 +3464,8 @@ Langseth.
   An intensive examination and analysis of Latin grammar and syntax. Selected readings from the great literary works of the Republic and Empire. A combination of lecture, drill work, and discussion. Prerequisite: no prior instruction in Latin or fewer than two terms of secondary school Latin and consent of instructor.  
  **LTN 125 Selected Readings in Latin**  
   Review of basic grammar and syntax and examination of more advanced grammar and syntax. In-depth readings from selected authors. Combination of lecture, drill work, and class discussion. Prerequisite: Basic Latin (LTN-115) or two or more terms of secondary school Latin and consent of instructor.  
- **+++MISSING INFO: c.ltn284/384.long +++**  
-  +++MISSING INFO: c.ltn284/384.desc +++  
+ **LTN 284/384 Topics in Latin**  
+  Close textual reading and analysis of major Roman writers. Concern with stylistic differences, translating facility, and Roman culture. Combination of lecture, discussion, and translating. Prerequisite: selected Readings in Latin (LTN125) or four or more terms of secondary school Latin and consent of instructor.  
 
 
 
@@ -3616,22 +3616,22 @@ Concurrent completion of a primary major in biology is required (see @sec-biolog
 1. CHM 221 Organic Chemistry I
 2. CHM 321 Organic Chemistry II
 3. CHM 322 Organic Laboratory
-4. +++MISSING INFO: c.bio345/345L.long +++
+4. +++MISSING INFO: c.bio345_345L.long +++
 5. BIO 405 Current Topics in Molecular Biology
 6. One of the following:
-	- +++MISSING INFO: c.chm431/431L.long +++
-	- +++MISSING INFO: c.chm432/432L.long +++
+	- +++MISSING INFO: c.chm431_431L.long +++
+	- +++MISSING INFO: c.chm432_432L.long +++
 7. One of the following sequences:
-	- +++MISSING INFO: c.bio325/325L.long +++
-	- +++MISSING INFO: c.bio415/415L.long +++
-	- +++MISSING INFO: c.bio435/435L.long +++
-	- +++MISSING INFO: c.bio455/455L.long +++
+	- +++MISSING INFO: c.bio325_325L.long +++
+	- +++MISSING INFO: c.bio415_415L.long +++
+	- +++MISSING INFO: c.bio435_435L.long +++
+	- +++MISSING INFO: c.bio455_455L.long +++
 
 Strongly recommended:
 	
 - One of the following sequences:
-	- +++MISSING INFO: c.phy165/165L.long +++ and +++MISSING INFO: c.phy175/175L.long +++
-	- +++MISSING INFO: c.phy185/185L.long +++ and +++MISSING INFO: c.phy195/195L.long +++
+	- +++MISSING INFO: c.phy165_165L.long +++ and +++MISSING INFO: c.phy175_175L.long +++
+	- +++MISSING INFO: c.phy185_185L.long +++ and +++MISSING INFO: c.phy195_195L.long +++
 
 
 ## Music {#sec-music}
@@ -3685,7 +3685,7 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 		- MU 157 Introduction to Jazz History
 		- MU 195 Music Production
 		- MU 270 Musical Theatre Acting
-		- +++MISSING INFO: c.mu166/284.long +++
+		- +++MISSING INFO: c.mu166_284.long +++
 		- MU 385 Conducting II
 		- MU 444 Ind Study-Music
 		- MUA 133V Vocal Literature
@@ -3709,7 +3709,7 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 		- MU 157 Introduction to Jazz History
 		- MU 195 Music Production
 		- MU 270 Musical Theatre Acting
-		- +++MISSING INFO: c.mu166/284.long +++
+		- +++MISSING INFO: c.mu166_284.long +++
 		- MU 385 Conducting II
 		- MU 444 Ind Study-Music
 		- MUA 133V Vocal Literature
@@ -3764,7 +3764,7 @@ Candidates for the **BACHELOR OF ARTS** degree with a major in music must succes
 	- MU 195 Music Production
 	- MU 255 Music History & Literature I
 	- MU 270 Musical Theatre Acting
-	- +++MISSING INFO: c.mu166/284.long +++
+	- +++MISSING INFO: c.mu166_284.long +++
 	- MU 285 Conducting I
 	- MU 355 Music History & Literature II
 	- MU 409 Theory of Music IV
@@ -4176,11 +4176,11 @@ Baker (Administrative Coordinator)
 Concurrent completion of a primary major in biology, chemistry, or psychology is required.  A minimum of six course credits must be taken that do not count toward the student’s primary major. 
 
 ### Collateral Major in Neuroscience 
-1. +++MISSING INFO: c.bio145/145L.long +++
-2. +++MISSING INFO: c.bio155/155L.long +++
-3. +++MISSING INFO: c.bio375/375L.long +++
-4. +++MISSING INFO: c.chm121/121L.long +++
-5. +++MISSING INFO: c.chm122/122L.long +++
+1. +++MISSING INFO: c.bio145_145L.long +++
+2. +++MISSING INFO: c.bio155_155L.long +++
+3. +++MISSING INFO: c.bio375_375L.long +++
+4. +++MISSING INFO: c.chm121_121L.long +++
+5. +++MISSING INFO: c.chm122_122L.long +++
 6. PSY 100 Introductory Psychology
 7. PSY 250 Biopsychology
 8. PSY 350 Drugs & Behavior
@@ -4190,17 +4190,17 @@ Concurrent completion of a primary major in biology, chemistry, or psychology is
 		- BIO 202 Topics in Evolution
 		- BIO 215 Human Anatomy
 		- BIO 235 Genetics
-		- +++MISSING INFO: c.bio285/285L.long +++
-		- +++MISSING INFO: c.bio345/345L.long +++
+		- +++MISSING INFO: c.bio285_285L.long +++
+		- +++MISSING INFO: c.bio345_345L.long +++
 		- BIO 415 Developmental Biology
 		- BIO 435 Cell Physiology
-		- +++MISSING INFO: c.bio455/455L.long +++
+		- +++MISSING INFO: c.bio455_455L.long +++
 	b. Chemistry
-		- +++MISSING INFO: c.chm211/211L.long +++
+		- +++MISSING INFO: c.chm211_211L.long +++
 		- CHM 221 Organic Chemistry I
 		- CHM 321 Organic Chemistry II
 		- CHM 421 Advanced Organic Chemistry
-		- +++MISSING INFO: c.chm431/431L.long +++
+		- +++MISSING INFO: c.chm431_431L.long +++
 		- CHM 432 Protein Biochemistry
 	c. Philosophy
 		- PHL 245 Minds, Brains, and Robots
@@ -4208,7 +4208,7 @@ Concurrent completion of a primary major in biology, chemistry, or psychology is
 		- PSY 205 Developmental Psychology
 		- PSY 235 Abnormal Psychology
 		- PSY 315 Learning & Behavior
-		- +++MISSING INFO: c.psy325/325L.long +++
+		- +++MISSING INFO: c.psy325_325L.long +++
 		- PSY 455 Advanced Experimental Psychology (when research topic is appropriate, as determined by the neuroscience administrative coordinator)
 		- PSY 464 Seminar in Psychology (when seminar topic is appropriate, as determined by the neuroscience administrative coordinator)
 
@@ -4628,7 +4628,7 @@ A minor in Physics requires a cumulative 2.0 GPA in all courses counted toward t
  **+++MISSING INFO: c.phy185_185l.long +++**  
   +++MISSING INFO: c.phy185_185l.desc +++  
  **+++MISSING INFO: c.phy195_195l.long +++**  
-  +++MISSING INFO: c.phy195__195l.desc +++  
+  +++MISSING INFO: c.phy195_195l.desc +++  
  **PHY 201 Materials Science 2**  
   Incorporates the time dependent phenomena in solids: phase transformation, crystal nucleation and growth. Strong focus is placed on the phase diagrams and the technical methods on instrumental analysis of solid materials. Common material properties presented with focus on practical measurements: mechanical, thermal, optical, magnetic, and electrical properties. Prerequisite: Materials Science 1 (PHY-181) or consent of instructor.  
  **PHY 211 Glass Science**  
@@ -4675,8 +4675,8 @@ A minor in Physics requires a cumulative 2.0 GPA in all courses counted toward t
   Reviews the Standard Model, particle detection techniques, and the particle physics experiments. The nuclear weak, strong, and the electromagnetic interactions, Feynman diagrams, quark model, relativistic kinematics are also covered. Prerequisite: Modern Physics PHY-235, or consent of instructor.  
  **PHY 454 Summer Research**  
   May be taken more than once for credit for a maximum of 2.0 credits. Prerequisite: consent of instructor.  
- **+++MISSING INFO: c.phy464/phy474.long +++**  
-  +++MISSING INFO: c.phy464/phy474.desc +++  
+ **+++MISSING INFO: c.phy464_phy474.long +++**  
+  +++MISSING INFO: c.phy464_phy474.desc +++  
  **PHY 484 Advanced Topics in Physics**  
   Covers several instructional modules. The content corresponds to material usually covered in the second-semester of an advanced, year-long course. Core modules include quantum mechanics (e.g., Bell’s theorem) and electromagnetism (e.g., stress tensor). The four remaining modules are chosen from topics that include optics, fluid dynamics, experimental techniques, nuclear physics, geophysics, advanced classical mechanics, waves, statistical mechanics, and atomic physics. Prerequisite: Quantum Mechanics (PHY-335) and Electromagnetism (PHY-265), or consent of instructor.  
  **PHY 494 Internship in Physics**  
@@ -5224,7 +5224,7 @@ Recommended beginning courses for those contemplating a major in religion are: R
   A course of directed learning designed by the student and instructor to fit the individual student’s particular interests and educational needs. Prerequisite: consent of instructor.  
  **REL 444 Ind Study-Relig**  
   Independent study under the direction of a faculty member of the department in an area selected by the student. May be taken for an X status grade with consent of instructor prior to registration. Prerequisite: consent of instructor.  
- **+++MISSING INFO: c.re494.long +++**  
+ **REL 494 Internship in Religion**  
   Exploration of a career area related to the student’s interest in religion supervised by a Religion faculty member in cooperation with the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major in Religion. Prerequisites: declared major in Religion, junior standing, and consent of department chair.  
 
 

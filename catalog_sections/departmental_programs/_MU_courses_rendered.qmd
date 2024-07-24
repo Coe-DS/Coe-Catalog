@@ -49,7 +49,7 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 		- MU 157 Introduction to Jazz History
 		- MU 195 Music Production
 		- MU 270 Musical Theatre Acting
-		- +++MISSING INFO: c.mu166/284.long +++
+		- +++MISSING INFO: c.mu166_284.long +++
 		- MU 385 Conducting II
 		- MU 444 Ind Study-Music
 		- MUA 133V Vocal Literature
@@ -73,7 +73,7 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 		- MU 157 Introduction to Jazz History
 		- MU 195 Music Production
 		- MU 270 Musical Theatre Acting
-		- +++MISSING INFO: c.mu166/284.long +++
+		- +++MISSING INFO: c.mu166_284.long +++
 		- MU 385 Conducting II
 		- MU 444 Ind Study-Music
 		- MUA 133V Vocal Literature
@@ -128,7 +128,7 @@ Candidates for the **BACHELOR OF ARTS** degree with a major in music must succes
 	- MU 195 Music Production
 	- MU 255 Music History & Literature I
 	- MU 270 Musical Theatre Acting
-	- +++MISSING INFO: c.mu166/284.long +++
+	- +++MISSING INFO: c.mu166_284.long +++
 	- MU 285 Conducting I
 	- MU 355 Music History & Literature II
 	- MU 409 Theory of Music IV

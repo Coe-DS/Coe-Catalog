@@ -4,11 +4,11 @@ Baker (Administrative Coordinator)
 Concurrent completion of a primary major in biology, chemistry, or psychology is required.  A minimum of six course credits must be taken that do not count toward the student’s primary major. 
 
 ### Collateral Major in Neuroscience 
-1. +++MISSING INFO: c.bio145/145L.long +++
-2. +++MISSING INFO: c.bio155/155L.long +++
-3. +++MISSING INFO: c.bio375/375L.long +++
-4. +++MISSING INFO: c.chm121/121L.long +++
-5. +++MISSING INFO: c.chm122/122L.long +++
+1. +++MISSING INFO: c.bio145_145L.long +++
+2. +++MISSING INFO: c.bio155_155L.long +++
+3. +++MISSING INFO: c.bio375_375L.long +++
+4. +++MISSING INFO: c.chm121_121L.long +++
+5. +++MISSING INFO: c.chm122_122L.long +++
 6. PSY 100 Introductory Psychology
 7. PSY 250 Biopsychology
 8. PSY 350 Drugs & Behavior
@@ -18,17 +18,17 @@ Concurrent completion of a primary major in biology, chemistry, or psychology is
 		- BIO 202 Topics in Evolution
 		- BIO 215 Human Anatomy
 		- BIO 235 Genetics
-		- +++MISSING INFO: c.bio285/285L.long +++
-		- +++MISSING INFO: c.bio345/345L.long +++
+		- +++MISSING INFO: c.bio285_285L.long +++
+		- +++MISSING INFO: c.bio345_345L.long +++
 		- BIO 415 Developmental Biology
 		- BIO 435 Cell Physiology
-		- +++MISSING INFO: c.bio455/455L.long +++
+		- +++MISSING INFO: c.bio455_455L.long +++
 	b. Chemistry
-		- +++MISSING INFO: c.chm211/211L.long +++
+		- +++MISSING INFO: c.chm211_211L.long +++
 		- CHM 221 Organic Chemistry I
 		- CHM 321 Organic Chemistry II
 		- CHM 421 Advanced Organic Chemistry
-		- +++MISSING INFO: c.chm431/431L.long +++
+		- +++MISSING INFO: c.chm431_431L.long +++
 		- CHM 432 Protein Biochemistry
 	c. Philosophy
 		- PHL 245 Minds, Brains, and Robots
@@ -36,7 +36,7 @@ Concurrent completion of a primary major in biology, chemistry, or psychology is
 		- PSY 205 Developmental Psychology
 		- PSY 235 Abnormal Psychology
 		- PSY 315 Learning & Behavior
-		- +++MISSING INFO: c.psy325/325L.long +++
+		- +++MISSING INFO: c.psy325_325L.long +++
 		- PSY 455 Advanced Experimental Psychology (when research topic is appropriate, as determined by the neuroscience administrative coordinator)
 		- PSY 464 Seminar in Psychology (when seminar topic is appropriate, as determined by the neuroscience administrative coordinator)
 
