@@ -203,10 +203,70 @@
 	    "namelink": "", 
 	    "namelinklong": ""
 	 }, 
+	"nur345_345l":{
+	    "short": "'NUR 345/345L'", 
+	    "long": "'NUR 345/345L Mental Health Nursing and Laboratory'", 
+	    "desc": "Focuses on the knowledge and skills necessary to provide safe, holistic care for diverse individuals and families experiencing actual or potential alterations in mental health. Students explore specific mental health problems and how to apply evidence-based practice when caring for individuals and families across the life span, as well as the importance of self-analysis, respect for diversity, professional accountability, and ethical responsibility. Students develop communication techniques necessary to promote client well-being and safety, as well as collaborate with the health-care team. Clinical application includes caring for individuals experiencing alterations in mental health in a variety of settings. Prerequisite: admission into the Bachelor of Science Nursing Program; Art and Science of Nursing (NUR-300), Information Literacy and Management (WE) (NUR-305), Pharmacological Principles (NUR-360), and Pathophysiology and Assessment (NUR-315/NUR-315L/NUR-315C).", 
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"nur315_315l":{
+	    "short": "'NUR 315/315L'", 
+	    "long": "'NUR 315/315L Pathophysiology and Assessment/Clinical Application'", 
+	    "desc": "Provides the foundation for the integration of assessment data and pathophysiological concepts in the application of the nursing process. Focuses on comprehensive health assessment of diverse individuals across the lifespan. Assessment skills, health histories, and physical exams are practiced. Clinical and laboratory components provide opportunities to reinforce psychomotor skills and health assessment skills with diverse individuals across the lifespan as well as implementing safe, basic patient-centered care. Lab and clinical are P/NP basis only. Prerequisites: admission to the Bachelor of Science in Nursing Program; previous or concurrent registration in the following course: Art and Science of Nursing (NUR-300), Information Literacy and Management (WE) (NUR-305), Pharmacological Principles (NUR-360). (2.0 course credits)", 
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"nur355_355l":{
+	    "short": "'NUR 355/355L'", 
+	    "long": "'NUR 355/355L Introductory Concepts in Nursing/Clinical Application'",
+	    "desc": "Focuses on holistic care of diverse individuals and families across the life span. Applies the nursing process, emphasizing primary, secondary, and tertiary nursing interventions. in the care of individuals experiencing actual or risk for alterations in renal, gastrointestinal, and musculoskeletal systems. Surgical, dietary, and pharmacological management is integrated. Clinical and laboratory components provide opportunities to reinforce psychomotor skills and application of the nursing process in the delivery of safe, evidence-based, holistic care. Lab and clinical are P/NP basis only. Prerequisites: admission into the Bachelor of Science Nursing Program; Art and Science of Nursing (NUR-300); Information Literacy and Management (WE) (NUR-305); Pharmacological Principles (NUR-360), and Pathophysiology and Assessment (NUR-315/NUR-315L/NUR-315C). (2.0 course credits)",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}
+	"nur415_415l":{
+	    "short": "'NUR 415/415L'", 
+	    "long": "'NUR 415/415L Advanced Concepts in Nursing/Clinical Application'",
+	    "desc": "Advances and continues the focus of holistic care for diverse individuals, families, groups, and populations across the life span. Applies the nursing process, emphasizing primary, secondary and tertiary nursing interventions, in care of individuals experiencing actual or risk for alterations in integumentary, pulmonary, cardiovascular, endocrine, sensory/neurological, and immune systems. Surgical, dietary and pharmacological management is integrated. Clinical and laboratory components provide opportunities to reinforce psychomotor skills and application of the nursing process in the delivery of safe, evidence-based, holistic, patient-centered care. Lab and clinical are P/NP basis only. Prerequisite: admission into the Bachelor of Science Nursing Program; Mental Health Nursing (NUR-345), Legal & Ethical Issues in Nursing (WE) (NUR-375), Pharmacological Principles (NUR-360), Introductory Concepts in Nursing/Clinical Application (NUR-355/-355L/-355C). (2.0 course credits)",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"nur455_455l":{
+	    "short": "'NUR 455/455L'",
+	    "long": "'NUR 455/455L Leadership and Contemporary Issues in Nursing/Clinical Application (WE)'",
+	    "desc": "Focuses on leadership skills, knowledge, and creativity to promote and manage safe, holistic patient-centered care for diverse individuals, families, groups, and populations across the lifespan. Concepts include management and organizations, quality improvement, change process, political/organizational/micro systems, communication/collaboration, fiscal/ human resource management, delegation, prioritization, decision making, and professional/self-care management. Nursing theories/frameworks are discussed. Clinical components provide an opportunity to collaborate with patients, families, and health care team members and to develop leadership roles. Lab and clinical are P/NP basis only. Prerequisite: admission into the Bachelor of Science Nursing Program; Advanced Concepts in Nursing (NUR-415/-415L/-415C), Community and Population Oriented Nursing (NUR-430), and Nursing Research (WE) (NUR-425). (2.0 course credits)",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"nur455_455c":{
+	    "short": "'NUR 455/455C'", 
+	    "long": "'NUR 455/455C Leadership and Contemporary Issues in Nursing (WE)'",
+	    "desc": "Focuses on leadership skills, knowledge, and creativity to promote and manage safe, holistic patient-centered care for diverse individuals, families, groups, and populations across the lifespan. Concepts include management and organizations, quality improvement, change process, political/organizational/micro systems, communication/collaboration, fiscal/ human resource management, delegation, prioritization, decision making, and professional/self-care management. Nursing theories/frameworks are discussed. Clinical components provide an opportunity to collaborate with patients, families, and health care team members and to develop leadership roles. Lab and clinical are P/NP basis only. Prerequisite: admission into the Bachelor of Science Nursing Program; Advanced Concepts in Nursing (NUR-415/-415L/-415C), Community and Population Oriented Nursing (NUR-430), and Nursing Research (WE) (NUR-425). (2.0 course credits)",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"nur315_315l_315c":{
+	    "short": "'NUR 315/315L/315C'", 
+	    "long": "'NUR 315/315L/315C Pathophysiology and Assessment'",
+	    "desc": "Provides the foundation for the integration of assessment data and pathophysiological concepts in the application of the nursing process. Focuses on comprehensive health assessment of diverse individuals across the lifespan. Assessment skills, health histories, and physical exams are practiced. Clinical and laboratory components provide opportunities to reinforce psychomotor skills and health assessment skills with diverse individuals across the lifespan as well as implementing safe, basic patient-centered care. Lab and clinical are P/NP basis only. Prerequisites: admission to the Bachelor of Science in Nursing Program; previous or concurrent registration in the following course: Art and Science of Nursing (NUR-300), Information Literacy and Management (WE) (NUR-305), Pharmacological Principles (NUR-360). (2.0 course credits) ",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"nur355_355l_355c":{
+	    "short": "'NUR 355/355L/355C'", 
+	    "long": "'NUR 355/355L/355C Introductory Concepts in Nursing'",
+	    "desc": "Focuses on holistic care of diverse individuals and families across the life span. Applies the nursing process, emphasizing primary, secondary, and tertiary nursing interventions. in the care of individuals experiencing actual or risk for alterations in renal, gastrointestinal, and musculoskeletal systems. Surgical, dietary, and pharmacological management is integrated. Clinical and laboratory components provide opportunities to reinforce psychomotor skills and application of the nursing process in the delivery of safe, evidence-based, holistic care. Lab and clinical are P/NP basis only. Prerequisites: admission into the Bachelor of Science Nursing Program; Art and Science of Nursing (NUR-300); Information Literacy and Management (WE) (NUR-305); Pharmacological Principles (NUR-360), and Pathophysiology and Assessment (NUR-315/NUR-315L/NUR-315C). (2.0 course credits) ",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"nur415_415l_415c": {
+	    "short": "'NUR 415/415L/415C'",
+	    "long": "'NUR 415/415L/415C Advanced Concepts in Nursing'",
+	    "desc" "Advances and continues the focus of holistic care for diverse individuals, families, groups, and populations across the life span. Applies the nursing process, emphasizing primary, secondary and tertiary nursing interventions, in care of individuals experiencing actual or risk for alterations in integumentary, pulmonary, cardiovascular, endocrine, sensory/neurological, and immune systems. Surgical, dietary and pharmacological management is integrated. Clinical and laboratory components provide opportunities to reinforce psychomotor skills and application of the nursing process in the delivery of safe, evidence-based, holistic, patient-centered care. Lab and clinical are P/NP basis only. Prerequisite: admission into the Bachelor of Science Nursing Program; Mental Health Nursing (NUR-345), Legal & Ethical Issues in Nursing (WE) (NUR-375), Pharmacological Principles (NUR-360), Introductory Concepts in Nursing/Clinical Application (NUR-355/-355L/-355C). (2.0 course credits)", 
+	    "namelink": "", 
+	    "namelinklong": ""
+	}
 	
-	
-	
-	
-
+		
     }
 }
