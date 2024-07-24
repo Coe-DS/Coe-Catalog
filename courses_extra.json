@@ -181,7 +181,29 @@
 	    "desc": "Exploration of a topic within the field of public discourse. Course work includes a substantive research project, and oral presentations. May be taken more than once for credit with consent of department chair. Can satisfy the DCP requirement when topic is appropriate. Prerequisites: Rhetorical Theory and Practice (RHE-200) and either Research Methods in Communication Studies (COM-381) or Research Methods: Rhetorical/Critical (COM-382).",
 	    "namelink": "", 
 	    "namelinklong": ""
-	}
+	}, 
+	"aam_eng137":{
+	    "short": "'AAM/ENG 137'",
+	    "long": "'AAM/ENG 137 African American Literature (WE)'",
+	    "desc": "Reading and discussion of the writings of African Americans, with emphasis on the 20th century. May include some relevant writings on African Americans by other groups. Study of the artistic values and of the social and cultural significance of these writings. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different.", 
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"aam447_457":{
+	    "short": "'AAM 447/457'", 
+	    "long": "'AAM 447/457 Directed Studies in African American Studies'", 
+	    "desc": "Study of selected topics and primary texts not available within the regular offerings. Prerequisite: two courses in African American studies. Registration by consent of instructor, after submission of a written project proposal. Conferences with instructor and papers are required. May be taken more than once for credit with consent of African American Studies administrative coordinator.", 
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	 "bio215_215l":{
+	    "short": "'BIO 215/215L'",
+	    "long": "'BIO 215/215L Human Anatomy and Laboratory'", 
+	    "desc": "Surveys microscopic and gross human anatomy, providing necessary background for students in physiology and body mechanics. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145). This course does not satisfy any of the requirements for a major in biology. Credit is given for Human Anatomy (BIO-215) or Integrated Human Anatomy (BIO-315), not both.",
+	    "namelink": "", 
+	    "namelinklong": ""
+	 }, 
+	
 	
 	
 	
