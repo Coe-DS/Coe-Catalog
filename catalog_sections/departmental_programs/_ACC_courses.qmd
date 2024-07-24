@@ -78,8 +78,12 @@ If degree requirements are not completed by the end of four years, students purs
 {{< var c.acc415.desc >}}  
  **{{< var c.acc422.long >}}**  
 {{< var c.acc422.desc >}}  
- **{{< var c.acc473.long >}}**  
-{{< var c.acc473.desc >}}  
+ **{{< var c.acc451.long >}}**  
+{{< var c.acc451.desc >}}  
+ **{{< var c.acc463.long >}}**  
+{{< var c.acc463.desc >}}  
+ **{{< var c.acc472.long >}}**  
+{{< var c.acc472.desc >}}  
 
 ### Courses in Business
 
