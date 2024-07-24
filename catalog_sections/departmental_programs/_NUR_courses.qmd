@@ -90,7 +90,7 @@ See also {{< var c.psy137.long >}} , @sec-psychology
   {{< var c.nur315.desc >}}  
  **{{< var c.nur345.long >}}**  
   {{< var c.nur345.desc >}}  
- **{{< var c.nur355_335l_335c.long >}}**  
+ **{{< var c.nur355_355l_355c.long >}}**  
   {{< var c.nur355.desc >}}  
  **{{< var c.nur360.long >}}**  
   {{< var c.nur360.desc >}}  
