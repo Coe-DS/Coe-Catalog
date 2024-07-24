@@ -108,8 +108,8 @@ See also {{< var c.psy137.long >}} , @sec-psychology
   {{< var c.nur431.desc >}}  
  **{{< var c.nur444.long >}}**  
   {{< var c.nur444.desc >}}  
- **{{< var c.nur455.long >}}**  
-  {{< var c.nur455_445c.desc >}}  
+ **{{< var c.nur455_455c.long >}}**  
+  {{< var c.nur455_455c.desc >}}  
  **{{< var c.nur494.long >}}**  
   {{< var c.nur494.desc >}}  
  **{{< var c.nur495.long >}}**  
