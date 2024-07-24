@@ -926,7 +926,7 @@ If degree requirements are not completed by the end of four years, students purs
 ### Courses in Accounting
 
  **ACC 171 Principles of Accounting I**  
-+++MISSING INFO: c.aac171.desc +++  
+A study of the accounting process and preparation of financial statements, primarily for external reporting purposes. Includes analyses of asset and liability accounts and owners’ equity accounts of corporations.  
  **ACC 215 Principles of Accounting II**  
 Continuation of the study of financial accounting, including the statement of cash flow. A study of managerial accounting and the analysis of financial information for management decision making. Prerequisite: Principles of Accounting I (ACC-171).  
  **ACC 301 Intermediate Accounting I**  
@@ -947,8 +947,12 @@ A study of the audit function primarily as it relates to the independent CPA. An
 A continuation of the study of managerial accounting and the methods of analyzing financial information. Topics covered include management control systems, pricing decisions, operations management, and regression analysis. Prerequisite: Managerial Accounting (ACC-315) or consent of instructor.  
  **ACC 422 Tax Accounting**  
 A study of the federal income tax system with an emphasis on individual taxation. Development of a basic understanding of gross income, exclusions from gross income, and deductions which pertain to individuals, corporations, and partnerships. Prerequisite: Principles of Accounting II (ACC-215). (Offered alternate years)  
- **+++MISSING INFO: c.acc473.long +++**  
-+++MISSING INFO: c.acc473.desc +++  
+ **ACC 451 Advanced Accounting**  
+A study of business combinations, international business transactions, international subsidiaries, fund accounting, and accounting for partnerships. Prerequisite: Intermediate Accounting (ACC-301/-351). (Offered alternate years)  
+ **ACC 463 Advanced Auditing**  
+A continuation of Auditing (ACC-413) with emphasis on special reports, compilation and review services, and additional current auditing topics. Auditing theories and practices are presented in a manner which enables the student to conceptualize the entire audit process. Prerequisite: Auditing (ACC-413). (Offered alternate years)  
+ **ACC 472 Advanced Tax Accounting**  
+A continuation of Tax Accounting (ACC-422) with an emphasis on taxation of corporations, “S” corporations, partnerships, estates, and trusts. Development of a basic understanding of tax research methodology. Prerequisite: Tax Accounting (BUS-445). (Offered alternate years)  
 
 ### Courses in Business
 
