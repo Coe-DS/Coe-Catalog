@@ -191,5 +191,5 @@ Recommended beginning courses for those contemplating a major in religion are: {
   {{< var c.rel394.desc >}}  
  **{{< var c.rel444.long >}}**  
   {{< var c.rel444.desc >}}  
- **{{< var c.re494.long >}}**  
+ **{{< var c.rel494.long >}}**  
   {{< var c.rel494.desc >}}  
