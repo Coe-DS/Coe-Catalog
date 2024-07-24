@@ -43,7 +43,7 @@ The Global South examines the characteristics of regions in what has come to be 
 
 4. **Two or more** additional courses from either the courses under #3 or any of the following, subject to prior approval by the International Studies administrative coordinator.  (Not more than one of these two courses can be from political science and not more than one of these two courses can be from economics.).  At least one course must be completed at the 300 level or above. 
     	
-	- {{< var c.ant286/486.long >}}
+	- {{< var c.ant286_486.long >}}
 	- {{< var c.asc186.long >}}
 	- {{< var c.eng146.long >}}
 	- {{< var c.gs136.long >}}
@@ -76,7 +76,7 @@ International Relations combines theoretical approaches to and empirical knowled
 		- {{< var c.pol296.long >}}
 
 	b. **Two** of the following:
-		- {{< var c.ant286/486.long >}} (when appropriate)
+		- {{< var c.ant286_486.long >}} (when appropriate)
 		- {{< var c.eco446.long >}}
 		- {{< var c.eco495.long >}}
 		- {{< var c.his286.long >}}
