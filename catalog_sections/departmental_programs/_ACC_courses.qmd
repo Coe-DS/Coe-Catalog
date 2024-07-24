@@ -57,7 +57,7 @@ If degree requirements are not completed by the end of four years, students purs
 ### Courses in Accounting
 
  **{{< var c.acc171.long >}}**  
-{{< var c.aac171.desc >}}  
+{{< var c.acc171.desc >}}  
  **{{< var c.acc215.long >}}**  
 {{< var c.acc215.desc >}}  
  **{{< var c.acc301.long >}}**  
