@@ -34,11 +34,11 @@ A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counte
     - {{< var c.chm442.long >}}
     - {{< var c.chm451_451l.long >}}
 
-7. MTH-145 Calculus II {{< var c.mth145.long >}}
+7. {{< var c.mth145.long >}}
 
-8. PHY-185/185L General Physics I & Laboratory {{< var c.phy185_185l.long >}}
+8. {{< var c.phy185_185l.long >}}
 
-9. PHY-195/195L General Physics II & Laboratory {{< var c.phy195_195l.long >}}
+9. {{< var c.phy195_195l.long >}}
 
 10. **One** of the following combinations:
       - {{< var c.chm464.long >}} **and** {{< var c.chm474.long >}}
