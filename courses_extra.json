@@ -139,7 +139,49 @@
 	    "desc": "Structures and properties of selected ionic and covalent inorganic substances, coordination complexes and electron deficient compounds, general acid base theory, and inorganic reactions in solution. Prerequisite: Physical Chemistry I and Laboratory (CHM-341/-341L). (Offered alternate years)", 
 	    "namelink": "", 
 	    "namelinklong": ""
-	} 
+	}, 
+	"grk284_384":{
+	    "short": "'GRK 284/384'", 
+	    "long": "'GRK 284/384 Topics in Greek'", 
+	    "desc": "Close textual reading and analysis of major Greek writers in the koine or Classical tradition. Concern with stylistic differences, translating facility, and Greek culture. Combination of lecture, discussion, and translating. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: Selected Readings in Ancient Greek (GRK-125) or four or more terms of secondary school Greek and consent of instructor. ", 
+	    "namelink": "", 
+	    "namelinklong": ""
+	}
+	"ltn284_384":{
+	    "short": "'LTN 284/384'", 
+	    "long": "'LTN 284/384 Topics in Latin'", 
+	    "desc": "Close textual reading and analysis of major Roman writers. Concern with stylistic differences, translating facility, and Roman culture. Combination of lecture, discussion, and translating. Prerequisite: selected Readings in Latin (LTN125) or four or more terms of secondary school Latin and consent of instructor.", 
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"com435_437": {
+	    "short": "'COM 435/437'", 
+	    "long": "'COM 435/437 Special Topics in Relational Communication (WE)'", 
+	    "desc": "Exploration of a topic within the field of relational communication. Course work includes a substantive research project, and oral presentations. May be taken more than once for credit with consent of department chair. Can satisfy the DCP requirement when topic is appropriate. Prerequisites: Rhetorical Theory and Practice (RHE-200) and either Research Methods in Communication Studies (COM-381) or Research Methods: Rhetorical/Critical (COM-382).",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"com445_447":{
+	    "short": "'COM 445/447'", 
+	    "long": "'COM 445/447 Special Topics in Production (WE)'", 
+	    "desc": "Exploration of a topic within the field of production. Course work includes a substantive research project, and oral presentations. May be taken more than once for credit with consent of department chair. Can satisfy the DCP requirement when topic is appropriate. Prerequisites: Rhetorical Theory and Practice (RHE-200) and either Research Methods in Communication Studies (COM-381) or Research Methods: Rhetorical/Critical (COM-382).", 
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"com455_457":{
+	    "short": "'COM 455/457'", 
+	    "long": "'COM 455/457 Special Topics in Media Studies (WE)'", 
+	    "desc": "Exploration of a topic within the field of media studies. Course work includes a substantive research project, and oral presentations. May be taken more than once for credit with consent of department chair. Can satisfy the DCP requirement when topic is appropriate. Prerequisites: Rhetorical Theory and Practice (RHE-200) and either Research Methods in Communication Studies (COM-381) or Research Methods: Rhetorical/Critical (COM-382).", 
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"com465_467":{
+	    "short": "'COM 465/467'", 
+	    "long": "'COM 465/467 Special Topics in Public Discourse (WE)'", 
+	    "desc": "Exploration of a topic within the field of public discourse. Course work includes a substantive research project, and oral presentations. May be taken more than once for credit with consent of department chair. Can satisfy the DCP requirement when topic is appropriate. Prerequisites: Rhetorical Theory and Practice (RHE-200) and either Research Methods in Communication Studies (COM-381) or Research Methods: Rhetorical/Critical (COM-382).",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}
 	
 	
 	
