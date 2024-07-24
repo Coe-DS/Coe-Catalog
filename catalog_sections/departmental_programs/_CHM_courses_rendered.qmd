@@ -11,15 +11,15 @@ In addition to a major in **Chemistry**, the chemistry department also offers an
 ### Chemistry Major 
 A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 
-1. +++MISSING INFO: c.chm121_121l.long +++
+1. CHM 121/121L General Chemistry I and Laboratory
 
-2. +++MISSING INFO: c.chm122_122l.long +++
+2. CHM 122/122L General Chemistry II and Laboratory
 
-3. +++MISSING INFO: c.chm211_211l.long +++
+3. CHM 211/211L Analytical Chemistry and Laboratory (WE)
 
 4. CHM 221 Organic Chemistry I
 
-5. +++MISSING INFO: c.chm341_341l.long +++
+5. CHM 341/341L Physical Chemistry I (WE) and Laboratory
 
 6. **Three** additional courses to be chosen from the list of advanced chemistry electives below:
 
@@ -28,17 +28,17 @@ A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counte
     - CHM 411 Advanced Analytical Chemistry
     - CHM 421 Advanced Organic Chemistry
     - CHM 422 Synthesis Laboratory I
-    - +++MISSING INFO: c.chm431_431l.long +++
-    - +++MISSING INFO: c.chm432_432l.long +++
+    - CHM 431/431L Biochemistry and Laboratory
+    - CHM 432/432L Protein Biochemistry and Laboratory
     - CHM 441 Physical Chemistry II
     - CHM 442 Materials Physics and Chemistry
-    - +++MISSING INFO: c.chm451_451l.long +++
+    - CHM 451/ 451L Inorganic Chemistry and Laboratory (WE)
 
-7. MTH-145 Calculus II MTH 145 Calculus II
+7. MTH 145 Calculus II
 
-8. PHY-185/185L General Physics I & Laboratory +++MISSING INFO: c.phy185_185l.long +++
+8. +++MISSING INFO: c.phy185_185l.long +++
 
-9. PHY-195/195L General Physics II & Laboratory +++MISSING INFO: c.phy195_195l.long +++
+9. +++MISSING INFO: c.phy195_195l.long +++
 
 10. **One** of the following combinations:
       - CHM 464 Seminar in Chemistry I **and** CHM 474 Seminar in Chemistry II
@@ -50,9 +50,9 @@ A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counte
 
 ### Chemistry Minor
 
-1. +++MISSING INFO: c.chm121_121l.long +++
+1. CHM 121/121L General Chemistry I and Laboratory
 
-2. +++MISSING INFO: c.chm122_122l.long +++
+2. CHM 122/122L General Chemistry II and Laboratory
 
 3. **Four** chemistry electives numbered 200 or above
 
@@ -63,14 +63,14 @@ A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counte
     - CHM 321 Organic Chemistry II
     - CHM 322 Organic Laboratory
     - CHM 422 Synthesis Laboratory I
-    - +++MISSING INFO: c.chm431_431l.long +++
-    - +++MISSING INFO: c.chm451_451l.long +++
+    - CHM 431/431L Biochemistry and Laboratory
+    - CHM 451/ 451L Inorganic Chemistry and Laboratory (WE)
     
 3. Two of the following:
 
     - CHM 411 Advanced Analytical Chemistry
     - CHM 421 Advanced Organic Chemistry
-    - +++MISSING INFO: c.chm432_432l.long +++
+    - CHM 432/432L Protein Biochemistry and Laboratory
     - CHM 441 Physical Chemistry II
     - CHM 442 Materials Physics and Chemistry
     
@@ -82,14 +82,14 @@ A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counte
 
 ### Courses in Chemistry
 
- **+++MISSING INFO: c.chm103_103l.long +++**  
-  +++MISSING INFO: c.chm103_103l.desc +++  
- **+++MISSING INFO: c.chm111_111l.long +++**  
-  +++MISSING INFO: c.chm111_111l.desc +++  
- **+++MISSING INFO: c.chm121_121l.long +++**  
-  +++MISSING INFO: c.chm121_121l.desc +++  
- **+++MISSING INFO: c.chm122_122l.long +++**  
-  +++MISSING INFO: c.chm122_122l.desc +++  
+ **CHM 103/103L Selected Concepts in Chemistry and Laboratory**  
+  A consideration of the basic principles of chemistry and applications of chemistry in contemporary society. Three class meetings and one laboratory per week. This course does not satisfy any of the requirements for a major or minor in chemistry.  
+ **CHM 111/111L Introduction to Organic and Biological Chemistry and Laboratory**  
+  Designed as a course for pre-nursing student. Topics in introductory organic and biological chemistry include drugs, proteins, and DNA. Laboratory component involves basic experimental techniques in organic chemistry and biochemistry. Three class meetings and one laboratory per week. Lab is P/NP basis only. This course does not satisfy any of the requirements for a major or minor in chemistry. Prerequisites: Cellular and Molecular Biology (BIO145) and one year of secondary school chemistry or one term of college chemistry, or consent of instructor.  
+ **CHM 121/121L General Chemistry I and Laboratory**  
+  A foundational treatment of atoms and molecules. Explores the nature of chemical bonding and how the macroscopic properties of substances can be interpreted in terms of atomic and molecular structure. Laboratory work emphasizes experimental techniques and the acquisition and analysis of experimental data. Three class meetings and one three-hour laboratory per week. Lab is P/NP basis only. Prerequisite: secondary school chemistry or consent of instructor.  
+ **CHM 122/122L General Chemistry II and Laboratory**  
+  A continuation of CHM-101. Topics include chemical kinetics, thermodynamics, equilibria, and redox chemistry. Three class meetings and one three-hour laboratory period per week. Lab is P/NP basis only. Prerequisite: General Chemistry I and Laboratory (CHM-121/-121L) or consent of instructor.  
  **CHM 211 Analytical Chemistry**  
   A study of the theory of equilibria as they apply to quantitative chemical analysis. The basic principles of spectroscopy, potentiometry, and chromatography are introduced. Three class meetings per week. Prerequisite: General Chemistry II and Laboratory (CHM-102). Corequisite: Analytical Chemistry Laboratory (CHM-211L).  
  **CHM 211L Analytical Chemistry Laboratory**  
@@ -99,16 +99,16 @@ A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counte
  **CHM 322 Organic Laboratory**  
   Introduces techniques for the separation, purification, and synthesis of organic compounds, in addition to chemical and spectroscopic methods of
 characterization. One 1.5-hour and two three-hour laboratories per week. Prerequisite: previous or concurrent registration in Organic Chemistry II (CHM-321).  
- **+++MISSING INFO: c.chm341_341l.long +++**  
-  +++MISSING INFO: c.chm341_341l.desc +++  
+ **CHM 341/341L Physical Chemistry I (WE) and Laboratory**  
+  Study of chemical systems from a molecular basis. Basic concepts of kinetic molecular theory, quantum mechanics and thermodynamics applied to molecular structure and chemical change. Fundamentals of electronic structure of atoms and molecules and interaction of matter with light. Three class meetings and one three-hour, (0.0 course credit) laboratory per week. Prerequisites: General Chemistry II & Laboratory (CHM-122/-122L), General Physics I & Laboratory (PHY-185/-185L), and Calculus II (MTH-145).  
  **CHM 411 Advanced Analytical Chemistry**  
   Theory and applications of instrumental methods for chemical analysis. Methods include spectroscopy, voltammetry, advanced chromatographic methods, and mass spectrometry. Prerequisite: Physical Chemistry I (CHM-341). (Offered alternate years)  
  **CHM 421 Advanced Organic Chemistry**  
   Extensive survey of synthetic and mechanistic implications of many organic reactions. Recent chemical developments and the use of the original scientific literature emphasized. Prerequisite: Organic Laboratory (CHM-322). (Offered alternate years)  
  **CHM 422 Synthesis Laboratory I**  
   Synthesis and characterization, inorganic and organometallic compounds based on current chemical literature. One class meeting and two laboratories per week. Prerequisite: Organic Laboratory (CHM-322). (Offered alternate years)  
- **+++MISSING INFO: c.chm431_431l.long +++**  
-  +++MISSING INFO: c.chm431_431l.desc +++  
+ **CHM 431/431L Biochemistry and Laboratory**  
+  Introduces biochemical processes, emphasizing biological oxidation and reduction; the chemistry of carbohydrates, lipids, proteins, and nucleotides; and the theory and mechanism of enzyme reactions. Laboratory includes modern techniques for separation, purification, and analysis of biochemical systems and substances. Three class meetings and one laboratory per week. Prerequisites: Cellular and Molecular Biology (BIO-145) and Organic Chemistry II (CHM321).  
  **CHM 432 Protein Biochemistry**  
   A study of the structure and function of proteins in their many biochemical roles. Topics include proteins as enzymes, messengers, antibodies, regulators, storage, structure, and transport molecules. Protein purification, protein engineering and kinetics, structure prediction, spectroscopy, and current literature topics are covered. Prerequisites: Cellular and Molecular Biology (BIO-145) and Organic Chemistry II (CHM-321). Corequisite: Protein Biochemistry Laboratory (CHM-432L). (Offered alternate years)  
  **CHM 432L Protein Biochemistry Laboratory**  
@@ -123,7 +123,7 @@ characterization. One 1.5-hour and two three-hour laboratories per week. Prerequ
   Advanced methods for the synthesis and characterization of main group and transition metal compounds. Synthesis techniques include high temperature and inert atmosphere methods, while characterization methods include electrochemistry, multinuclear NMR, and Raman spectroscopy. One three-hour laboratory period per week. Prerequisite: previous or concurrent registration in Inorganic Chemistry (CHM-451). (0.2 course credit) (Offered alternate years)  
  **CHM 454 Undergraduate Summer Research**  
   Prerequisite: consent of department chair.  
- **+++MISSING INFO: c.chm464_474.long +++**  
-  +++MISSING INFO: c.chm464_474.desc +++  
+ **CHM 464/474 Seminar in Chemistry I, II**  
+  Weekly seminar covering two terms, in which topics of interest in modern chemistry and chemical research are presented. Particular emphasis on improving scientific communication skills. Required for all majors in chemistry. Prerequisites: Organic Chemistry I (CHM-221) and junior standing or consent of department chair. (Each seminar: 0.25 course credit)  
  **CHM 494 Internship in Chemistry**  
   Investigation of an area of interest through voluntary field placement supervised by a faculty member of the department. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major in chemistry. Prerequisite: completion of a chemistry minor or junior standing and consent of department chair.  

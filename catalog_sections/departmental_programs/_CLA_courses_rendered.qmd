@@ -14,7 +14,7 @@ Six courses, chosen from the following, in consultation with the Classical Studi
 - ENG 115 The Classical Tradition
 - GRK 115 Basic Greek
 - GRK 125 Selected Readings in Ancient Greek
-- +++MISSING INFO: c.grk284_384.long +++
+- GRK 284/384 Topics in Greek
 - HIS 275 Ancient Greek History
 - HIS 285 History of Ancient Rome
 - HIS 318 Topics in History :Div West Persp (when topic is appropriate, as determined by the Classical Studies administrative coordinator)
@@ -22,7 +22,7 @@ Six courses, chosen from the following, in consultation with the Classical Studi
 - CLA 130 Roman Civilization
 - LTN 115 Basic Latin
 - LTN 125 Selected Readings in Latin
-- +++MISSING INFO: c.ltn284_384.long +++
+- LTN 284/384 Topics in Latin
 - PHL 220 Ancient Greek Philosophy
 
 ### COURSES IN CLASSICAL STUDIES

@@ -15,22 +15,22 @@ A major in communication studies requires a minimum cumulative 2.0 GPA in all co
     - COM 236 Intercultural Communication
     - COM 237 Interpersonal Communication
     - COM 337 Persuasion
-    - +++MISSING INFO: c.com435_437.long +++
+    - COM 435/437 Special Topics in Relational Communication (WE)
 5. One course in production:
     - COM 241 Intro to Multimedia Journalism
     - COM 341 Digital Storytelling
-    - +++MISSING INFO: c.com445_447.long +++
+    - COM 445/447 Special Topics in Production (WE)
     - RHE 225 Journalism/Media Wtg Wksp
 6. One course in media studies:
     - COM 151 Introduction to New Media Studies
     - COM 157 Introduction to Media Analysis
     - COM 357 Sex, Race, & Gender in Media
-    - +++MISSING INFO: c.com455_457.long +++
+    - COM 455/457 Special Topics in Media Studies (WE)
 7. One course in public discourse:
     - COM 161 Visual Rhetoric
     - COM 361 Communication & Social Change
     - COM 362 U.S. Public Address
-    - +++MISSING INFO: c.com465_467.long +++
+    - COM 465/467 Special Topics in Public Discourse (WE)
 8.	A Communication Studies course numbered 400 or above (if not used to satisfy a requirement above), excluding COM 494 Internship in Journalism/Communicat
 9.	Two additional Communication Studies courses
 
@@ -81,15 +81,15 @@ A minor in communication studies requires a minimum cumulative 2.0 GPA in all co
   Exploration of the major approaches to conducting research in Communication Studies. This course serves as the foundation for more complex forms of critical and/or qualitative analysis. Prerequisite: Rhetorical Theory & Practice (RHE-200).  
  **COM 394 Directed Learning  in Communication**  
   Designed to explore an area of the discipline that is not covered by existing course offerings. Students create the reading list for the course in consultation with a faculty advisor, prepare for weekly meetings, and regular writing assignments. Prerequisites: junior standing, written consent of the instructor and the departmental petition form.  
- **+++MISSING INFO: c.com435_437.long +++**  
-  +++MISSING INFO: c.com435_437.desc +++  
+ **COM 435/437 Special Topics in Relational Communication (WE)**  
+  Exploration of a topic within the field of relational communication. Course work includes a substantive research project, and oral presentations. May be taken more than once for credit with consent of department chair. Can satisfy the DCP requirement when topic is appropriate. Prerequisites: Rhetorical Theory and Practice (RHE-200) and either Research Methods in Communication Studies (COM-381) or Research Methods: Rhetorical/Critical (COM-382).  
  **COM 444 Independent Study in Comm Studies**  
   Independent research projects in communication studies. May be taken for an X status grade with consent of instructor prior to registration. May be taken more than once for credit for a maximum of 2.0 credits. A maximum of one course credit may count toward a communication studies major or minor. Prerequisite: consent of instructor. (0.5 or 1.0 course credit)  
- **+++MISSING INFO: c.com445_447.long +++**  
-  +++MISSING INFO: c.com445_447.desc +++  
- **+++MISSING INFO: c.com455_457.long +++**  
-  +++MISSING INFO: c.com455_457.desc +++  
- **+++MISSING INFO: c.com465_467.long +++**  
-  +++MISSING INFO: c.com465_467.desc +++  
+ **COM 445/447 Special Topics in Production (WE)**  
+  Exploration of a topic within the field of production. Course work includes a substantive research project, and oral presentations. May be taken more than once for credit with consent of department chair. Can satisfy the DCP requirement when topic is appropriate. Prerequisites: Rhetorical Theory and Practice (RHE-200) and either Research Methods in Communication Studies (COM-381) or Research Methods: Rhetorical/Critical (COM-382).  
+ **COM 455/457 Special Topics in Media Studies (WE)**  
+  Exploration of a topic within the field of media studies. Course work includes a substantive research project, and oral presentations. May be taken more than once for credit with consent of department chair. Can satisfy the DCP requirement when topic is appropriate. Prerequisites: Rhetorical Theory and Practice (RHE-200) and either Research Methods in Communication Studies (COM-381) or Research Methods: Rhetorical/Critical (COM-382).  
+ **COM 465/467 Special Topics in Public Discourse (WE)**  
+  Exploration of a topic within the field of public discourse. Course work includes a substantive research project, and oral presentations. May be taken more than once for credit with consent of department chair. Can satisfy the DCP requirement when topic is appropriate. Prerequisites: Rhetorical Theory and Practice (RHE-200) and either Research Methods in Communication Studies (COM-381) or Research Methods: Rhetorical/Critical (COM-382).  
  **COM 494 Internship in Journalism/Communicat**  
   An internship with a focus on journalism or communication supervised by a faculty member of the department. A minimum of 140 hours on-site experience is required. S/U basis only. A maximum of one credit may count toward a major or minor in communication studies or writing with the consent of department chair. Prerequisites: junior standing and consent of department chair.  

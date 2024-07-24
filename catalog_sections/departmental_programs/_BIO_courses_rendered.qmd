@@ -18,8 +18,8 @@ A major in biology requires a minimum cumulative 2.0 GPA over courses counted to
     - +++MISSING INFO: c.bio375_375l.long +++
 
 7. **Three** biology electives with the associated laboratories
-8. +++MISSING INFO: c.chm121_121l.long +++
-9. +++MISSING INFO: c.chm122_122l.long +++
+8. CHM 121/121L General Chemistry I and Laboratory
+9. CHM 122/122L General Chemistry II and Laboratory
 10. **One** of the following:
     - +++MISSING INFO: c.mth132.long +++ (strongly recommended for students considering attending graduate school)
     - STA 100 Statistical Reasoning I-Foundations and STA 110 Stats IIA: Inferential Reasoning

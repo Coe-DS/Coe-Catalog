@@ -20,7 +20,7 @@ The African American Studies major offers students the opportunity to study Afri
 A major in African American studies requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 
 1. AAM 107 Intro to African American Studies 
-2. AAM/ENG 137 African American Literature (WE)  
+2. AAM/ENG 137 African American Literature (WE) 
 3. HIS 347 African American History 
 4. One of the following: 
   	- HIS 145 History of United States to 1865 
@@ -68,7 +68,7 @@ A major in African American studies requires a minimum cumulative 2.0 GPA in all
 
 ### African American Studies Minor 
 1. AAM 107 Intro to African American Studies     
-2. AAM/ENG 137 African American Literature (WE)  
+2. AAM/ENG 137 African American Literature (WE) 
 3. HIS 347 African American History     
 4. One of the following:
 
@@ -104,7 +104,7 @@ Examines an important theme or subject specific to African American experiences 
  **AAM 444 Ind Study-Afr-Am St**  
 Study of individually chosen research topics in African American studies under the direction of a faculty member in the area. May be taken for an X status grade with consent of instructor prior to registration. Prerequisites: Introduction to African American Studies (AAM-107) or African American Literature (AAM-137); consent of African American Studies administrative coordinator and submission of a written proposal for a project.  
  **AAM 447/457 Directed Studies in African American Studies**  
-Study of selected topics and primary texts not available within the regular offerings. Prerequisite: two courses in African American studies. Registration by consent of instructor, after submission of a written project proposal. Conferences with instructor and papers are required. May be taken more than once for credit with consent of African American Studies administrative coordinator.   
+Study of selected topics and primary texts not available within the regular offerings. Prerequisite: two courses in African American studies. Registration by consent of instructor, after submission of a written project proposal. Conferences with instructor and papers are required. May be taken more than once for credit with consent of African American Studies administrative coordinator.  
  **AAM 467 Seminar in African American Lit**  
 Intensive study of selected works and subjects in African American literature. May be taken more than once, with consent of African American Studies administrative coordinator, provided the topics are substantially different. Prerequisites: junior standing and The Art of Literary Research (ENG-301). May be taken more than once.  
  **AAM 494 Internship in African American Stds**   
@@ -616,8 +616,8 @@ A major in biology requires a minimum cumulative 2.0 GPA over courses counted to
     - +++MISSING INFO: c.bio375_375l.long +++
 
 7. **Three** biology electives with the associated laboratories
-8. +++MISSING INFO: c.chm121_121l.long +++
-9. +++MISSING INFO: c.chm122_122l.long +++
+8. CHM 121/121L General Chemistry I and Laboratory
+9. CHM 122/122L General Chemistry II and Laboratory
 10. **One** of the following:
     - +++MISSING INFO: c.mth132.long +++ (strongly recommended for students considering attending graduate school)
     - STA 100 Statistical Reasoning I-Foundations and STA 110 Stats IIA: Inferential Reasoning
@@ -1212,15 +1212,15 @@ In addition to a major in **Chemistry**, the chemistry department also offers an
 ### Chemistry Major 
 A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 
-1. +++MISSING INFO: c.chm121_121l.long +++
+1. CHM 121/121L General Chemistry I and Laboratory
 
-2. +++MISSING INFO: c.chm122_122l.long +++
+2. CHM 122/122L General Chemistry II and Laboratory
 
-3. +++MISSING INFO: c.chm211_211l.long +++
+3. CHM 211/211L Analytical Chemistry and Laboratory (WE)
 
 4. CHM 221 Organic Chemistry I
 
-5. +++MISSING INFO: c.chm341_341l.long +++
+5. CHM 341/341L Physical Chemistry I (WE) and Laboratory
 
 6. **Three** additional courses to be chosen from the list of advanced chemistry electives below:
 
@@ -1229,17 +1229,17 @@ A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counte
     - CHM 411 Advanced Analytical Chemistry
     - CHM 421 Advanced Organic Chemistry
     - CHM 422 Synthesis Laboratory I
-    - +++MISSING INFO: c.chm431_431l.long +++
-    - +++MISSING INFO: c.chm432_432l.long +++
+    - CHM 431/431L Biochemistry and Laboratory
+    - CHM 432/432L Protein Biochemistry and Laboratory
     - CHM 441 Physical Chemistry II
     - CHM 442 Materials Physics and Chemistry
-    - +++MISSING INFO: c.chm451_451l.long +++
+    - CHM 451/ 451L Inorganic Chemistry and Laboratory (WE)
 
-7. MTH-145 Calculus II MTH 145 Calculus II
+7. MTH 145 Calculus II
 
-8. PHY-185/185L General Physics I & Laboratory +++MISSING INFO: c.phy185_185l.long +++
+8. +++MISSING INFO: c.phy185_185l.long +++
 
-9. PHY-195/195L General Physics II & Laboratory +++MISSING INFO: c.phy195_195l.long +++
+9. +++MISSING INFO: c.phy195_195l.long +++
 
 10. **One** of the following combinations:
       - CHM 464 Seminar in Chemistry I **and** CHM 474 Seminar in Chemistry II
@@ -1251,9 +1251,9 @@ A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counte
 
 ### Chemistry Minor
 
-1. +++MISSING INFO: c.chm121_121l.long +++
+1. CHM 121/121L General Chemistry I and Laboratory
 
-2. +++MISSING INFO: c.chm122_122l.long +++
+2. CHM 122/122L General Chemistry II and Laboratory
 
 3. **Four** chemistry electives numbered 200 or above
 
@@ -1264,14 +1264,14 @@ A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counte
     - CHM 321 Organic Chemistry II
     - CHM 322 Organic Laboratory
     - CHM 422 Synthesis Laboratory I
-    - +++MISSING INFO: c.chm431_431l.long +++
-    - +++MISSING INFO: c.chm451_451l.long +++
+    - CHM 431/431L Biochemistry and Laboratory
+    - CHM 451/ 451L Inorganic Chemistry and Laboratory (WE)
     
 3. Two of the following:
 
     - CHM 411 Advanced Analytical Chemistry
     - CHM 421 Advanced Organic Chemistry
-    - +++MISSING INFO: c.chm432_432l.long +++
+    - CHM 432/432L Protein Biochemistry and Laboratory
     - CHM 441 Physical Chemistry II
     - CHM 442 Materials Physics and Chemistry
     
@@ -1283,14 +1283,14 @@ A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counte
 
 ### Courses in Chemistry
 
- **+++MISSING INFO: c.chm103_103l.long +++**  
-  +++MISSING INFO: c.chm103_103l.desc +++  
- **+++MISSING INFO: c.chm111_111l.long +++**  
-  +++MISSING INFO: c.chm111_111l.desc +++  
- **+++MISSING INFO: c.chm121_121l.long +++**  
-  +++MISSING INFO: c.chm121_121l.desc +++  
- **+++MISSING INFO: c.chm122_122l.long +++**  
-  +++MISSING INFO: c.chm122_122l.desc +++  
+ **CHM 103/103L Selected Concepts in Chemistry and Laboratory**  
+  A consideration of the basic principles of chemistry and applications of chemistry in contemporary society. Three class meetings and one laboratory per week. This course does not satisfy any of the requirements for a major or minor in chemistry.  
+ **CHM 111/111L Introduction to Organic and Biological Chemistry and Laboratory**  
+  Designed as a course for pre-nursing student. Topics in introductory organic and biological chemistry include drugs, proteins, and DNA. Laboratory component involves basic experimental techniques in organic chemistry and biochemistry. Three class meetings and one laboratory per week. Lab is P/NP basis only. This course does not satisfy any of the requirements for a major or minor in chemistry. Prerequisites: Cellular and Molecular Biology (BIO145) and one year of secondary school chemistry or one term of college chemistry, or consent of instructor.  
+ **CHM 121/121L General Chemistry I and Laboratory**  
+  A foundational treatment of atoms and molecules. Explores the nature of chemical bonding and how the macroscopic properties of substances can be interpreted in terms of atomic and molecular structure. Laboratory work emphasizes experimental techniques and the acquisition and analysis of experimental data. Three class meetings and one three-hour laboratory per week. Lab is P/NP basis only. Prerequisite: secondary school chemistry or consent of instructor.  
+ **CHM 122/122L General Chemistry II and Laboratory**  
+  A continuation of CHM-101. Topics include chemical kinetics, thermodynamics, equilibria, and redox chemistry. Three class meetings and one three-hour laboratory period per week. Lab is P/NP basis only. Prerequisite: General Chemistry I and Laboratory (CHM-121/-121L) or consent of instructor.  
  **CHM 211 Analytical Chemistry**  
   A study of the theory of equilibria as they apply to quantitative chemical analysis. The basic principles of spectroscopy, potentiometry, and chromatography are introduced. Three class meetings per week. Prerequisite: General Chemistry II and Laboratory (CHM-102). Corequisite: Analytical Chemistry Laboratory (CHM-211L).  
  **CHM 211L Analytical Chemistry Laboratory**  
@@ -1300,16 +1300,16 @@ A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counte
  **CHM 322 Organic Laboratory**  
   Introduces techniques for the separation, purification, and synthesis of organic compounds, in addition to chemical and spectroscopic methods of
 characterization. One 1.5-hour and two three-hour laboratories per week. Prerequisite: previous or concurrent registration in Organic Chemistry II (CHM-321).  
- **+++MISSING INFO: c.chm341_341l.long +++**  
-  +++MISSING INFO: c.chm341_341l.desc +++  
+ **CHM 341/341L Physical Chemistry I (WE) and Laboratory**  
+  Study of chemical systems from a molecular basis. Basic concepts of kinetic molecular theory, quantum mechanics and thermodynamics applied to molecular structure and chemical change. Fundamentals of electronic structure of atoms and molecules and interaction of matter with light. Three class meetings and one three-hour, (0.0 course credit) laboratory per week. Prerequisites: General Chemistry II & Laboratory (CHM-122/-122L), General Physics I & Laboratory (PHY-185/-185L), and Calculus II (MTH-145).  
  **CHM 411 Advanced Analytical Chemistry**  
   Theory and applications of instrumental methods for chemical analysis. Methods include spectroscopy, voltammetry, advanced chromatographic methods, and mass spectrometry. Prerequisite: Physical Chemistry I (CHM-341). (Offered alternate years)  
  **CHM 421 Advanced Organic Chemistry**  
   Extensive survey of synthetic and mechanistic implications of many organic reactions. Recent chemical developments and the use of the original scientific literature emphasized. Prerequisite: Organic Laboratory (CHM-322). (Offered alternate years)  
  **CHM 422 Synthesis Laboratory I**  
   Synthesis and characterization, inorganic and organometallic compounds based on current chemical literature. One class meeting and two laboratories per week. Prerequisite: Organic Laboratory (CHM-322). (Offered alternate years)  
- **+++MISSING INFO: c.chm431_431l.long +++**  
-  +++MISSING INFO: c.chm431_431l.desc +++  
+ **CHM 431/431L Biochemistry and Laboratory**  
+  Introduces biochemical processes, emphasizing biological oxidation and reduction; the chemistry of carbohydrates, lipids, proteins, and nucleotides; and the theory and mechanism of enzyme reactions. Laboratory includes modern techniques for separation, purification, and analysis of biochemical systems and substances. Three class meetings and one laboratory per week. Prerequisites: Cellular and Molecular Biology (BIO-145) and Organic Chemistry II (CHM321).  
  **CHM 432 Protein Biochemistry**  
   A study of the structure and function of proteins in their many biochemical roles. Topics include proteins as enzymes, messengers, antibodies, regulators, storage, structure, and transport molecules. Protein purification, protein engineering and kinetics, structure prediction, spectroscopy, and current literature topics are covered. Prerequisites: Cellular and Molecular Biology (BIO-145) and Organic Chemistry II (CHM-321). Corequisite: Protein Biochemistry Laboratory (CHM-432L). (Offered alternate years)  
  **CHM 432L Protein Biochemistry Laboratory**  
@@ -1324,8 +1324,8 @@ characterization. One 1.5-hour and two three-hour laboratories per week. Prerequ
   Advanced methods for the synthesis and characterization of main group and transition metal compounds. Synthesis techniques include high temperature and inert atmosphere methods, while characterization methods include electrochemistry, multinuclear NMR, and Raman spectroscopy. One three-hour laboratory period per week. Prerequisite: previous or concurrent registration in Inorganic Chemistry (CHM-451). (0.2 course credit) (Offered alternate years)  
  **CHM 454 Undergraduate Summer Research**  
   Prerequisite: consent of department chair.  
- **+++MISSING INFO: c.chm464_474.long +++**  
-  +++MISSING INFO: c.chm464_474.desc +++  
+ **CHM 464/474 Seminar in Chemistry I, II**  
+  Weekly seminar covering two terms, in which topics of interest in modern chemistry and chemical research are presented. Particular emphasis on improving scientific communication skills. Required for all majors in chemistry. Prerequisites: Organic Chemistry I (CHM-221) and junior standing or consent of department chair. (Each seminar: 0.25 course credit)  
  **CHM 494 Internship in Chemistry**  
   Investigation of an area of interest through voluntary field placement supervised by a faculty member of the department. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major in chemistry. Prerequisite: completion of a chemistry minor or junior standing and consent of department chair.  
 
@@ -1346,7 +1346,7 @@ Six courses, chosen from the following, in consultation with the Classical Studi
 - ENG 115 The Classical Tradition
 - GRK 115 Basic Greek
 - GRK 125 Selected Readings in Ancient Greek
-- +++MISSING INFO: c.grk284_384.long +++
+- GRK 284/384 Topics in Greek
 - HIS 275 Ancient Greek History
 - HIS 285 History of Ancient Rome
 - HIS 318 Topics in History :Div West Persp (when topic is appropriate, as determined by the Classical Studies administrative coordinator)
@@ -1354,7 +1354,7 @@ Six courses, chosen from the following, in consultation with the Classical Studi
 - CLA 130 Roman Civilization
 - LTN 115 Basic Latin
 - LTN 125 Selected Readings in Latin
-- +++MISSING INFO: c.ltn284_384.long +++
+- LTN 284/384 Topics in Latin
 - PHL 220 Ancient Greek Philosophy
 
 ### COURSES IN CLASSICAL STUDIES
@@ -1390,22 +1390,22 @@ A major in communication studies requires a minimum cumulative 2.0 GPA in all co
     - COM 236 Intercultural Communication
     - COM 237 Interpersonal Communication
     - COM 337 Persuasion
-    - +++MISSING INFO: c.com435_437.long +++
+    - COM 435/437 Special Topics in Relational Communication (WE)
 5. One course in production:
     - COM 241 Intro to Multimedia Journalism
     - COM 341 Digital Storytelling
-    - +++MISSING INFO: c.com445_447.long +++
+    - COM 445/447 Special Topics in Production (WE)
     - RHE 225 Journalism/Media Wtg Wksp
 6. One course in media studies:
     - COM 151 Introduction to New Media Studies
     - COM 157 Introduction to Media Analysis
     - COM 357 Sex, Race, & Gender in Media
-    - +++MISSING INFO: c.com455_457.long +++
+    - COM 455/457 Special Topics in Media Studies (WE)
 7. One course in public discourse:
     - COM 161 Visual Rhetoric
     - COM 361 Communication & Social Change
     - COM 362 U.S. Public Address
-    - +++MISSING INFO: c.com465_467.long +++
+    - COM 465/467 Special Topics in Public Discourse (WE)
 8.	A Communication Studies course numbered 400 or above (if not used to satisfy a requirement above), excluding COM 494 Internship in Journalism/Communicat
 9.	Two additional Communication Studies courses
 
@@ -1456,16 +1456,16 @@ A minor in communication studies requires a minimum cumulative 2.0 GPA in all co
   Exploration of the major approaches to conducting research in Communication Studies. This course serves as the foundation for more complex forms of critical and/or qualitative analysis. Prerequisite: Rhetorical Theory & Practice (RHE-200).  
  **COM 394 Directed Learning  in Communication**  
   Designed to explore an area of the discipline that is not covered by existing course offerings. Students create the reading list for the course in consultation with a faculty advisor, prepare for weekly meetings, and regular writing assignments. Prerequisites: junior standing, written consent of the instructor and the departmental petition form.  
- **+++MISSING INFO: c.com435_437.long +++**  
-  +++MISSING INFO: c.com435_437.desc +++  
+ **COM 435/437 Special Topics in Relational Communication (WE)**  
+  Exploration of a topic within the field of relational communication. Course work includes a substantive research project, and oral presentations. May be taken more than once for credit with consent of department chair. Can satisfy the DCP requirement when topic is appropriate. Prerequisites: Rhetorical Theory and Practice (RHE-200) and either Research Methods in Communication Studies (COM-381) or Research Methods: Rhetorical/Critical (COM-382).  
  **COM 444 Independent Study in Comm Studies**  
   Independent research projects in communication studies. May be taken for an X status grade with consent of instructor prior to registration. May be taken more than once for credit for a maximum of 2.0 credits. A maximum of one course credit may count toward a communication studies major or minor. Prerequisite: consent of instructor. (0.5 or 1.0 course credit)  
- **+++MISSING INFO: c.com445_447.long +++**  
-  +++MISSING INFO: c.com445_447.desc +++  
- **+++MISSING INFO: c.com455_457.long +++**  
-  +++MISSING INFO: c.com455_457.desc +++  
- **+++MISSING INFO: c.com465_467.long +++**  
-  +++MISSING INFO: c.com465_467.desc +++  
+ **COM 445/447 Special Topics in Production (WE)**  
+  Exploration of a topic within the field of production. Course work includes a substantive research project, and oral presentations. May be taken more than once for credit with consent of department chair. Can satisfy the DCP requirement when topic is appropriate. Prerequisites: Rhetorical Theory and Practice (RHE-200) and either Research Methods in Communication Studies (COM-381) or Research Methods: Rhetorical/Critical (COM-382).  
+ **COM 455/457 Special Topics in Media Studies (WE)**  
+  Exploration of a topic within the field of media studies. Course work includes a substantive research project, and oral presentations. May be taken more than once for credit with consent of department chair. Can satisfy the DCP requirement when topic is appropriate. Prerequisites: Rhetorical Theory and Practice (RHE-200) and either Research Methods in Communication Studies (COM-381) or Research Methods: Rhetorical/Critical (COM-382).  
+ **COM 465/467 Special Topics in Public Discourse (WE)**  
+  Exploration of a topic within the field of public discourse. Course work includes a substantive research project, and oral presentations. May be taken more than once for credit with consent of department chair. Can satisfy the DCP requirement when topic is appropriate. Prerequisites: Rhetorical Theory and Practice (RHE-200) and either Research Methods in Communication Studies (COM-381) or Research Methods: Rhetorical/Critical (COM-382).  
  **COM 494 Internship in Journalism/Communicat**  
   An internship with a focus on journalism or communication supervised by a faculty member of the department. A minimum of 140 hours on-site experience is required. S/U basis only. A maximum of one credit may count toward a major or minor in communication studies or writing with the consent of department chair. Prerequisites: junior standing and consent of department chair.  
 
@@ -4249,9 +4249,9 @@ Candidates for the **Bachelor of Science in Nursing** degree must satisfactorily
 :-|-:
 Biology |	BIO 145 Cellular & Molecular Biology 
 &nbsp; |	BIO 195 Introduction to Microbiology
-&nbsp; |	+++MISSING INFO: c.bio215_215l.long +++
+&nbsp; |	BIO 215/215L Human Anatomy and Laboratory
 &nbsp; |	BIO 225 Human Physiology
-Chemistry |	+++MISSING INFO: c.chm111_111l.long +++
+Chemistry |	CHM 111/111L Introduction to Organic and Biological Chemistry and Laboratory
 Psychology |	PSY 100 Introductory Psychology
 Sociology |	SOC 107 Introductory Sociology
 Statistics |	PSY 300 Stat Methods and Data Analysis **or**
@@ -4264,7 +4264,7 @@ Statistics |	PSY 300 Stat Methods and Data Analysis **or**
 5. **Nine** non-clinical theory course credits: 
 	- NUR 300 Art & Science of Nursing 
 	- NUR 305 Information Literacy & Management
-	- +++MISSING INFO: c.nur345_345l.long +++
+	- NUR 345/345L Mental Health Nursing and Laboratory
 	- NUR 360 Pharmacological Principles
 	- NUR 375 Legal & Ethical Issues in Nursing
 	- NUR 425 Nursing Research
@@ -4273,10 +4273,10 @@ Statistics |	PSY 300 Stat Methods and Data Analysis **or**
 	- NUR 495 Maternal Newborn Nursing
 
 6. **Four** two-course-credit clinical courses: 
-	- +++MISSING INFO: c.nur315_315l.long +++
-	- +++MISSING INFO: c.nur355_355l.long +++
-	- +++MISSING INFO: c.nur415_415l.long +++
-	- +++MISSING INFO: c.nur455_455l.long +++
+	- NUR 315/315L Pathophysiology and Assessment/Clinical Application
+	- NUR 355/355L Introductory Concepts in Nursing/Clinical Application
+	- NUR 415/415L Advanced Concepts in Nursing/Clinical Application
+	- NUR 455/455L Leadership and Contemporary Issues in Nursing/Clinical Application (WE)
 
 7. A formal NCLEX review course (at the student’s expense)
 
@@ -4303,11 +4303,11 @@ Examines human sexuality from the psychosocial, biophysiological, and cultural p
   Introduces the nursing student to the nursing profession. The concepts of . professional responsibility, accountability, human development, spirituality, values and beliefs, diversity, and death and dying are discussed. Students learn to apply the nursing process, principles of teaching/learning, and therapeutic communication in the practice of individualized nursing care. Preventative nursing strategies in caring for individuals with reduced mobility are introduced. Prerequisite: admission to the Bachelor of Science in Nursing degree.  
  **NUR 305 Information Literacy & Management**  
   Introduces the student to the intellectual language, vocabulary, and expectations used in making nursing decisions in practice. Discusses concepts such as data gathering using search methods, organizing, synthesizing and critical evaluation Data information, knowledge, and standardized nursing language are discussed. Prerequisite: acceptance into the Bachelor of Science Nursing degree or consent of instructor. (0.5 course credits)  
- **+++MISSING INFO: c.nur315_315l_315c.long +++**  
+ **NUR 315/315L/315C Pathophysiology and Assessment**  
   Provides the foundation for the integration of assessment data and pathophysiological concepts in the application of the nursing process. Focuses on comprehensive health assessment of diverse individuals across the lifespan. Assessment skills, health histories, and physical exams are practiced.  Clinical component provides an opportunity to reinforce health assessment skills with diverse individuals across the lifespan as well as implementing safe, basic patient-centered care. Prerequisites: admission to the Bachelor of Science in Nursing degree; previous or concurrent registration in Art and Science of Nursing (NUR-300). (2.0 course credits)  
  **NUR 345 Mental Health Nursing**  
   Introduces the nursing student to the care of persons with at-risk behavioral responses to life processes. The student analyzes theoretical and empirical knowledge from liberal arts and sciences as it applies to diagnosing and treating at-risk behavioral responses to life processes. The students study such topics as alterations in cognition and thought processes, coping responses, self-perception and violence toward self and others. A major component is the use of therapeutic communication skills to provide support that reduce risk, promote positive coping, and reinforce accurate perceptions in patients with alterations in mental health. Prerequisite: Art and Science of Nursing (NUR-300).  
- **+++MISSING INFO: c.nur355_335l_335c.long +++**  
+ **NUR 355/355L/355C Introductory Concepts in Nursing**  
   Focuses on holistic care of diverse individuals and families across the life span. Applies the nursing process, emphasizing primary, secondary, and tertiary nursing interventions. in the care of individuals experiencing actual or risk for alterations in renal, gastrointestinal, and musculoskeletal systems. Surgical, dietary, and pharmacological management is integrated. Clinical components reinforce application of the nursing process in the delivery of safe, evidence-based, holistic care.. Prerequisites: Art and Science of Nursing (NUR-300); Pathophysiology and Assessment/Clinical Application (NUR-315); Information Management and Patient Care Technology (NUR-305). (2.0 course credits)  
  **NUR 360 Pharmacological Principles**  
   Basic concepts and principles of administration, pharmacokinetics, pharmacodynamics, and application to basic biophysical concepts for specific pharmacological interventions. A brief overview of the mechanisms of action of select classifications of drugs is included. Prerequisite: acceptance into the Bachelor of Science in Nursing Degree or consent of instructor. (0.5 course credits)  
@@ -4315,7 +4315,7 @@ Examines human sexuality from the psychosocial, biophysiological, and cultural p
   Focuses on the complexity of moral, legal, and ethical issues in health care. Topics include the legislative and regulatory processes governing healthcare, appraisal of legal risks, ethical principles, current ethical debates in healthcare, and developing trends and ethical conflicts. Students examine and explore one topic in depth. Prerequisite:acceptance into the Bachelor of Science Nursing Degree or consent of instructor .  
  **NUR 387 Alternative Therapies for Hlth/Heal**  
   Examines available alternative and complimentary therapies. Risks and benefits of these modalities are assessed to determine if there are solid, scientific rationales for them. Therapies include dietary supplements, mind-body interventions (e.g., meditation), body based methods (e.g., massage), and energy therapies (e.g., Reiki). Prerequisite: sophomore standing.  
- **+++MISSING INFO: c.nur415_415l_415c.long +++**  
+ **NUR 415/415L/415C Advanced Concepts in Nursing**  
   Advances and continues the focus of holistic care for diverse individuals, families, groups, and populations across the life span. Applies the nursing process, emphasizing primary, secondary and tertiary nursing interventions, in care of individuals experiencing actual or risk for alterations in integumentary, pulmonary, cardiovascular, endocrine, sensory/neurological, and immune systems. Surgical, dietary and pharmacological management is integrated. Clinical components reinforce application of the nursing process in the delivery of safe, evidence-based, holistic, patient-centered care. Prerequisites: Introductory Concepts in Nursing/Clinical Application (NUR-355). (2.0 course credits)  
  **NUR 425 Nursing Research**  
   Study of the research process, the language of research, hypothesis formulation and testing, data collection, and analysis as they relate to the profession of nursing. Discussion of the nurse as a consumer of research with critical evaluation of selected research endeavors. Nursing research project required. The intent of this learning experience is to expose the student to the basic steps of the research process and their relationship to nursing. Prerequisites: R.N., junior, or senior standing in the nursing program, and Statistical Methods in the Behavioral Sciences (PSY-215) or Statistical Reasoning-Statistical Foundations (STA-100) (7 weeks) and Statistical Reasoning IIA (STA-110) (7 weeks).  
@@ -4325,8 +4325,8 @@ Examines human sexuality from the psychosocial, biophysiological, and cultural p
   Examines normal versus abnormal aspects of the aging process. Common health problems of the elderly are discussed. Addresses evidence-based strategies to promote wellness and to assist those living with chronic illnesses. Explores community resources to meet the holistic health needs of diverse individuals, groups, and families. Topics include the impact of culture, gender, stigma, and socioeconomic status on communication and care. Clinical application includes well elderly visits in the community. Prerequisite: Advanced Concepts in Nursing: Clinical Application (NUR-415) or Community and Population Oriented Nursing (NUR-430).  
  **NUR 444 Ind Study-Nursing**  
   Guided study of individually chosen topic in nursing with a nursing department faculty member. May be taken for an X status grade with consent of instructor prior to registration. Prerequisites: junior standing and consent of instructor.  
- **NUR 455 Leadership & Cont Issues in Nursing**  
-  +++MISSING INFO: c.nur455_445c.desc +++  
+ **NUR 455/455C Leadership and Contemporary Issues in Nursing (WE)**  
+  Focuses on leadership skills, knowledge, and creativity to promote and manage safe, holistic patient-centered care for diverse individuals, families, groups, and populations across the lifespan. Concepts include management and organizations, quality improvement, change process, political/organizational/micro systems, communication/collaboration, fiscal/ human resource management, delegation, prioritization, decision making, and professional/self-care management. Nursing theories/frameworks are discussed. Clinical components provide an opportunity to collaborate with patients, families, and health care team members and to develop leadership roles. Lab and clinical are P/NP basis only. Prerequisite: admission into the Bachelor of Science Nursing Program; Advanced Concepts in Nursing (NUR-415/-415L/-415C), Community and Population Oriented Nursing (NUR-430), and Nursing Research (WE) (NUR-425). (2.0 course credits)  
  **NUR 494 Internship in Nursing**  
   A clinical practicum on an inpatient health care unit supervised by a faculty member of the department and a professionally prepared R.N. preceptor. A minimum of 140 hours on-site experience is required. S/U basis only. Prerequisite: Introductory Concepts in Nursing/Clinical Applications (NUR-355/-355L) and consent of department chair.  
  **NUR 495 Maternal Newborn Nursing**  
@@ -4593,7 +4593,7 @@ A major in physics requires a minimum cumulative 2.0 GPA in all courses counted 
 
 ***Recommended:***  
 	- CS 125 Computer Science I  
-	- +++MISSING INFO: c.chm121_121l.long +++  
+	- CHM 121/121L General Chemistry I and Laboratory  
 
 ### Physics Minor
 A minor in Physics requires a cumulative 2.0 GPA in all courses counted toward the major.
