@@ -8,8 +8,8 @@ Langseth.
   {{< var c.ltn115.desc >}}  
  **{{< var c.ltn125.long >}}**  
   {{< var c.ltn125.desc >}}  
- **{{< var c.ltn284/384.long >}}**  
-  {{< var c.ltn284/384.desc >}}  
+ **{{< var c.ltn284_384.long >}}**  
+  {{< var c.ltn284_384.desc >}}  
 
 
 
