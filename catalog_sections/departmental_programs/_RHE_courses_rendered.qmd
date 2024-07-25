@@ -26,7 +26,7 @@ A major in Writing requires a cumulative 2.0 GPA in all courses counted toward t
 	- COM 361 Communication & Social Change
 	- COM 362 U.S. Public Address
 	- COM 382 ResearchMethods:Rhetorical/Critical or RHE 382 Research Methods:Rhetorical/Critica (if not used to fulfill requirement #3)
-	- +++MISSING INFO: c.com462.long +++
+	- COM-462 Seminar in Public Discourse (WE)
 	- CRW 115 Exploring Creative Writing
 	- CRW 255 Playwriting Workshop I
 	- CRW 280 Poetry Workshop I
@@ -51,7 +51,7 @@ A minor in Writing requires five credits, including RHE 200 Rhetorical Theory an
 - COM 361 Communication & Social Change
 - COM 362 U.S. Public Address
 - COM 382 ResearchMethods:Rhetorical/Critical **or** RHE 382 Research Methods:Rhetorical/Critica
-- +++MISSING INFO: c.com462.long +++
+- COM-462 Seminar in Public Discourse (WE)
 - CRW 115 Exploring Creative Writing
 - CRW 255 Playwriting Workshop I
 - CRW 280 Poetry Workshop I

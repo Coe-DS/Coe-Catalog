@@ -627,8 +627,8 @@ A major in biology requires a minimum cumulative 2.0 GPA over courses counted to
 
 *Strongly recommended:*
     **One** of the following sequences:
-    - +++MISSING INFO: c.phy165_165l.long +++ and +++MISSING INFO: c.phy175_175l.long +++
-    - +++MISSING INFO: c.phy185_185l.long +++ and +++MISSING INFO: c.phy195_195l.long +++
+    - PHY 165/165L Basic Physics I & Laboratory and PHY 175/175L Basic Physics II & Laboratory
+    - PHY 185/185L General Physics I & Laboratory and PHY 195/195L General Physics II & Laboratory
 
 With consent of the department chair, other chemistry or mathematics courses may be substituted.
 
@@ -1237,9 +1237,9 @@ A major in chemistry requires a minimum cumulative 2.0 GPA in all courses counte
 
 7. MTH 145 Calculus II
 
-8. +++MISSING INFO: c.phy185_185l.long +++
+8. PHY 185/185L General Physics I & Laboratory
 
-9. +++MISSING INFO: c.phy195_195l.long +++
+9. PHY 195/195L General Physics II & Laboratory
 
 10. **One** of the following combinations:
       - CHM 464 Seminar in Chemistry I **and** CHM 474 Seminar in Chemistry II
@@ -4372,7 +4372,7 @@ Concurrent completion of a primary major in psychology is required.
 	b. **No more than two** of the following courses:
 		- PSY 255 Social Psychology
 		- PSY 315 Learning & Behavior
-		- +++MISSING INFO: c.psy355_355l.long +++
+		- PSY 355/355L Personality & Laboratory (WE)
 		- PSY 464 Seminar in Psychology (if topic is appropriate)
 	
 4. **One** of the following, subject to prior approval by the Organizational Science administrative coordinator:
@@ -4570,13 +4570,13 @@ The physics department serves a variety of students with a balanced program, giv
 
 A major in physics requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 
-1. +++MISSING INFO: c.phy185_185l.long +++
+1. PHY 185/185L General Physics I & Laboratory
  
-2. +++MISSING INFO: c.phy195_195l.long +++ 
+2. PHY 195/195L General Physics II & Laboratory 
 
 3. PHY 231 Mathematical Methods for Physicists 
 
-4. +++MISSING INFO: c.phy235_235l.long +++ 
+4. PHY 235/235L Modern Physics & Laboratory (WE) 
 
 5. PHY 265 Electromagnetism 
 
@@ -4598,11 +4598,11 @@ A major in physics requires a minimum cumulative 2.0 GPA in all courses counted 
 ### Physics Minor
 A minor in Physics requires a cumulative 2.0 GPA in all courses counted toward the major.
 
-1. +++MISSING INFO: c.phy185_185l.long +++ or +++MISSING INFO: c.phy165_165l.long +++
+1. PHY 185/185L General Physics I & Laboratory or PHY 165/165L Basic Physics I & Laboratory
 
-2. +++MISSING INFO: c.phy195_195l.long +++ or +++MISSING INFO: c.phy175_175l.long +++
+2. PHY 195/195L General Physics II & Laboratory or PHY 175/175L Basic Physics II & Laboratory
 
-3. +++MISSING INFO: c.phy235_235l.long +++
+3. PHY 235/235L Modern Physics & Laboratory (WE)
 
 4. PHY 265 Electromagnetism 
 
@@ -4615,26 +4615,26 @@ A minor in Physics requires a cumulative 2.0 GPA in all courses counted toward t
   Introduces the objects and phenomena found in the universe, including the solar system, planets, moons, comets, meteors, the sun, stars, birth and death of stars, neutron stars, pulsars, black holes, galaxies, quasars, and cosmological evolution. Laboratory activities required. Lab is P/NP basis only. This course satisfies the general education laboratory science requirement. Prerequisite: competence in algebra.  
  **PHY 121 Everyday Physics**  
   Covers the principle of physics we use in our daily life. Examples from everyday experience are used to explain the fundamental principles of linear and rotational motion, momentum, forces, energy, as well as electricity, magnetism, and medical applications.  
- **+++MISSING INFO: c.phy155_155l.long +++**  
-  +++MISSING INFO: c.phy155_155l.desc +++  
+ **PHY 155/155L Electronics & Laboratory**  
+  Introduce to beginners basic ideas of current, voltage, resistance; Ohm’s law and DC circuit analysis; the diode, the transistor amplifier, oscillators; integrated circuits. Much construction of circuits. Includes one two-hour, (0.0 course credit) laboratory weekly. Lab is P/NP basis only. This course satisfies the general education laboratory science requirement. Prerequisite: competence in algebra  
  **PHY 161 Energy: Science and Technology**  
   The physics and technology of energy generation, consumption, and conservation. Covers a wide range of energy sources, including fossil fuels, hydropower, solar energy, wind energy, bioenergy, and nuclear energy. Surveys the efficiencies and environmental impacts of energy use in transportation, manufacturing, and buildings.  
- **+++MISSING INFO: c.phy165_165l.long +++**  
-  +++MISSING INFO: c.phy165_165l.desc +++  
- **+++MISSING INFO: c.phy175_175l.long +++**  
-  +++MISSING INFO: c.phy175_175l.desc +++  
+ **PHY 165/165L Basic Physics I & Laboratory**  
+  An algebra-based survey course in the basic principles of mechanics, dynamics, energy, momentum and rotational motion. One (0.0 course credit) laboratory per week, held jointly with General Physics laboratories, is a required part of this course. Lab is P/NP basis only. This course satisfies the general education laboratory science requirement. Previous experience in algebra recommended.  
+ **PHY 175/175L Basic Physics II & Laboratory**  
+  An algebra-based survey course in the basic principles of thermodynamics, electrostatics, magnetism, circuits, light, and optics. One (0.0 course credit) laboratory per week, held jointly with General Physics laboratories, is a required part of this course. Lab is P/NP basis only. This course satisfies the general education laboratory science requirement. Prerequisite: Basic Physics I & Laboratory (PHY-165/-165L), or consent of instructor.  
  **PHY 181 Materials Science I**  
   Introduces the relationship of atomic arrangement with microscopic and macroscopic material properties using fundamental of physics and chemistry. Covers the crystalline and amorphous structures, the defects and grain boundaries. The emphasis is placed on relating the chemical composition, structure, and the material properties.  
- **+++MISSING INFO: c.phy185_185l.long +++**  
-  +++MISSING INFO: c.phy185_185l.desc +++  
- **+++MISSING INFO: c.phy195_195l.long +++**  
-  +++MISSING INFO: c.phy195_195l.desc +++  
+ **PHY 185/185L General Physics I & Laboratory**  
+  A calculus-based introduction to mechanics to serve as a basis for advanced courses in physics. Kinematics, dynamics, energy, momentum, rotational motion and fluid mechanics are covered. One (0.0 course credit) laboratory per week, held jointly with Basic Physics laboratories, is a required part of this course. Lab is P/NP basis only. Previous experience in calculus recommended.   
+ **PHY 195/195L General Physics II & Laboratory**  
+  A calculus-based introduction to thermodynamics, electrostatics, magnetism, circuits, light, and optics. One (0.0 course credit) laboratory per week, held jointly with Basic Physics laboratories, is a required part of this course. Lab is P/NP basis only. Prerequisites: General Physics I & Laboratory (PHY-185/-185L) or consent of instructor.   
  **PHY 201 Materials Science 2**  
   Incorporates the time dependent phenomena in solids: phase transformation, crystal nucleation and growth. Strong focus is placed on the phase diagrams and the technical methods on instrumental analysis of solid materials. Common material properties presented with focus on practical measurements: mechanical, thermal, optical, magnetic, and electrical properties. Prerequisite: Materials Science 1 (PHY-181) or consent of instructor.  
  **PHY 211 Glass Science**  
   Introduces the physics and chemistry behind the formation and study of glassy materials. The course covers glass making, glass structure and surfaces, property characterization, a wide array of industrial and scientific applications, as well as modern experimental techniques. It is especially suitable in preparation for glass research, and for students interested in a possible career in materials research and/or condensed matter physics. Prerequisite: General Physics II & Laboratory (PHY-195/-195L), or consent of instructor.  
- **+++MISSING INFO: c.phy221.long +++**  
-  +++MISSING INFO: c.phy221.desc +++  
+ **PHY 221 Computational Physics**  
+  Survey of the computational methods used by physicists. Students learn basics of Linux systems, C++, shell scripting, and data analysis tools, such as MATLAB and ROOT. Some Monte Carlo applications for biophysics, particle and medical physics, as well as material science are introduced. Prerequisite: Consent of instructor.  
  **PHY 231 Mathematical Methods for Physicists**  
   Studies areas of mathematics which are of fundamental importance in the physical sciences. Topics include complex variables, Fourier analysis, eigenvalue problems, and vector calculus. Includes one computer laboratory session per week. Previous experience in calculus recommended. Prerequisite: Calculus II (MTH-145), or consent of instructor.  
  **PHY 235 Modern Physics**  
@@ -4645,8 +4645,8 @@ A minor in Physics requires a cumulative 2.0 GPA in all courses counted toward t
   Covers the fundamental concepts in astrophysics: The tools of astronomy, celestial mechanics, interaction of light and matter, telescopes, nature of the stars and their classifications. Other topics include the general overview of the solar system, and the binary systems. Prerequisite: General Physics II & Laboratory (PHY-195/-195L) or consent of instructor.  
  **PHY 251 Stars & Galaxies**  
   Focuses on the star formation and evolution, as well as the galactic evolution. The formation of the solar system and its implications, the degenerate remnants, and the Milky Way galaxy are covered. Prerequisite: General Physics II & Laboratory (PHY-195/-195L) or consent of instructor.  
- **+++MISSING INFO: c.phy255_355.long +++**  
-  +++MISSING INFO: c.phy255_355.desc +++  
+ **PHY 255/355 Introduction to Physics Research I–II**  
+  Extensive independent or group investigations of a particular topic or set of topics. Designed to be a research experience in preparation for teaching, graduate school, or direct entry into a technical field after graduation. Prerequisite: General Physics II & Laboratory (PHY-195/-195L) or consent of instructor.  
  **PHY 265 Electromagnetism**  
   Electromagnetic phenomena at the intermediate level, including circuits, static and quasi-static fields, Maxwell’s equations, radiation, and selected topics in properties of materials. Special topics in vector algebra, scalar and vector point functions, and differential vector calculus are developed and used. Prerequisites: General Physics II & Laboratory (PHY-195/-195L) and Calculus II (MTH-145) or consent of instructor.  
  **PHY 275 Mechanics Formulations**  
@@ -4879,9 +4879,9 @@ A major in Psychology requires a cumulative 2.0 GPA in all courses counted towar
 	* PSY 260 Cognitive Psychology 
  
 11. **One** of the following:
-	* +++MISSING INFO: c.psy325_325l.long +++
-	* +++MISSING INFO: c.psy335_335l.long +++
-	* +++MISSING INFO: c.psy355_355l.long +++
+	* PSY 325/325L Health Psychology and Laboratory (WE)
+	* PSY 335/335L Sensation and Perception and Laboratory (WE)
+	* PSY 355/355L Personality & Laboratory (WE)
 
 12. **One** of the following:
 	* PSY 315 Learning & Behavior
@@ -5256,7 +5256,7 @@ A major in Writing requires a cumulative 2.0 GPA in all courses counted toward t
 	- COM 361 Communication & Social Change
 	- COM 362 U.S. Public Address
 	- COM 382 ResearchMethods:Rhetorical/Critical or RHE 382 Research Methods:Rhetorical/Critica (if not used to fulfill requirement #3)
-	- +++MISSING INFO: c.com462.long +++
+	- COM-462 Seminar in Public Discourse (WE)
 	- CRW 115 Exploring Creative Writing
 	- CRW 255 Playwriting Workshop I
 	- CRW 280 Poetry Workshop I
@@ -5281,7 +5281,7 @@ A minor in Writing requires five credits, including RHE 200 Rhetorical Theory an
 - COM 361 Communication & Social Change
 - COM 362 U.S. Public Address
 - COM 382 ResearchMethods:Rhetorical/Critical **or** RHE 382 Research Methods:Rhetorical/Critica
-- +++MISSING INFO: c.com462.long +++
+- COM-462 Seminar in Public Discourse (WE)
 - CRW 115 Exploring Creative Writing
 - CRW 255 Playwriting Workshop I
 - CRW 280 Poetry Workshop I

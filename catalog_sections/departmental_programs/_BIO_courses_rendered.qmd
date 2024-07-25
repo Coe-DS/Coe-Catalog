@@ -29,8 +29,8 @@ A major in biology requires a minimum cumulative 2.0 GPA over courses counted to
 
 *Strongly recommended:*
     **One** of the following sequences:
-    - +++MISSING INFO: c.phy165_165l.long +++ and +++MISSING INFO: c.phy175_175l.long +++
-    - +++MISSING INFO: c.phy185_185l.long +++ and +++MISSING INFO: c.phy195_195l.long +++
+    - PHY 165/165L Basic Physics I & Laboratory and PHY 175/175L Basic Physics II & Laboratory
+    - PHY 185/185L General Physics I & Laboratory and PHY 195/195L General Physics II & Laboratory
 
 With consent of the department chair, other chemistry or mathematics courses may be substituted.
 

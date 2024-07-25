@@ -40,9 +40,9 @@ A major in Psychology requires a cumulative 2.0 GPA in all courses counted towar
 	* PSY 260 Cognitive Psychology 
  
 11. **One** of the following:
-	* +++MISSING INFO: c.psy325_325l.long +++
-	* +++MISSING INFO: c.psy335_335l.long +++
-	* +++MISSING INFO: c.psy355_355l.long +++
+	* PSY 325/325L Health Psychology and Laboratory (WE)
+	* PSY 335/335L Sensation and Perception and Laboratory (WE)
+	* PSY 355/355L Personality & Laboratory (WE)
 
 12. **One** of the following:
 	* PSY 315 Learning & Behavior
