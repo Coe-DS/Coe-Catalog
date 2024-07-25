@@ -7,18 +7,22 @@ No students will be admitted to the Athletic Training Education Program after De
 ### Courses in Athletic Training
 **{{< var c.at100.long >}}**  
 {{< var c.at100.desc >}}  
-**{{< var c.at20_/30_/40_.long >}}**  
-{{< var c.at20_/30_/40_.desc >}}  
-**{{< var c.at225/220.long >}}**  
-{{< var c.at225/220.desc >}}  
-**{{< var c.at235/230.long >}}**  
-{{< var c.at235/230.desc >}}  
+**AT 20_/30_/40_**    
+Comprised of clinical experience assigned by program director and a weekly seminar. Provides students the 
+opportunity to practice and integrate athletic training competencies within the context of direct patient care while 
+supervised by a clinical instructor. Clinical experience assignments vary from term to term and are commensurate with 
+demonstrated level of competence. Each course may be taken up to three times. Prerequisites: sophomore standing 
+and admission to the Athletic Training Education Program. (0.2 course credit)   
+**{{< var c.at225_220.long >}}**  
+{{< var c.at225_220.desc >}}  
+**{{< var c.at235_230.long >}}**  
+{{< var c.at235_230.desc >}}  
 **{{< var c.at375.long >}}**  
 {{< var c.at375.desc >}}  
 **{{< var c.at385.long >}}**  
 {{< var c.at385.desc >}}  
-**{{< var c.at395/390.long >}}**  
-{{< var c.at395/390.desc >}}  
+**{{< var c.at395_390.long >}}**  
+{{< var c.at395_390.desc >}}  
 **{{< var c.at425.long >}}**  
 {{< var c.at425.desc >}}  
 **{{< var c.at494.long >}}**  
