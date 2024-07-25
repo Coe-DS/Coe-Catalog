@@ -35,7 +35,7 @@ The major is interdisciplinary and requires that the students take courses in th
 - {{< var c.jpn125.long >}}
 - {{< var c.jpn215.long >}}
 - {{< var c.jpn225.long >}}
-- {{< var c.phl/rel206.long >}}
+- {{< var c.phl_rel206.long >}}
 - {{< var c.pol286.long >}}
 - {{< var c.rel106.long >}}
 - A second term of an overseas study program
@@ -60,7 +60,7 @@ The major is interdisciplinary and requires that the students take courses in th
 - {{< var c.jpn125.long >}}
 - {{< var c.jpn215.long >}}
 - {{< var c.jpn225.long >}}
-- {{< var c.phl/rel206.long >}}
+- {{< var c.phl_rel206.long >}}
 - {{< var c.pol286.long >}}
 - {{< var c.rel106.long >}} 
 
