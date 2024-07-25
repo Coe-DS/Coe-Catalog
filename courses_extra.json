@@ -342,7 +342,23 @@
 	    "desc": "Explores current theories, research findings, and laboratory applications related to the structure, development, and dynamic processes underlying the differences in how people act, think, and feel. Includes methods of constructing and evaluating personality assessment techniques. Three hours of lecture and three hours of laboratory per week. Prerequisite: Statistical Methods and Data Analysis (PSY-300). ",
 	    "namelink": "", 
 	    "namelinklong": ""
+	}, 
+	"com462": {
+	    "short": "'COM 462'",
+	    "long": "'COM-462 Seminar in Public Discourse (WE)'",
+	    "desc": "Exploration of a topic within the field of public discourse. Course work includes a substantive research project, and oral presentations. May be taken more than once for credit with consent of department chair. Can satisfy the DCP requirement when topic is appropriate. Prerequisites: Rhetorical Theory and Practice (RHE-200) and either Research Methods in Communication Studies (COM-381) or Research Methods: Rhetorical/Critical (COM-382).",
+	    "namelink": "", 
+	    "namelinklong": ""
+	},
+	"phl_rel206": {
+	    "short": "'PHL/REL 206'",
+	    "long": "'PHL/REL 206 Buddhist Thought (WE)'",
+	    "desc": "A survey of major issues in Buddhist philosophy, including ethics, emptiness, idealism, the nature of mind, and the nature of reality. The course focuses on Indian Buddhist philosophical schools and also explores distinctive philosophical ideas from Buddhist traditions in China, Japan, and Tibet. Prerequisite: Eastern Religions (REL-106), Buddhism (REL-116), or consent of instructor.",
+	    "namelink": "", 
+	    "namelinklong": ""
 	} 
+	    
+	    
 	
     }
 }
