@@ -265,8 +265,63 @@
 	    "desc": "Advances and continues the focus of holistic care for diverse individuals, families, groups, and populations across the life span. Applies the nursing process, emphasizing primary, secondary and tertiary nursing interventions, in care of individuals experiencing actual or risk for alterations in integumentary, pulmonary, cardiovascular, endocrine, sensory/neurological, and immune systems. Surgical, dietary and pharmacological management is integrated. Clinical and laboratory components provide opportunities to reinforce psychomotor skills and application of the nursing process in the delivery of safe, evidence-based, holistic, patient-centered care. Lab and clinical are P/NP basis only. Prerequisite: admission into the Bachelor of Science Nursing Program; Mental Health Nursing (NUR-345), Legal & Ethical Issues in Nursing (WE) (NUR-375), Pharmacological Principles (NUR-360), Introductory Concepts in Nursing/Clinical Application (NUR-355/-355L/-355C). (2.0 course credits)", 
 	    "namelink": "", 
 	    "namelinklong": ""
-	}
-	
-		
+	}, 
+	"phy185_185l": {
+	    "short": "'PHY 185/185L'",
+	    "long": "'PHY 185/185L General Physics I & Laboratory'",
+	    "desc": "A calculus-based introduction to mechanics to serve as a basis for advanced courses in physics. Kinematics, dynamics, energy, momentum, rotational motion and fluid mechanics are covered. One (0.0 course credit) laboratory per week, held jointly with Basic Physics laboratories, is a required part of this course. Lab is P/NP basis only. Previous experience in calculus recommended. ",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"phy195_195l": {
+	    "short": "'PHY 195/195L'",
+	    "long": "'PHY 195/195L General Physics II & Laboratory'",
+	    "desc": "A calculus-based introduction to thermodynamics, electrostatics, magnetism, circuits, light, and optics. One (0.0 course credit) laboratory per week, held jointly with Basic Physics laboratories, is a required part of this course. Lab is P/NP basis only. Prerequisites: General Physics I & Laboratory (PHY-185/-185L) or consent of instructor. ",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"phy235_235l": {
+	    "short": "'PHY 235/235L'", 
+	    "long": "'PHY 235/235L Modern Physics & Laboratory (WE)'",
+	    "desc": "Introduces quantum phenomena, including the wave-particle duality, atomic models, special theory of relativity,Schrodinger’s equation and its applications to certain potentials. Corequisite: Modern Physics Laboratory (PHY235L). Prerequisites: General Physics II & Laboratory (PHY-195/-195L) or consent of instructor.",
+	    "namelink": "", 
+	    "namelinklong": ""
+	},
+	"phy155_155l": {
+	    "short": "'PHY 155/155L'",
+	    "long": "'PHY 155/155L Electronics & Laboratory'",
+	    "desc": "Introduce to beginners basic ideas of current, voltage, resistance; Ohm’s law and DC circuit analysis; the diode, the transistor amplifier, oscillators; integrated circuits. Much construction of circuits. Includes one two-hour, (0.0 course credit) laboratory weekly. Lab is P/NP basis only. This course satisfies the general education laboratory science requirement. Prerequisite: competence in algebra",
+	    "namelink": "", 
+	    "namelinklong": ""
+	},
+	"phy165_165l": {
+	    "short": "'PHY 165/165L'", 
+	    "long": "'PHY 165/165L Basic Physics I & Laboratory'",
+	    "desc": "'An algebra-based survey course in the basic principles of mechanics, dynamics, energy, momentum and rotational motion. One (0.0 course credit) laboratory per week, held jointly with General Physics laboratories, is a required part of this course. Lab is P/NP basis only. This course satisfies the general education laboratory science requirement. Previous experience in algebra recommended.'",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"phy175_175l": {
+	    "short": "'PHY 175/175L'",
+	    "long": "'PHY 175/175L Basic Physics II & Laboratory'",
+	    "desc": "An algebra-based survey course in the basic principles of thermodynamics, electrostatics, magnetism, circuits, light, and optics. One (0.0 course credit) laboratory per week, held jointly with General Physics laboratories, is a required part of this course. Lab is P/NP basis only. This course satisfies the general education laboratory science requirement. Prerequisite: Basic Physics I & Laboratory (PHY-165/-165L), or consent of instructor.",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"phy221": {
+	    "short": "'PHY 221'",
+	    "long": "'PHY 221 Computational Physics'",
+	    "desc": "Survey of the computational methods used by physicists. Students learn basics of Linux systems, C++, shell scripting, and data analysis tools, such as MATLAB and ROOT. Some Monte Carlo applications for biophysics, particle and medical physics, as well as material science are introduced. Prerequisite: Consent of instructor.",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"phy255_355": {
+	    "short": "'PHY 255/355'",
+	    "long": "'PHY 255/355 Introduction to Physics Research I–II'",
+	    "desc": "Extensive independent or group investigations of a particular topic or set of topics. Designed to be a research experience in preparation for teaching, graduate school, or direct entry into a technical field after graduation. Prerequisite: General Physics II & Laboratory (PHY-195/-195L) or consent of instructor.",
+	    "namelink": "",
+	    "namelinklong": ""
+	} 
+	    
     }
 }
