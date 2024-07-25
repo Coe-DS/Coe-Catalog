@@ -321,7 +321,28 @@
 	    "desc": "Extensive independent or group investigations of a particular topic or set of topics. Designed to be a research experience in preparation for teaching, graduate school, or direct entry into a technical field after graduation. Prerequisite: General Physics II & Laboratory (PHY-195/-195L) or consent of instructor.",
 	    "namelink": "",
 	    "namelinklong": ""
+	},
+	"psy325_325l": {
+	    "short": "'PSY 325/325L'",
+	    "long": "'PSY 325/325L Health Psychology and Laboratory (WE)'",
+	    "desc": "Explores current theories, research findings, and laboratory applications related to the bidirectional relationship between psychological processes (thoughts, emotions, and behaviors) and physical health. Topics include health promotion and health behaviors, disease prevention, stress and coping, compliance with medical advice, pain, chronic illness, and psychological mechanisms of health disparities. Three hours of lecture and three hours of laboratory per week. Prerequisites: Statistical Methods and Data Analysis (PSY-300).",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"psy335_335l": {
+	    "short": "'PSY 335/335L'",
+	    "long": "'PSY 335/335L Sensation and Perception and Laboratory (WE)'",
+	    "desc": "Explores current theories, research findings, and laboratory applications related to how individuals detect and perceive sensory information in the environment. An overarching theme is how organisms appear to generate accurate percepts despite the limited and ambiguous nature of incoming sensory information. While the primary focus is on human vision, the most extensively studied of the senses, other systems are discussed. Course material covers basic biological structures (e.g. photoreceptors) that detect and transduce environmental energy into electrical impulses transmitted throughout the nervous system. Three hours of lecture and three hours of laboratory per week. Prerequisites: Statistical Methods and Data Analysis (PSY-300).",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"psy355_355l": {
+	    "short": "'PSY 355/355L'",
+	    "long": "'PSY 355/355L Personality & Laboratory (WE)'",
+	    "desc": "Explores current theories, research findings, and laboratory applications related to the structure, development, and dynamic processes underlying the differences in how people act, think, and feel. Includes methods of constructing and evaluating personality assessment techniques. Three hours of lecture and three hours of laboratory per week. Prerequisite: Statistical Methods and Data Analysis (PSY-300). ",
+	    "namelink": "", 
+	    "namelinklong": ""
 	} 
-	    
+	
     }
 }
