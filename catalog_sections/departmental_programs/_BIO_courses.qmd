@@ -21,16 +21,18 @@ A major in biology requires a minimum cumulative 2.0 GPA over courses counted to
 8. {{< var c.chm121_121l.long >}}
 9. {{< var c.chm122_122l.long >}}
 10. **One** of the following:
-    - {{< var c.mth132.long >}} (strongly recommended for students considering attending graduate school)
+    - {{< var c.mth135.long >}} (strongly recommended for students considering attending graduate school)
     - {{< var c.sta100.long >}} and {{< var c.sta110.long >}}
     - {{< var c.sta100.long >}} and {{< var c.sta130.long >}}
 
 11. Attendance at research seminars in junior and senior years
 
 *Strongly recommended:*
-    **One** of the following sequences:
-    - {{< var c.phy165_165l.long >}} and {{< var c.phy175_175l.long >}}
-    - {{< var c.phy185_185l.long >}} and {{< var c.phy195_195l.long >}}
+
+>**One** of the following sequences:  
+
+- {{< var c.phy165_165l.long >}} and {{< var c.phy175_175l.long >}}
+- {{< var c.phy185_185l.long >}} and {{< var c.phy195_195l.long >}}
 
 With consent of the department chair, other chemistry or mathematics courses may be substituted.
 
