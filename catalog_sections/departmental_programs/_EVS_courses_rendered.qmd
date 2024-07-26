@@ -16,7 +16,7 @@ Concurrent completion of any of the majors listed under [Areas of Study](catalog
 3. ECO 175 Principles of Macroeconomics
 4. ECO 195 Prin of Environmental Economics
 5. **One** of the following:  
-	+++MISSING INFO: c.evs112.long +++  
+	EVS 112 Environmental Law and Policy  
 	PHL 205 Environmental Ethics  
 6. **One** of the following:  
 	BUS 190 Statistical Analysis  
@@ -39,7 +39,7 @@ Concurrent completion of any of the majors listed under [Areas of Study](catalog
 		BUS 170 Bus Sustainability & Environment  
 		ECO 155 Econ/Ethics of Alternative Energy  
 		ECO 215 Prin Microeconomics  
-		+++MISSING INFO: c.evs112.long +++ (if not used to satisfy #5)  
+		EVS 112 Environmental Law and Policy (if not used to satisfy #5)  
 		EVS 137 Environmental Law: The Wilderness Act and the Battle Over the Boundary Waters  
 		POL 115 American National Gov & Pol  
 		POL 386 International Development  
@@ -56,8 +56,8 @@ Concurrent completion of any of the majors listed under [Areas of Study](catalog
   Examines the global trend of the increasing attention organizations are giving to environmental and sustainability issues, including evaluation of successful business practices being pursued by leading corporations. Consideration is given to why and how corporations are embracing such trends. Topics covered include eco-labeling, corporate environmental strategies, NGO-business partnerships, and emerging markets for environmental goods and services. Significant attention is given to global warming concerns and the emerging strategies for measuring and reducing the carbon footprint of business.   
  **ECO 195 Prin of Environmental Economics**  
   An introduction to the economics of the environment and natural resource allocation. This course is focused on optimal resource allocation and the problems associated with externalities and public goods in the context of a market economy. Environmental issues and policy are analyzed using standard economic models. This course may be used to satisfy the requirements for a major in Environmental Studies but does not satisfy any of the requirements for a major or minor in economics. Prerequisite: Principles of Macroeconomics (ECO-175).   
- **+++MISSING INFO: c.evs112.long +++**  
-  +++MISSING INFO: c.evs112.desc +++   
+ **EVS 112 Environmental Law and Policy**  
+  An introduction to the law and surrounding policies pertaining to environmental issues such as pollution, population, economic growth, and energy. The course focuses on the analysis of existing federal statutory efforts, such as the National Environmental Policy Act, the Clean Air Act, the Clean Water Act, and the Resource Conservation and Recovery Act. Attention is also given to environmental enforcement issues and the role of the regulatory agency.   
  **EVS 137 Environmental Law: The Wilderness Act and the Battle Over the Boundary Waters**  
   An introduction to environmental law and the effort to control the effects of human activity on land and water. After an overview of basic environmental law covering property rights and wilderness protection, the class applies the same to the Boundary Waters Canoe Area Wilderness (BWCAW), local communities, recreation, and use of the area. Significant time is spent on the legislative efforts to establish the BWCAW and subsequent judicial interpretation of those laws. Multiple trips to areas of different preservation status are taken to help evaluate the practical effects of the disparate levels of protection. (Offered summers at the Wilderness Field Station)   
  **EVS 484 Topics in Environmental Studies**  

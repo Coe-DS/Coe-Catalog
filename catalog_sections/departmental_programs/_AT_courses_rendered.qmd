@@ -17,14 +17,14 @@ demonstrated level of competence. Each course may be taken up to three times. Pr
 and admission to the Athletic Training Education Program. (0.2 course credit)   
 **+++MISSING INFO: c.at225_220.long +++**  
 +++MISSING INFO: c.at225_220.desc +++  
-**+++MISSING INFO: c.at235_230.long +++**  
-+++MISSING INFO: c.at235_230.desc +++  
+**AT 235/230 Clinical Examination of the Upper Extremity & Laboratory**  
+Introduction to the systematic procedures used in the examination of injuries involving the head/neck and upper extremity. Laboratory component examines development and evaluation of commonly used clinical proficiencies related to surface palpation, goniometry, manual muscle, and special testing techniques involving the head/neck and upper extremity. Prerequisites: Clinical Examination of the Lower Extremity (AT-225) and admission to the Athletic Training Education Program.  
 **AT 375 General Medical Conditions**  
 Study of the etiology, clinical manifestations and management of common diseases/conditions that affect athletes and others involved in physical activity. Additional topics include pharmacology, counseling and psychosocial interventions. Prerequisites: Human Anatomy (BIO-215), Human Physiology (BIO-225), and admission to Athletic Training Education Program.  
 **AT 385 Therapeutic Modalities**  
 Investigation into the concepts, indications/contraindications, physiological effects, and clinical implications of physical modalities used in a therapeutic setting. Prerequisite: Human Physiology (BIO-225).  
-**+++MISSING INFO: c.at395_390.long +++**  
-+++MISSING INFO: c.at395_390.desc +++  
+**AT 395/390 Therapeutic Exercise & Laboratory**  
+Introduction to various forms of individualized exercise and rehabilitation programs used in a therapeutic setting. Laboratory component provides theoretical background and practical application of the principles and techniques related to the rehabilitation of injuries. Surgical and non-surgical rehabilitation protocols discussed with a special emphasis given to functional progressions. Prerequisites: Clinical Examination of the Upper Extremity (AT-235) and Kinesiology (KIN-495).  
 **AT 425 Administration of Athletic Training**  
 Introduction to the organization and administration of an athletic training program including facility planning/design, information/resource management, legal/ethical considerations, risk management, insurance systems, and professional development. Prerequisite: senior standing in the Athletic Training Education Program.  
 **AT 494 Internship in Athletic Training**  

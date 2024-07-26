@@ -8,29 +8,31 @@ In addition to a major in biology, the college also offers collateral majors in 
 
 A major in biology requires a minimum cumulative 2.0 GPA over courses counted toward the major.
 
-1. +++MISSING INFO: c.bio145_145l.long +++
-2. +++MISSING INFO: c.bio155_155l.long +++
+1. BIO 145/145L Cellular and Molecular Biology and Laboratory (WE)
+2. BIO 155/155L Organismal and Ecological Biology and Laboratory (WE)
 3. BIO 202 Topics in Evolution
-4. +++MISSING INFO: c.bio205_205l.long +++
-5. +++MISSING INFO: c.bio235_235l.long +++
+4. BIO 205/205L General Botany and Laboratory (WE)
+5. BIO 235/235L Genetics and Laboratory
 6. **One** of the following:
-    - +++MISSING INFO: c.bio355_355l.long +++
-    - +++MISSING INFO: c.bio375_375l.long +++
+    - BIO 355/355L Animal Physiology and Laboratory
+    - BIO 375/375L Integrated Human Physiology and Laboratory
 
 7. **Three** biology electives with the associated laboratories
 8. CHM 121/121L General Chemistry I and Laboratory
 9. CHM 122/122L General Chemistry II and Laboratory
 10. **One** of the following:
-    - +++MISSING INFO: c.mth132.long +++ (strongly recommended for students considering attending graduate school)
+    - MTH 135 Calculus I (strongly recommended for students considering attending graduate school)
     - STA 100 Statistical Reasoning I-Foundations and STA 110 Stats IIA: Inferential Reasoning
     - STA 100 Statistical Reasoning I-Foundations and STA 130 Stats IIB: Experimental Design
 
 11. Attendance at research seminars in junior and senior years
 
 *Strongly recommended:*
-    **One** of the following sequences:
-    - PHY 165/165L Basic Physics I & Laboratory and PHY 175/175L Basic Physics II & Laboratory
-    - PHY 185/185L General Physics I & Laboratory and PHY 195/195L General Physics II & Laboratory
+
+>**One** of the following sequences:  
+
+- PHY 165/165L Basic Physics I & Laboratory and PHY 175/175L Basic Physics II & Laboratory
+- PHY 185/185L General Physics I & Laboratory and PHY 195/195L General Physics II & Laboratory
 
 With consent of the department chair, other chemistry or mathematics courses may be substituted.
 

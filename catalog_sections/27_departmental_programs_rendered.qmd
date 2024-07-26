@@ -564,14 +564,14 @@ demonstrated level of competence. Each course may be taken up to three times. Pr
 and admission to the Athletic Training Education Program. (0.2 course credit)   
 **+++MISSING INFO: c.at225_220.long +++**  
 +++MISSING INFO: c.at225_220.desc +++  
-**+++MISSING INFO: c.at235_230.long +++**  
-+++MISSING INFO: c.at235_230.desc +++  
+**AT 235/230 Clinical Examination of the Upper Extremity & Laboratory**  
+Introduction to the systematic procedures used in the examination of injuries involving the head/neck and upper extremity. Laboratory component examines development and evaluation of commonly used clinical proficiencies related to surface palpation, goniometry, manual muscle, and special testing techniques involving the head/neck and upper extremity. Prerequisites: Clinical Examination of the Lower Extremity (AT-225) and admission to the Athletic Training Education Program.  
 **AT 375 General Medical Conditions**  
 Study of the etiology, clinical manifestations and management of common diseases/conditions that affect athletes and others involved in physical activity. Additional topics include pharmacology, counseling and psychosocial interventions. Prerequisites: Human Anatomy (BIO-215), Human Physiology (BIO-225), and admission to Athletic Training Education Program.  
 **AT 385 Therapeutic Modalities**  
 Investigation into the concepts, indications/contraindications, physiological effects, and clinical implications of physical modalities used in a therapeutic setting. Prerequisite: Human Physiology (BIO-225).  
-**+++MISSING INFO: c.at395_390.long +++**  
-+++MISSING INFO: c.at395_390.desc +++  
+**AT 395/390 Therapeutic Exercise & Laboratory**  
+Introduction to various forms of individualized exercise and rehabilitation programs used in a therapeutic setting. Laboratory component provides theoretical background and practical application of the principles and techniques related to the rehabilitation of injuries. Surgical and non-surgical rehabilitation protocols discussed with a special emphasis given to functional progressions. Prerequisites: Clinical Examination of the Upper Extremity (AT-235) and Kinesiology (KIN-495).  
 **AT 425 Administration of Athletic Training**  
 Introduction to the organization and administration of an athletic training program including facility planning/design, information/resource management, legal/ethical considerations, risk management, insurance systems, and professional development. Prerequisite: senior standing in the Athletic Training Education Program.  
 **AT 494 Internship in Athletic Training**  
@@ -587,15 +587,15 @@ Stead (Administrative Coordinator).
 A major in biochemistry requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 Concurrent completion of a primary major in chemistry, including Calculus II and two General Physics courses is required. Students choosing a collateral major in biochemistry may not select a collateral major in molecular biology
 
-1.+++MISSING INFO: c.bio145_145l.long +++  
+1.BIO 145/145L Cellular and Molecular Biology and Laboratory (WE)  
 2.CHM 431/431L Biochemistry and Laboratory  
 3.CHM 432/432L Protein Biochemistry and Laboratory  
 4.**Two** of the following:
 
-> +++MISSING INFO: c.bio325_325l.long +++  
-> +++MISSING INFO: c.bio345_345l.long +++  
+> BIO 325/325L Microbiology (WE) and Laboratory  
+> BIO 345/345L Techniques in Molecular Biology and Laboratory  
 > BIO 405 Current Topics in Molecular Biology  
-> +++MISSING INFO: c.bio435_435l.long +++  
+> BIO 435/435L Cell Physiology and Laboratory  
 
 Genetics (BIO-235) and Laboratory (BIO-235L) and all of the courses under #4 are strongly encouraged, especially for those planning graduate study.
 
@@ -610,29 +610,31 @@ In addition to a major in biology, the college also offers collateral majors in 
 
 A major in biology requires a minimum cumulative 2.0 GPA over courses counted toward the major.
 
-1. +++MISSING INFO: c.bio145_145l.long +++
-2. +++MISSING INFO: c.bio155_155l.long +++
+1. BIO 145/145L Cellular and Molecular Biology and Laboratory (WE)
+2. BIO 155/155L Organismal and Ecological Biology and Laboratory (WE)
 3. BIO 202 Topics in Evolution
-4. +++MISSING INFO: c.bio205_205l.long +++
-5. +++MISSING INFO: c.bio235_235l.long +++
+4. BIO 205/205L General Botany and Laboratory (WE)
+5. BIO 235/235L Genetics and Laboratory
 6. **One** of the following:
-    - +++MISSING INFO: c.bio355_355l.long +++
-    - +++MISSING INFO: c.bio375_375l.long +++
+    - BIO 355/355L Animal Physiology and Laboratory
+    - BIO 375/375L Integrated Human Physiology and Laboratory
 
 7. **Three** biology electives with the associated laboratories
 8. CHM 121/121L General Chemistry I and Laboratory
 9. CHM 122/122L General Chemistry II and Laboratory
 10. **One** of the following:
-    - +++MISSING INFO: c.mth132.long +++ (strongly recommended for students considering attending graduate school)
+    - MTH 135 Calculus I (strongly recommended for students considering attending graduate school)
     - STA 100 Statistical Reasoning I-Foundations and STA 110 Stats IIA: Inferential Reasoning
     - STA 100 Statistical Reasoning I-Foundations and STA 130 Stats IIB: Experimental Design
 
 11. Attendance at research seminars in junior and senior years
 
 *Strongly recommended:*
-    **One** of the following sequences:
-    - PHY 165/165L Basic Physics I & Laboratory and PHY 175/175L Basic Physics II & Laboratory
-    - PHY 185/185L General Physics I & Laboratory and PHY 195/195L General Physics II & Laboratory
+
+>**One** of the following sequences:  
+
+- PHY 165/165L Basic Physics I & Laboratory and PHY 175/175L Basic Physics II & Laboratory
+- PHY 185/185L General Physics I & Laboratory and PHY 195/195L General Physics II & Laboratory
 
 With consent of the department chair, other chemistry or mathematics courses may be substituted.
 
@@ -2328,7 +2330,7 @@ Concurrent completion of any of the majors listed under [Areas of Study](catalog
 3. ECO 175 Principles of Macroeconomics
 4. ECO 195 Prin of Environmental Economics
 5. **One** of the following:  
-	+++MISSING INFO: c.evs112.long +++  
+	EVS 112 Environmental Law and Policy  
 	PHL 205 Environmental Ethics  
 6. **One** of the following:  
 	BUS 190 Statistical Analysis  
@@ -2351,7 +2353,7 @@ Concurrent completion of any of the majors listed under [Areas of Study](catalog
 		BUS 170 Bus Sustainability & Environment  
 		ECO 155 Econ/Ethics of Alternative Energy  
 		ECO 215 Prin Microeconomics  
-		+++MISSING INFO: c.evs112.long +++ (if not used to satisfy #5)  
+		EVS 112 Environmental Law and Policy (if not used to satisfy #5)  
 		EVS 137 Environmental Law: The Wilderness Act and the Battle Over the Boundary Waters  
 		POL 115 American National Gov & Pol  
 		POL 386 International Development  
@@ -2368,8 +2370,8 @@ Concurrent completion of any of the majors listed under [Areas of Study](catalog
   Examines the global trend of the increasing attention organizations are giving to environmental and sustainability issues, including evaluation of successful business practices being pursued by leading corporations. Consideration is given to why and how corporations are embracing such trends. Topics covered include eco-labeling, corporate environmental strategies, NGO-business partnerships, and emerging markets for environmental goods and services. Significant attention is given to global warming concerns and the emerging strategies for measuring and reducing the carbon footprint of business.   
  **ECO 195 Prin of Environmental Economics**  
   An introduction to the economics of the environment and natural resource allocation. This course is focused on optimal resource allocation and the problems associated with externalities and public goods in the context of a market economy. Environmental issues and policy are analyzed using standard economic models. This course may be used to satisfy the requirements for a major in Environmental Studies but does not satisfy any of the requirements for a major or minor in economics. Prerequisite: Principles of Macroeconomics (ECO-175).   
- **+++MISSING INFO: c.evs112.long +++**  
-  +++MISSING INFO: c.evs112.desc +++   
+ **EVS 112 Environmental Law and Policy**  
+  An introduction to the law and surrounding policies pertaining to environmental issues such as pollution, population, economic growth, and energy. The course focuses on the analysis of existing federal statutory efforts, such as the National Environmental Policy Act, the Clean Air Act, the Clean Water Act, and the Resource Conservation and Recovery Act. Attention is also given to environmental enforcement issues and the role of the regulatory agency.   
  **EVS 137 Environmental Law: The Wilderness Act and the Battle Over the Boundary Waters**  
   An introduction to environmental law and the effort to control the effects of human activity on land and water. After an overview of basic environmental law covering property rights and wilderness protection, the class applies the same to the Boundary Waters Canoe Area Wilderness (BWCAW), local communities, recreation, and use of the area. Significant time is spent on the legislative efforts to establish the BWCAW and subsequent judicial interpretation of those laws. Multiple trips to areas of different preservation status are taken to help evaluate the practical effects of the disparate levels of protection. (Offered summers at the Wilderness Field Station)   
  **EVS 484 Topics in Environmental Studies**  
