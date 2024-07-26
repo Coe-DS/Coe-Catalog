@@ -468,6 +468,20 @@
 	    "desc": "Examines the role of microbes in the environment. Topics include microbial diversity, nutrient cycling including biogeochemistry, bioremediation, and biodegradation. The use of molecular methods and microscopy to study microbes in situ are special emphases of the course. Three lectures per week. Prerequisites: Cellular and Molecular Biology and Laboratory (BIO-145/-145L), Organismal and Ecological Biology (BIO-155), Organic Chemistry I (CHM-221) with Organic Laboratory (CHM-322) or Genetics (BIO-235).",
 	    "namelink": "", 
 	    "namelinklong": ""
+	}, 
+	"bio425_425l": {
+	    "short": "'BIO 425/425L'",
+	    "long": "'BIO 425/425L Ecology and Laboratory (WE)'",
+	    "desc": "Studies the interrelationship among organisms and their environments. The structure and dynamics of populations, communities, and ecosystems are examined through lectures and laboratory or field investigations. Three lectures per week. Prerequisites: General Botany (BIO-205) or consent of instructor.",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"bio385_385l": {
+	    "short": "'BIO 385/385L'", 
+	    "long": "'BIO 385/385L Behavior and Ecology of Vertebrates'",
+	    "desc": "Explores the identification, evolutionary history, and behavioral and ecological relationships of local mammals, birds, reptiles, amphibians, and fish. Students learn and apply survey techniques appropriate for particular groups to understand species/habitat relationships, diversity within groups, and the impact of humans on diversity. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145) and Topics in Evolution (BIO-202).",
+	    "namelink": "", 
+	    "namelinklong": ""
 	}
 	    
 	    
