@@ -9,19 +9,19 @@ Concurrent completion of a primary major in biology or chemistry is required.
 Biology majors:  
 
 >>{{< var c.mth135.long >}}    
->>{{< var c.bio445.long >}} and {{< var c.bio445l.long >}}  
+>>{{< var c.bio445_445l.long >}}
 	
 >>>**or**    
 
 >Chemistry majors:  
 
 >>{{< var c.mth145.long >}}    	
->>{{< var c.phy185.long >}} and {{< var c.phy185l.long >}}    
->>{{< var c.phy195.long >}} and {{< var c.phy195l.long >}}    
->>{{< var c.bio445.long >}} and {{< var c.bio445l.long >}}    
+>>{{< var c.phy185_185l.long >}}    
+>>{{< var c.phy195_195l.long >}}
+>>{{< var c.bio445_445l.long >}}
 
-2. {{< var c.bio295.long >}} and {{< var c.bio295l.long >}}  
-3. {{< var c.chm211.long >}} and {{< var c.bio211l.long >}}  
+2. {{< var c.295_295l.long >}}
+3. {{< var c.chm211_211l.long >}}
 4. {{< var c.chm221.long >}}  
 5. **Two** of the following with the associated laboratories:  
 	{{< var c.bio115.long >}}  
@@ -29,14 +29,15 @@ Biology majors:
 	{{< var c.bio175.long >}}  
 	{{< var c.bio185.long >}}  
 	{{< var c.bio275.long >}}  
-	{{< var c.bio325.long >}}  
-	{{< var c.bio385.long >}}  
-	{{< var c.bio411.long >}}  
-	{{< var c.bio425.long >}}  
-	{{< var c.bio444.long >}}  
-Any course taught at the Wilderness Field Station with BIO prefix.
+	{{< var c.bio325_325l.long >}}  
+	{{< var c.bio385_385l.long >}}  
+	{{< var c.bio425_425l.long >}}  
+	{{< var c.chm411.long >}}  
+	{{< var c.chm444.long >}}  
+	Any course taught at the Wilderness Field Station with BIO prefix.
 
 *Recommended:*  
+
 >Any course taught at the Wilderness Field Station  
 	{{< var c.bio105.long >}}  
 	{{< var c.mth145.long >}}  
