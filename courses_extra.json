@@ -461,6 +461,13 @@
 	    "desc": "Investigates spatial patterns of organisms in natural, agricultural, and urban landscapes. Emphasis is on how the arrangements of organisms both reflect and feedback on underlying resources and geography. Students learn how to capture spatial characteristics of individuals, populations, species, communities, and landscapes sampled in the field, integrate them with satellite imagery, and analyze them statistically. Use of global positioning system hardware to provide spatial reference for field ecology surveys and use of ArcView as a data management, display, and analysis tool are important features of the course. Three lectures per week. Prerequisites: Organismal and Ecological Biology and Laboratory (BIO-155/-155L).",
 	    "namelink": "", 
 	    "namelinklong": ""
+	}, 
+	"bio445_445l": {
+	    "short": "'BIO 445/445L'",
+	    "long": "'BIO 445/445L Environmental Microbiology and Lab'",
+	    "desc": "Examines the role of microbes in the environment. Topics include microbial diversity, nutrient cycling including biogeochemistry, bioremediation, and biodegradation. The use of molecular methods and microscopy to study microbes in situ are special emphases of the course. Three lectures per week. Prerequisites: Cellular and Molecular Biology and Laboratory (BIO-145/-145L), Organismal and Ecological Biology (BIO-155), Organic Chemistry I (CHM-221) with Organic Laboratory (CHM-322) or Genetics (BIO-235).",
+	    "namelink": "", 
+	    "namelinklong": ""
 	}
 	    
 	    
