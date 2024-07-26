@@ -454,7 +454,15 @@
 	    "desc": "Offers an extensive independent or group investigations of a particular topic in biology. Designed to be a research experience in preparation for teaching, graduate school or direct entry into a technical field after graduation. Advanced Biology Laboratory I (BIO-462) may be repeated as Advanced Biology Laboratory II (BIO-463). P/NP basis only. Prerequisites: Genetics and Laboratory (BIO-235/-235L), and consent of instructor. (Offered May Term only)",
 	    "namelink": "", 
 	    "namelinklong": ""
+	}, 
+	"bio295_295L": {
+	    "short": "'BIO 295/295L'",
+	    "long": "'BIO 295/295L Spatial Ecology and Laboratory (WE)'",
+	    "desc": "Investigates spatial patterns of organisms in natural, agricultural, and urban landscapes. Emphasis is on how the arrangements of organisms both reflect and feedback on underlying resources and geography. Students learn how to capture spatial characteristics of individuals, populations, species, communities, and landscapes sampled in the field, integrate them with satellite imagery, and analyze them statistically. Use of global positioning system hardware to provide spatial reference for field ecology surveys and use of ArcView as a data management, display, and analysis tool are important features of the course. Three lectures per week. Prerequisites: Organismal and Ecological Biology and Laboratory (BIO-155/-155L).",
+	    "namelink": "", 
+	    "namelinklong": ""
 	}
+	    
 	    
 	
     }
