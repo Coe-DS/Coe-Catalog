@@ -440,8 +440,14 @@
 	    "desc": "Studies physiologic functions in terms of basic physical and chemical processes; an introduction to the principles of physiology using the human organism as a model. Three lectures per week. Prerequisites: Cellular and Molecular Biology and Laboratory (BIO-145/-145L), and Organismal and Ecological Biology (BIO-155).",
 	    "namelink": "", 
 	    "namelinklong": ""
-	} 
-	
+	}, 
+	"evs112": {
+	    "short": "'EVS 112'",
+	    "long": "'EVS 112 Environmental Law and Policy'",
+	    "desc": "An introduction to the law and surrounding policies pertaining to environmental issues such as pollution, population, economic growth, and energy. The course focuses on the analysis of existing federal statutory efforts, such as the National Environmental Policy Act, the Clean Air Act, the Clean Water Act, and the Resource Conservation and Recovery Act. Attention is also given to environmental enforcement issues and the role of the regulatory agency.",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}
 	    
 	
     }
