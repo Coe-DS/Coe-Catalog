@@ -482,6 +482,27 @@
 	    "desc": "Explores the identification, evolutionary history, and behavioral and ecological relationships of local mammals, birds, reptiles, amphibians, and fish. Students learn and apply survey techniques appropriate for particular groups to understand species/habitat relationships, diversity within groups, and the impact of humans on diversity. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145) and Topics in Evolution (BIO-202).",
 	    "namelink": "", 
 	    "namelinklong": ""
+	}, 
+	"flm105_flm105l": {
+	    "short": "'FLM 105 /FLM 105L'",
+	    "long": "'FLM 105 /FLM 105L Introduction to Film and Laboratory'",
+	    "desc": "Provides an historical understanding of film art as well as a basic critical perspective. This course surveys basic technical elements of film as well as major genres and cultural themes. Students view a wide spectrum of film and are introduced to the special vocabulary associated with film. Three class meetings and one three-hour lab (0.0 course credit) each week. Lab is P/NP basis only.",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"flm200_flm200l": {
+	    "short": "'FLM 200 /FLM 200L'",
+	    "long": "'FLM 200 /FLM 200L Film Analysis and Laboratory (WE)'",
+	    "desc": "Provides practice in the application of major film theories. Subject areas include auteur theory, genre theory, image and montage, narrative form, and digital technologies. Three class meetings and one three-hour lab (0.0 course credit) each week. Lab is P/NP basis only. Prerequisite: Introduction to Film (FLM-105) or consent of the Film Studies administrative coordinator.",
+	    "namelink": "", 
+	    "namelinklong": ""
+	},
+	"flm225_flm225l": {
+	    "short": "'FLM 225 /FLM 225L'",
+	    "long": "'FLM 225 /FLM 225L Film History and Laboratory (WE)'",
+	    "desc": "Familiarizes students with the history of film from the beginning to the present. Three class meetings and one threehour lab (0.0 course credit) each week.",
+	    "namelink": "", 
+	    "namelinklong": ""
 	}
 	    
 	    
