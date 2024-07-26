@@ -82,6 +82,8 @@ format:
     mainfont: "Garamond"
   docx:
     mainfont: "Garamond"
+    keep-md: true
+    toc: true
   pdf:
     documentclass: scrbook
     keep-tex: true
