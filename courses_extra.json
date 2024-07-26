@@ -356,8 +356,30 @@
 	    "desc": "A survey of major issues in Buddhist philosophy, including ethics, emptiness, idealism, the nature of mind, and the nature of reality. The course focuses on Indian Buddhist philosophical schools and also explores distinctive philosophical ideas from Buddhist traditions in China, Japan, and Tibet. Prerequisite: Eastern Religions (REL-106), Buddhism (REL-116), or consent of instructor.",
 	    "namelink": "", 
 	    "namelinklong": ""
+	}, 
+	"at_225_220": {
+	    "short": "'AT 225/220'", 
+	    "long": "'AT 225/220 Clinical Examination of the Lower Extremity & Laboratory'",
+	    "desc": "Introduction to the systematic procedures used in the examination of injuries involving the spine, thorax/abdomen and lower extremity. Laboratory component examines development and evaluation of commonly used clinical proficiencies related to surface palpation, goniometry, manual muscle, and special testing techniques involving the spine, thorax/abdomen and lower extremity. Prerequisites: Prevention and Care of Athletic Injuries & Laboratory (KIN-175) and admission to the Athletic Training Education Program.",
+	    "namelink": "",
+	    "namelinklong": ""
+	}, 
+	"at235_230": {
+	    "short": "'AT 235/230'",
+	    "long": "'AT 235/230 Clinical Examination of the Upper Extremity & Laboratory'",
+	    "desc": "Introduction to the systematic procedures used in the examination of injuries involving the head/neck and upper extremity. Laboratory component examines development and evaluation of commonly used clinical proficiencies related to surface palpation, goniometry, manual muscle, and special testing techniques involving the head/neck and upper extremity. Prerequisites: Clinical Examination of the Lower Extremity (AT-225) and admission to the Athletic Training Education Program.",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"at395_390": {
+	    "short": "'AT 395/390'", 
+	    "long": "'AT 395/390 Therapeutic Exercise & Laboratory'",
+	    "desc": "Introduction to various forms of individualized exercise and rehabilitation programs used in a therapeutic setting. Laboratory component provides theoretical background and practical application of the principles and techniques related to the rehabilitation of injuries. Surgical and non-surgical rehabilitation protocols discussed with a special emphasis given to functional progressions. Prerequisites: Clinical Examination of the Upper Extremity (AT-235) and Kinesiology (KIN-495).",
+	    "namelink": "", 
+	    "namelinklong": ""
 	} 
-	    
+	
+	
 	    
 	
     }
