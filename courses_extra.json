@@ -377,8 +377,70 @@
 	    "desc": "Introduction to various forms of individualized exercise and rehabilitation programs used in a therapeutic setting. Laboratory component provides theoretical background and practical application of the principles and techniques related to the rehabilitation of injuries. Surgical and non-surgical rehabilitation protocols discussed with a special emphasis given to functional progressions. Prerequisites: Clinical Examination of the Upper Extremity (AT-235) and Kinesiology (KIN-495).",
 	    "namelink": "", 
 	    "namelinklong": ""
+	}, 
+	"bio145_145l": {
+	    "short": "'BIO 145/145L'",
+	    "long": "'BIO 145/145L Cellular and Molecular Biology and Laboratory (WE)'",
+	    "desc": "Studies biology at the cellular and molecular level, including structure and function of cell components, metabolism and energy, and Mendelian genetics. Three lectures per week.",
+	    "namelink": "",
+	    "namelinklong": ""
+	},
+	"bio155_155l": {
+	    "short": "'BIO 155/155L'",
+	    "long": "'BIO 155/155L Organismal and Ecological Biology and Laboratory (WE)'",
+	    "desc": "Studies tissues, organ systems, and reproduction in animals with an emphasis on human biology. Principles of ecology, environmental science and animal behavior are also studied. Three lectures per week.",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"bio325_325l": {
+	    "short": "'BIO 325/325L'", 
+	    "long": "'BIO 325/325L Microbiology (WE) and Laboratory'",
+	    "desc": "Studies major fields of microbiology with emphasis on bacteria and viruses. Topics include bacterial cell structure, genetics, and pathogenesis as well as immunology and epidemiology. Three lectures per week. Prerequisites: Cellular and Molecular Biology and Laboratory (BIO-145/-145L), Organismal and Ecological Biology (BIO-155), Organic Chemistry I (CHM-221) and Organic Laboratory (CHM-322) or Genetics (BIO-235). ",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"bio345_345l": {
+	    "short": "'BIO 345/345L'",
+	    "long": "'BIO 345/345L Techniques in Molecular Biology and Laboratory'",
+	    "desc": "Introduces students to biological molecular techniques. Methods include RNA, DNA and protein expression analysis and cell culture techniques. On completing the course, students should have a working knowledge of most methods used in molecular biology research. Two sessions per week. Prerequisites: Genetics and Laboratory (BIO-235/-235L), and General Chemistry II and Laboratory (CHM-122/-122L).",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"bio435_435l": {
+	    "short": "'BIO 435/435L'", 
+	    "long": "'BIO 435/435L Cell Physiology and Laboratory'",
+	    "desc": "Studies the content, organization, and function of the cell and its components. Other topics include the relationship of the cell to its environment, the cell membrane, enzymes, conversion of matter and energy, cell growth, and cell division. Three lectures per week. Prerequisites: Genetics and Laboratory (BIO-235/-235L), and General Chemistry II and Laboratory (CHM-122/-122L).",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"bio205_205l": {
+	    "short": "'BIO 205/205L'",
+	    "long": "'BIO 205/205L General Botany and Laboratory (WE)'",
+	    "desc": "Explores the biology of plants at the cellular, tissue and whole plant levels. The influence of environment on metabolism, growth, development and reproduction are themes. Three lectures per week. Prerequisites: Cellular and Molecular Biology and Laboratory (BIO-145/-145L), and Organismal and Ecological Biology (BIO-155).",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"bio235_235l": {
+	    "short": "'BIO 235/235L'",
+	    "long": "'BIO 235/235L Genetics and Laboratory'",
+	    "desc": "Explores the three main branches of heredity: transmission (classical), molecular, and population genetics. Transmission genetics examines probabilities and pedigrees of genetic traits passed from generation to generation. Molecular genetics probes the structure, function, and regulation of genes. Population genetics investigates through mathematical models the distribution and behavior of genes in populations. Three lectures per week. Prerequisites: Cellular and Molecular Biology and Laboratory (BIO-145/-145L), and Organismal and Ecological Biology (BIO-155).",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"bio355_355l": {
+	    "short": "'BIO 355/355L'",
+	    "long": "'BIO 355/355L Animal Physiology and Laboratory'",
+	    "desc": "Studies how organ systems in animal species solve the fundamental problems of staying alive. This includes how to obtain energy, how to procure the raw materials necessary for constructing their bodies, how to gain oxygen from the environment, how to get rid of unneeded substances and toxic materials. The course addresses how these ends are achieved through the cooperation of cells, tissues, organs, and organ systems in a variety of organisms including mammals, birds, reptiles, amphibians, and fish as well as selected invertebrates. Three lectures per week. Prerequisites: Cellular and Molecular Biology and Biology Laboratory (BIO-145/-145L), and Organismal and Ecological Biology (BIO-155).",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"bio375_375l": {
+	    "short": "'BIO 375/375L'",
+	    "long": "'BIO 375/375L Integrated Human Physiology and Laboratory'",
+	    "desc": "Studies physiologic functions in terms of basic physical and chemical processes; an introduction to the principles of physiology using the human organism as a model. Three lectures per week. Prerequisites: Cellular and Molecular Biology and Laboratory (BIO-145/-145L), and Organismal and Ecological Biology (BIO-155).",
+	    "namelink": "", 
+	    "namelinklong": ""
 	} 
-	
 	
 	    
 	
