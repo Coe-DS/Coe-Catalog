@@ -9,19 +9,19 @@ Concurrent completion of a primary major in biology or chemistry is required.
 Biology majors:  
 
 >>MTH 135 Calculus I    
->>BIO 445 Environmental Microbiology and BIO 445L Env Microbiology Lab  
+>>BIO 445/445L Environmental Microbiology and Lab
 	
 >>>**or**    
 
 >Chemistry majors:  
 
 >>MTH 145 Calculus II    	
->>PHY 185 General Physics I and PHY 185L General Physics I Laboratory    
->>PHY 195 General Physics II and PHY 195L General Physics II - Lab    
->>BIO 445 Environmental Microbiology and BIO 445L Env Microbiology Lab    
+>>PHY 185/185L General Physics I & Laboratory    
+>>PHY 195/195L General Physics II & Laboratory
+>>BIO 445/445L Environmental Microbiology and Lab
 
-2. BIO 295 Spatial Ecology and BIO 295L Spatial Ecology Laboratory  
-3. CHM 211 Analytical Chemistry and +++MISSING INFO: c.bio211l.long +++  
+2. +++MISSING INFO: c.295_295l.long +++
+3. CHM 211/211L Analytical Chemistry and Laboratory (WE)
 4. CHM 221 Organic Chemistry I  
 5. **Two** of the following with the associated laboratories:  
 	BIO 115 Marine Biology  
@@ -29,14 +29,15 @@ Biology majors:
 	BIO 175 Field Botany  
 	BIO 185 Entomology  
 	BIO 275 Aquatic Ecology  
-	BIO 325 Microbiology  
-	BIO 385 Behavior/Ecology of Vertebrates  
-	+++MISSING INFO: c.bio411.long +++  
-	BIO 425 Ecology  
-	BIO 444 Independent Study  
-Any course taught at the Wilderness Field Station with BIO prefix.
+	BIO 325/325L Microbiology (WE) and Laboratory  
+	BIO 385/385L Behavior and Ecology of Vertebrates  
+	BIO 425/425L Ecology and Laboratory (WE)  
+	CHM 411 Advanced Analytical Chemistry  
+	CHM 444 Independent Study Chemistry  
+	Any course taught at the Wilderness Field Station with BIO prefix.
 
 *Recommended:*  
+
 >Any course taught at the Wilderness Field Station  
 	BIO105 Introductory Biology  
 	MTH 145 Calculus II  

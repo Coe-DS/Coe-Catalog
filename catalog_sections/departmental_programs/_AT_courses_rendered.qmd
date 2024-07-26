@@ -15,8 +15,8 @@ opportunity to practice and integrate athletic training competencies within the 
 supervised by a clinical instructor. Clinical experience assignments vary from term to term and are commensurate with 
 demonstrated level of competence. Each course may be taken up to three times. Prerequisites: sophomore standing 
 and admission to the Athletic Training Education Program. (0.2 course credit)   
-**+++MISSING INFO: c.at225_220.long +++**  
-+++MISSING INFO: c.at225_220.desc +++  
+**AT 225/220 Clinical Examination of the Lower Extremity & Laboratory**  
+Introduction to the systematic procedures used in the examination of injuries involving the spine, thorax/abdomen and lower extremity. Laboratory component examines development and evaluation of commonly used clinical proficiencies related to surface palpation, goniometry, manual muscle, and special testing techniques involving the spine, thorax/abdomen and lower extremity. Prerequisites: Prevention and Care of Athletic Injuries & Laboratory (KIN-175) and admission to the Athletic Training Education Program.  
 **AT 235/230 Clinical Examination of the Upper Extremity & Laboratory**  
 Introduction to the systematic procedures used in the examination of injuries involving the head/neck and upper extremity. Laboratory component examines development and evaluation of commonly used clinical proficiencies related to surface palpation, goniometry, manual muscle, and special testing techniques involving the head/neck and upper extremity. Prerequisites: Clinical Examination of the Lower Extremity (AT-225) and admission to the Athletic Training Education Program.  
 **AT 375 General Medical Conditions**  

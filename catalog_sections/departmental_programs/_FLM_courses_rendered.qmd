@@ -6,12 +6,13 @@ The film studies major is an interdisciplinary major that allows a student to fo
 ### Film Studies Major
 A major in film requires a minimum cumulative 2.0 GPA in all courses counted toward the major. A major in film studies requires ten courses taken from each of the three disciplines represented in the major.  
 1. ART 150 Time Based Media  
-2. FLM 105 Introduction to Film and FLM 105L Introduction to Film Lab  
-3. FLM 200 Film Analysis and FLM 200L Film Analysis Lab  
-4. FLM 225 Film History and FLM 225L Film History Lab  
+2. FLM 105 /FLM 105L Introduction to Film and Laboratory  
+3. FLM 200 /FLM 200L Film Analysis and Laboratory (WE)  
+4. FLM 225 /FLM 225L Film History and Laboratory (WE)  
 5. FLM 464 Seminar in Film II: and FLM 474 Senior Seminar II in Film & Senior  
 6. **Five** courses chosen from the following, in consultation with the Film Studies administrative coordinator.  At least two of the courses must be completed at the 300 level or above, and no more than two courses may be selected with the same prefix.  
-	>ART 145 Digital Studio  
+	
+>ART 145 Digital Studio  
 	ART 155 Photography: Light Writing  
 	ART 325 Contemporary Photographic Genres  
 	ART 361 Documentary  
@@ -44,11 +45,12 @@ A major in film requires a minimum cumulative 2.0 GPA in all courses counted tow
 ### Film Studies Minor
 A minor in film studies requires six courses chosen in consultation with the Film Studies administrative coordinator.  
 1. ART 150 Time Based Media  
-2. FLM 105 Introduction to Film and FLM 105L Introduction to Film Lab  
-3. FLM 200 Film Analysis and FLM 200L Film Analysis Lab  
-4. FLM 225 Film History and FLM 225L Film History Lab  
+2. FLM 105 /FLM 105L Introduction to Film and Laboratory  
+3. FLM 200 /FLM 200L Film Analysis and Laboratory (WE)  
+4. FLM 225 /FLM 225L Film History and Laboratory (WE)  
 5. **One** of the following:  
-	>ART 145 Digital Studio  
+	
+>ART 145 Digital Studio  
 	ART 155 Photography: Light Writing  
 	ART 325 Contemporary Photographic Genres  
 	ART 361 Documentary  
@@ -69,7 +71,8 @@ A minor in film studies requires six courses chosen in consultation with the Fil
 	THE 220 Tech Theatre Lab  
 	THE 290 Directing I  
 6. **One** of the following:  
-	>CRW 350 Screenwriting  
+	
+>CRW 350 Screenwriting  
 	COM 337 Persuasion  
 	COM 341 Digital Storytelling  
 	COM 357 Sex, Race, & Gender in Media  
@@ -79,10 +82,10 @@ A minor in film studies requires six courses chosen in consultation with the Fil
 
 
 ### Courses in Film Studies
- **+++MISSING INFO: c.flm105_flm105l.long +++**  
-  +++MISSING INFO: c.flm105_flm105l.desc +++   
- **+++MISSING INFO: c.flm200_flm200l.long +++**  
-  +++MISSING INFO: c.flm200_flm200l.desc +++   
+ **FLM 105 /FLM 105L Introduction to Film and Laboratory**  
+  Provides an historical understanding of film art as well as a basic critical perspective. This course surveys basic technical elements of film as well as major genres and cultural themes. Students view a wide spectrum of film and are introduced to the special vocabulary associated with film. Three class meetings and one three-hour lab (0.0 course credit) each week. Lab is P/NP basis only.   
+ **FLM 200 /FLM 200L Film Analysis and Laboratory (WE)**  
+  Provides practice in the application of major film theories. Subject areas include auteur theory, genre theory, image and montage, narrative form, and digital technologies. Three class meetings and one three-hour lab (0.0 course credit) each week. Lab is P/NP basis only. Prerequisite: Introduction to Film (FLM-105) or consent of the Film Studies administrative coordinator.   
  **FLM 225 Film History**  
   Familiarizes students with the history of film from the beginning to the present. Additional viewing time outside of class is required.   
  **FLM 250 Film Topics**  

@@ -562,8 +562,8 @@ opportunity to practice and integrate athletic training competencies within the 
 supervised by a clinical instructor. Clinical experience assignments vary from term to term and are commensurate with 
 demonstrated level of competence. Each course may be taken up to three times. Prerequisites: sophomore standing 
 and admission to the Athletic Training Education Program. (0.2 course credit)   
-**+++MISSING INFO: c.at225_220.long +++**  
-+++MISSING INFO: c.at225_220.desc +++  
+**AT 225/220 Clinical Examination of the Lower Extremity & Laboratory**  
+Introduction to the systematic procedures used in the examination of injuries involving the spine, thorax/abdomen and lower extremity. Laboratory component examines development and evaluation of commonly used clinical proficiencies related to surface palpation, goniometry, manual muscle, and special testing techniques involving the spine, thorax/abdomen and lower extremity. Prerequisites: Prevention and Care of Athletic Injuries & Laboratory (KIN-175) and admission to the Athletic Training Education Program.  
 **AT 235/230 Clinical Examination of the Upper Extremity & Laboratory**  
 Introduction to the systematic procedures used in the examination of injuries involving the head/neck and upper extremity. Laboratory component examines development and evaluation of commonly used clinical proficiencies related to surface palpation, goniometry, manual muscle, and special testing techniques involving the head/neck and upper extremity. Prerequisites: Clinical Examination of the Lower Extremity (AT-225) and admission to the Athletic Training Education Program.  
 **AT 375 General Medical Conditions**  
@@ -772,8 +772,8 @@ Participation in a research program designed and directed by a biology departmen
 Study of the organization and function of the nervous system, focusing on both cellular physiology and functional neuroanatomy. Topics include the cellular and molecular properties of brain cells, the neurological basis of behavior, and disorders of the nervous system. Three lectures per week. Prerequisites: Cellular and Molecular Biology (BIO-145), Introduction to Biology Laboratory (BIO-140), Organismal and Ecological Biology (BIO-155), General Chemistry I (CHM-155), General Chemistry II (CHM-165) and Genetics (BIO-235) and Lab (BIO-230)  
  **BIO 455L Molecular Neurobiology Lab**  
 Three hours per week. Concurrent with Molecular Neurobiology (BIO-455L). (0.2 course credit)  
- **+++MISSING INFO: c.bio462_463.long +++**  
-+++MISSING INFO: c.bio462_463.desc +++  
+ **BIO 462/463 Advanced Biology Laboratory I and II**  
+Offers an extensive independent or group investigations of a particular topic in biology. Designed to be a research experience in preparation for teaching, graduate school or direct entry into a technical field after graduation. Advanced Biology Laboratory I (BIO-462) may be repeated as Advanced Biology Laboratory II (BIO-463). P/NP basis only. Prerequisites: Genetics and Laboratory (BIO-235/-235L), and consent of instructor. (Offered May Term only)  
  **BIO 465 Immunology**  
 An integrated series of lectures designed to familiarize students with cellular, molecular and biochemical aspects of the development of the immune system and the immune response, including B-and T-cell function, antibody structure and function, complement, and major histocompatibility complex formation, with special emphasis on the integration of these parts during the response to infectious agents. Special topics include immunomodulation, vaccination, autoimmunity, and neuro-immune interactions. The laboratory component utilizes existing instrumentation in the biology department and cell culture to explore different aspects of the immune system. Three lectures and one three hour laboratory period per week. Prerequisites: General Chemistry II (CHM 122/122L), Genetics (BIO-235), and Integrated Human Physiology (BIO-375) (or concurrent enrollment in BIO-375).  
  **BIO 465L Immunology Laboratory**  
@@ -2269,19 +2269,19 @@ Concurrent completion of a primary major in biology or chemistry is required.
 Biology majors:  
 
 >>MTH 135 Calculus I    
->>BIO 445 Environmental Microbiology and BIO 445L Env Microbiology Lab  
+>>BIO 445/445L Environmental Microbiology and Lab
 	
 >>>**or**    
 
 >Chemistry majors:  
 
 >>MTH 145 Calculus II    	
->>PHY 185 General Physics I and PHY 185L General Physics I Laboratory    
->>PHY 195 General Physics II and PHY 195L General Physics II - Lab    
->>BIO 445 Environmental Microbiology and BIO 445L Env Microbiology Lab    
+>>PHY 185/185L General Physics I & Laboratory    
+>>PHY 195/195L General Physics II & Laboratory
+>>BIO 445/445L Environmental Microbiology and Lab
 
-2. BIO 295 Spatial Ecology and BIO 295L Spatial Ecology Laboratory  
-3. CHM 211 Analytical Chemistry and +++MISSING INFO: c.bio211l.long +++  
+2. +++MISSING INFO: c.295_295l.long +++
+3. CHM 211/211L Analytical Chemistry and Laboratory (WE)
 4. CHM 221 Organic Chemistry I  
 5. **Two** of the following with the associated laboratories:  
 	BIO 115 Marine Biology  
@@ -2289,14 +2289,15 @@ Biology majors:
 	BIO 175 Field Botany  
 	BIO 185 Entomology  
 	BIO 275 Aquatic Ecology  
-	BIO 325 Microbiology  
-	BIO 385 Behavior/Ecology of Vertebrates  
-	+++MISSING INFO: c.bio411.long +++  
-	BIO 425 Ecology  
-	BIO 444 Independent Study  
-Any course taught at the Wilderness Field Station with BIO prefix.
+	BIO 325/325L Microbiology (WE) and Laboratory  
+	BIO 385/385L Behavior and Ecology of Vertebrates  
+	BIO 425/425L Ecology and Laboratory (WE)  
+	CHM 411 Advanced Analytical Chemistry  
+	CHM 444 Independent Study Chemistry  
+	Any course taught at the Wilderness Field Station with BIO prefix.
 
 *Recommended:*  
+
 >Any course taught at the Wilderness Field Station  
 	BIO105 Introductory Biology  
 	MTH 145 Calculus II  
@@ -2399,12 +2400,13 @@ The film studies major is an interdisciplinary major that allows a student to fo
 ### Film Studies Major
 A major in film requires a minimum cumulative 2.0 GPA in all courses counted toward the major. A major in film studies requires ten courses taken from each of the three disciplines represented in the major.  
 1. ART 150 Time Based Media  
-2. FLM 105 Introduction to Film and FLM 105L Introduction to Film Lab  
-3. FLM 200 Film Analysis and FLM 200L Film Analysis Lab  
-4. FLM 225 Film History and FLM 225L Film History Lab  
+2. FLM 105 /FLM 105L Introduction to Film and Laboratory  
+3. FLM 200 /FLM 200L Film Analysis and Laboratory (WE)  
+4. FLM 225 /FLM 225L Film History and Laboratory (WE)  
 5. FLM 464 Seminar in Film II: and FLM 474 Senior Seminar II in Film & Senior  
 6. **Five** courses chosen from the following, in consultation with the Film Studies administrative coordinator.  At least two of the courses must be completed at the 300 level or above, and no more than two courses may be selected with the same prefix.  
-	>ART 145 Digital Studio  
+	
+>ART 145 Digital Studio  
 	ART 155 Photography: Light Writing  
 	ART 325 Contemporary Photographic Genres  
 	ART 361 Documentary  
@@ -2437,11 +2439,12 @@ A major in film requires a minimum cumulative 2.0 GPA in all courses counted tow
 ### Film Studies Minor
 A minor in film studies requires six courses chosen in consultation with the Film Studies administrative coordinator.  
 1. ART 150 Time Based Media  
-2. FLM 105 Introduction to Film and FLM 105L Introduction to Film Lab  
-3. FLM 200 Film Analysis and FLM 200L Film Analysis Lab  
-4. FLM 225 Film History and FLM 225L Film History Lab  
+2. FLM 105 /FLM 105L Introduction to Film and Laboratory  
+3. FLM 200 /FLM 200L Film Analysis and Laboratory (WE)  
+4. FLM 225 /FLM 225L Film History and Laboratory (WE)  
 5. **One** of the following:  
-	>ART 145 Digital Studio  
+	
+>ART 145 Digital Studio  
 	ART 155 Photography: Light Writing  
 	ART 325 Contemporary Photographic Genres  
 	ART 361 Documentary  
@@ -2462,7 +2465,8 @@ A minor in film studies requires six courses chosen in consultation with the Fil
 	THE 220 Tech Theatre Lab  
 	THE 290 Directing I  
 6. **One** of the following:  
-	>CRW 350 Screenwriting  
+	
+>CRW 350 Screenwriting  
 	COM 337 Persuasion  
 	COM 341 Digital Storytelling  
 	COM 357 Sex, Race, & Gender in Media  
@@ -2472,10 +2476,10 @@ A minor in film studies requires six courses chosen in consultation with the Fil
 
 
 ### Courses in Film Studies
- **+++MISSING INFO: c.flm105_flm105l.long +++**  
-  +++MISSING INFO: c.flm105_flm105l.desc +++   
- **+++MISSING INFO: c.flm200_flm200l.long +++**  
-  +++MISSING INFO: c.flm200_flm200l.desc +++   
+ **FLM 105 /FLM 105L Introduction to Film and Laboratory**  
+  Provides an historical understanding of film art as well as a basic critical perspective. This course surveys basic technical elements of film as well as major genres and cultural themes. Students view a wide spectrum of film and are introduced to the special vocabulary associated with film. Three class meetings and one three-hour lab (0.0 course credit) each week. Lab is P/NP basis only.   
+ **FLM 200 /FLM 200L Film Analysis and Laboratory (WE)**  
+  Provides practice in the application of major film theories. Subject areas include auteur theory, genre theory, image and montage, narrative form, and digital technologies. Three class meetings and one three-hour lab (0.0 course credit) each week. Lab is P/NP basis only. Prerequisite: Introduction to Film (FLM-105) or consent of the Film Studies administrative coordinator.   
  **FLM 225 Film History**  
   Familiarizes students with the history of film from the beginning to the present. Additional viewing time outside of class is required.   
  **FLM 250 Film Topics**  
