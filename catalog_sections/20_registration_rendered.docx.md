@@ -1,0 +1,25 @@
+# REGISTRATION
+
+
+Before being allowed to register, students must have been admitted for study by the Office of Admission, must have settled their account with the Business Office, and must meet with their Academic Advisor. Registrations are canceled for failure to pay fees on time. 
+
+Students are encouraged to develop a four-year comprehensive educational plan with the help of their advisor or with other members of the faculty. 
+
+Students who will not graduate during the current academic year register online during the Spring Term for the Fall Term of the following academic year during times specified by the Office of the Registrar. Registration for the Spring and May Terms takes place during the preceding Fall Term. Once the online registration period is over, all changes to registration must take place in the Office of the Registrar using accurate, legible, and completed registration forms. Entering first-year students and transfer students receive instructions with their orientation materials, and readmitted students receive instructions from the Office of the Registrar concerning their registrations. Registrations are not accepted for a term without successful petition after the end of the first week of classes of that term. 
+
+### Changes in Registration 
+1. Unless a course is registered by a student online during the registration period, they must intentionally file a registration form with the Office of the Registrar in order to be registered for a course.  Registration forms for course additions must be approved by the student’s advisor and instructor of the course. 
+2. Courses may be added or dropped during the first five weeks of the Fall, Spring, or Summer Term, including 7-week courses. Students may add a May Term course during the first three days of the term. If a student needs to add a course after these deadlines due to extenuating circumstances, the student must petition the Committee on Petitions by completing the appropriate forms.
+
+    For courses spanning a fraction of a Term, the last date to add or drop without a “W” will be calculated as a proportionate time frame comparatively as full-term courses.  See Academic Calendar (see @sec-academic-calendar) for official dates for full-term and half-term courses.
+
+3. A student may withdraw from one or more courses with the following results: 
+  - If a student withdraws from a course when 2/3 or less of the Term is completed, a “W” (withdrawal) grade will be entered on the student’s permanent record. This grade will not affect the student’s GPA. This is the date listed in the academic calendar as the Last Day to Withdraw from a course.
+  - For courses spanning a fraction of a Term, the last date to withdraw with a “W” will be calculated using the 2/3 fraction.  See Academic Calendar (@sec-academic-calendar) for official dates for full-term and half-term courses.
+  - If a student officially withdraws from a course after 2/3 of the Term is completed, a “WF” will be entered on the student’s permanent record. This will affect the student’s GPA (see @sec-grading).
+  - A withdrawn course, regardless of the date withdrawn, counts as attempted credits on the transcript. Therefore, it also counts when calculating academic standing (see @sec-academic-standing), and satisfactory academic progress (see @sec-financial-aid-satisfactory-academic-progress-policy) for financial aid.
+
+### Course Load {#sec-course-load}
+
+A student is full-time for the Fall or Spring Term when enrolled for three or more course credits. A student enrolled for less than this course load is a part-time student. For financial aid purposes, half-time is defined as enrollment in no fewer than two course credits in each of the Fall and Spring Terms; three-fourths is defined as enrollment in no fewer than 2.5 course credits in each of the Fall and Spring Terms. Students who have earned a cumulative GPA of 3.4 or above, or have earned both 23 credits and a cumulative GPA of 2.5 or above, may take above 4.99 credits without the need for a petition, but approval must be secured from the Office of the Registrar. Other students must submit a petition to the Committee on Petitions and obtain approval in order to register for five or more course credits. No student shall be permitted to register for over 5.99 credits in each of the Fall and Spring Terms. Only petitions from those students who have completed at least one term as a full-time student will be considered by the Committee on Petitions.  Students may not register for more than one course credit during May Term.
+

@@ -1,0 +1,94 @@
+# STUDENT LIFE
+
+Student Life provides personalized support to students, enabling each to gain the best possible undergraduate education adding substantially to the educational program. Residence accommodations, along with living and learning values, an attractive campus social life, a sound health program, good recreational facilities, and a program of co-curricular activities are among the opportunities offered Student Life.
+
+### Campus Civility Statement 
+
+This statement was written by students in order to address standards of civility and respect within the Coe College community. This statement is a living document and is intended to evolve over time. 
+
+We, the members of the Coe College community, expect our campus climate to be safe, mutually supportive, academically encouraging, egalitarian, and tolerant of all its members:  
+
+we expect the academic experience to extend beyond the classroom into our living environment.
+
+we expect a campus free of incidents that create a hostile living environment.
+
+we expect a healthy and responsible attitude to accompany all social gatherings.
+
+we expect that intoxication will not be an excuse for incidents that occur while under the influence.
+
+we expect that diversity of opinion should be cultivated and encouraged as well as respected within our community.
+
+we expect that everyone will have the right to be respected for his or her individuality.
+
+we expect all campus community members to respect the rights of other persons regardless of their actual or perceived age, color, creed, disability, gender identity, national origin, race, religion, sex, or sexual orientation.
+
+A community is made up of individuals who model these standards and hold each other accountable. In order for the community to encompass the goals outlined above, each individual must be responsible and accountable for her or his own actions and words. 
+
+### Student Contribution to College Policy
+
+Coe is proud of its traditions and its ability to change. While cognizant of the past, the College is also sensitive to the changing nature and needs of students. Coe students play an integral part in the initiation of change by utilizing available channels and by the creative development and use of new ones. The Student Senate is a frequent forum for the resolution of student concerns. 
+
+### Student Senate 
+
+Student Senate is the representative government of Coe students and coordinates many co-curricular activities. Through the student activity fee, the Senate funds the weekly newspaper, the Cosmos, and other student publications. The Student Activities Committee (SAC) of the Student Senate sponsors bands, comedians, multicultural programming, and other kinds of entertainment and activities. 
+
+### Student Handbook 
+
+The *College Policies and Student Handbook* outlines the College’s expectations for responsible behavior reflecting maturity, mutual respect, and cooperation among all members of the Coe community. Student Life develops policies for conduct procedures, residence hall living, student organizations, and other areas of student affairs for approval by the Board of Trustees. The College Policies and Student Handbook is available online at https://www.coe.edu/student-life/student-development/college-policies-student-handbook. 
+
+### Committee Participation 
+
+Students serve on various committees, which aid in making educational policy at the college. Most committees (Academic Policies, Assessment, Athletics, Campus Technology, Diversity, Enrollment, Financial Aid and Academic Progress, Executive, Finance and Facilities, First-Year Program, Internationalization, Marquis Series, Petitions, Sustainability Council, Wellness, and Writing) include students appointed by the Student Senate as voting members. 
+
+
+## Student Services
+
+
+### Residence Life
+
+Coe is a residential college, in that the residence experience is an integral part of the educational process. Students are expected to live on campus for four years and take meals in the College hall (see On-Campus and Off-Campus Resident Students, Section 27.1.4). The residence halls and apartments vary in style, size, and personality. All of the residential facilities have generous visitation policies, and campus life functions around the concept of the living units. 
+
+Residence hall and apartment regulations are published in the *Student Reference Book*. As room charges do not include Winter Break or Spring Break, when residential facilities and the dining hall are closed, an additional fee is assessed to students staying on campus during those times. Information regarding housing is sent to students who have accepted admission to the College. 
+
+### Student Health Service
+
+Coe’s Student Health Service offers students medical care provided by a part-time Advanced Registered Nurse Practitioner (ARNP) and a full-time nurse. The Health Services staff can diagnose, manage, and treat certain medical diagnoses, free to full-time Coe students. Referrals are available to a family physician or specialist in the Cedar Rapids community as needed. In the event that a student needs hospitalization, St. Luke’s Hospital or Mercy Medical Center is utilized. The student is responsible for all health costs beyond those provided by Health Services. These include hospitalizations, emergency room visits, physician visits, and prescription medications. Therefore, all students are expected to carry medical insurance. Provisions for special diets or other arrangements which deviate from Coe’s policies require a recommendation from the student’s healthcare provider and are available through SODEXO food services. All students are required to have a current immunization record on file prior to registration for classes at Coe. Students without immunizations on file will have their registration held.  Students who wish to utilize the Student Health Service should have a physical on file, which is required of all students in order to play collegiate sports.
+
+### Personal Counseling 
+
+Realizing that students have concerns in areas other than academic matters and career options, Coe provides appropriate individual and group counseling. St. Luke’s Family Counseling Center, located next to the Coe campus, and the College work together to provide for students’ counseling needs. St. Luke’s Family Counseling Center provides assessment, short-term counseling, and, when appropriate, referral to community resources. Individual counseling is available from a number of counselors on an appointment basis for students with personal, social, and family concerns. In addition, students may seek counseling from a pastoral and spiritual perspective from the College Chaplain. If long-term counseling is needed, Coe's counselor and Chaplain work with students to identify cost-effective solutions on and off campus. 
+
+### Religious Life 
+
+Coe College believes that it is important to foster an environment that accepts and respects the religious faith and beliefs of all its students, staff, and faculty. The Coe community is diverse in its religious makeup, and all members of the community are encouraged to express and practice their particular religious traditions. To this end, the College Chaplain seeks to provide and create an atmosphere that is consistent with the religious heritage of the College and conducive to the development of spiritual and moral values. 
+
+Opportunities for worship, interfaith dialogue, Bible study, retreat, small groups, theological study, outreach, mission, meditation, and fellowship are abundant. There are also several active religious student organizations on campus and a specialized leadership program for students considering vocational ministry. The Chaplain is available for pastoral care, guided prayer, theological dialogue, pre-marital counseling, and other spiritual needs. 
+
+### Diversity, Equity & Inclusion
+
+The Office of Diversity, Equity & Inclusion is comprised of the Dean of Students, Coordinator of Multicultural Affairs, Director of International Affairs, and the College Chaplain.  This team works closely with LBGTQAI+ students, multicultural students, international students, and student allies, with the goal of fostering an environment where all Kohawks will thrive in an inclusive learning environment.  Students interested in getting involved with Coe’s diversity and inclusion efforts are encouraged to stop by the Student Life Office in Upper Gage and speak with a team member. 
+
+### Campus Activities
+
+There is much to do on the Coe campus and in the Cedar Rapids community. Programming of campus activities is designed to meet the educational and recreational needs of the Coe community in a creative way. The diversity of the student body is considered in the scheduling of recitals, plays, exhibits, lectures, films, and concerts, as well as all school events and relaxing evenings in Charlie’s. The Director of Campus Life coordinates the events organized by the Student Activities Committee (SAC). 
+
+### Student Activity Groups
+
+Students earn credit for their participation in Coe’s music ensembles (the Jazz and Concert Bands, the Symphony Orchestra, the Concert Choir, Chorale, and the Choral Chamber Ensemble), several of which have completed study/concert tours of Europe, Great Britain, and Asia in the past. Coe drama and forensics activities have received local and national recognition for their presentations. Special interest organizations are also represented on campus, as are national social fraternities and sororities and honor societies (Phi Beta Kappa, Phi Kappa Phi, Mortar Board, Alpha Lambda Delta, and Alpha Sigma Lambda). 
+
+### Athletics
+
+Coe College sponsors 11 men’s and 11 women’s athletic teams that compete in the American Rivers Conference of NCAA Division III. Our goal is to provide our student athletes with positive educational and athletic experiences. 
+
+Through hard work, intense training, and positive interactions with coaches, student athletes are provided opportunities to succeed. The College recognizes that many of its students enjoy participating in organized athletics or watching athletic contests as forms of recreational campus life. Basketball, volleyball, softball, table tennis, flag football, and wrestling are representative events in a year-round intramural program for both men and women. All students are eligible to participate. 
+
+### Recreational Facilities 
+
+Gage Memorial Union is the center of student interest and activity. Offices of the Student Activities Committee and other student organizations are there, plus the College dining hall, and mailroom. Informal programs and lectures are given there, and it serves as the College’s “open house” for students, faculty, and visitors. “Charlie’s,” located in the adjacent P.U.B., is home to a coffee shop (serving Starbucks coffee), a convenience store, and grill. Charlie’s is a relaxing place to meet friends or take in one of the many performances. 
+
+The brand-new Coe College Athletics and Recreation Center includes two pristine courts for basketball and volleyball, a wrestling room that boasts three oversized mats, strength and conditioning room with brand-new equipment, and a fitness center that overlooks the campus. This is where Coe’s basketball, volleyball, and wrestling teams host their home events. 
+
+Moray Eby Fieldhouse includes three recently-renovated courts for basketball and volleyball.  Eby also has a natatorium, athletic training rooms, indoor baseball/softball batting cages, and a rock-climbing wall.  All outside playing fields and tennis courts are also available to Coe students. 
+
+The Clark Racquet Center offers a state-of-the-art facility for runners, racquet enthusiasts, and everyone wanting to stay in shape. An aerobic room, dance studio, and classrooms complement the indoor track, tennis courts, and racquetball and squash courts. Professional staff manage the center and offer instruction to students. 
+

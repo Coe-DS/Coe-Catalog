@@ -1,0 +1,7 @@
+# ACADEMIC ADVISING {#sec-academic-advising}
+
+The role of the academic advisor is to acquaint students with their academic options at Coe and assist them in selecting courses that reflect individual interests and abilities.  Advisors also help students create a four-year education plan that allows students to make connections between disparate areas of study, and between academic, co-curricular, and non-academic areas.  Students may change advisors at any time upon request to the Registrar. 
+
+First-Year Seminar instructors serve as the primary academic advisors for first-year students in their respective sections. Students thus see their advisors frequently during their first term at Coe and have the opportunity to work closely with them in developing overall programs of study and long-range goals. After the first term, students may decide to choose departmental faculty for academic advising or they may continue to be advised by their First-Year Seminar instructors. Students are free to speak at any time with professors in their major departments to answer specific questions regarding requirements and courses in those departments. 
+
+

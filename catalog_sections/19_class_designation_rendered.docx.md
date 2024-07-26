@@ -1,0 +1,11 @@
+# CLASS DESIGNATION {#sec-class-designation}
+
+Class Designation is determined by the number of course credits earned following the Fall and Spring Terms. 
+
+- First-year student: Fewer than 8.0 course credits earned  
+- Sophomore: 8.0–15.9 course credits earned 
+- Junior: 16.0–23.9 course credits earned 
+- Senior: 24.0 or more course credits earned 
+
+
+
