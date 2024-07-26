@@ -71,7 +71,8 @@ A minor in film studies requires six courses chosen in consultation with the Fil
 	{{< var c.the220.long >}}  
 	{{< var c.the290.long >}}  
 6. **One** of the following:  
-	>{{< var c.crw350.long >}}  
+	
+>{{< var c.crw350.long >}}  
 	{{< var c.com337.long >}}  
 	{{< var c.com341.long >}}  
 	{{< var c.com357.long >}}  
