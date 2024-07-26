@@ -80,6 +80,8 @@ format:
   html:
     theme: lux
     mainfont: "Garamond"
+  docx:
+    mainfont: "Garamond"
   pdf:
     documentclass: scrbook
     keep-tex: true
