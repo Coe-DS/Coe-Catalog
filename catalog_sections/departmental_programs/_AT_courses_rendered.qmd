@@ -9,18 +9,22 @@ No students will be admitted to the Athletic Training Education Program after De
 An overview of the athletic training profession designed to lead student's knowledge of the profession from the general foundations to specific educational competencies. Included in this course are laboratory sessions used to instruct and practice athletic training competencies and proficiencies. Credit is given for Prevention and Care of Athletic Injuries & Laboratory (PE 175 OR Basic Athletic Training (AT-100), not both.
 
 Prerequisite: Application to the Athletic Training Education Program  
-**+++MISSING INFO: c.at20_/30_/40_.long +++**  
-+++MISSING INFO: c.at20_/30_/40_.desc +++  
-**+++MISSING INFO: c.at225/220.long +++**  
-+++MISSING INFO: c.at225/220.desc +++  
-**+++MISSING INFO: c.at235/230.long +++**  
-+++MISSING INFO: c.at235/230.desc +++  
+**AT 20_/30_/40_**    
+Comprised of clinical experience assigned by program director and a weekly seminar. Provides students the 
+opportunity to practice and integrate athletic training competencies within the context of direct patient care while 
+supervised by a clinical instructor. Clinical experience assignments vary from term to term and are commensurate with 
+demonstrated level of competence. Each course may be taken up to three times. Prerequisites: sophomore standing 
+and admission to the Athletic Training Education Program. (0.2 course credit)   
+**+++MISSING INFO: c.at225_220.long +++**  
++++MISSING INFO: c.at225_220.desc +++  
+**+++MISSING INFO: c.at235_230.long +++**  
++++MISSING INFO: c.at235_230.desc +++  
 **AT 375 General Medical Conditions**  
 Study of the etiology, clinical manifestations and management of common diseases/conditions that affect athletes and others involved in physical activity. Additional topics include pharmacology, counseling and psychosocial interventions. Prerequisites: Human Anatomy (BIO-215), Human Physiology (BIO-225), and admission to Athletic Training Education Program.  
 **AT 385 Therapeutic Modalities**  
 Investigation into the concepts, indications/contraindications, physiological effects, and clinical implications of physical modalities used in a therapeutic setting. Prerequisite: Human Physiology (BIO-225).  
-**+++MISSING INFO: c.at395/390.long +++**  
-+++MISSING INFO: c.at395/390.desc +++  
+**+++MISSING INFO: c.at395_390.long +++**  
++++MISSING INFO: c.at395_390.desc +++  
 **AT 425 Administration of Athletic Training**  
 Introduction to the organization and administration of an athletic training program including facility planning/design, information/resource management, legal/ethical considerations, risk management, insurance systems, and professional development. Prerequisite: senior standing in the Athletic Training Education Program.  
 **AT 494 Internship in Athletic Training**  

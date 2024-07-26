@@ -501,7 +501,7 @@ The major is interdisciplinary and requires that the students take courses in th
 - JPN 125 Elementary Japanese II
 - JPN 215 Intermediate Japanese I
 - JPN 225 Intermediate Japanese II
-- +++MISSING INFO: c.phl/rel206.long +++
+- PHL/REL 206 Buddhist Thought (WE)
 - POL 286 Asian Politics
 - REL 106 Eastern Religions
 - A second term of an overseas study program
@@ -526,7 +526,7 @@ The major is interdisciplinary and requires that the students take courses in th
 - JPN 125 Elementary Japanese II
 - JPN 215 Intermediate Japanese I
 - JPN 225 Intermediate Japanese II
-- +++MISSING INFO: c.phl/rel206.long +++
+- PHL/REL 206 Buddhist Thought (WE)
 - POL 286 Asian Politics
 - REL 106 Eastern Religions 
 
@@ -556,18 +556,22 @@ No students will be admitted to the Athletic Training Education Program after De
 An overview of the athletic training profession designed to lead student's knowledge of the profession from the general foundations to specific educational competencies. Included in this course are laboratory sessions used to instruct and practice athletic training competencies and proficiencies. Credit is given for Prevention and Care of Athletic Injuries & Laboratory (PE 175 OR Basic Athletic Training (AT-100), not both.
 
 Prerequisite: Application to the Athletic Training Education Program  
-**+++MISSING INFO: c.at20_/30_/40_.long +++**  
-+++MISSING INFO: c.at20_/30_/40_.desc +++  
-**+++MISSING INFO: c.at225/220.long +++**  
-+++MISSING INFO: c.at225/220.desc +++  
-**+++MISSING INFO: c.at235/230.long +++**  
-+++MISSING INFO: c.at235/230.desc +++  
+**AT 20_/30_/40_**    
+Comprised of clinical experience assigned by program director and a weekly seminar. Provides students the 
+opportunity to practice and integrate athletic training competencies within the context of direct patient care while 
+supervised by a clinical instructor. Clinical experience assignments vary from term to term and are commensurate with 
+demonstrated level of competence. Each course may be taken up to three times. Prerequisites: sophomore standing 
+and admission to the Athletic Training Education Program. (0.2 course credit)   
+**+++MISSING INFO: c.at225_220.long +++**  
++++MISSING INFO: c.at225_220.desc +++  
+**+++MISSING INFO: c.at235_230.long +++**  
++++MISSING INFO: c.at235_230.desc +++  
 **AT 375 General Medical Conditions**  
 Study of the etiology, clinical manifestations and management of common diseases/conditions that affect athletes and others involved in physical activity. Additional topics include pharmacology, counseling and psychosocial interventions. Prerequisites: Human Anatomy (BIO-215), Human Physiology (BIO-225), and admission to Athletic Training Education Program.  
 **AT 385 Therapeutic Modalities**  
 Investigation into the concepts, indications/contraindications, physiological effects, and clinical implications of physical modalities used in a therapeutic setting. Prerequisite: Human Physiology (BIO-225).  
-**+++MISSING INFO: c.at395/390.long +++**  
-+++MISSING INFO: c.at395/390.desc +++  
+**+++MISSING INFO: c.at395_390.long +++**  
++++MISSING INFO: c.at395_390.desc +++  
 **AT 425 Administration of Athletic Training**  
 Introduction to the organization and administration of an athletic training program including facility planning/design, information/resource management, legal/ethical considerations, risk management, insurance systems, and professional development. Prerequisite: senior standing in the Athletic Training Education Program.  
 **AT 494 Internship in Athletic Training**  
@@ -583,15 +587,15 @@ Stead (Administrative Coordinator).
 A major in biochemistry requires a minimum cumulative 2.0 GPA in all courses counted toward the major.
 Concurrent completion of a primary major in chemistry, including Calculus II and two General Physics courses is required. Students choosing a collateral major in biochemistry may not select a collateral major in molecular biology
 
-1.+++MISSING INFO: c.bio145/145L.long +++  
-2.+++MISSING INFO: c.chm431/431L.long +++  
-3.+++MISSING INFO: c.chm432/432L.long +++  
+1.+++MISSING INFO: c.bio145_145L.long +++  
+2.+++MISSING INFO: c.chm431_431L.long +++  
+3.+++MISSING INFO: c.chm432_432L.long +++  
 4.**Two** of the following:
 
-> +++MISSING INFO: c.bio325/325L.long +++  
-> +++MISSING INFO: c.bio345/345L.long +++  
+> +++MISSING INFO: c.bio325_325L.long +++  
+> +++MISSING INFO: c.bio345_345L.long +++  
 > BIO 405 Current Topics in Molecular Biology  
-> +++MISSING INFO: c.bio435/435L.long +++  
+> +++MISSING INFO: c.bio435_435L.long +++  
 
 Genetics (BIO-235) and Laboratory (BIO-235L) and all of the courses under #4 are strongly encouraged, especially for those planning graduate study.
 
@@ -2263,19 +2267,19 @@ Concurrent completion of a primary major in biology or chemistry is required.
 Biology majors:  
 
 >>MTH 135 Calculus I    
->>BIO 445 Environmental Microbiology and +++MISSING INFO: c.bio445L.long +++  
+>>BIO 445 Environmental Microbiology and BIO 445L Env Microbiology Lab  
 	
 >>>**or**    
 
 >Chemistry majors:  
 
 >>MTH 145 Calculus II    	
->>PHY 185 General Physics I and +++MISSING INFO: c.phy185L.long +++    
->>PHY 195 General Physics II and +++MISSING INFO: c.phy195L.long +++    
->>BIO 445 Environmental Microbiology and +++MISSING INFO: c.bio445L.long +++    
+>>PHY 185 General Physics I and PHY 185L General Physics I Laboratory    
+>>PHY 195 General Physics II and PHY 195L General Physics II - Lab    
+>>BIO 445 Environmental Microbiology and BIO 445L Env Microbiology Lab    
 
-2. BIO 295 Spatial Ecology and +++MISSING INFO: c.bio295L.long +++  
-3. CHM 211 Analytical Chemistry and +++MISSING INFO: c.bio211L.long +++  
+2. BIO 295 Spatial Ecology and BIO 295L Spatial Ecology Laboratory  
+3. CHM 211 Analytical Chemistry and +++MISSING INFO: c.bio211l.long +++  
 4. CHM 221 Organic Chemistry I  
 5. **Two** of the following with the associated laboratories:  
 	BIO 115 Marine Biology  
@@ -2320,7 +2324,7 @@ A major in environmental studies requires a minimum cumulative 2.0 GPA in all co
 Concurrent completion of any of the majors listed under [Areas of Study](catalog_sections/areas_of_study.qmd#Areas Of Study) of the Catalog is required.  
 
 1. BIO105 Introductory Biology
-2. BIO 155 Organismal & Ecological Biology and +++MISSING INFO: c.bio155L.long +++
+2. BIO 155 Organismal & Ecological Biology and BIO 155L Organismal & Ecological Biology Lab
 3. ECO 175 Principles of Macroeconomics
 4. ECO 195 Prin of Environmental Economics
 5. **One** of the following:  
@@ -2341,8 +2345,8 @@ Concurrent completion of any of the majors listed under [Areas of Study](catalog
 		BIO 175 Field Botany  
 		BIO 185 Entomology  
 		BIO 285 Animal Behavior (**NOTE:** *Taught at the Wilderness Field Station*)  
-		BIO 295 Spatial Ecology and +++MISSING INFO: c.bio295L.long +++  
-		CHM 103 Selected Concepts in Chemistry and +++MISSING INFO: c.chm103L.long +++ **OR** CHM 121 General Chemistry I and +++MISSING INFO: c.chm121L.long +++  
+		BIO 295 Spatial Ecology and BIO 295L Spatial Ecology Laboratory  
+		CHM 103 Selected Concepts in Chemistry and CHM 103L Selected Concepts in Chemistry Lab **OR** CHM 121 General Chemistry I and CHM 121L General Chemistry I Laboratory  
 	b. **One or more** of the following **Social Science** courses:  
 		BUS 170 Bus Sustainability & Environment  
 		ECO 155 Econ/Ethics of Alternative Energy  
@@ -2393,9 +2397,9 @@ The film studies major is an interdisciplinary major that allows a student to fo
 ### Film Studies Major
 A major in film requires a minimum cumulative 2.0 GPA in all courses counted toward the major. A major in film studies requires ten courses taken from each of the three disciplines represented in the major.  
 1. ART 150 Time Based Media  
-2. FLM 105 Introduction to Film and +++MISSING INFO: c.flm105L.long +++  
-3. FLM 200 Film Analysis and +++MISSING INFO: c.flm200L.long +++  
-4. FLM 225 Film History and +++MISSING INFO: c.flm225L.long +++  
+2. FLM 105 Introduction to Film and FLM 105L Introduction to Film Lab  
+3. FLM 200 Film Analysis and FLM 200L Film Analysis Lab  
+4. FLM 225 Film History and FLM 225L Film History Lab  
 5. FLM 464 Seminar in Film II: and FLM 474 Senior Seminar II in Film & Senior  
 6. **Five** courses chosen from the following, in consultation with the Film Studies administrative coordinator.  At least two of the courses must be completed at the 300 level or above, and no more than two courses may be selected with the same prefix.  
 	>ART 145 Digital Studio  
@@ -2431,9 +2435,9 @@ A major in film requires a minimum cumulative 2.0 GPA in all courses counted tow
 ### Film Studies Minor
 A minor in film studies requires six courses chosen in consultation with the Film Studies administrative coordinator.  
 1. ART 150 Time Based Media  
-2. FLM 105 Introduction to Film and +++MISSING INFO: c.flm105L.long +++  
-3. FLM 200 Film Analysis and +++MISSING INFO: c.flm200L.long +++  
-4. FLM 225 Film History and +++MISSING INFO: c.flm225L.long +++  
+2. FLM 105 Introduction to Film and FLM 105L Introduction to Film Lab  
+3. FLM 200 Film Analysis and FLM 200L Film Analysis Lab  
+4. FLM 225 Film History and FLM 225L Film History Lab  
 5. **One** of the following:  
 	>ART 145 Digital Studio  
 	ART 155 Photography: Light Writing  
@@ -2466,10 +2470,10 @@ A minor in film studies requires six courses chosen in consultation with the Fil
 
 
 ### Courses in Film Studies
- **+++MISSING INFO: c.flm105/flm105L.long +++**  
-  +++MISSING INFO: c.flm105/flm105L.desc +++   
- **+++MISSING INFO: c.flm200/flm200L.long +++**  
-  +++MISSING INFO: c.flm200/flm200L.desc +++   
+ **+++MISSING INFO: c.flm105_flm105l.long +++**  
+  +++MISSING INFO: c.flm105_flm105l.desc +++   
+ **+++MISSING INFO: c.flm200_flm200l.long +++**  
+  +++MISSING INFO: c.flm200_flm200l.desc +++   
  **FLM 225 Film History**  
   Familiarizes students with the history of film from the beginning to the present. Additional viewing time outside of class is required.   
  **FLM 250 Film Topics**  

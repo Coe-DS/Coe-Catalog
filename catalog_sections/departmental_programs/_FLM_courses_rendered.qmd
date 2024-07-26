@@ -6,9 +6,9 @@ The film studies major is an interdisciplinary major that allows a student to fo
 ### Film Studies Major
 A major in film requires a minimum cumulative 2.0 GPA in all courses counted toward the major. A major in film studies requires ten courses taken from each of the three disciplines represented in the major.  
 1. ART 150 Time Based Media  
-2. FLM 105 Introduction to Film and +++MISSING INFO: c.flm105L.long +++  
-3. FLM 200 Film Analysis and +++MISSING INFO: c.flm200L.long +++  
-4. FLM 225 Film History and +++MISSING INFO: c.flm225L.long +++  
+2. FLM 105 Introduction to Film and FLM 105L Introduction to Film Lab  
+3. FLM 200 Film Analysis and FLM 200L Film Analysis Lab  
+4. FLM 225 Film History and FLM 225L Film History Lab  
 5. FLM 464 Seminar in Film II: and FLM 474 Senior Seminar II in Film & Senior  
 6. **Five** courses chosen from the following, in consultation with the Film Studies administrative coordinator.  At least two of the courses must be completed at the 300 level or above, and no more than two courses may be selected with the same prefix.  
 	>ART 145 Digital Studio  
@@ -44,9 +44,9 @@ A major in film requires a minimum cumulative 2.0 GPA in all courses counted tow
 ### Film Studies Minor
 A minor in film studies requires six courses chosen in consultation with the Film Studies administrative coordinator.  
 1. ART 150 Time Based Media  
-2. FLM 105 Introduction to Film and +++MISSING INFO: c.flm105L.long +++  
-3. FLM 200 Film Analysis and +++MISSING INFO: c.flm200L.long +++  
-4. FLM 225 Film History and +++MISSING INFO: c.flm225L.long +++  
+2. FLM 105 Introduction to Film and FLM 105L Introduction to Film Lab  
+3. FLM 200 Film Analysis and FLM 200L Film Analysis Lab  
+4. FLM 225 Film History and FLM 225L Film History Lab  
 5. **One** of the following:  
 	>ART 145 Digital Studio  
 	ART 155 Photography: Light Writing  
@@ -79,10 +79,10 @@ A minor in film studies requires six courses chosen in consultation with the Fil
 
 
 ### Courses in Film Studies
- **+++MISSING INFO: c.flm105/flm105L.long +++**  
-  +++MISSING INFO: c.flm105/flm105L.desc +++   
- **+++MISSING INFO: c.flm200/flm200L.long +++**  
-  +++MISSING INFO: c.flm200/flm200L.desc +++   
+ **+++MISSING INFO: c.flm105_flm105l.long +++**  
+  +++MISSING INFO: c.flm105_flm105l.desc +++   
+ **+++MISSING INFO: c.flm200_flm200l.long +++**  
+  +++MISSING INFO: c.flm200_flm200l.desc +++   
  **FLM 225 Film History**  
   Familiarizes students with the history of film from the beginning to the present. Additional viewing time outside of class is required.   
  **FLM 250 Film Topics**  

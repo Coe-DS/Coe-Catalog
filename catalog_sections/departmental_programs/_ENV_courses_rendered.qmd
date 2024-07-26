@@ -9,19 +9,19 @@ Concurrent completion of a primary major in biology or chemistry is required.
 Biology majors:  
 
 >>MTH 135 Calculus I    
->>BIO 445 Environmental Microbiology and +++MISSING INFO: c.bio445L.long +++  
+>>BIO 445 Environmental Microbiology and BIO 445L Env Microbiology Lab  
 	
 >>>**or**    
 
 >Chemistry majors:  
 
 >>MTH 145 Calculus II    	
->>PHY 185 General Physics I and +++MISSING INFO: c.phy185L.long +++    
->>PHY 195 General Physics II and +++MISSING INFO: c.phy195L.long +++    
->>BIO 445 Environmental Microbiology and +++MISSING INFO: c.bio445L.long +++    
+>>PHY 185 General Physics I and PHY 185L General Physics I Laboratory    
+>>PHY 195 General Physics II and PHY 195L General Physics II - Lab    
+>>BIO 445 Environmental Microbiology and BIO 445L Env Microbiology Lab    
 
-2. BIO 295 Spatial Ecology and +++MISSING INFO: c.bio295L.long +++  
-3. CHM 211 Analytical Chemistry and +++MISSING INFO: c.bio211L.long +++  
+2. BIO 295 Spatial Ecology and BIO 295L Spatial Ecology Laboratory  
+3. CHM 211 Analytical Chemistry and +++MISSING INFO: c.bio211l.long +++  
 4. CHM 221 Organic Chemistry I  
 5. **Two** of the following with the associated laboratories:  
 	BIO 115 Marine Biology  
