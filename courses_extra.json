@@ -503,7 +503,22 @@
 	    "desc": "Familiarizes students with the history of film from the beginning to the present. Three class meetings and one threehour lab (0.0 course credit) each week.",
 	    "namelink": "", 
 	    "namelinklong": ""
+	}, 
+	"fre199": {
+	    "short": "'FRE 199'", 
+	    "long": "'FRE 199 May Term in the Francophone World'",
+	    "desc": "Explores the history, culture, and arts in a site within the francophone world. Sites and topics vary by term. May count toward a major or minor if completed in French. Prerequisite: consent of instructor. (Offered May Term only)",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"ant286_486": {
+	    "short": "'ANT 286/486'", 
+	    "long": "'ANT 286/486 Topics in Anthropology (WE)'",
+	    "desc": "A focused examination of an anthropological theme, theory or research method. Content varies and is determined by the instructor. May be taken more than once for credit, provided the topics are substantially different.",
+	    "namelink": "", 
+	    "namelinklong": ""
 	}
+	
 	    
 	    
 	
