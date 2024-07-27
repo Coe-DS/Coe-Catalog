@@ -74,7 +74,7 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
 
 ### Kinesiology Major — Athletic Training 
 1. {{< var c.bio155.long >}}
-2. {{< var c.bio215_215L.long >}}
+2. {{< var c.bio215_215l.long >}}
 3. {{< var c.bio225.long >}}
 4. {{< var c.kin105.long >}}
 5. {{< var c.kin115.long >}}
