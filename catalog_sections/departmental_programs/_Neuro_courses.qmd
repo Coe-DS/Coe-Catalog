@@ -4,11 +4,11 @@ Baker (Administrative Coordinator)
 Concurrent completion of a primary major in biology, chemistry, or psychology is required.  A minimum of six course credits must be taken that do not count toward the student’s primary major. 
 
 ### Collateral Major in Neuroscience 
-1. {{< var c.bio145_145L.long >}}
-2. {{< var c.bio155_155L.long >}}
-3. {{< var c.bio375_375L.long >}}
-4. {{< var c.chm121_121L.long >}}
-5. {{< var c.chm122_122L.long >}}
+1. {{< var c.bio145_145l.long >}}
+2. {{< var c.bio155_155l.long >}}
+3. {{< var c.bio375_375l.long >}}
+4. {{< var c.chm121_121l.long >}}
+5. {{< var c.chm122_122l.long >}}
 6. {{< var c.psy100.long >}}
 7. {{< var c.psy250.long >}}
 8. {{< var c.psy350.long >}}
@@ -18,17 +18,17 @@ Concurrent completion of a primary major in biology, chemistry, or psychology is
 		- {{< var c.bio202.long >}}
 		- {{< var c.bio215.long >}}
 		- {{< var c.bio235.long >}}
-		- {{< var c.bio285_285L.long >}}
-		- {{< var c.bio345_345L.long >}}
+		- {{< var c.bio285_285l.long >}}
+		- {{< var c.bio345_345l.long >}}
 		- {{< var c.bio415.long >}}
 		- {{< var c.bio435.long >}}
-		- {{< var c.bio455_455L.long >}}
+		- {{< var c.bio455_455l.long >}}
 	b. Chemistry
-		- {{< var c.chm211_211L.long >}}
+		- {{< var c.chm211_211l.long >}}
 		- {{< var c.chm221.long >}}
 		- {{< var c.chm321.long >}}
 		- {{< var c.chm421.long >}}
-		- {{< var c.chm431_431L.long >}}
+		- {{< var c.chm431_431l.long >}}
 		- {{< var c.chm432.long >}}
 	c. Philosophy
 		- {{< var c.phl245.long >}}
@@ -36,7 +36,7 @@ Concurrent completion of a primary major in biology, chemistry, or psychology is
 		- {{< var c.psy205.long >}}
 		- {{< var c.psy235.long >}}
 		- {{< var c.psy315.long >}}
-		- {{< var c.psy325_325L.long >}}
+		- {{< var c.psy325_325l.long >}}
 		- {{< var c.psy455.long >}} (when research topic is appropriate, as determined by the neuroscience administrative coordinator)
 		- {{< var c.psy464.long >}} (when seminar topic is appropriate, as determined by the neuroscience administrative coordinator)
 
