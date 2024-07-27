@@ -17,10 +17,10 @@ Biology majors:
 
 >>{{< var c.mth145.long >}}    	
 >>{{< var c.phy185_185l.long >}}    
->>{{< var c.phy195_195l.long >}}
+>>{{< var c.phy195_195l.long >}}  
 >>{{< var c.bio445_445l.long >}}
 
-2. {{< var c.295_295l.long >}}
+2. {{< var c.bio295_295l.long >}}
 3. {{< var c.chm211_211l.long >}}
 4. {{< var c.chm221.long >}}  
 5. **Two** of the following with the associated laboratories:  
