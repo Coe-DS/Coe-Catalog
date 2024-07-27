@@ -538,7 +538,15 @@
 	    "desc": "Studies the organization and function of the nervous system, focusing on both cellular physiology and functional neuroanatomy. Topics include the cellular and molecular properties of brain cells, the neurological basis of behavior, and disorders of the nervous system. Three lectures per week. Prerequisites: Organismal and Ecological Biology and Laboratory (BIO-155/-155L), and Genetics and Laboratory (BIO-235/-235L).",
 	    "namelink": "", 
 	    "namelinklong": ""
+	}, 
+	"bio285_285l": {
+	    "short": "'BIO 285/285L'",
+	    "long": "'BIO 285/285L Animal Behavior and Laboratory'",
+	    "desc": "Considers principles and methods in ethology with emphasis on temporal and spatial patterns, adaptive significances, communication, aggression and territoriality, social organization, and the nature of regulatory mechanisms. Prerequisites: One of the following: Cellular and Molecular Biology and Laboratory (BIO-145/-145L); Organismal and Ecological Biology and Laboratory (BIO-155/-155L); or Statistical Methods and Data Analysis (PSY-300). (Offered summers at the Wilderness Field Station)",
+	    "namelink": "", 
+	    "namelinklong": ""
 	}
+	    
 	
 	    
 	    
