@@ -2277,10 +2277,10 @@ Biology majors:
 
 >>MTH 145 Calculus II    	
 >>PHY 185/185L General Physics I & Laboratory    
->>PHY 195/195L General Physics II & Laboratory
+>>PHY 195/195L General Physics II & Laboratory  
 >>BIO 445/445L Environmental Microbiology and Lab
 
-2. +++MISSING INFO: c.295_295l.long +++
+2. +++MISSING INFO: c.bio295_295l.long +++
 3. CHM 211/211L Analytical Chemistry and Laboratory (WE)
 4. CHM 221 Organic Chemistry I  
 5. **Two** of the following with the associated laboratories:  
@@ -2570,8 +2570,8 @@ A grade of "C" (2.0) or higher must be earned in all courses counted toward a mi
   Same as French Literature in Translation (FRE-145) except selected works focus on diverse Western perspectives: women’s writing, gay and lesbian literature, or Quebeçois literature.  
  **FRE 158 France & Francophone World**  
   An interdisciplinary survey of topics and issues central to an understanding of contemporary France:social, cultural, political, and economic. Films and speakers may be included in the format of this course. Taught in English.  
- **+++MISSING INFO: c.fre199.long +++**  
-  +++MISSING INFO: c.fre199.desc +++  
+ **FRE 199 May Term in the Francophone World**  
+  Explores the history, culture, and arts in a site within the francophone world. Sites and topics vary by term. May count toward a major or minor if completed in French. Prerequisite: consent of instructor. (Offered May Term only)  
  **FRE 235 Intermediate French**  
   Reviews French grammar and vocabulary thoroughly in the context of an introduction to French and Francophone culture. Includes short readings and compositions, films, discussions, and immersion activities to improve language skills. Designed for students who have completed two semesters of
 French at Coe or with 2-4 years of high school French. Prerequisite: placement, Elementary French II (FRE-125) or consent of instructor.  
@@ -3184,7 +3184,7 @@ The Global South examines the characteristics of regions in what has come to be 
 
 4. **Two or more** additional courses from either the courses under #3 or any of the following, subject to prior approval by the International Studies administrative coordinator.  (Not more than one of these two courses can be from political science and not more than one of these two courses can be from economics.).  At least one course must be completed at the 300 level or above. 
     	
-	- +++MISSING INFO: c.ant286_486.long +++
+	- ANT 286/486 Topics in Anthropology (WE)
 	- ASC 186 Modern South Asia
 	- ENG 146 Intro Postcolonial Literature
 	- GS 136 Gender in Non-Western World
@@ -3217,7 +3217,7 @@ International Relations combines theoretical approaches to and empirical knowled
 		- POL 296 Topics Pol Sci: Non-West Persp
 
 	b. **Two** of the following:
-		- +++MISSING INFO: c.ant286_486.long +++ (when appropriate)
+		- ANT 286/486 Topics in Anthropology (WE) (when appropriate)
 		- ECO 446 International Econ
 		- ECO 495 International Finance
 		- HIS 286 Modern Middle East
@@ -3377,7 +3377,7 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
 
 ### Kinesiology Major — Athletic Training 
 1. BIO 155 Organismal & Ecological Biology
-2. +++MISSING INFO: c.bio215_215L.long +++
+2. BIO 215/215L Human Anatomy and Laboratory
 3. BIO 225 Human Physiology
 4. KIN 105 Foundations of Physical Movement
 5. KIN 115 Fundamentals:Exercise & Nutrition
@@ -3395,8 +3395,8 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
 *Students interested in the Athletic Training Group track are strongly encouraged to meet with the Kinesiology faculty for informal advising as soon as they have chosen this major. Additional coursework may be needed for those students pursuing a licensure in Athletic Training. *
 
 ### Courses in Kinesiology
- **+++MISSING INFO: c.kin100_102_103_104.long +++**  
-  +++MISSING INFO: c.kin100_102_103_104.desc +++  
+ **KIN 100/102/103/104 Physical Education Activities**  
+  Badminton, weight training, volleyball, physical fitness, recreational sports, gymnastics, swimming, squash, rock climbing, scuba diving, dance, jogging, racquetball, archery, tennis, handball, golf, cycling, and ballroom dancing investigated in depth through history, rules, strategy, development of playing skill, and physical conditioning. No course may be taken more than once. (0.2 course credit per activity)   
  **KIN 105 Foundations of Physical Movement**  
   The foundations, historical development, professional qualification, and opportunities in the field of physical education. Movement education theory is studied as it applies to all grade levels along with the study of growth, maturation, physical activity and performance in young adolescents.  
  **KIN 110 Emergency Life Skills**  
@@ -3626,22 +3626,22 @@ Concurrent completion of a primary major in biology is required (see @sec-biolog
 1. CHM 221 Organic Chemistry I
 2. CHM 321 Organic Chemistry II
 3. CHM 322 Organic Laboratory
-4. +++MISSING INFO: c.bio345_345L.long +++
+4. BIO 345/345L Techniques in Molecular Biology and Laboratory
 5. BIO 405 Current Topics in Molecular Biology
 6. One of the following:
-	- +++MISSING INFO: c.chm431_431L.long +++
-	- +++MISSING INFO: c.chm432_432L.long +++
+	- CHM 431/431L Biochemistry and Laboratory
+	- CHM 432/432L Protein Biochemistry and Laboratory
 7. One of the following sequences:
-	- +++MISSING INFO: c.bio325_325L.long +++
-	- +++MISSING INFO: c.bio415_415L.long +++
-	- +++MISSING INFO: c.bio435_435L.long +++
-	- +++MISSING INFO: c.bio455_455L.long +++
+	- BIO 325/325L Microbiology (WE) and Laboratory
+	- BIO 415/415L Developmental Biology and Laboratory
+	- BIO 435/435L Cell Physiology and Laboratory
+	- BIO 455/455L Molecular Neurobiology and Laboratory
 
 Strongly recommended:
 	
 - One of the following sequences:
-	- +++MISSING INFO: c.phy165_165L.long +++ and +++MISSING INFO: c.phy175_175L.long +++
-	- +++MISSING INFO: c.phy185_185L.long +++ and +++MISSING INFO: c.phy195_195L.long +++
+	- PHY 165/165L Basic Physics I & Laboratory and PHY 175/175L Basic Physics II & Laboratory
+	- PHY 185/185L General Physics I & Laboratory and PHY 195/195L General Physics II & Laboratory
 
 
 ## Music {#sec-music}
@@ -4186,11 +4186,11 @@ Baker (Administrative Coordinator)
 Concurrent completion of a primary major in biology, chemistry, or psychology is required.  A minimum of six course credits must be taken that do not count toward the student’s primary major. 
 
 ### Collateral Major in Neuroscience 
-1. +++MISSING INFO: c.bio145_145L.long +++
-2. +++MISSING INFO: c.bio155_155L.long +++
-3. +++MISSING INFO: c.bio375_375L.long +++
-4. +++MISSING INFO: c.chm121_121L.long +++
-5. +++MISSING INFO: c.chm122_122L.long +++
+1. BIO 145/145L Cellular and Molecular Biology and Laboratory (WE)
+2. BIO 155/155L Organismal and Ecological Biology and Laboratory (WE)
+3. BIO 375/375L Integrated Human Physiology and Laboratory
+4. CHM 121/121L General Chemistry I and Laboratory
+5. CHM 122/122L General Chemistry II and Laboratory
 6. PSY 100 Introductory Psychology
 7. PSY 250 Biopsychology
 8. PSY 350 Drugs & Behavior
@@ -4200,17 +4200,17 @@ Concurrent completion of a primary major in biology, chemistry, or psychology is
 		- BIO 202 Topics in Evolution
 		- BIO 215 Human Anatomy
 		- BIO 235 Genetics
-		- +++MISSING INFO: c.bio285_285L.long +++
-		- +++MISSING INFO: c.bio345_345L.long +++
+		- BIO 285/285L Animal Behavior and Laboratory
+		- BIO 345/345L Techniques in Molecular Biology and Laboratory
 		- BIO 415 Developmental Biology
 		- BIO 435 Cell Physiology
-		- +++MISSING INFO: c.bio455_455L.long +++
+		- BIO 455/455L Molecular Neurobiology and Laboratory
 	b. Chemistry
-		- +++MISSING INFO: c.chm211_211L.long +++
+		- CHM 211/211L Analytical Chemistry and Laboratory (WE)
 		- CHM 221 Organic Chemistry I
 		- CHM 321 Organic Chemistry II
 		- CHM 421 Advanced Organic Chemistry
-		- +++MISSING INFO: c.chm431_431L.long +++
+		- CHM 431/431L Biochemistry and Laboratory
 		- CHM 432 Protein Biochemistry
 	c. Philosophy
 		- PHL 245 Minds, Brains, and Robots
@@ -4218,7 +4218,7 @@ Concurrent completion of a primary major in biology, chemistry, or psychology is
 		- PSY 205 Developmental Psychology
 		- PSY 235 Abnormal Psychology
 		- PSY 315 Learning & Behavior
-		- +++MISSING INFO: c.psy325_325L.long +++
+		- PSY 325/325L Health Psychology and Laboratory (WE)
 		- PSY 455 Advanced Experimental Psychology (when research topic is appropriate, as determined by the neuroscience administrative coordinator)
 		- PSY 464 Seminar in Psychology (when seminar topic is appropriate, as determined by the neuroscience administrative coordinator)
 
@@ -4685,8 +4685,8 @@ A minor in Physics requires a cumulative 2.0 GPA in all courses counted toward t
   Reviews the Standard Model, particle detection techniques, and the particle physics experiments. The nuclear weak, strong, and the electromagnetic interactions, Feynman diagrams, quark model, relativistic kinematics are also covered. Prerequisite: Modern Physics PHY-235, or consent of instructor.  
  **PHY 454 Summer Research**  
   May be taken more than once for credit for a maximum of 2.0 credits. Prerequisite: consent of instructor.  
- **+++MISSING INFO: c.phy464_phy474.long +++**  
-  +++MISSING INFO: c.phy464_phy474.desc +++  
+ **PHY 464/474 Junior-Senior Seminar I and II**  
+  Presentations and discussions of advanced topics unavailable through the regular catalog offerings, and appropriate to students enrolled. Prerequisite: Modern Physics (PHY-235) or consent of instructor.  
  **PHY 484 Advanced Topics in Physics**  
   Covers several instructional modules. The content corresponds to material usually covered in the second-semester of an advanced, year-long course. Core modules include quantum mechanics (e.g., Bell’s theorem) and electromagnetism (e.g., stress tensor). The four remaining modules are chosen from topics that include optics, fluid dynamics, experimental techniques, nuclear physics, geophysics, advanced classical mechanics, waves, statistical mechanics, and atomic physics. Prerequisite: Quantum Mechanics (PHY-335) and Electromagnetism (PHY-265), or consent of instructor.  
  **PHY 494 Internship in Physics**  

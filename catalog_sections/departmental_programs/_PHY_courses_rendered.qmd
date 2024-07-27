@@ -112,8 +112,8 @@ A minor in Physics requires a cumulative 2.0 GPA in all courses counted toward t
   Reviews the Standard Model, particle detection techniques, and the particle physics experiments. The nuclear weak, strong, and the electromagnetic interactions, Feynman diagrams, quark model, relativistic kinematics are also covered. Prerequisite: Modern Physics PHY-235, or consent of instructor.  
  **PHY 454 Summer Research**  
   May be taken more than once for credit for a maximum of 2.0 credits. Prerequisite: consent of instructor.  
- **+++MISSING INFO: c.phy464_phy474.long +++**  
-  +++MISSING INFO: c.phy464_phy474.desc +++  
+ **PHY 464/474 Junior-Senior Seminar I and II**  
+  Presentations and discussions of advanced topics unavailable through the regular catalog offerings, and appropriate to students enrolled. Prerequisite: Modern Physics (PHY-235) or consent of instructor.  
  **PHY 484 Advanced Topics in Physics**  
   Covers several instructional modules. The content corresponds to material usually covered in the second-semester of an advanced, year-long course. Core modules include quantum mechanics (e.g., Bell’s theorem) and electromagnetism (e.g., stress tensor). The four remaining modules are chosen from topics that include optics, fluid dynamics, experimental techniques, nuclear physics, geophysics, advanced classical mechanics, waves, statistical mechanics, and atomic physics. Prerequisite: Quantum Mechanics (PHY-335) and Electromagnetism (PHY-265), or consent of instructor.  
  **PHY 494 Internship in Physics**  

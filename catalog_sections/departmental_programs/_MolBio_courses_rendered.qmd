@@ -11,19 +11,19 @@ Concurrent completion of a primary major in biology is required (see @sec-biolog
 1. CHM 221 Organic Chemistry I
 2. CHM 321 Organic Chemistry II
 3. CHM 322 Organic Laboratory
-4. +++MISSING INFO: c.bio345_345L.long +++
+4. BIO 345/345L Techniques in Molecular Biology and Laboratory
 5. BIO 405 Current Topics in Molecular Biology
 6. One of the following:
-	- +++MISSING INFO: c.chm431_431L.long +++
-	- +++MISSING INFO: c.chm432_432L.long +++
+	- CHM 431/431L Biochemistry and Laboratory
+	- CHM 432/432L Protein Biochemistry and Laboratory
 7. One of the following sequences:
-	- +++MISSING INFO: c.bio325_325L.long +++
-	- +++MISSING INFO: c.bio415_415L.long +++
-	- +++MISSING INFO: c.bio435_435L.long +++
-	- +++MISSING INFO: c.bio455_455L.long +++
+	- BIO 325/325L Microbiology (WE) and Laboratory
+	- BIO 415/415L Developmental Biology and Laboratory
+	- BIO 435/435L Cell Physiology and Laboratory
+	- BIO 455/455L Molecular Neurobiology and Laboratory
 
 Strongly recommended:
 	
 - One of the following sequences:
-	- +++MISSING INFO: c.phy165_165L.long +++ and +++MISSING INFO: c.phy175_175L.long +++
-	- +++MISSING INFO: c.phy185_185L.long +++ and +++MISSING INFO: c.phy195_195L.long +++
+	- PHY 165/165L Basic Physics I & Laboratory and PHY 175/175L Basic Physics II & Laboratory
+	- PHY 185/185L General Physics I & Laboratory and PHY 195/195L General Physics II & Laboratory

@@ -4,11 +4,11 @@ Baker (Administrative Coordinator)
 Concurrent completion of a primary major in biology, chemistry, or psychology is required.  A minimum of six course credits must be taken that do not count toward the student’s primary major. 
 
 ### Collateral Major in Neuroscience 
-1. +++MISSING INFO: c.bio145_145L.long +++
-2. +++MISSING INFO: c.bio155_155L.long +++
-3. +++MISSING INFO: c.bio375_375L.long +++
-4. +++MISSING INFO: c.chm121_121L.long +++
-5. +++MISSING INFO: c.chm122_122L.long +++
+1. BIO 145/145L Cellular and Molecular Biology and Laboratory (WE)
+2. BIO 155/155L Organismal and Ecological Biology and Laboratory (WE)
+3. BIO 375/375L Integrated Human Physiology and Laboratory
+4. CHM 121/121L General Chemistry I and Laboratory
+5. CHM 122/122L General Chemistry II and Laboratory
 6. PSY 100 Introductory Psychology
 7. PSY 250 Biopsychology
 8. PSY 350 Drugs & Behavior
@@ -18,17 +18,17 @@ Concurrent completion of a primary major in biology, chemistry, or psychology is
 		- BIO 202 Topics in Evolution
 		- BIO 215 Human Anatomy
 		- BIO 235 Genetics
-		- +++MISSING INFO: c.bio285_285L.long +++
-		- +++MISSING INFO: c.bio345_345L.long +++
+		- BIO 285/285L Animal Behavior and Laboratory
+		- BIO 345/345L Techniques in Molecular Biology and Laboratory
 		- BIO 415 Developmental Biology
 		- BIO 435 Cell Physiology
-		- +++MISSING INFO: c.bio455_455L.long +++
+		- BIO 455/455L Molecular Neurobiology and Laboratory
 	b. Chemistry
-		- +++MISSING INFO: c.chm211_211L.long +++
+		- CHM 211/211L Analytical Chemistry and Laboratory (WE)
 		- CHM 221 Organic Chemistry I
 		- CHM 321 Organic Chemistry II
 		- CHM 421 Advanced Organic Chemistry
-		- +++MISSING INFO: c.chm431_431L.long +++
+		- CHM 431/431L Biochemistry and Laboratory
 		- CHM 432 Protein Biochemistry
 	c. Philosophy
 		- PHL 245 Minds, Brains, and Robots
@@ -36,7 +36,7 @@ Concurrent completion of a primary major in biology, chemistry, or psychology is
 		- PSY 205 Developmental Psychology
 		- PSY 235 Abnormal Psychology
 		- PSY 315 Learning & Behavior
-		- +++MISSING INFO: c.psy325_325L.long +++
+		- PSY 325/325L Health Psychology and Laboratory (WE)
 		- PSY 455 Advanced Experimental Psychology (when research topic is appropriate, as determined by the neuroscience administrative coordinator)
 		- PSY 464 Seminar in Psychology (when seminar topic is appropriate, as determined by the neuroscience administrative coordinator)
 

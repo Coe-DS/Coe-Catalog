@@ -43,7 +43,7 @@ The Global South examines the characteristics of regions in what has come to be 
 
 4. **Two or more** additional courses from either the courses under #3 or any of the following, subject to prior approval by the International Studies administrative coordinator.  (Not more than one of these two courses can be from political science and not more than one of these two courses can be from economics.).  At least one course must be completed at the 300 level or above. 
     	
-	- +++MISSING INFO: c.ant286_486.long +++
+	- ANT 286/486 Topics in Anthropology (WE)
 	- ASC 186 Modern South Asia
 	- ENG 146 Intro Postcolonial Literature
 	- GS 136 Gender in Non-Western World
@@ -76,7 +76,7 @@ International Relations combines theoretical approaches to and empirical knowled
 		- POL 296 Topics Pol Sci: Non-West Persp
 
 	b. **Two** of the following:
-		- +++MISSING INFO: c.ant286_486.long +++ (when appropriate)
+		- ANT 286/486 Topics in Anthropology (WE) (when appropriate)
 		- ECO 446 International Econ
 		- ECO 495 International Finance
 		- HIS 286 Modern Middle East

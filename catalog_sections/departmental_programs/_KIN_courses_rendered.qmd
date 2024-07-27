@@ -74,7 +74,7 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
 
 ### Kinesiology Major — Athletic Training 
 1. BIO 155 Organismal & Ecological Biology
-2. +++MISSING INFO: c.bio215_215L.long +++
+2. BIO 215/215L Human Anatomy and Laboratory
 3. BIO 225 Human Physiology
 4. KIN 105 Foundations of Physical Movement
 5. KIN 115 Fundamentals:Exercise & Nutrition
@@ -92,8 +92,8 @@ The Coaching Endorsement (#55, K-12) may be granted to any student with teacher 
 *Students interested in the Athletic Training Group track are strongly encouraged to meet with the Kinesiology faculty for informal advising as soon as they have chosen this major. Additional coursework may be needed for those students pursuing a licensure in Athletic Training. *
 
 ### Courses in Kinesiology
- **+++MISSING INFO: c.kin100_102_103_104.long +++**  
-  +++MISSING INFO: c.kin100_102_103_104.desc +++  
+ **KIN 100/102/103/104 Physical Education Activities**  
+  Badminton, weight training, volleyball, physical fitness, recreational sports, gymnastics, swimming, squash, rock climbing, scuba diving, dance, jogging, racquetball, archery, tennis, handball, golf, cycling, and ballroom dancing investigated in depth through history, rules, strategy, development of playing skill, and physical conditioning. No course may be taken more than once. (0.2 course credit per activity)   
  **KIN 105 Foundations of Physical Movement**  
   The foundations, historical development, professional qualification, and opportunities in the field of physical education. Movement education theory is studied as it applies to all grade levels along with the study of growth, maturation, physical activity and performance in young adolescents.  
  **KIN 110 Emergency Life Skills**  

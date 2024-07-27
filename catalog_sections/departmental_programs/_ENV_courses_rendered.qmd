@@ -17,10 +17,10 @@ Biology majors:
 
 >>MTH 145 Calculus II    	
 >>PHY 185/185L General Physics I & Laboratory    
->>PHY 195/195L General Physics II & Laboratory
+>>PHY 195/195L General Physics II & Laboratory  
 >>BIO 445/445L Environmental Microbiology and Lab
 
-2. +++MISSING INFO: c.295_295l.long +++
+2. +++MISSING INFO: c.bio295_295l.long +++
 3. CHM 211/211L Analytical Chemistry and Laboratory (WE)
 4. CHM 221 Organic Chemistry I  
 5. **Two** of the following with the associated laboratories:  
