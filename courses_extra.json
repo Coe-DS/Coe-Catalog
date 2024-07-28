@@ -559,6 +559,27 @@
 	    "desc": "Centers on a particular musical issue, problem, theory, or methodology. Topics vary, and they include, but are not limited to, Advanced Form and Analysis, Rock and Roll History, Music of the 1960s, and Modern Musical Theatre. May be taken more than once for credit, provided the topics are substantially different. Prerequisite: consent of instructor. (Offered on an occasional basis)",
 	    "namelink": "", 
 	    "namelinklong": ""
+	}, 
+	"spa464": {
+	    "short": "'SPA 464'",
+	    "long": "'SPA 464 Capstone in Spanish'",
+	    "desc": "Serves as the final requirement designed for Spanish majors who are graduating seniors. Students will polish a research paper written for any of the advanced classes in a previous semester. They will demonstrate the skills acquired throughout the major, such as: critical reading and writing, textual analysis, and original thinking regarding a historical and cultural topic related to Latin America and/or Spain. At the end of the course, students should present their research work on a conference-like panel open to the public. (Offered every spring)",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"spa115_125": {
+	    "short": "'SPA 115/125'",
+	    "long": "'SPA 115/125 Elementary Spanish I and II'",
+	    "desc": "Develops basic proficiencies in oral and written communication for students with no previous knowledge of Spanish. The first term emphasizes oral practice in the context of Hispanic Cultures. The second term builds upon acquired skills and includes class discussion, short reading, and writing activities. Prerequisite: appropriate Spanish Placement exam results or consent of instructor.",
+	    "namelink": "", 
+	    "namelinklong": ""
+	}, 
+	"spa129": {
+	    "short": "'SPA 129'",
+	    "long": "'SPA 129 Intensive Elementary Spanish I-II'",
+	    "desc": "Offers students with no prior training a year’s worth of basic communicative skills in Spanish in a single term. Students will be introduced to beginning grammar based on a communicative and task-supported curriculum that helps them to develop skills in reading, listening, speaking, and writing in Spanish to engage in interpretive, interpersonal, and presentational modes of communication. (Offered in the summer)",
+	    "namelink": "", 
+	    "namelinklong": ""
 	}
 	    
 	
