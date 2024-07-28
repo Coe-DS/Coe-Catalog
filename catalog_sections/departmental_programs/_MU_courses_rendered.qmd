@@ -49,13 +49,13 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 		- MU 157 Introduction to Jazz History
 		- MU 195 Music Production
 		- MU 270 Musical Theatre Acting
-		- +++MISSING INFO: c.mu166_284.long +++
+		- MU 166/284 Topics in Music
 		- MU 385 Conducting II
 		- MU 444 Ind Study-Music
 		- MUA 133V Vocal Literature
 		- MUA 134V Vocal Pedagogy
-		- +++MISSING INFO: c.mua413v.long +++
-		- +++MISSING INFO: c.mua423v.long +++
+		- MUA 413 Orchestration
+		- MUA 423 Saxophone (Adv Std)
 		- One course credit in MUA-courses beyond those required in the Applied Music Course.
 	3. **Eight** terms of participation in the Applied Music Course. 
 	4. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements.) 
@@ -73,7 +73,7 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 		- MU 157 Introduction to Jazz History
 		- MU 195 Music Production
 		- MU 270 Musical Theatre Acting
-		- +++MISSING INFO: c.mu166_284.long +++
+		- MU 166/284 Topics in Music
 		- MU 385 Conducting II
 		- MU 444 Ind Study-Music
 		- MUA 133V Vocal Literature
@@ -99,7 +99,7 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 	6. MU 205 Practicum in Music Education
 	7. MU 360 Elementary & General Music Methods
 	8. **One** of the following:
-		- MU 361 Choral Music Methods, MU 362 InstrMusMethChrlTeachr, and +++MISSING INFO: c.mua134.long +++ (for Vocal Music Education majors)
+		- MU 361 Choral Music Methods, MU 362 InstrMusMethChrlTeachr, and MUA 134V Vocal Pedagogy (for Vocal Music Education majors)
 		- MU 363 Instrumental Music Methods and MU 364 ChrlMusMethInstTeach (for Instrumental Music Education majors)
 	9. MU 385 Conducting II
 	10. MU 421 Student Teaching Elementary Music
@@ -128,7 +128,7 @@ Candidates for the **BACHELOR OF ARTS** degree with a major in music must succes
 	- MU 195 Music Production
 	- MU 255 Music History & Literature I
 	- MU 270 Musical Theatre Acting
-	- +++MISSING INFO: c.mu166_284.long +++
+	- MU 166/284 Topics in Music
 	- MU 285 Conducting I
 	- MU 355 Music History & Literature II
 	- MU 409 Theory of Music IV

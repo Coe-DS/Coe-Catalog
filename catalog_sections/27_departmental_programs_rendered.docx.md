@@ -2280,7 +2280,7 @@ Biology majors:
 >>PHY 195/195L General Physics II & Laboratory  
 >>BIO 445/445L Environmental Microbiology and Lab
 
-2. +++MISSING INFO: c.bio295_295l.long +++
+2. BIO 295/295L Spatial Ecology and Laboratory (WE)
 3. CHM 211/211L Analytical Chemistry and Laboratory (WE)
 4. CHM 221 Organic Chemistry I  
 5. **Two** of the following with the associated laboratories:  
@@ -2327,7 +2327,7 @@ A major in environmental studies requires a minimum cumulative 2.0 GPA in all co
 Concurrent completion of any of the majors listed under [Areas of Study](catalog_sections/areas_of_study.qmd#Areas Of Study) of the Catalog is required.  
 
 1. BIO105 Introductory Biology
-2. BIO 155 Organismal & Ecological Biology and BIO 155L Organismal & Ecological Biology Lab
+2. BIO 155/155L Organismal and Ecological Biology and Laboratory (WE)
 3. ECO 175 Principles of Macroeconomics
 4. ECO 195 Prin of Environmental Economics
 5. **One** of the following:  
@@ -2348,8 +2348,8 @@ Concurrent completion of any of the majors listed under [Areas of Study](catalog
 		BIO 175 Field Botany  
 		BIO 185 Entomology  
 		BIO 285 Animal Behavior (**NOTE:** *Taught at the Wilderness Field Station*)  
-		BIO 295 Spatial Ecology and BIO 295L Spatial Ecology Laboratory  
-		CHM 103 Selected Concepts in Chemistry and CHM 103L Selected Concepts in Chemistry Lab **OR** CHM 121 General Chemistry I and CHM 121L General Chemistry I Laboratory  
+		BIO 295/295L Spatial Ecology and Laboratory (WE)  
+		CHM 103/103L Selected Concepts in Chemistry and Laboratory **OR** CHM 121/121L General Chemistry I and Laboratory    
 	b. **One or more** of the following **Social Science** courses:  
 		BUS 170 Bus Sustainability & Environment  
 		ECO 155 Econ/Ethics of Alternative Energy  
@@ -3695,13 +3695,13 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 		- MU 157 Introduction to Jazz History
 		- MU 195 Music Production
 		- MU 270 Musical Theatre Acting
-		- +++MISSING INFO: c.mu166_284.long +++
+		- MU 166/284 Topics in Music
 		- MU 385 Conducting II
 		- MU 444 Ind Study-Music
 		- MUA 133V Vocal Literature
 		- MUA 134V Vocal Pedagogy
-		- +++MISSING INFO: c.mua413v.long +++
-		- +++MISSING INFO: c.mua423v.long +++
+		- MUA 413 Orchestration
+		- MUA 423 Saxophone (Adv Std)
 		- One course credit in MUA-courses beyond those required in the Applied Music Course.
 	3. **Eight** terms of participation in the Applied Music Course. 
 	4. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements.) 
@@ -3719,7 +3719,7 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 		- MU 157 Introduction to Jazz History
 		- MU 195 Music Production
 		- MU 270 Musical Theatre Acting
-		- +++MISSING INFO: c.mu166_284.long +++
+		- MU 166/284 Topics in Music
 		- MU 385 Conducting II
 		- MU 444 Ind Study-Music
 		- MUA 133V Vocal Literature
@@ -3745,7 +3745,7 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 	6. MU 205 Practicum in Music Education
 	7. MU 360 Elementary & General Music Methods
 	8. **One** of the following:
-		- MU 361 Choral Music Methods, MU 362 InstrMusMethChrlTeachr, and +++MISSING INFO: c.mua134.long +++ (for Vocal Music Education majors)
+		- MU 361 Choral Music Methods, MU 362 InstrMusMethChrlTeachr, and MUA 134V Vocal Pedagogy (for Vocal Music Education majors)
 		- MU 363 Instrumental Music Methods and MU 364 ChrlMusMethInstTeach (for Instrumental Music Education majors)
 	9. MU 385 Conducting II
 	10. MU 421 Student Teaching Elementary Music
@@ -3774,7 +3774,7 @@ Candidates for the **BACHELOR OF ARTS** degree with a major in music must succes
 	- MU 195 Music Production
 	- MU 255 Music History & Literature I
 	- MU 270 Musical Theatre Acting
-	- +++MISSING INFO: c.mu166_284.long +++
+	- MU 166/284 Topics in Music
 	- MU 285 Conducting I
 	- MU 355 Music History & Literature II
 	- MU 409 Theory of Music IV
@@ -5384,7 +5384,7 @@ A major in Social & Criminal Justice requires a cumulative 2.0 GPA in all course
 
 2. SCJ 201 Law Enforcement & Corrections 
 
-3. +++MISSING INFO: c.scj235.long +++ 
+3. SOC 235 Methods of Sociological Research 
 
 4. PHL 285 Law, Morality & Punishment 
 
@@ -5583,7 +5583,7 @@ A grade of “C” (2.0) or higher must be earned in all courses counted toward 
 
 Students who major in Spanish complete a minimum of eight courses in Spanish beyond SPA 225 Intermediate Spanish II , though SPA 148 Spanish Literature in Translation may be taken as one of the eight. SPA 115 Elementary Spanish I , SPA 125 Elementary Spanish II , SPA 135 Spanish Review & Preparation , SPA 215 Intermediate Spanish I , and SPA 225 Intermediate Spanish II are regarded as skill-building courses, and do not count toward the major in Spanish. Spanish students are urged to substitute study abroad in a program approved by the College and the department for up to three courses for the major. One Hispanic literature course (SPA-336 or above) must be taken in the senior year. 
 
-+++MISSING INFO: c.spa464.long +++ is required during the final spring term before graduation. Students selecting Spanish as a second teaching field should complete a minimum of four Spanish courses numbered 315 or above. Any advanced courses taken for the second teaching field should include SPA 315 Spanish Composition & Conversation . 
+SPA 464 Capstone in Spanish is required during the final spring term before graduation. Students selecting Spanish as a second teaching field should complete a minimum of four Spanish courses numbered 315 or above. Any advanced courses taken for the second teaching field should include SPA 315 Spanish Composition & Conversation . 
 
 ### Spanish Minor
 
@@ -5598,10 +5598,10 @@ A grade of “C” (2.0) or higher must be earned in all courses counted toward 
 The Spanish Studies major requires: 1) successful completion of four courses beyond SPA 225 Intermediate Spanish II , with SPA 336 Hispanic Life/Cult-Latin America or SPA 338 Hispanic Life/Culture:Europe recommended as one of the four; and 2) successful completion of a departmentally approved list of five courses proposed by the student which exhibits both internal coherence and relevance to the coursework in Spanish. Typically, application to the department for the approval of the interdisciplinary elected courses is to be made no later than the Spring Term of the junior year. SPA 115 Elementary Spanish I , SPA 125 Elementary Spanish II , SPA 135 Spanish Review & Preparation, SPA 215 Intermediate Spanish I , and SPA 225 Intermediate Spanish II are regarded as skill-building courses, and do not count toward the major in Spanish Studies.
 
 ### Courses in Spanish
- **+++MISSING INFO: c.spa115_125.long +++**  
-  +++MISSING INFO: c.spa115_125.desc +++  
- **+++MISSING INFO: c.spa129.long +++**  
-  +++MISSING INFO: c.spa129.desc +++  
+ **SPA 115/125 Elementary Spanish I and II**  
+  Develops basic proficiencies in oral and written communication for students with no previous knowledge of Spanish. The first term emphasizes oral practice in the context of Hispanic Cultures. The second term builds upon acquired skills and includes class discussion, short reading, and writing activities. Prerequisite: appropriate Spanish Placement exam results or consent of instructor.  
+ **SPA 129 Intensive Elementary Spanish I-II**  
+  Offers students with no prior training a year’s worth of basic communicative skills in Spanish in a single term. Students will be introduced to beginning grammar based on a communicative and task-supported curriculum that helps them to develop skills in reading, listening, speaking, and writing in Spanish to engage in interpretive, interpersonal, and presentational modes of communication. (Offered in the summer)  
  **SPA 135 Spanish Review & Preparation**  
   Designed to prepare students who have had some limited experience in Spanish to enter SPA-215 the following term. Strong students with one year of secondary school Spanish should enter this course. This class is also appropriate for students with two years of secondary school Spanish or for those for whom some time has elapsed since their earlier study of Spanish. This course provides review and elementary college-level preparation in Spanish grammar, vocabulary, speaking, and writing.  
  **SPA 148 Spanish Literature in Translation**  
@@ -5667,8 +5667,8 @@ An introduction to Spanish theatre and the various techniques, themes, and image
   A course of narrowed focus that centers on a theme, region, time period, or genre of Hispanic literature. Approach and content varies from term to term as determined by the instructor. May be taken twice, provided the topics are substantially different.  Prerequisite: Spanish Composition and Conversation (SPA-315) or Spanish Language and Literature (SPA-325).  
  **SPA 476 Topics in Hispanic Lit:Latin Amer**  
   Same as Topics in Hispanic Literature (SPA-475, -485) except the focus of the course is Latin American culture.  
- **+++MISSING INFO: c.spa464.long +++**  
-  +++MISSING INFO: c.spa464.desc +++  
+ **SPA 464 Capstone in Spanish**  
+  Serves as the final requirement designed for Spanish majors who are graduating seniors. Students will polish a research paper written for any of the advanced classes in a previous semester. They will demonstrate the skills acquired throughout the major, such as: critical reading and writing, textual analysis, and original thinking regarding a historical and cultural topic related to Latin America and/or Spain. At the end of the course, students should present their research work on a conference-like panel open to the public. (Offered every spring)  
  **SPA 494 Internship in Spanish**  
   Exploration of a career area related to Spanish. Application and supervision through the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major or minor in Spanish. Prerequisites: junior standing and consent of department chair.  
 

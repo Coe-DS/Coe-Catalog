@@ -7,7 +7,7 @@ A grade of “C” (2.0) or higher must be earned in all courses counted toward 
 
 Students who major in Spanish complete a minimum of eight courses in Spanish beyond SPA 225 Intermediate Spanish II , though SPA 148 Spanish Literature in Translation may be taken as one of the eight. SPA 115 Elementary Spanish I , SPA 125 Elementary Spanish II , SPA 135 Spanish Review & Preparation , SPA 215 Intermediate Spanish I , and SPA 225 Intermediate Spanish II are regarded as skill-building courses, and do not count toward the major in Spanish. Spanish students are urged to substitute study abroad in a program approved by the College and the department for up to three courses for the major. One Hispanic literature course (SPA-336 or above) must be taken in the senior year. 
 
-+++MISSING INFO: c.spa464.long +++ is required during the final spring term before graduation. Students selecting Spanish as a second teaching field should complete a minimum of four Spanish courses numbered 315 or above. Any advanced courses taken for the second teaching field should include SPA 315 Spanish Composition & Conversation . 
+SPA 464 Capstone in Spanish is required during the final spring term before graduation. Students selecting Spanish as a second teaching field should complete a minimum of four Spanish courses numbered 315 or above. Any advanced courses taken for the second teaching field should include SPA 315 Spanish Composition & Conversation . 
 
 ### Spanish Minor
 
@@ -22,10 +22,10 @@ A grade of “C” (2.0) or higher must be earned in all courses counted toward 
 The Spanish Studies major requires: 1) successful completion of four courses beyond SPA 225 Intermediate Spanish II , with SPA 336 Hispanic Life/Cult-Latin America or SPA 338 Hispanic Life/Culture:Europe recommended as one of the four; and 2) successful completion of a departmentally approved list of five courses proposed by the student which exhibits both internal coherence and relevance to the coursework in Spanish. Typically, application to the department for the approval of the interdisciplinary elected courses is to be made no later than the Spring Term of the junior year. SPA 115 Elementary Spanish I , SPA 125 Elementary Spanish II , SPA 135 Spanish Review & Preparation, SPA 215 Intermediate Spanish I , and SPA 225 Intermediate Spanish II are regarded as skill-building courses, and do not count toward the major in Spanish Studies.
 
 ### Courses in Spanish
- **+++MISSING INFO: c.spa115_125.long +++**  
-  +++MISSING INFO: c.spa115_125.desc +++  
- **+++MISSING INFO: c.spa129.long +++**  
-  +++MISSING INFO: c.spa129.desc +++  
+ **SPA 115/125 Elementary Spanish I and II**  
+  Develops basic proficiencies in oral and written communication for students with no previous knowledge of Spanish. The first term emphasizes oral practice in the context of Hispanic Cultures. The second term builds upon acquired skills and includes class discussion, short reading, and writing activities. Prerequisite: appropriate Spanish Placement exam results or consent of instructor.  
+ **SPA 129 Intensive Elementary Spanish I-II**  
+  Offers students with no prior training a year’s worth of basic communicative skills in Spanish in a single term. Students will be introduced to beginning grammar based on a communicative and task-supported curriculum that helps them to develop skills in reading, listening, speaking, and writing in Spanish to engage in interpretive, interpersonal, and presentational modes of communication. (Offered in the summer)  
  **SPA 135 Spanish Review & Preparation**  
   Designed to prepare students who have had some limited experience in Spanish to enter SPA-215 the following term. Strong students with one year of secondary school Spanish should enter this course. This class is also appropriate for students with two years of secondary school Spanish or for those for whom some time has elapsed since their earlier study of Spanish. This course provides review and elementary college-level preparation in Spanish grammar, vocabulary, speaking, and writing.  
  **SPA 148 Spanish Literature in Translation**  
@@ -91,7 +91,7 @@ An introduction to Spanish theatre and the various techniques, themes, and image
   A course of narrowed focus that centers on a theme, region, time period, or genre of Hispanic literature. Approach and content varies from term to term as determined by the instructor. May be taken twice, provided the topics are substantially different.  Prerequisite: Spanish Composition and Conversation (SPA-315) or Spanish Language and Literature (SPA-325).  
  **SPA 476 Topics in Hispanic Lit:Latin Amer**  
   Same as Topics in Hispanic Literature (SPA-475, -485) except the focus of the course is Latin American culture.  
- **+++MISSING INFO: c.spa464.long +++**  
-  +++MISSING INFO: c.spa464.desc +++  
+ **SPA 464 Capstone in Spanish**  
+  Serves as the final requirement designed for Spanish majors who are graduating seniors. Students will polish a research paper written for any of the advanced classes in a previous semester. They will demonstrate the skills acquired throughout the major, such as: critical reading and writing, textual analysis, and original thinking regarding a historical and cultural topic related to Latin America and/or Spain. At the end of the course, students should present their research work on a conference-like panel open to the public. (Offered every spring)  
  **SPA 494 Internship in Spanish**  
   Exploration of a career area related to Spanish. Application and supervision through the Internship Specialist. A minimum of 140 hours on-site experience is required. S/U basis only. This course does not satisfy any of the requirements for a major or minor in Spanish. Prerequisites: junior standing and consent of department chair.  

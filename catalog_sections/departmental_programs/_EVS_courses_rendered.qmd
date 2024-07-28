@@ -12,7 +12,7 @@ A major in environmental studies requires a minimum cumulative 2.0 GPA in all co
 Concurrent completion of any of the majors listed under [Areas of Study](catalog_sections/areas_of_study.qmd#Areas Of Study) of the Catalog is required.  
 
 1. BIO105 Introductory Biology
-2. BIO 155 Organismal & Ecological Biology and BIO 155L Organismal & Ecological Biology Lab
+2. BIO 155/155L Organismal and Ecological Biology and Laboratory (WE)
 3. ECO 175 Principles of Macroeconomics
 4. ECO 195 Prin of Environmental Economics
 5. **One** of the following:  
@@ -33,8 +33,8 @@ Concurrent completion of any of the majors listed under [Areas of Study](catalog
 		BIO 175 Field Botany  
 		BIO 185 Entomology  
 		BIO 285 Animal Behavior (**NOTE:** *Taught at the Wilderness Field Station*)  
-		BIO 295 Spatial Ecology and BIO 295L Spatial Ecology Laboratory  
-		CHM 103 Selected Concepts in Chemistry and CHM 103L Selected Concepts in Chemistry Lab **OR** CHM 121 General Chemistry I and CHM 121L General Chemistry I Laboratory  
+		BIO 295/295L Spatial Ecology and Laboratory (WE)  
+		CHM 103/103L Selected Concepts in Chemistry and Laboratory **OR** CHM 121/121L General Chemistry I and Laboratory    
 	b. **One or more** of the following **Social Science** courses:  
 		BUS 170 Bus Sustainability & Environment  
 		ECO 155 Econ/Ethics of Alternative Energy  
