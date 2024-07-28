@@ -54,8 +54,8 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 		- {{< var c.mu444.long >}}
 		- {{< var c.mua133v.long >}}
 		- {{< var c.mua134v.long >}}
-		- {{< var c.mua413v.long >}}
-		- {{< var c.mua423v.long >}}
+		- {{< var c.mua413.long >}}
+		- {{< var c.mua423.long >}}
 		- One course credit in MUA-courses beyond those required in the Applied Music Course.
 	3. **Eight** terms of participation in the Applied Music Course. 
 	4. **One** course each from the social sciences, natural sciences, and humanities. (New York Term may be used to satisfy the humanities requirements.) 
