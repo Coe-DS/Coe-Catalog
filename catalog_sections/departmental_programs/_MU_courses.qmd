@@ -99,7 +99,7 @@ Candidates for the **BACHELOR OF MUSIC** degree must successfully complete:
 	6. {{< var c.mu205.long >}}
 	7. {{< var c.mu360.long >}}
 	8. **One** of the following:
-		- {{< var c.mu361.long >}}, {{< var c.mu362.long >}}, and {{< var c.mua134.long >}} (for Vocal Music Education majors)
+		- {{< var c.mu361.long >}}, {{< var c.mu362.long >}}, and {{< var c.mua134v.long >}} (for Vocal Music Education majors)
 		- {{< var c.mu363.long >}} and {{< var c.mu364.long >}} (for Instrumental Music Education majors)
 	9. {{< var c.mu385.long >}}
 	10. {{< var c.mu421.long >}}
