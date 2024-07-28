@@ -14,7 +14,7 @@ A major in Social & Criminal Justice requires a cumulative 2.0 GPA in all course
 
 2. {{< var c.scj201.long >}} 
 
-3. {{< var c.scj235.long >}} 
+3. {{< var c.soc235.long >}} 
 
 4. {{< var c.phl285.long >}} 
 
