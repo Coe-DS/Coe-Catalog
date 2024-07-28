@@ -12,7 +12,7 @@ A major in environmental studies requires a minimum cumulative 2.0 GPA in all co
 Concurrent completion of any of the majors listed under [Areas of Study](catalog_sections/areas_of_study.qmd#Areas Of Study) of the Catalog is required.  
 
 1. {{< var c.bio105.long >}}
-2. {{< var c.bio155.long >}} and {{< var c.bio155l.long >}}
+2. {{< var c.bio155_155l.long >}}
 3. {{< var c.eco175.long >}}
 4. {{< var c.eco195.long >}}
 5. **One** of the following:  
@@ -33,8 +33,8 @@ Concurrent completion of any of the majors listed under [Areas of Study](catalog
 		{{< var c.bio175.long >}}  
 		{{< var c.bio185.long >}}  
 		{{< var c.bio285.long >}} (**NOTE:** *Taught at the Wilderness Field Station*)  
-		{{< var c.bio295.long >}} and {{< var c.bio295l.long >}}  
-		{{< var c.chm103.long >}} and {{< var c.chm103l.long >}} **OR** {{< var c.chm121.long >}} and {{< var c.chm121l.long >}}  
+		{{< var c.bio295_295l.long >}}  
+		{{< var c.chm103_103l.long >}} **OR** {{< var c.chm121_121l.long >}}    
 	b. **One or more** of the following **Social Science** courses:  
 		{{< var c.bus170.long >}}  
 		{{< var c.eco155.long >}}  
