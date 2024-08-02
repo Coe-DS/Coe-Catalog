@@ -4,11 +4,11 @@ name: CI
 
 # Controls when the workflow will run
 on:
-  schedule:
-    - cron: '30 */2 * * *'
+  #schedule:
+  #  - cron: '30 */2 * * *'
   # Triggers the workflow on push or pull request events but only for the "main" branch
-  #push:
-  #  branches: [ "main" ]
+  push:
+    branches: [ "main" ]
   #pull_request:
   #  branches: [ "main" ]
 
