@@ -1,0 +1,4 @@
+/* override quarto-injected css behavior */
+body {
+    font-weight: 400 !important;
+}

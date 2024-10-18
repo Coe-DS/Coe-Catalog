@@ -23,51 +23,51 @@ book:
     - index.qmd
     - part: "INTRODUCTORY RESOURCES"
       chapters:
-      - catalog_sections/01_mission_rendered.qmd
-      - catalog_sections/02_fast_facts_rendered.qmd
+        - catalog_sections/01_mission_rendered.qmd
+        - catalog_sections/02_fast_facts_rendered.qmd
     - part: "ACADEMIC RESOURCES"
       chapters:
-      - catalog_sections/03_academic_calendar_rendered.qmd
-      - catalog_sections/04_education_program_rendered.qmd
-      - catalog_sections/05_may_term_rendered.qmd
-      - catalog_sections/06_coe_plan_rendered.qmd
-      - catalog_sections/07_graduation_requirements_rendered.qmd
-      - catalog_sections/08_areas_of_study_rendered.qmd
-      - catalog_sections/09_academic_advising_rendered.qmd
-      - catalog_sections/10_first_year_experience_rendered.qmd
-      - catalog_sections/11_writing_emphasis_rendered.qmd
-      - catalog_sections/12_general_education_courses_rendered.qmd
-      - catalog_sections/13_special_programs_and_opportunities_rendered.qmd
-      - catalog_sections/14_off_campus_study_rendered.qmd
-    - part: "CAMPUS RESOURCES"    
+        - catalog_sections/03_academic_calendar_rendered.qmd
+        - catalog_sections/04_education_program_rendered.qmd
+        - catalog_sections/05_may_term_rendered.qmd
+        - catalog_sections/06_coe_plan_rendered.qmd
+        - catalog_sections/07_graduation_requirements_rendered.qmd
+        - catalog_sections/08_areas_of_study_rendered.qmd
+        - catalog_sections/09_academic_advising_rendered.qmd
+        - catalog_sections/10_first_year_experience_rendered.qmd
+        - catalog_sections/11_writing_emphasis_rendered.qmd
+        - catalog_sections/12_general_education_courses_rendered.qmd
+        - catalog_sections/13_special_programs_and_opportunities_rendered.qmd
+        - catalog_sections/14_off_campus_study_rendered.qmd
+    - part: "CAMPUS RESOURCES"
       chapters:
-      - catalog_sections/15_campus_resources_rendered.qmd
-      - catalog_sections/16_student_life_rendered.qmd
-    - part: "COLLEGE REGULATIONS AND POLICIES"  
+        - catalog_sections/15_campus_resources_rendered.qmd
+        - catalog_sections/16_student_life_rendered.qmd
+    - part: "COLLEGE REGULATIONS AND POLICIES"
       chapters:
-      - catalog_sections/17_effective_catalog_rendered.qmd
-      - catalog_sections/19_class_designation_rendered.qmd
-      - catalog_sections/20_registration_rendered.qmd
-      - catalog_sections/21_academic_integrity_policy_rendered.qmd
-      - catalog_sections/22_academic_standing_rendered.qmd
-      - catalog_sections/23_transcript_evaluation_policies_rendered.qmd
-      - catalog_sections/24_ferpa_rights_rendered.qmd
+        - catalog_sections/17_effective_catalog_rendered.qmd
+        - catalog_sections/19_class_designation_rendered.qmd
+        - catalog_sections/20_registration_rendered.qmd
+        - catalog_sections/21_academic_integrity_policy_rendered.qmd
+        - catalog_sections/22_academic_standing_rendered.qmd
+        - catalog_sections/23_transcript_evaluation_policies_rendered.qmd
+        - catalog_sections/24_ferpa_rights_rendered.qmd
     - part: "COURSES OF INSTRUCTION"
       chapters:
-      - catalog_sections/26_academic_programs.qmd
-      - catalog_sections/27_departmental_programs_rendered.qmd
-      - catalog_sections/28_reserve_officer_training_corps_rendered.qmd
+        - catalog_sections/26_academic_programs.qmd
+        - catalog_sections/27_departmental_programs_rendered.qmd
+        - catalog_sections/28_reserve_officer_training_corps_rendered.qmd
     - part: "ADMISSIONS"
       chapters:
-      - catalog_sections/admission_rendered.qmd
+        - catalog_sections/admission_rendered.qmd
     - part: "FINANCIAL RESOURCES"
       chapters:
-      - catalog_sections/29_financial_information_rendered.qmd
-      - catalog_sections/30_financial_aid_and_scholarship_rendered.qmd
+        - catalog_sections/29_financial_information_rendered.qmd
+        - catalog_sections/30_financial_aid_and_scholarship_rendered.qmd
     - part: "ADDITIONAL RESOURCES"
       chapters:
-      - catalog_sections/31_directories_rendered.qmd
-      - catalog_sections/32_campus_map.qmd
+        - catalog_sections/31_directories_rendered.qmd
+        - catalog_sections/32_campus_map.qmd
     #- catalog_sections/references_rendered.qmd
 
 #bibliography: references.bib
@@ -79,6 +79,7 @@ toc-depth: 2
 format:
   html:
     theme: lux
+    css: styles.css
     mainfont: "Garamond"
   docx:
     mainfont: "Garamond"
@@ -90,20 +91,18 @@ format:
     template: custom.latex
     include-in-header:
       text: |
-              \RedeclareSectionCommand[beforeskip=-2.5ex plus -1ex minus -.2ex,afterskip=0.3ex plus -.2ex]{section}
-              \RedeclareSectionCommand[tocnumwidth=3em]{section}
-              \usepackage[top=0.5in, left=0.5in, right=0.5in, bottom=1in]{geometry}
-              \bibliographystyle{catalog}
-              \usepackage{makeidx}
-              \makeindex
-              \renewcommand\toprule[2]\relax
-              \renewcommand\bottomrule[2]\relax
-              \usepackage{fancyhdr}
-              \lfoot{\textit{Coe College (2022-2023)}}
-              \renewcommand{\part}[1]{\addcontentsline{toc}{part}{#1}}
-    
-    include-after-body: 
+        \RedeclareSectionCommand[beforeskip=-2.5ex plus -1ex minus -.2ex,afterskip=0.3ex plus -.2ex]{section}
+        \RedeclareSectionCommand[tocnumwidth=3em]{section}
+        \usepackage[top=0.5in, left=0.5in, right=0.5in, bottom=1in]{geometry}
+        \bibliographystyle{catalog}
+        \usepackage{makeidx}
+        \makeindex
+        \renewcommand\toprule[2]\relax
+        \renewcommand\bottomrule[2]\relax
+        \usepackage{fancyhdr}
+        \lfoot{\textit{Coe College (2022-2023)}}
+        \renewcommand{\part}[1]{\addcontentsline{toc}{part}{#1}}
+
+    include-after-body:
       text: |
-          \printindex
-          
-          
+        \printindex
